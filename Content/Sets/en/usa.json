@@ -1,0 +1,266 @@
+{
+  "id": "usa",
+  "title": "USA",
+  "locations": [
+    {
+      "name": "Statue of Liberty",
+      "roles": [
+        "Tourist",
+        "Tour guide",
+        "Ferry captain",
+        "Photographer",
+        "Souvenir vendor",
+        "Park ranger",
+        "Schoolkid",
+        "Security guard"
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "roles": [
+        "Actor",
+        "Director",
+        "Tourist",
+        "Paparazzo",
+        "Tour bus guide",
+        "Star-map seller",
+        "Stuntman",
+        "Screenwriter"
+      ]
+    },
+    {
+      "name": "Las Vegas casino",
+      "roles": [
+        "Croupier",
+        "Gambler",
+        "Tourist",
+        "Cocktail waitress",
+        "Showgirl",
+        "Security guard",
+        "Newlyweds",
+        "DJ"
+      ]
+    },
+    {
+      "name": "Grand Canyon",
+      "roles": [
+        "Tourist",
+        "Ranger",
+        "Guide",
+        "Photographer",
+        "Geologist",
+        "Helicopter pilot",
+        "Cyclist",
+        "Schoolkid"
+      ]
+    },
+    {
+      "name": "Times Square",
+      "roles": [
+        "Tourist",
+        "Street performer",
+        "Hot dog vendor",
+        "Yellow cab driver",
+        "Photographer",
+        "Cop",
+        "Promoter",
+        "Musician"
+      ]
+    },
+    {
+      "name": "Roadside diner",
+      "roles": [
+        "Waitress",
+        "Short-order cook",
+        "Trucker",
+        "Cashier",
+        "Diner regular",
+        "Teenager",
+        "Cop",
+        "Traveler"
+      ]
+    },
+    {
+      "name": "American high school",
+      "roles": [
+        "Senior",
+        "Teacher",
+        "Cheerleader",
+        "Coach",
+        "Principal",
+        "Janitor",
+        "Football player",
+        "Librarian"
+      ]
+    },
+    {
+      "name": "Cape Canaveral spaceport",
+      "roles": [
+        "Engineer",
+        "Astronaut",
+        "Flight controller",
+        "Journalist",
+        "Technician",
+        "Launch director",
+        "Tourist",
+        "Security guard"
+      ]
+    },
+    {
+      "name": "Country farm",
+      "roles": [
+        "Farmer",
+        "Cowboy",
+        "Tractor driver",
+        "Milkmaid",
+        "Tourist",
+        "Stable hand",
+        "Fair vendor",
+        "Kid"
+      ]
+    },
+    {
+      "name": "Baseball stadium",
+      "roles": [
+        "Batter",
+        "Fan",
+        "Commentator",
+        "Hot dog vendor",
+        "Umpire",
+        "Coach",
+        "Mascot",
+        "Usher"
+      ]
+    },
+    {
+      "name": "Malibu beach",
+      "roles": [
+        "Surfer",
+        "Lifeguard",
+        "Tourist",
+        "Vendor",
+        "Photographer",
+        "Skater",
+        "Sunbather",
+        "Surf instructor"
+      ]
+    },
+    {
+      "name": "New York subway",
+      "roles": [
+        "Passenger",
+        "Busker",
+        "Tourist",
+        "Cop",
+        "Train operator",
+        "Businessman",
+        "Student",
+        "Breakdancer"
+      ]
+    },
+    {
+      "name": "Rodeo",
+      "roles": [
+        "Bronc rider",
+        "Spectator",
+        "Rodeo clown",
+        "Announcer",
+        "Steward",
+        "Vendor",
+        "Rancher",
+        "Vet"
+      ]
+    },
+    {
+      "name": "Police station",
+      "roles": [
+        "Officer",
+        "Detective",
+        "Desk clerk",
+        "Defense lawyer",
+        "Visitor",
+        "Sergeant",
+        "Rookie cop",
+        "Receptionist"
+      ]
+    },
+    {
+      "name": "Route 66 gas station",
+      "roles": [
+        "Attendant",
+        "Road tripper",
+        "Biker",
+        "Mechanic",
+        "Cashier",
+        "Trucker",
+        "Vintage car owner",
+        "Tourist"
+      ]
+    },
+    {
+      "name": "Silicon Valley office",
+      "roles": [
+        "Software engineer",
+        "CEO",
+        "Intern",
+        "Product manager",
+        "Recruiter",
+        "Designer",
+        "Investor",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Thanksgiving dinner",
+      "roles": [
+        "Grandma",
+        "Uncle",
+        "Cousin",
+        "Host",
+        "Kid",
+        "Mother-in-law",
+        "Neighbor",
+        "Late guest"
+      ]
+    },
+    {
+      "name": "Wall Street",
+      "roles": [
+        "Trader",
+        "Broker",
+        "Analyst",
+        "CEO",
+        "Intern",
+        "Tourist",
+        "Security guard",
+        "Journalist"
+      ]
+    },
+    {
+      "name": "National park campground",
+      "roles": [
+        "Camper",
+        "Ranger",
+        "Hiker",
+        "Scout leader",
+        "RV owner",
+        "Angler",
+        "Kid",
+        "Vendor"
+      ]
+    },
+    {
+      "name": "Drive-in movie theater",
+      "roles": [
+        "Ticket seller",
+        "Couple on a date",
+        "Popcorn vendor",
+        "Projectionist",
+        "Teenager",
+        "Family",
+        "Carhop",
+        "Security guard"
+      ]
+    }
+  ]
+}

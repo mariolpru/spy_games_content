@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "sets": [
+    {
+      "id": "usa",
+      "lang": "en",
+      "file": "en/usa.json",
+      "version": 1
+    },
+    {
+      "id": "capitals",
+      "lang": "ru",
+      "file": "ru/capitals.json",
+      "version": 1
+    },
+    {
+      "id": "china",
+      "lang": "ru",
+      "file": "ru/china.json",
+      "version": 1
+    },
+    {
+      "id": "city",
+      "lang": "ru",
+      "file": "ru/city.json",
+      "version": 1
+    },
+    {
+      "id": "entertainment",
+      "lang": "ru",
+      "file": "ru/entertainment.json",
+      "version": 1
+    },
+    {
+      "id": "fantasy",
+      "lang": "ru",
+      "file": "ru/fantasy.json",
+      "version": 1
+    },
+    {
+      "id": "france",
+      "lang": "ru",
+      "file": "ru/france.json",
+      "version": 1
+    },
+    {
+      "id": "germany",
+      "lang": "ru",
+      "file": "ru/germany.json",
+      "version": 1
+    },
+    {
+      "id": "italy",
+      "lang": "ru",
+      "file": "ru/italy.json",
+      "version": 1
+    },
+    {
+      "id": "japan",
+      "lang": "ru",
+      "file": "ru/japan.json",
+      "version": 1
+    },
+    {
+      "id": "leisure",
+      "lang": "ru",
+      "file": "ru/leisure.json",
+      "version": 1
+    },
+    {
+      "id": "moscow-everyday",
+      "lang": "ru",
+      "file": "ru/moscow-everyday.json",
+      "version": 1
+    },
+    {
+      "id": "na-rayone",
+      "lang": "ru",
+      "file": "ru/na-rayone.json",
+      "version": 1
+    },
+    {
+      "id": "space",
+      "lang": "ru",
+      "file": "ru/space.json",
+      "version": 1
+    },
+    {
+      "id": "sport",
+      "lang": "ru",
+      "file": "ru/sport.json",
+      "version": 1
+    },
+    {
+      "id": "travel",
+      "lang": "ru",
+      "file": "ru/travel.json",
+      "version": 1
+    },
+    {
+      "id": "uk",
+      "lang": "ru",
+      "file": "ru/uk.json",
+      "version": 1
+    },
+    {
+      "id": "usa-stereotypes",
+      "lang": "ru",
+      "file": "ru/usa-stereotypes.json",
+      "version": 1
+    }
+  ]
+}
