@@ -1,0 +1,266 @@
+{
+  "id": "capitals",
+  "title": "World Capitals",
+  "locations": [
+    {
+      "name": "Paris",
+      "roles": [
+        "Cafe waiter",
+        "Street artist",
+        "Tourist at the Eiffel Tower",
+        "Baguette baker",
+        "Tour guide",
+        "Metro busker",
+        "Runway model",
+        "Florist"
+      ]
+    },
+    {
+      "name": "London",
+      "roles": [
+        "Palace guard",
+        "Black cab driver",
+        "Double-decker bus tourist",
+        "Barista",
+        "City banker",
+        "Street musician",
+        "Big Ben tour guide",
+        "Bobby on the beat"
+      ]
+    },
+    {
+      "name": "Tokyo",
+      "roles": [
+        "Ramen vendor",
+        "Shibuya tourist",
+        "Salaryman",
+        "Cosplayer",
+        "Tour guide",
+        "Electronics shop clerk",
+        "Schoolkid",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Rome",
+      "roles": [
+        "Colosseum guide",
+        "Gelato vendor",
+        "Tourist at the fountain",
+        "Trattoria waiter",
+        "Priest",
+        "Street artist",
+        "Taxi driver",
+        "Nun"
+      ]
+    },
+    {
+      "name": "New York",
+      "roles": [
+        "Yellow cab driver",
+        "Street musician",
+        "Times Square tourist",
+        "Barista",
+        "Hot dog vendor",
+        "Stock broker",
+        "Tour guide",
+        "Graffiti artist"
+      ]
+    },
+    {
+      "name": "Moscow",
+      "roles": [
+        "Red Square guide",
+        "Tourist",
+        "Souvenir vendor",
+        "Underpass musician",
+        "Barista",
+        "Metro tour guide",
+        "Street artist",
+        "Taxi driver"
+      ]
+    },
+    {
+      "name": "Cairo",
+      "roles": [
+        "Pyramids guide",
+        "Bazaar vendor",
+        "Camel driver",
+        "Tourist",
+        "Spice trader",
+        "Nile boatman",
+        "Tea house owner",
+        "Street musician"
+      ]
+    },
+    {
+      "name": "Istanbul",
+      "roles": [
+        "Grand Bazaar vendor",
+        "Tourist at Hagia Sophia",
+        "Tea house owner",
+        "Bosphorus boatman",
+        "Tour guide",
+        "Carpet trader",
+        "Street musician",
+        "Simit baker"
+      ]
+    },
+    {
+      "name": "Barcelona",
+      "roles": [
+        "Sagrada Familia guide",
+        "Street performer",
+        "Tourist on La Rambla",
+        "Tapas waiter",
+        "Vendor",
+        "Football fan",
+        "Painter",
+        "Guitarist"
+      ]
+    },
+    {
+      "name": "Venice",
+      "roles": [
+        "Gondolier",
+        "Tourist in St. Mark's Square",
+        "Glassblower",
+        "Mask maker",
+        "Waiter",
+        "Painter",
+        "Tour guide",
+        "Delivery boatman"
+      ]
+    },
+    {
+      "name": "Amsterdam",
+      "roles": [
+        "Cyclist",
+        "Tourist by the canals",
+        "Barista",
+        "Tulip vendor",
+        "Canal cruise guide",
+        "Musician",
+        "Cheesemaker",
+        "Painter"
+      ]
+    },
+    {
+      "name": "Berlin",
+      "roles": [
+        "Tourist at the Brandenburg Gate",
+        "DJ",
+        "Street artist",
+        "Barista",
+        "Tour guide",
+        "Bike courier",
+        "Currywurst vendor",
+        "Musician"
+      ]
+    },
+    {
+      "name": "Prague",
+      "roles": [
+        "Charles Bridge guide",
+        "Baker",
+        "Tourist",
+        "Street musician",
+        "Trdelnik vendor",
+        "Puppeteer",
+        "Painter",
+        "Waiter"
+      ]
+    },
+    {
+      "name": "Dubai",
+      "roles": [
+        "Skyscraper tour guide",
+        "Tourist",
+        "Gold market vendor",
+        "Barista",
+        "Falconer",
+        "Taxi driver",
+        "Shopaholic",
+        "Construction worker"
+      ]
+    },
+    {
+      "name": "Sydney",
+      "roles": [
+        "Surfer",
+        "Tourist at the Opera House",
+        "Beach lifeguard",
+        "Tour guide",
+        "Barista",
+        "Street musician",
+        "Vendor",
+        "Harbor boatman"
+      ]
+    },
+    {
+      "name": "Rio de Janeiro",
+      "roles": [
+        "Samba dancer",
+        "Surfer",
+        "Tourist at Christ the Redeemer",
+        "Beach vendor",
+        "Musician",
+        "Beach footballer",
+        "Tour guide",
+        "Carnival drummer"
+      ]
+    },
+    {
+      "name": "Bangkok",
+      "roles": [
+        "Street food vendor",
+        "Tourist",
+        "Tuk-tuk driver",
+        "Monk",
+        "Tour guide",
+        "Floating market boatman",
+        "Masseuse",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Beijing",
+      "roles": [
+        "Great Wall guide",
+        "Tourist",
+        "Dumpling vendor",
+        "Calligrapher",
+        "Cyclist",
+        "Street musician",
+        "Tea merchant",
+        "Schoolkid"
+      ]
+    },
+    {
+      "name": "Athens",
+      "roles": [
+        "Acropolis guide",
+        "Tourist",
+        "Souvenir vendor",
+        "Street-food vendor",
+        "Fisherman",
+        "Bouzouki player",
+        "Painter",
+        "Priest"
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "roles": [
+        "Cable car operator",
+        "Tourist at the bridge",
+        "Tech worker",
+        "Barista",
+        "Street musician",
+        "Surfer",
+        "Tour guide",
+        "Crab vendor"
+      ]
+    }
+  ]
+}

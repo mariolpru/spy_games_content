@@ -1,0 +1,188 @@
+{
+  "id": "entertainment",
+  "title": "Entertainment",
+  "locations": [
+    {
+      "name": "Nightclub",
+      "roles": [
+        "DJ",
+        "Waiter",
+        "Dancer",
+        "Door bouncer",
+        "VIP guest",
+        "Promoter",
+        "Waitress",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Theater",
+      "roles": [
+        "Actor",
+        "Usher",
+        "Front-row spectator",
+        "Prompter",
+        "Makeup artist",
+        "Conductor",
+        "Coat check attendant",
+        "Lighting technician"
+      ]
+    },
+    {
+      "name": "Concert",
+      "roles": [
+        "Musician",
+        "Front-row fan",
+        "Sound engineer",
+        "Stage security",
+        "Merch seller",
+        "Camera operator",
+        "Ticket holder",
+        "Backup singer"
+      ]
+    },
+    {
+      "name": "Circus",
+      "roles": [
+        "Clown",
+        "Animal trainer",
+        "Acrobat",
+        "Parent with a kid",
+        "Usher",
+        "Magician",
+        "Cotton candy vendor",
+        "Juggler"
+      ]
+    },
+    {
+      "name": "Stand-up club",
+      "roles": [
+        "Comedian",
+        "Host",
+        "Spectator at a table",
+        "Greeter",
+        "Waiter",
+        "Sound guy",
+        "Manager",
+        "Front-row guest"
+      ]
+    },
+    {
+      "name": "Bowling alley",
+      "roles": [
+        "Player",
+        "Shoe rental clerk",
+        "Cashier",
+        "Group of friends",
+        "Front desk clerk",
+        "Kid in the lane",
+        "Waiter",
+        "Cleaner"
+      ]
+    },
+    {
+      "name": "Karaoke",
+      "roles": [
+        "Singing guest",
+        "Host",
+        "Cashier",
+        "Waiter",
+        "Sound operator",
+        "Group on the couch",
+        "Front desk clerk",
+        "Shy guest"
+      ]
+    },
+    {
+      "name": "Opera house",
+      "roles": [
+        "Opera singer",
+        "Conductor",
+        "Guest in the box",
+        "Usher",
+        "Coat check attendant",
+        "Orchestra musician",
+        "Makeup artist",
+        "Head usher"
+      ]
+    },
+    {
+      "name": "Café",
+      "roles": [
+        "Barista",
+        "Waiter",
+        "Pastry chef",
+        "Regular customer",
+        "Busboy",
+        "Cashier",
+        "Laptop guest",
+        "Manager"
+      ]
+    },
+    {
+      "name": "Escape room",
+      "roles": [
+        "Actor-animator",
+        "Player",
+        "Operator",
+        "Front desk clerk",
+        "Team of friends",
+        "Game master",
+        "Watcher in the control room",
+        "Newbie"
+      ]
+    },
+    {
+      "name": "Music festival",
+      "roles": [
+        "Musician on stage",
+        "Spectator with a blanket",
+        "Street food vendor",
+        "Volunteer",
+        "Sound engineer",
+        "Security guard",
+        "Reveler with a flag",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Dance party",
+      "roles": [
+        "DJ",
+        "Dancing guest",
+        "Waiter",
+        "Lighting operator",
+        "Bouncer",
+        "Promoter",
+        "Group of friends",
+        "Guest on the dance floor"
+      ]
+    },
+    {
+      "name": "Movie theater",
+      "roles": [
+        "Spectator with popcorn",
+        "Usher",
+        "Cashier",
+        "Projectionist",
+        "Couple on a date",
+        "Concession seller",
+        "Cleaner",
+        "Latecomer"
+      ]
+    },
+    {
+      "name": "Ice show",
+      "roles": [
+        "Figure skater",
+        "Spectator",
+        "Host",
+        "Lighting technician",
+        "Costume designer",
+        "Usher",
+        "Sound engineer",
+        "Kid in the audience"
+      ]
+    }
+  ]
+}

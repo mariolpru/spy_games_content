@@ -1,0 +1,175 @@
+{
+  "id": "space",
+  "title": "Space",
+  "locations": [
+    {
+      "name": "Space station",
+      "roles": [
+        "Commander",
+        "Flight engineer",
+        "Scientist",
+        "Comms officer",
+        "Medic",
+        "Technician",
+        "Pilot",
+        "Spacewalker in a suit"
+      ]
+    },
+    {
+      "name": "Reactor bay",
+      "roles": [
+        "Nuclear engineer",
+        "Technician",
+        "Reactor operator",
+        "Radiation monitor",
+        "Mechanic",
+        "Trainee",
+        "Lead engineer",
+        "Repair crew"
+      ]
+    },
+    {
+      "name": "Mission control",
+      "roles": [
+        "Flight director",
+        "Comms operator",
+        "Trajectory analyst",
+        "Systems engineer",
+        "Data analyst",
+        "Duty officer",
+        "Intern",
+        "Flight surgeon"
+      ]
+    },
+    {
+      "name": "Living quarters",
+      "roles": [
+        "Off-duty astronaut",
+        "Cook",
+        "Psychologist",
+        "Engineer",
+        "Scientist",
+        "Duty officer",
+        "Crew on the treadmill",
+        "Comms officer"
+      ]
+    },
+    {
+      "name": "Science lab",
+      "roles": [
+        "Scientist",
+        "Lab technician",
+        "Chemist",
+        "Biologist",
+        "Intern",
+        "Lab director",
+        "Equipment technician",
+        "Research assistant"
+      ]
+    },
+    {
+      "name": "Space elevator",
+      "roles": [
+        "Operator",
+        "Passenger",
+        "Engineer",
+        "Technician",
+        "Traffic controller",
+        "Cargo handler",
+        "Security guard",
+        "Trainee"
+      ]
+    },
+    {
+      "name": "Spaceport",
+      "roles": [
+        "Launch engineer",
+        "Pilot",
+        "Technician",
+        "Launch controller",
+        "Fuel technician",
+        "Journalist",
+        "Launch director",
+        "Security guard"
+      ]
+    },
+    {
+      "name": "Observatory",
+      "roles": [
+        "Astronomer",
+        "Telescope operator",
+        "Researcher",
+        "Technician",
+        "Intern",
+        "Lecturer",
+        "Data analyst",
+        "Night-shift officer"
+      ]
+    },
+    {
+      "name": "Mars colony",
+      "roles": [
+        "Colonist",
+        "Dome engineer",
+        "Geologist",
+        "Doctor",
+        "Hydroponics farmer",
+        "Base commander",
+        "Technician",
+        "Explorer"
+      ]
+    },
+    {
+      "name": "Cargo hold",
+      "roles": [
+        "Cargo handler",
+        "Logistics officer",
+        "Engineer",
+        "Loader operator",
+        "Technician",
+        "Trainee",
+        "Warehouse supervisor",
+        "Radiation monitor"
+      ]
+    },
+    {
+      "name": "Quarantine block",
+      "roles": [
+        "Doctor",
+        "Isolated patient",
+        "Biologist",
+        "Orderly",
+        "Security guard",
+        "Systems technician",
+        "Psychologist",
+        "Lab technician"
+      ]
+    },
+    {
+      "name": "Scout starship",
+      "roles": [
+        "Pilot",
+        "Navigator",
+        "Comms officer",
+        "Engineer",
+        "Scientist",
+        "Gunner",
+        "Captain",
+        "Trainee"
+      ]
+    },
+    {
+      "name": "Command bridge",
+      "roles": [
+        "Commander",
+        "Weapons operator",
+        "Comms officer",
+        "Tactical officer",
+        "Engineer",
+        "Duty officer",
+        "Trainee",
+        "Sensor operator"
+      ]
+    }
+  ]
+}

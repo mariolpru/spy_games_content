@@ -1,6 +1,6 @@
 {
-  "id": "usa",
-  "title": "USA",
+  "id": "usa-stereotypes",
+  "title": "American Clichés",
   "locations": [
     {
       "name": "Statue of Liberty",
@@ -61,10 +61,10 @@
         "Short-order cook",
         "Trucker",
         "Cashier",
-        "Diner regular",
+        "Regular at the counter",
         "Teenager",
         "Cop",
-        "Traveler"
+        "Loyal customer"
       ]
     },
     {
@@ -169,84 +169,6 @@
         "Sergeant",
         "Rookie cop",
         "Receptionist"
-      ]
-    },
-    {
-      "name": "Route 66 gas station",
-      "roles": [
-        "Attendant",
-        "Road tripper",
-        "Biker",
-        "Mechanic",
-        "Cashier",
-        "Trucker",
-        "Vintage car owner",
-        "Tourist"
-      ]
-    },
-    {
-      "name": "Silicon Valley office",
-      "roles": [
-        "Software engineer",
-        "CEO",
-        "Intern",
-        "Product manager",
-        "Recruiter",
-        "Designer",
-        "Investor",
-        "Barista"
-      ]
-    },
-    {
-      "name": "Thanksgiving dinner",
-      "roles": [
-        "Grandma",
-        "Uncle",
-        "Cousin",
-        "Host",
-        "Kid",
-        "Mother-in-law",
-        "Neighbor",
-        "Late guest"
-      ]
-    },
-    {
-      "name": "Wall Street",
-      "roles": [
-        "Trader",
-        "Broker",
-        "Analyst",
-        "CEO",
-        "Intern",
-        "Tourist",
-        "Security guard",
-        "Journalist"
-      ]
-    },
-    {
-      "name": "National park campground",
-      "roles": [
-        "Camper",
-        "Ranger",
-        "Hiker",
-        "Scout leader",
-        "RV owner",
-        "Angler",
-        "Kid",
-        "Vendor"
-      ]
-    },
-    {
-      "name": "Drive-in movie theater",
-      "roles": [
-        "Ticket seller",
-        "Couple on a date",
-        "Popcorn vendor",
-        "Projectionist",
-        "Teenager",
-        "Family",
-        "Carhop",
-        "Security guard"
       ]
     }
   ]

@@ -1,0 +1,266 @@
+{
+  "id": "sport",
+  "title": "Sports",
+  "locations": [
+    {
+      "name": "Soccer stadium",
+      "roles": [
+        "Striker",
+        "Goalkeeper",
+        "Referee",
+        "Fan",
+        "Commentator",
+        "Coach",
+        "Stands vendor",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Gym",
+      "roles": [
+        "Personal trainer",
+        "Guy at the barbell",
+        "Girl on the treadmill",
+        "Front desk clerk",
+        "Newbie",
+        "Instructor",
+        "Cleaner",
+        "CrossFit regular"
+      ]
+    },
+    {
+      "name": "Swimming pool",
+      "roles": [
+        "Swimmer",
+        "Coach",
+        "Lifeguard",
+        "Kid at the edge",
+        "Instructor",
+        "Water aerobics fan",
+        "Starting judge",
+        "Cleaner"
+      ]
+    },
+    {
+      "name": "Boxing ring",
+      "roles": [
+        "Boxer",
+        "Corner coach",
+        "Referee",
+        "Cutman",
+        "Fan",
+        "Commentator",
+        "Ringside doctor",
+        "Ring announcer"
+      ]
+    },
+    {
+      "name": "Tennis court",
+      "roles": [
+        "Tennis player",
+        "Chair umpire",
+        "Ball boy",
+        "Coach",
+        "Spectator",
+        "Commentator",
+        "Photographer",
+        "Sponsor in the box"
+      ]
+    },
+    {
+      "name": "Ice rink",
+      "roles": [
+        "Figure skater",
+        "Hockey player",
+        "Coach",
+        "Zamboni driver",
+        "Kid by the boards",
+        "Skate rental clerk",
+        "Spectator",
+        "Judge"
+      ]
+    },
+    {
+      "name": "Climbing gym",
+      "roles": [
+        "Climber",
+        "Instructor",
+        "Belayer",
+        "Newbie",
+        "Front desk clerk",
+        "Kid on the wall",
+        "Photographer",
+        "Coach"
+      ]
+    },
+    {
+      "name": "Marathon",
+      "roles": [
+        "Runner",
+        "Water station volunteer",
+        "Spectator",
+        "Finish line judge",
+        "Photographer",
+        "Medic",
+        "Commentator",
+        "Pacer"
+      ]
+    },
+    {
+      "name": "Golf club",
+      "roles": [
+        "Golfer",
+        "Caddie",
+        "Instructor",
+        "Front desk clerk",
+        "Spectator",
+        "Guest at the clubhouse",
+        "Groundskeeper",
+        "Referee"
+      ]
+    },
+    {
+      "name": "Velodrome",
+      "roles": [
+        "Track cyclist",
+        "Mechanic",
+        "Coach",
+        "Judge",
+        "Spectator",
+        "Commentator",
+        "Team doctor",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Ski resort",
+      "roles": [
+        "Skier",
+        "Snowboarder",
+        "Instructor",
+        "Ski patrol",
+        "Lift operator",
+        "Course judge",
+        "Kid on the bunny slope",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Martial arts dojo",
+      "roles": [
+        "Karateka",
+        "Sensei",
+        "Student",
+        "Judge",
+        "Parent on the bench",
+        "Dojo champion",
+        "Newbie",
+        "Assistant coach"
+      ]
+    },
+    {
+      "name": "Race track",
+      "roles": [
+        "Race driver",
+        "Mechanic",
+        "Pit crew member",
+        "Steward",
+        "Commentator",
+        "Spectator",
+        "Track marshal",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Skate park",
+      "roles": [
+        "Skateboarder",
+        "BMX rider",
+        "Newbie",
+        "Spectator",
+        "Photographer",
+        "Water vendor",
+        "Kid on a scooter",
+        "Coach"
+      ]
+    },
+    {
+      "name": "Shooting range",
+      "roles": [
+        "Shooter",
+        "Instructor",
+        "Range officer",
+        "Spectator",
+        "Newbie",
+        "Cashier",
+        "Gunsmith",
+        "Coach"
+      ]
+    },
+    {
+      "name": "Horse racing track",
+      "roles": [
+        "Jockey",
+        "Groom",
+        "Trainer",
+        "Spectator",
+        "Ticket clerk",
+        "Veterinarian",
+        "Horse owner",
+        "Commentator"
+      ]
+    },
+    {
+      "name": "Beach volleyball",
+      "roles": [
+        "Volleyball player",
+        "Referee",
+        "Spectator",
+        "Coach",
+        "Photographer",
+        "Drinks vendor",
+        "Kid with a ball",
+        "Commentator"
+      ]
+    },
+    {
+      "name": "Trampoline park",
+      "roles": [
+        "Jumper",
+        "Instructor",
+        "Kid",
+        "Front desk clerk",
+        "Safety monitor",
+        "Parent on the bench",
+        "Cleaner",
+        "Coach"
+      ]
+    },
+    {
+      "name": "Sports academy",
+      "roles": [
+        "Young athlete",
+        "Coach",
+        "Parent in the stands",
+        "Facilities manager",
+        "Nurse",
+        "Director",
+        "Senior student",
+        "Cleaner"
+      ]
+    },
+    {
+      "name": "Cross-country ski base",
+      "roles": [
+        "Skier",
+        "Coach",
+        "Rental clerk",
+        "Trail warden",
+        "Kid on skis",
+        "Fan",
+        "Judge",
+        "Photographer"
+      ]
+    }
+  ]
+}

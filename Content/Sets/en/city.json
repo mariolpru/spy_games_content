@@ -1,0 +1,266 @@
+{
+  "id": "city",
+  "title": "City",
+  "locations": [
+    {
+      "name": "Restaurant",
+      "roles": [
+        "Waiter",
+        "Chef",
+        "Host",
+        "Diner on a date",
+        "Greeter",
+        "Head waiter",
+        "Busser",
+        "Live musician"
+      ]
+    },
+    {
+      "name": "Bank",
+      "roles": [
+        "Teller",
+        "Security guard",
+        "Customer in line",
+        "Loan officer",
+        "Cashier",
+        "Branch manager",
+        "Armored courier",
+        "Janitor"
+      ]
+    },
+    {
+      "name": "Supermarket",
+      "roles": [
+        "Cashier",
+        "Shopper with a cart",
+        "Shelf stocker",
+        "Security guard",
+        "Stockroom loader",
+        "Mom with a kid",
+        "Sample promoter",
+        "Janitor"
+      ]
+    },
+    {
+      "name": "School",
+      "roles": [
+        "Teacher",
+        "Student",
+        "Principal",
+        "Cleaning lady",
+        "Security guard",
+        "Vice principal",
+        "Kid at the board",
+        "Parent"
+      ]
+    },
+    {
+      "name": "Hospital",
+      "roles": [
+        "Doctor",
+        "Nurse",
+        "Patient",
+        "Surgeon",
+        "Orderly",
+        "Front-desk clerk",
+        "Visitor",
+        "Cleaning lady"
+      ]
+    },
+    {
+      "name": "Hair salon",
+      "roles": [
+        "Hairstylist",
+        "Client in the chair",
+        "Manicurist",
+        "Receptionist",
+        "Colorist",
+        "Kid getting a haircut",
+        "Janitor",
+        "Brow artist"
+      ]
+    },
+    {
+      "name": "Coffee shop",
+      "roles": [
+        "Barista",
+        "Customer with a laptop",
+        "Server",
+        "Student with a textbook",
+        "Manager",
+        "Busser",
+        "Pastry chef",
+        "Regular"
+      ]
+    },
+    {
+      "name": "Library",
+      "roles": [
+        "Librarian",
+        "Student",
+        "Reader",
+        "Schoolkid",
+        "Retiree with a newspaper",
+        "Janitor",
+        "Archivist",
+        "Visitor at a computer"
+      ]
+    },
+    {
+      "name": "Bookstore",
+      "roles": [
+        "Bookseller",
+        "Shopper",
+        "Cashier",
+        "Reader flipping pages",
+        "Delivery courier",
+        "Store manager",
+        "Kid in the children's section",
+        "Janitor"
+      ]
+    },
+    {
+      "name": "Post office",
+      "roles": [
+        "Clerk",
+        "Customer with a parcel",
+        "Mail carrier",
+        "Retiree in line",
+        "Courier",
+        "Sorter",
+        "Security guard",
+        "Cleaning lady"
+      ]
+    },
+    {
+      "name": "Pharmacy",
+      "roles": [
+        "Pharmacist",
+        "Customer with a prescription",
+        "Pharmacy tech",
+        "Delivery courier",
+        "Mom with a kid",
+        "Retiree",
+        "Cashier",
+        "Head pharmacist"
+      ]
+    },
+    {
+      "name": "Police station",
+      "roles": [
+        "Officer",
+        "Desk sergeant",
+        "Detective",
+        "Visitor filing a report",
+        "Lawyer",
+        "Clerk",
+        "Rookie",
+        "Escort guard"
+      ]
+    },
+    {
+      "name": "Shopping mall",
+      "roles": [
+        "Sales associate",
+        "Shopper with bags",
+        "Security guard",
+        "Janitor",
+        "Teen at the food court",
+        "Promoter",
+        "Fitting-room attendant",
+        "Mom with a stroller"
+      ]
+    },
+    {
+      "name": "Gas station",
+      "roles": [
+        "Pump attendant",
+        "Cashier",
+        "Driver",
+        "Trucker",
+        "Convenience-store clerk",
+        "Janitor",
+        "Windshield washer",
+        "Customer with a coffee"
+      ]
+    },
+    {
+      "name": "Courthouse",
+      "roles": [
+        "Judge",
+        "Defense lawyer",
+        "Prosecutor",
+        "Court clerk",
+        "Witness",
+        "Juror",
+        "Bailiff",
+        "Visitor"
+      ]
+    },
+    {
+      "name": "Dental office",
+      "roles": [
+        "Dentist",
+        "Patient in the chair",
+        "Dental assistant",
+        "Receptionist",
+        "Kid with mom",
+        "Hygienist",
+        "Patient in the waiting room",
+        "Orthodontist"
+      ]
+    },
+    {
+      "name": "Office",
+      "roles": [
+        "Manager",
+        "Programmer",
+        "Accountant",
+        "Courier",
+        "Cleaning lady",
+        "Employee on a call",
+        "Intern",
+        "Boss"
+      ]
+    },
+    {
+      "name": "Fire station",
+      "roles": [
+        "Firefighter",
+        "Dispatcher",
+        "Crew captain",
+        "Engine driver",
+        "Trainee",
+        "Mechanic",
+        "Duty officer",
+        "Instructor"
+      ]
+    },
+    {
+      "name": "Subway",
+      "roles": [
+        "Train operator",
+        "Passenger",
+        "Fare inspector",
+        "Busker",
+        "Escalator attendant",
+        "Police officer",
+        "Tourist with a map",
+        "Passenger with a suitcase"
+      ]
+    },
+    {
+      "name": "Flower shop",
+      "roles": [
+        "Florist",
+        "Shopper",
+        "Delivery courier",
+        "Event decorator",
+        "Cashier",
+        "Man picking a bouquet",
+        "Wholesale buyer",
+        "Janitor"
+      ]
+    }
+  ]
+}

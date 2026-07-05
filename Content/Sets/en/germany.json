@@ -1,0 +1,136 @@
+{
+  "id": "germany",
+  "title": "Germany",
+  "locations": [
+    {
+      "name": "Oktoberfest",
+      "roles": [
+        "Waitress with pretzels",
+        "Baker",
+        "Guest in a dirndl",
+        "Brass band musician",
+        "Tourist",
+        "Cook",
+        "Regular",
+        "Security guard"
+      ]
+    },
+    {
+      "name": "Berlin Wall",
+      "roles": [
+        "Street artist",
+        "Tourist",
+        "Tour guide",
+        "Photographer",
+        "Historian",
+        "Cyclist",
+        "Vendor",
+        "Musician"
+      ]
+    },
+    {
+      "name": "Autobahn",
+      "roles": [
+        "Sports car driver",
+        "Truck driver",
+        "Mechanic",
+        "Police officer",
+        "Tourist",
+        "Gas station attendant",
+        "Passenger",
+        "Roadside assistance worker"
+      ]
+    },
+    {
+      "name": "Car factory",
+      "roles": [
+        "Engineer",
+        "Assembly line worker",
+        "Designer",
+        "Tour visitor",
+        "Tour guide",
+        "Test driver",
+        "Manager",
+        "Mechanic"
+      ]
+    },
+    {
+      "name": "Christmas market",
+      "roles": [
+        "Hot cocoa vendor",
+        "Tourist",
+        "Craftsman",
+        "Musician",
+        "Child",
+        "Toy seller",
+        "Baker",
+        "Santa"
+      ]
+    },
+    {
+      "name": "Berlin techno club",
+      "roles": [
+        "DJ",
+        "Dancer",
+        "Door bouncer",
+        "Waiter",
+        "Guest",
+        "Promoter",
+        "Lighting operator",
+        "Regular"
+      ]
+    },
+    {
+      "name": "Bavarian village",
+      "roles": [
+        "Farmer",
+        "Shepherd",
+        "Cheesemaker",
+        "Tourist",
+        "Musician",
+        "Hostess in a dirndl",
+        "Wood carver",
+        "Baker"
+      ]
+    },
+    {
+      "name": "Bundestag",
+      "roles": [
+        "Member of parliament",
+        "Tourist",
+        "Tour guide",
+        "Security guard",
+        "Journalist",
+        "Clerk",
+        "Photographer",
+        "Interpreter"
+      ]
+    },
+    {
+      "name": "Sausage stand",
+      "roles": [
+        "Vendor",
+        "Customer",
+        "Tourist",
+        "Cook",
+        "Cashier",
+        "Butcher",
+        "Regular customer",
+        "Courier"
+      ]
+    },
+    {
+      "name": "Nurburgring",
+      "roles": [
+        "Racer",
+        "Mechanic",
+        "Spectator",
+        "Commentator",
+        "Track marshal",
+        "Photographer",
+        "Engineer",
+        "Fan"
+      ]
+    }
+  ]
+}

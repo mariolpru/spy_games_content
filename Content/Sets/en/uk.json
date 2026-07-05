@@ -1,0 +1,162 @@
+{
+  "id": "uk",
+  "title": "United Kingdom",
+  "locations": [
+    {
+      "name": "Big Ben",
+      "roles": [
+        "Tourist",
+        "Tour guide",
+        "Member of Parliament",
+        "Bobby",
+        "Photographer",
+        "Souvenir vendor",
+        "Cyclist",
+        "Clerk"
+      ]
+    },
+    {
+      "name": "Buckingham Palace",
+      "roles": [
+        "Royal guard",
+        "Tourist",
+        "Tour guide",
+        "Photographer",
+        "Police officer",
+        "Souvenir vendor",
+        "Stable groom",
+        "Butler"
+      ]
+    },
+    {
+      "name": "London Underground",
+      "roles": [
+        "Passenger",
+        "Busker",
+        "Fare inspector",
+        "Tourist with a map",
+        "Train operator",
+        "Businessman",
+        "Student",
+        "Mum with a pram"
+      ]
+    },
+    {
+      "name": "Stonehenge",
+      "roles": [
+        "Tourist",
+        "Tour guide",
+        "Archaeologist",
+        "Photographer",
+        "Druid reenactor",
+        "Souvenir vendor",
+        "Site warden",
+        "Schoolkid"
+      ]
+    },
+    {
+      "name": "Oxford",
+      "roles": [
+        "Professor",
+        "Student",
+        "Tour guide",
+        "Tourist",
+        "Librarian",
+        "Cyclist",
+        "Rower",
+        "Dean"
+      ]
+    },
+    {
+      "name": "Tower of London",
+      "roles": [
+        "Beefeater",
+        "Tourist",
+        "Tour guide",
+        "Crown Jewels keeper",
+        "Photographer",
+        "Souvenir vendor",
+        "Reenactor",
+        "Ticket clerk"
+      ]
+    },
+    {
+      "name": "Baker Street",
+      "roles": [
+        "Guide in costume",
+        "Tourist",
+        "Sherlock actor",
+        "Souvenir vendor",
+        "Photographer",
+        "Ticket clerk",
+        "Superfan",
+        "Museum warden"
+      ]
+    },
+    {
+      "name": "Double-decker bus",
+      "roles": [
+        "Conductor",
+        "Driver",
+        "Tourist on the top deck",
+        "Passenger",
+        "Tour guide",
+        "Student",
+        "Mum with a pram",
+        "Ticket inspector"
+      ]
+    },
+    {
+      "name": "Haunted castle",
+      "roles": [
+        "Tour guide",
+        "Tourist",
+        "Caretaker",
+        "Butler",
+        "Reenactor",
+        "Photographer",
+        "Historian",
+        "Ticket clerk"
+      ]
+    },
+    {
+      "name": "Covent Garden",
+      "roles": [
+        "Street performer",
+        "Market vendor",
+        "Tourist",
+        "Musician",
+        "Florist",
+        "Server",
+        "Magician",
+        "Shopper"
+      ]
+    },
+    {
+      "name": "City of London",
+      "roles": [
+        "Banker",
+        "Broker",
+        "Courier",
+        "Clerk",
+        "Barista",
+        "Security guard",
+        "Manager",
+        "Analyst"
+      ]
+    },
+    {
+      "name": "Country manor",
+      "roles": [
+        "Lord",
+        "Butler",
+        "Maid",
+        "Gardener",
+        "Cook",
+        "Guest",
+        "Stable groom",
+        "Housekeeper"
+      ]
+    }
+  ]
+}

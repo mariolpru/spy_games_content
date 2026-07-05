@@ -1,0 +1,266 @@
+{
+  "id": "fantasy",
+  "title": "Fantasy",
+  "locations": [
+    {
+      "name": "Inn",
+      "roles": [
+        "Innkeeper",
+        "Cook",
+        "Maid",
+        "Traveler",
+        "Bard",
+        "Stablehand",
+        "Merchant",
+        "Guard"
+      ]
+    },
+    {
+      "name": "Throne room",
+      "roles": [
+        "King",
+        "Queen",
+        "Royal advisor",
+        "Guard",
+        "Jester",
+        "Herald",
+        "Lady of the court",
+        "Ambassador"
+      ]
+    },
+    {
+      "name": "Wizard's market",
+      "roles": [
+        "Potion brewer",
+        "Customer",
+        "Artifact dealer",
+        "Alchemist",
+        "Apprentice",
+        "Guard",
+        "Barker",
+        "Fortune teller"
+      ]
+    },
+    {
+      "name": "Blacksmith's forge",
+      "roles": [
+        "Blacksmith",
+        "Apprentice",
+        "Warrior after a blade",
+        "Charcoal supplier",
+        "Merchant",
+        "Squire",
+        "Trainee",
+        "Armor customer"
+      ]
+    },
+    {
+      "name": "Castle",
+      "roles": [
+        "Knight",
+        "Guard",
+        "Lord",
+        "Chambermaid",
+        "Stable boy",
+        "Cook",
+        "Minstrel",
+        "Castellan"
+      ]
+    },
+    {
+      "name": "Dungeon",
+      "roles": [
+        "Jailer",
+        "Guard",
+        "Prisoner",
+        "Executioner",
+        "Interrogator",
+        "Sentry",
+        "Scribe",
+        "Rat catcher"
+      ]
+    },
+    {
+      "name": "Harbor",
+      "roles": [
+        "Captain",
+        "Sailor",
+        "Merchant",
+        "Fisherman",
+        "Dockworker",
+        "Harbor guard",
+        "Boatswain",
+        "Pilot"
+      ]
+    },
+    {
+      "name": "Bandit camp",
+      "roles": [
+        "Bandit chief",
+        "Bandit",
+        "Archer",
+        "Campfire cook",
+        "Lookout",
+        "Captive",
+        "Camp smith",
+        "Messenger"
+      ]
+    },
+    {
+      "name": "Wizard's tower",
+      "roles": [
+        "Wizard",
+        "Sorcerer's apprentice",
+        "Alchemist",
+        "Keeper of scrolls",
+        "Potion brewer",
+        "Servant",
+        "Visiting mage",
+        "Stargazer"
+      ]
+    },
+    {
+      "name": "Village",
+      "roles": [
+        "Peasant",
+        "Village elder",
+        "Blacksmith",
+        "Wise woman",
+        "Shepherd",
+        "Miller",
+        "Innkeeper",
+        "Child"
+      ]
+    },
+    {
+      "name": "Elven forest",
+      "roles": [
+        "Elven archer",
+        "Druid",
+        "Ranger",
+        "Healer",
+        "Grove warden",
+        "Bard",
+        "Traveler",
+        "Herb gatherer"
+      ]
+    },
+    {
+      "name": "Dwarven mine",
+      "roles": [
+        "Dwarf miner",
+        "Smith",
+        "Mine foreman",
+        "Ore carrier",
+        "Dwarf surveyor",
+        "Charcoal burner",
+        "Lookout",
+        "Apprentice"
+      ]
+    },
+    {
+      "name": "Temple",
+      "roles": [
+        "Priest",
+        "Pilgrim",
+        "Novice",
+        "Oracle",
+        "Altar keeper",
+        "Choir singer",
+        "Temple guard",
+        "Healer"
+      ]
+    },
+    {
+      "name": "Arena",
+      "roles": [
+        "Gladiator",
+        "Master of ceremonies",
+        "Spectator",
+        "Field medic",
+        "Guard",
+        "Stands vendor",
+        "Herald",
+        "Squire"
+      ]
+    },
+    {
+      "name": "Dragon's lair",
+      "roles": [
+        "Knight-hunter",
+        "Ranger",
+        "Squire",
+        "Archer",
+        "Mage",
+        "Wounded warrior",
+        "Guide",
+        "Chronicler"
+      ]
+    },
+    {
+      "name": "Mages' library",
+      "roles": [
+        "Archivist",
+        "Arcane researcher",
+        "Apprentice",
+        "Copyist",
+        "Keeper",
+        "Visitor",
+        "Stargazer",
+        "Rune interpreter"
+      ]
+    },
+    {
+      "name": "Royal feast",
+      "roles": [
+        "King",
+        "Minstrel",
+        "Servant",
+        "Guest lord",
+        "Jester",
+        "Guard",
+        "Cook",
+        "Food taster"
+      ]
+    },
+    {
+      "name": "Alchemist's laboratory",
+      "roles": [
+        "Alchemist",
+        "Apprentice",
+        "Potion brewer",
+        "Herbalist",
+        "Customer",
+        "Keeper of ingredients",
+        "Guard",
+        "Trainee"
+      ]
+    },
+    {
+      "name": "Pirate ship",
+      "roles": [
+        "Pirate captain",
+        "Boatswain",
+        "Cabin boy",
+        "Gunner",
+        "Navigator",
+        "Cook",
+        "Deckhand",
+        "Captive"
+      ]
+    },
+    {
+      "name": "Witch's hut",
+      "roles": [
+        "Witch",
+        "Apprentice",
+        "Potion buyer",
+        "Herbalist",
+        "Peasant visitor",
+        "Folk healer",
+        "Fortune teller",
+        "Herb picker"
+      ]
+    }
+  ]
+}

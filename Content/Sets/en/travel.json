@@ -1,0 +1,279 @@
+{
+  "id": "travel",
+  "title": "Travel",
+  "locations": [
+    {
+      "name": "Airport",
+      "roles": [
+        "Passenger with a suitcase",
+        "Check-in agent",
+        "Security screener",
+        "Pilot",
+        "Barista",
+        "Duty-free clerk",
+        "Tourist with a map",
+        "Cleaner"
+      ]
+    },
+    {
+      "name": "Airplane",
+      "roles": [
+        "Flight attendant",
+        "Window-seat passenger",
+        "Pilot",
+        "Kid with a tablet",
+        "Businessman with a laptop",
+        "Grandma with a blanket",
+        "Tourist with headphones",
+        "Steward with a cart"
+      ]
+    },
+    {
+      "name": "Train",
+      "roles": [
+        "Conductor",
+        "Upper-berth passenger",
+        "Kid by the window",
+        "Snack cart attendant",
+        "Backpacker",
+        "Business traveler",
+        "Student with a book",
+        "Cabin neighbor"
+      ]
+    },
+    {
+      "name": "Cruise ship",
+      "roles": [
+        "Captain",
+        "Poolside waiter",
+        "Tourist with an ice cream",
+        "Entertainer",
+        "Deckhand",
+        "Passenger on a lounger",
+        "Musician",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Hotel",
+      "roles": [
+        "Front desk clerk",
+        "Bellhop",
+        "Tourist with a suitcase",
+        "Housekeeper",
+        "Concierge",
+        "Lobby barista",
+        "Business guest",
+        "Doorman"
+      ]
+    },
+    {
+      "name": "Beach",
+      "roles": [
+        "Lifeguard",
+        "Tourist on a towel",
+        "Ice cream vendor",
+        "Kid with a bucket",
+        "Surfer",
+        "Masseur",
+        "Photographer",
+        "Grandma under an umbrella"
+      ]
+    },
+    {
+      "name": "Ski resort",
+      "roles": [
+        "Instructor",
+        "Skier on the lift",
+        "Snowboarder",
+        "Ski patroller",
+        "Hot cocoa vendor",
+        "Tourist from the rental shop",
+        "Kid on a sled",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Museum",
+      "roles": [
+        "Tour guide",
+        "Gallery attendant",
+        "Tourist with an audio guide",
+        "Schoolkid on a field trip",
+        "Artist with a sketchbook",
+        "Ticket clerk",
+        "Restorer",
+        "Security guard"
+      ]
+    },
+    {
+      "name": "Zoo",
+      "roles": [
+        "Keeper",
+        "Kid at the enclosure",
+        "Cotton candy vendor",
+        "Tourist with a camera",
+        "Vet",
+        "Tour guide",
+        "Ticket clerk",
+        "Cleaner"
+      ]
+    },
+    {
+      "name": "Amusement park",
+      "roles": [
+        "Carousel operator",
+        "Kid with a balloon",
+        "Hot dog vendor",
+        "Tourist in line",
+        "Costumed mascot",
+        "Ticket clerk",
+        "Photographer",
+        "Cleaner"
+      ]
+    },
+    {
+      "name": "Campsite",
+      "roles": [
+        "Camper by the fire",
+        "Angler",
+        "Kid with a flashlight",
+        "Guide",
+        "Tourist with a guitar",
+        "Camp stove cook",
+        "Tent neighbor",
+        "Firewood gatherer"
+      ]
+    },
+    {
+      "name": "Safari park",
+      "roles": [
+        "Ranger guide",
+        "Tourist with binoculars",
+        "Jeep driver",
+        "Wildlife photographer",
+        "Kid at the jeep window",
+        "Naturalist",
+        "Tourist in a sun hat",
+        "Vet"
+      ]
+    },
+    {
+      "name": "Tour bus",
+      "roles": [
+        "Guide with a microphone",
+        "Driver",
+        "Tourist by the window",
+        "Sleeping passenger",
+        "Kid with ice cream",
+        "Photographer",
+        "Tourist with a map",
+        "Latecomer"
+      ]
+    },
+    {
+      "name": "Train station",
+      "roles": [
+        "Ticket clerk",
+        "Passenger with a suitcase",
+        "Porter",
+        "Grandma on a bench",
+        "Cop",
+        "Kiosk vendor",
+        "Tourist with a timetable",
+        "Greeter with a name sign"
+      ]
+    },
+    {
+      "name": "Water park",
+      "roles": [
+        "Lifeguard",
+        "Kid on a slide",
+        "Tourist on an inner tube",
+        "Instructor",
+        "Drink vendor",
+        "Masseur",
+        "Ticket clerk",
+        "Cleaner"
+      ]
+    },
+    {
+      "name": "Spa",
+      "roles": [
+        "Masseur",
+        "Guest in a robe",
+        "Receptionist",
+        "Esthetician",
+        "Sauna attendant",
+        "Tourist on a lounger",
+        "Cleaner",
+        "Herbal-tea barista"
+      ]
+    },
+    {
+      "name": "Tropical island",
+      "roles": [
+        "Guide",
+        "Tourist with a snorkel mask",
+        "Diving instructor",
+        "Fisherman",
+        "Coconut vendor",
+        "Photographer",
+        "Kid on the sand",
+        "Surfer"
+      ]
+    },
+    {
+      "name": "Cable car",
+      "roles": [
+        "Station operator",
+        "Tourist in the cabin",
+        "Photographer",
+        "Kid by the window",
+        "Rescuer",
+        "Guide",
+        "Skier",
+        "Tourist with binoculars"
+      ]
+    },
+    {
+      "name": "City walking tour",
+      "roles": [
+        "Guide",
+        "Street musician",
+        "Tourist with a map",
+        "Souvenir vendor",
+        "Portrait artist",
+        "Tourist with a selfie stick",
+        "Carriage driver",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Souvenir market",
+      "roles": [
+        "Magnet seller",
+        "Craftsman",
+        "Tourist with shopping bags",
+        "Hawker",
+        "Spice sampler",
+        "Artist",
+        "Cashier",
+        "Musician"
+      ]
+    },
+    {
+      "name": "Aquarium",
+      "roles": [
+        "Keeper",
+        "Kid at the tank",
+        "Diver inside the tank",
+        "Tour guide",
+        "Souvenir vendor",
+        "Photographer",
+        "Ticket clerk",
+        "Marine biologist"
+      ]
+    }
+  ]
+}

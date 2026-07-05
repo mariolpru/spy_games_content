@@ -1,0 +1,123 @@
+{
+  "id": "italy",
+  "title": "Italy",
+  "locations": [
+    {
+      "name": "Colosseum",
+      "roles": [
+        "Tour guide",
+        "Tourist",
+        "Gladiator actor",
+        "Photographer",
+        "Souvenir vendor",
+        "Archaeologist",
+        "Caretaker",
+        "Schoolkid"
+      ]
+    },
+    {
+      "name": "Pizzeria",
+      "roles": [
+        "Pizzaiolo",
+        "Waiter",
+        "Guest",
+        "Tourist",
+        "Cook",
+        "Cashier",
+        "Delivery driver",
+        "Regular customer"
+      ]
+    },
+    {
+      "name": "Venetian canal",
+      "roles": [
+        "Gondolier",
+        "Tourist",
+        "Glassblower",
+        "Mask maker",
+        "Waiter",
+        "Photographer",
+        "Delivery boatman",
+        "Painter"
+      ]
+    },
+    {
+      "name": "Leaning Tower of Pisa",
+      "roles": [
+        "Tourist",
+        "Tour guide",
+        "Photographer",
+        "Souvenir vendor",
+        "Caretaker",
+        "Schoolkid",
+        "Couple in love",
+        "Cashier"
+      ]
+    },
+    {
+      "name": "Vatican",
+      "roles": [
+        "Priest",
+        "Tourist",
+        "Tour guide",
+        "Swiss Guard",
+        "Pilgrim",
+        "Photographer",
+        "Nun",
+        "Caretaker"
+      ]
+    },
+    {
+      "name": "Milan fashion show",
+      "roles": [
+        "Model",
+        "Designer",
+        "Photographer",
+        "Stylist",
+        "Journalist",
+        "Front-row guest",
+        "Makeup artist",
+        "Security guard"
+      ]
+    },
+    {
+      "name": "Gelateria",
+      "roles": [
+        "Gelato maker",
+        "Customer",
+        "Child",
+        "Tourist",
+        "Cashier",
+        "Vendor",
+        "Regular customer",
+        "Courier"
+      ]
+    },
+    {
+      "name": "Lake Como",
+      "roles": [
+        "Tourist",
+        "Boatman",
+        "Villa waiter",
+        "Gardener",
+        "Photographer",
+        "Yachtsman",
+        "Vacationer",
+        "Tour guide"
+      ]
+    },
+    {
+      "name": "Venetian Carnival",
+      "roles": [
+        "Masked guest",
+        "Tourist",
+        "Musician",
+        "Dancer",
+        "Costume vendor",
+        "Photographer",
+        "Stilt walker",
+        "Spectator"
+      ]
+    }
+  ]
+}

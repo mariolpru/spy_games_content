@@ -1,6 +1,96 @@
 {
-  "version": 1,
+  "version": 2,
   "sets": [
+    {
+      "id": "capitals",
+      "lang": "en",
+      "file": "en/capitals.json",
+      "version": 1
+    },
+    {
+      "id": "china",
+      "lang": "en",
+      "file": "en/china.json",
+      "version": 1
+    },
+    {
+      "id": "city",
+      "lang": "en",
+      "file": "en/city.json",
+      "version": 1
+    },
+    {
+      "id": "entertainment",
+      "lang": "en",
+      "file": "en/entertainment.json",
+      "version": 1
+    },
+    {
+      "id": "fantasy",
+      "lang": "en",
+      "file": "en/fantasy.json",
+      "version": 1
+    },
+    {
+      "id": "france",
+      "lang": "en",
+      "file": "en/france.json",
+      "version": 1
+    },
+    {
+      "id": "germany",
+      "lang": "en",
+      "file": "en/germany.json",
+      "version": 1
+    },
+    {
+      "id": "italy",
+      "lang": "en",
+      "file": "en/italy.json",
+      "version": 1
+    },
+    {
+      "id": "japan",
+      "lang": "en",
+      "file": "en/japan.json",
+      "version": 1
+    },
+    {
+      "id": "leisure",
+      "lang": "en",
+      "file": "en/leisure.json",
+      "version": 1
+    },
+    {
+      "id": "space",
+      "lang": "en",
+      "file": "en/space.json",
+      "version": 1
+    },
+    {
+      "id": "sport",
+      "lang": "en",
+      "file": "en/sport.json",
+      "version": 1
+    },
+    {
+      "id": "travel",
+      "lang": "en",
+      "file": "en/travel.json",
+      "version": 1
+    },
+    {
+      "id": "uk",
+      "lang": "en",
+      "file": "en/uk.json",
+      "version": 1
+    },
+    {
+      "id": "usa-stereotypes",
+      "lang": "en",
+      "file": "en/usa-stereotypes.json",
+      "version": 1
+    },
     {
       "id": "usa",
       "lang": "en",

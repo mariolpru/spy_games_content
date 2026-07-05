@@ -1,0 +1,175 @@
+{
+  "id": "france",
+  "title": "France",
+  "locations": [
+    {
+      "name": "Eiffel Tower",
+      "roles": [
+        "Tourist",
+        "Tour guide",
+        "Souvenir vendor",
+        "Photographer",
+        "Couple in love",
+        "Street artist",
+        "Security guard",
+        "Tower restaurant waiter"
+      ]
+    },
+    {
+      "name": "The Louvre",
+      "roles": [
+        "Museum guide",
+        "Tourist with audio guide",
+        "Gallery attendant",
+        "Copyist painter",
+        "Schoolkid on a field trip",
+        "Cashier",
+        "Restorer",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "French Riviera",
+      "roles": [
+        "Beach tourist",
+        "Yachtsman",
+        "Waiter",
+        "Ice cream vendor",
+        "Lifeguard",
+        "Photographer",
+        "Vacationing millionaire",
+        "Musician"
+      ]
+    },
+    {
+      "name": "Palace of Versailles",
+      "roles": [
+        "Guide",
+        "Tourist",
+        "Gardener",
+        "Attendant",
+        "Costumed actor",
+        "Photographer",
+        "Cashier",
+        "Restorer"
+      ]
+    },
+    {
+      "name": "Parisian café",
+      "roles": [
+        "Waiter",
+        "Poet with a notebook",
+        "Tourist",
+        "Barista",
+        "Painter",
+        "Couple in love",
+        "Musician",
+        "Regular customer"
+      ]
+    },
+    {
+      "name": "Montmartre",
+      "roles": [
+        "Street painter",
+        "Tourist",
+        "Musician",
+        "Vendor",
+        "Poet",
+        "Guide",
+        "Caricaturist",
+        "Waiter"
+      ]
+    },
+    {
+      "name": "Provence lavender fields",
+      "roles": [
+        "Farmer",
+        "Photographer tourist",
+        "Beekeeper",
+        "Painter",
+        "Guide",
+        "Lavender seller",
+        "Perfumer",
+        "Cyclist"
+      ]
+    },
+    {
+      "name": "Loire Valley château",
+      "roles": [
+        "Guide",
+        "Tourist",
+        "Attendant",
+        "Gardener",
+        "Historical reenactor",
+        "Photographer",
+        "Cashier",
+        "Estate worker"
+      ]
+    },
+    {
+      "name": "Cannes Film Festival",
+      "roles": [
+        "Movie star",
+        "Paparazzo",
+        "Director",
+        "Fan",
+        "Journalist",
+        "Security guard",
+        "Stylist",
+        "Ticketed guest"
+      ]
+    },
+    {
+      "name": "Cheese shop",
+      "roles": [
+        "Cheesemaker",
+        "Customer",
+        "Taster",
+        "Shopkeeper",
+        "Tourist",
+        "Farmer",
+        "Cashier",
+        "Gourmet"
+      ]
+    },
+    {
+      "name": "Disneyland Paris",
+      "roles": [
+        "Costumed character",
+        "Child",
+        "Parent",
+        "Ride operator",
+        "Vendor",
+        "Photographer",
+        "Tourist",
+        "Cashier"
+      ]
+    },
+    {
+      "name": "Arc de Triomphe",
+      "roles": [
+        "Tourist",
+        "Guide",
+        "Photographer",
+        "Souvenir vendor",
+        "Traffic officer",
+        "Cyclist",
+        "Newlyweds",
+        "Security guard"
+      ]
+    },
+    {
+      "name": "Fine dining restaurant",
+      "roles": [
+        "Head chef",
+        "Waiter",
+        "Host",
+        "Maître d'",
+        "Guest on a date",
+        "Pastry chef",
+        "Food critic",
+        "Hostess"
+      ]
+    }
+  ]
+}

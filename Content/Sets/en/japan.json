@@ -1,0 +1,188 @@
+{
+  "id": "japan",
+  "title": "Japan",
+  "locations": [
+    {
+      "name": "Mount Fuji",
+      "roles": [
+        "Tourist",
+        "Climber",
+        "Guide",
+        "Photographer",
+        "Pilgrim",
+        "Station vendor",
+        "Trail warden",
+        "Cyclist"
+      ]
+    },
+    {
+      "name": "Kyoto temple",
+      "roles": [
+        "Monk",
+        "Tourist",
+        "Guide",
+        "Pilgrim",
+        "Charm seller",
+        "Photographer",
+        "Garden keeper",
+        "Calligrapher"
+      ]
+    },
+    {
+      "name": "Shibuya Crossing",
+      "roles": [
+        "Pedestrian",
+        "Tourist",
+        "Traffic officer",
+        "Streamer with a camera",
+        "Businessman",
+        "Schoolgirl",
+        "Vendor",
+        "Promoter"
+      ]
+    },
+    {
+      "name": "Sushi restaurant",
+      "roles": [
+        "Sushi chef",
+        "Guest at the counter",
+        "Waiter",
+        "Tourist",
+        "Cook",
+        "Hostess",
+        "Regular customer",
+        "Apprentice chef"
+      ]
+    },
+    {
+      "name": "Zen rock garden",
+      "roles": [
+        "Monk",
+        "Tourist",
+        "Gardener",
+        "Meditating guest",
+        "Guide",
+        "Photographer",
+        "Painter",
+        "Attendant"
+      ]
+    },
+    {
+      "name": "Hot spring bathhouse",
+      "roles": [
+        "Guest in a towel",
+        "Bath attendant",
+        "Front desk clerk",
+        "Tourist",
+        "Masseur",
+        "Cleaner",
+        "Inn lodger",
+        "Elderly guest"
+      ]
+    },
+    {
+      "name": "Tea ceremony",
+      "roles": [
+        "Tea master",
+        "Guest",
+        "Student",
+        "Tourist",
+        "Calligrapher",
+        "Hostess",
+        "Musician",
+        "Assistant"
+      ]
+    },
+    {
+      "name": "Akihabara",
+      "roles": [
+        "Anime fan",
+        "Cosplayer",
+        "Figurine seller",
+        "Tourist",
+        "Gamer",
+        "Maid café promoter",
+        "Streamer",
+        "Cashier"
+      ]
+    },
+    {
+      "name": "Cherry blossom picnic",
+      "roles": [
+        "Tourist",
+        "Family on a picnic",
+        "Photographer",
+        "Dango vendor",
+        "Musician",
+        "Schoolkid",
+        "Painter",
+        "Couple under a tree"
+      ]
+    },
+    {
+      "name": "Samurai castle",
+      "roles": [
+        "Guide",
+        "Tourist",
+        "Samurai actor",
+        "Attendant",
+        "Reenactor",
+        "Photographer",
+        "Cashier",
+        "Historian"
+      ]
+    },
+    {
+      "name": "Fish market",
+      "roles": [
+        "Fishmonger",
+        "Cook",
+        "Buyer",
+        "Auctioneer",
+        "Tourist",
+        "Porter",
+        "Sushi chef",
+        "Taster"
+      ]
+    },
+    {
+      "name": "Bullet train",
+      "roles": [
+        "Conductor",
+        "Businessman passenger",
+        "Tourist",
+        "Train driver",
+        "Bento seller",
+        "Schoolkid",
+        "Cleaner",
+        "Ticket inspector"
+      ]
+    },
+    {
+      "name": "Kabuki theater",
+      "roles": [
+        "Actor",
+        "Spectator",
+        "Makeup artist",
+        "Musician",
+        "Usher",
+        "Costumer",
+        "Prompter",
+        "Guide"
+      ]
+    },
+    {
+      "name": "Capsule hotel",
+      "roles": [
+        "Front desk clerk",
+        "Lodger",
+        "Businessman",
+        "Tourist",
+        "Cleaner",
+        "Night porter",
+        "Capsule neighbor",
+        "Courier"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "china",
+  "title": "China",
+  "locations": [
+    {
+      "name": "Great Wall of China",
+      "roles": [
+        "Tourist",
+        "Tour guide",
+        "Souvenir vendor",
+        "Photographer",
+        "Caretaker",
+        "Porter",
+        "Schoolkid",
+        "Cyclist"
+      ]
+    },
+    {
+      "name": "Forbidden City",
+      "roles": [
+        "Tour guide",
+        "Tourist",
+        "Caretaker",
+        "Historian",
+        "Photographer",
+        "Ticket seller",
+        "Restorer",
+        "Schoolkid on a field trip"
+      ]
+    },
+    {
+      "name": "Tea plantation",
+      "roles": [
+        "Tea picker",
+        "Farmer",
+        "Taster",
+        "Tourist",
+        "Tour guide",
+        "Vendor",
+        "Tea master",
+        "Packer"
+      ]
+    },
+    {
+      "name": "Panda sanctuary",
+      "roles": [
+        "Keeper",
+        "Tourist",
+        "Veterinarian",
+        "Volunteer",
+        "Photographer",
+        "Tour guide",
+        "Biologist",
+        "Child"
+      ]
+    },
+    {
+      "name": "Street food market",
+      "roles": [
+        "Wok cook",
+        "Dumpling vendor",
+        "Customer",
+        "Tourist",
+        "Taster",
+        "Barker",
+        "Cashier",
+        "Courier"
+      ]
+    },
+    {
+      "name": "Hong Kong skyscrapers",
+      "roles": [
+        "Businessman",
+        "Tourist",
+        "Tour guide",
+        "Barista",
+        "Street vendor",
+        "Taxi driver",
+        "Courier",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Tea house",
+      "roles": [
+        "Tea master",
+        "Guest",
+        "Waiter",
+        "Musician",
+        "Tourist",
+        "Calligrapher",
+        "Owner",
+        "Apprentice"
+      ]
+    },
+    {
+      "name": "Shaolin Monastery",
+      "roles": [
+        "Fighting monk",
+        "Student",
+        "Kung fu master",
+        "Tourist",
+        "Tour guide",
+        "Spectator",
+        "Novice",
+        "Mentor"
+      ]
+    },
+    {
+      "name": "High-speed train",
+      "roles": [
+        "Conductor",
+        "Passenger",
+        "Tourist",
+        "Train driver",
+        "Vendor",
+        "Businessman",
+        "Cleaner",
+        "Ticket inspector"
+      ]
+    },
+    {
+      "name": "Suzhou garden",
+      "roles": [
+        "Gardener",
+        "Tourist",
+        "Tour guide",
+        "Painter",
+        "Photographer",
+        "Caretaker",
+        "Poet",
+        "Schoolkid"
+      ]
+    },
+    {
+      "name": "Peking duck restaurant",
+      "roles": [
+        "Cook",
+        "Waiter",
+        "Guest",
+        "Hostess",
+        "Tourist",
+        "Cashier",
+        "Duck carver",
+        "Regular customer"
+      ]
+    }
+  ]
+}

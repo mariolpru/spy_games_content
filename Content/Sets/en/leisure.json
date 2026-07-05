@@ -1,0 +1,227 @@
+{
+  "id": "leisure",
+  "title": "Leisure",
+  "locations": [
+    {
+      "name": "City park",
+      "roles": [
+        "Jogger",
+        "Cyclist",
+        "Mom with a stroller",
+        "Ice cream vendor",
+        "Street musician",
+        "Retiree on a bench",
+        "Dog walker",
+        "Boatman at the pond"
+      ]
+    },
+    {
+      "name": "Board game cafe",
+      "roles": [
+        "Guest at the game table",
+        "Host",
+        "Barista",
+        "Freelancer with a laptop",
+        "Group of friends",
+        "First-timer",
+        "Cleaner",
+        "Mafia player"
+      ]
+    },
+    {
+      "name": "Pool hall",
+      "roles": [
+        "Player",
+        "Scorekeeper",
+        "Cashier",
+        "Spectator",
+        "First-timer",
+        "Regular",
+        "Waiter",
+        "Manager"
+      ]
+    },
+    {
+      "name": "Fishing trip",
+      "roles": [
+        "Angler",
+        "Neighbor on the bank",
+        "Camper with a tent",
+        "Kid with a rod",
+        "Bait seller",
+        "Boatman",
+        "Mushroom forager",
+        "Vacationer"
+      ]
+    },
+    {
+      "name": "Sauna",
+      "roles": [
+        "Bather",
+        "Sauna master",
+        "Steam fan",
+        "Guest in the lounge",
+        "Receptionist",
+        "Group of friends",
+        "Masseur",
+        "Cleaner"
+      ]
+    },
+    {
+      "name": "Pottery studio",
+      "roles": [
+        "Potter",
+        "Apprentice",
+        "Instructor",
+        "First-timer",
+        "Receptionist",
+        "Workshop spectator",
+        "Cleaner",
+        "Glazer"
+      ]
+    },
+    {
+      "name": "Country house",
+      "roles": [
+        "Host at the grill",
+        "Guest",
+        "Kid in the hammock",
+        "Gardener",
+        "Neighbor over the fence",
+        "Barbecue cook",
+        "Pool cleaner",
+        "Vacationer"
+      ]
+    },
+    {
+      "name": "Picnic",
+      "roles": [
+        "Group on a blanket",
+        "Grill cook",
+        "Kid with a ball",
+        "Guitarist",
+        "Napper in a hammock",
+        "Cyclist",
+        "Dog walker",
+        "Ice cream vendor"
+      ]
+    },
+    {
+      "name": "Book club",
+      "roles": [
+        "Host",
+        "Member with a book",
+        "First-timer",
+        "Barista",
+        "Listener",
+        "Guest author",
+        "Organizer",
+        "The one who loves to argue"
+      ]
+    },
+    {
+      "name": "Yoga studio",
+      "roles": [
+        "Instructor",
+        "First-timer",
+        "Regular practitioner",
+        "Receptionist",
+        "Trial-class guest",
+        "Meditation lover",
+        "Cleaner",
+        "Latecomer"
+      ]
+    },
+    {
+      "name": "Botanical garden",
+      "roles": [
+        "Gardener",
+        "Tour guide",
+        "Visitor with a camera",
+        "Kid",
+        "Botanist",
+        "Ticket clerk",
+        "Artist with an easel",
+        "Couple in love"
+      ]
+    },
+    {
+      "name": "Planetarium",
+      "roles": [
+        "Lecturer",
+        "Spectator",
+        "Schoolkid on a field trip",
+        "Dome projector operator",
+        "Ticket clerk",
+        "Astronomer consultant",
+        "Kid with a parent",
+        "Cleaner"
+      ]
+    },
+    {
+      "name": "Chess club",
+      "roles": [
+        "Chess player",
+        "Coach",
+        "Beginner",
+        "Spectator",
+        "Referee",
+        "Grandmaster",
+        "Kid in class",
+        "Regular"
+      ]
+    },
+    {
+      "name": "Painting studio",
+      "roles": [
+        "Artist",
+        "Instructor",
+        "Model",
+        "Beginner",
+        "Spectator",
+        "Receptionist",
+        "Cleaner",
+        "Watercolor lover"
+      ]
+    },
+    {
+      "name": "Ropes course",
+      "roles": [
+        "Instructor",
+        "Participant on the course",
+        "Kid",
+        "Belayer",
+        "Watching parent",
+        "First-timer",
+        "Photographer",
+        "Manager"
+      ]
+    },
+    {
+      "name": "Cooking class",
+      "roles": [
+        "Head chef host",
+        "Participant",
+        "Assistant",
+        "Taster",
+        "First-timer",
+        "Spectator",
+        "Organizer",
+        "Cleaner"
+      ]
+    },
+    {
+      "name": "Dance studio",
+      "roles": [
+        "Choreographer",
+        "Student",
+        "Beginner",
+        "Accompanist",
+        "Spectator",
+        "Receptionist",
+        "Dance partner",
+        "Latecomer"
+      ]
+    }
+  ]
+}
