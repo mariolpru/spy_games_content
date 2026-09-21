@@ -44,6 +44,12 @@
       "version": 1
     },
     {
+      "id": "halloween",
+      "lang": "en",
+      "file": "en/halloween.json",
+      "version": 1
+    },
+    {
       "id": "italy",
       "lang": "en",
       "file": "en/italy.json",
@@ -59,6 +65,18 @@
       "id": "leisure",
       "lang": "en",
       "file": "en/leisure.json",
+      "version": 1
+    },
+    {
+      "id": "school-year",
+      "lang": "en",
+      "file": "en/school-year.json",
+      "version": 1
+    },
+    {
+      "id": "school",
+      "lang": "en",
+      "file": "en/school.json",
       "version": 1
     },
     {
@@ -83,6 +101,12 @@
       "id": "uk",
       "lang": "en",
       "file": "en/uk.json",
+      "version": 1
+    },
+    {
+      "id": "university",
+      "lang": "en",
+      "file": "en/university.json",
       "version": 1
     },
     {
@@ -140,6 +164,12 @@
       "version": 1
     },
     {
+      "id": "halloween",
+      "lang": "ru",
+      "file": "ru/halloween.json",
+      "version": 1
+    },
+    {
       "id": "italy",
       "lang": "ru",
       "file": "ru/italy.json",
@@ -170,6 +200,18 @@
       "version": 1
     },
     {
+      "id": "school-year",
+      "lang": "ru",
+      "file": "ru/school-year.json",
+      "version": 1
+    },
+    {
+      "id": "school",
+      "lang": "ru",
+      "file": "ru/school.json",
+      "version": 1
+    },
+    {
       "id": "space",
       "lang": "ru",
       "file": "ru/space.json",
@@ -191,6 +233,12 @@
       "id": "uk",
       "lang": "ru",
       "file": "ru/uk.json",
+      "version": 1
+    },
+    {
+      "id": "university",
+      "lang": "ru",
+      "file": "ru/university.json",
       "version": 1
     },
     {

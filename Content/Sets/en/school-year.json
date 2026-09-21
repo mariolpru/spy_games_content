@@ -1,0 +1,227 @@
+{
+  "id": "school-year",
+  "title": "School Year",
+  "locations": [
+    {
+      "name": "First day of school",
+      "roles": [
+        "First grader with a new backpack",
+        "Senior helping a first grader",
+        "Principal giving a speech",
+        "Parent with a camera",
+        "Teacher holding a class sign",
+        "Host",
+        "Kid with flowers",
+        "Guard at the gate"
+      ]
+    },
+    {
+      "name": "Parent-teacher conference",
+      "roles": [
+        "Homeroom teacher",
+        "PTA mom",
+        "Dad who came for the first time",
+        "Class treasurer",
+        "Late parent",
+        "Grandma filling in for parents",
+        "Vice principal",
+        "Parent with questions"
+      ]
+    },
+    {
+      "name": "Science fair",
+      "roles": [
+        "Kid with a volcano",
+        "Judge",
+        "Teacher on duty",
+        "Last year's winner",
+        "Parent who built the project",
+        "Straight-A student",
+        "Kid with a broken display",
+        "Kid explaining to the judges"
+      ]
+    },
+    {
+      "name": "Winter concert",
+      "roles": [
+        "Santa",
+        "Elf helper",
+        "Kid in a snowman costume",
+        "Kid in a snowflake costume",
+        "Parent with a phone",
+        "Teacher by the tree",
+        "Host",
+        "Kid reciting a poem"
+      ]
+    },
+    {
+      "name": "Field trip to the museum",
+      "roles": [
+        "Museum guide",
+        "Homeroom teacher",
+        "Kid who fell behind the group",
+        "Kid on the phone",
+        "Parent chaperone",
+        "Gallery attendant",
+        "Straight-A student with a notebook",
+        "Kid touching the exhibits"
+      ]
+    },
+    {
+      "name": "Class camping trip",
+      "roles": [
+        "Homeroom teacher",
+        "Kid with a guitar",
+        "Kid starting the campfire",
+        "Parent chaperone",
+        "Girl with a heavy backpack",
+        "Kitchen duty kid",
+        "Kid who lost a sneaker",
+        "Camp instructor"
+      ]
+    },
+    {
+      "name": "Graduation ceremony",
+      "roles": [
+        "Graduate in a gown",
+        "Valedictorian",
+        "Principal handing out diplomas",
+        "Homeroom teacher in tears",
+        "Parent with a bouquet",
+        "Photographer",
+        "Younger sibling",
+        "Kid who tripped on stage"
+      ]
+    },
+    {
+      "name": "Prom",
+      "roles": [
+        "Prom king",
+        "Prom queen",
+        "Guy in a rented tux",
+        "Girl in a new dress",
+        "DJ",
+        "Chaperone teacher",
+        "Photographer",
+        "Kid who came alone"
+      ]
+    },
+    {
+      "name": "School dance",
+      "roles": [
+        "DJ",
+        "Dancing kid",
+        "Kid by the wall",
+        "Chaperone teacher",
+        "Girl in a new dress",
+        "Security guard",
+        "Class president",
+        "Kid filming everything"
+      ]
+    },
+    {
+      "name": "Campus cleanup day",
+      "roles": [
+        "Facilities manager",
+        "Kid with a rake",
+        "Kid hiding behind a tree",
+        "Homeroom teacher",
+        "Principal with a shovel",
+        "Girl with a bag of leaves",
+        "Groundskeeper",
+        "Kid with a wheelbarrow"
+      ]
+    },
+    {
+      "name": "Bake sale",
+      "roles": [
+        "Kid behind the table",
+        "Parent shopper",
+        "Mom with homemade pies",
+        "Girl with crafts",
+        "Cashier",
+        "Teacher organizer",
+        "First grader with coins",
+        "Principal"
+      ]
+    },
+    {
+      "name": "Fire drill",
+      "roles": [
+        "Firefighter",
+        "Principal with a megaphone",
+        "Homeroom teacher with a roster",
+        "Kid without a jacket",
+        "Kid who forgot the backpack",
+        "Facilities manager",
+        "School nurse",
+        "Kid who didn't hear the alarm"
+      ]
+    },
+    {
+      "name": "Picture day",
+      "roles": [
+        "Photographer",
+        "Kid in the front row",
+        "Girl with a fancy hairdo",
+        "Homeroom teacher",
+        "Kid who blinked",
+        "Latecomer",
+        "Kid making faces",
+        "Photographer's assistant"
+      ]
+    },
+    {
+      "name": "Final exams",
+      "roles": [
+        "Senior",
+        "Proctor",
+        "Exam room supervisor",
+        "Kid with a calculator",
+        "Kid who forgot the ID",
+        "Guard at the metal detector",
+        "Parent waiting outside",
+        "Straight-A student"
+      ]
+    },
+    {
+      "name": "Homecoming game",
+      "roles": [
+        "Quarterback",
+        "Cheerleader",
+        "Marching band drummer",
+        "Fan with face paint",
+        "Coach",
+        "Mascot",
+        "Hot dog vendor",
+        "Homecoming queen"
+      ]
+    },
+    {
+      "name": "School play",
+      "roles": [
+        "Drama teacher",
+        "Lead actor",
+        "Prompter",
+        "Kid in a tree costume",
+        "Lighting tech",
+        "Costume designer",
+        "Parent in the audience",
+        "Actor who forgot the lines"
+      ]
+    },
+    {
+      "name": "Spelling bee",
+      "roles": [
+        "Contestant",
+        "Pronouncer",
+        "Judge",
+        "Nervous parent",
+        "Last year's champion",
+        "Kid who misspelled a word",
+        "Host",
+        "Kid mouthing the letters"
+      ]
+    }
+  ]
+}

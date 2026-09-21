@@ -1,0 +1,266 @@
+{
+  "id": "halloween",
+  "title": "Halloween",
+  "locations": [
+    {
+      "name": "Haunted house attraction",
+      "roles": [
+        "Ghost actor",
+        "Ticket seller",
+        "Visitor",
+        "Makeup artist",
+        "Security guard",
+        "Teenager on a dare",
+        "Special effects tech",
+        "Mom holding a kid's hand"
+      ]
+    },
+    {
+      "name": "Pumpkin patch",
+      "roles": [
+        "Farmer",
+        "Kid with a wagon",
+        "Mom with a camera",
+        "Hot cocoa vendor",
+        "Tractor driver",
+        "Scarecrow entertainer",
+        "Blogger",
+        "Shopper hunting the biggest pumpkin"
+      ]
+    },
+    {
+      "name": "Old cemetery",
+      "roles": [
+        "Caretaker",
+        "Night tour guide",
+        "Ghost hunter",
+        "Tourist with a flashlight",
+        "Historian",
+        "Gardener",
+        "Teenager on a dare",
+        "Actor in a ghost costume"
+      ]
+    },
+    {
+      "name": "Dracula's castle",
+      "roles": [
+        "Count Dracula",
+        "Butler",
+        "Dinner guest",
+        "Chambermaid",
+        "Coachman",
+        "Vampire hunter",
+        "Lost traveler",
+        "Castle chronicler"
+      ]
+    },
+    {
+      "name": "Mad scientist's lab",
+      "roles": [
+        "Mad scientist",
+        "Assistant",
+        "Monster on the table",
+        "Electrician",
+        "Cleaner",
+        "Inspector",
+        "Reporter",
+        "Volunteer test subject"
+      ]
+    },
+    {
+      "name": "Costume shop",
+      "roles": [
+        "Shop clerk",
+        "Shopper",
+        "Kid in the fitting room",
+        "Makeup artist",
+        "Cashier",
+        "Mom with three kids",
+        "Teenager",
+        "Stockroom worker"
+      ]
+    },
+    {
+      "name": "Trick-or-treat street",
+      "roles": [
+        "Kid dressed as a ghost",
+        "Kid dressed as a witch",
+        "Dad with a flashlight",
+        "Neighbor with a candy bowl",
+        "Teen with a pillowcase",
+        "Grandma at the door",
+        "Older brother chaperone",
+        "Homeowner with decorations"
+      ]
+    },
+    {
+      "name": "Egyptian tomb exhibit",
+      "roles": [
+        "Archaeologist",
+        "Actor in a mummy costume",
+        "Museum guide",
+        "Tourist",
+        "Security guard",
+        "Restorer",
+        "Schoolkid on a field trip",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Abandoned mansion",
+      "roles": [
+        "Realtor",
+        "Ghost hunter",
+        "Blogger",
+        "Electrician",
+        "Caretaker",
+        "Teenager on a dare",
+        "Ghost actor",
+        "Neighbor with a pie"
+      ]
+    },
+    {
+      "name": "Candy store",
+      "roles": [
+        "Confectioner",
+        "Kid with a piggy bank",
+        "Shopkeeper",
+        "Taste tester",
+        "Delivery courier",
+        "Mom with a list",
+        "Dentist buying candy",
+        "Window dresser"
+      ]
+    },
+    {
+      "name": "Fortune teller's parlor",
+      "roles": [
+        "Fortune teller",
+        "Client",
+        "Skeptic",
+        "Apprentice",
+        "Photographer",
+        "Nosy neighbor",
+        "Trick debunker",
+        "Young medium"
+      ]
+    },
+    {
+      "name": "Horror movie night",
+      "roles": [
+        "Viewer under a blanket",
+        "Usher",
+        "Popcorn seller",
+        "Projectionist",
+        "Couple on a date",
+        "Viewer who fell asleep",
+        "Film critic",
+        "Teen on the phone"
+      ]
+    },
+    {
+      "name": "Wax museum",
+      "roles": [
+        "Night watchman",
+        "Actor posing as a wax figure",
+        "Sculptor",
+        "Tourist",
+        "Kid",
+        "Restorer",
+        "Tour guide",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Haunted hayride",
+      "roles": [
+        "Tractor driver",
+        "Rider",
+        "Scarecrow actor",
+        "Ticket taker",
+        "Kid clutching a blanket",
+        "Teen screaming for fun",
+        "Farm owner",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Halloween party",
+      "roles": [
+        "Host",
+        "Guest dressed as a skeleton",
+        "Guest dressed as a pumpkin",
+        "DJ",
+        "Kid with a candy bucket",
+        "Guest bobbing for apples",
+        "Photographer",
+        "Neighbor complaining about the noise"
+      ]
+    },
+    {
+      "name": "Witch's house",
+      "roles": [
+        "Witch",
+        "Witch's apprentice",
+        "Lost kid",
+        "Delivery courier",
+        "Neighbor with a pie",
+        "Herb gatherer",
+        "Guest for tea",
+        "Broom repairman"
+      ]
+    },
+    {
+      "name": "Gingerbread house",
+      "roles": [
+        "Witch",
+        "Hansel",
+        "Gretel",
+        "Lost hiker",
+        "Woodcutter",
+        "Candy delivery courier",
+        "Kid nibbling the wall",
+        "Gingerbread baker"
+      ]
+    },
+    {
+      "name": "Ghost ship",
+      "roles": [
+        "Ghost captain",
+        "Cabin boy",
+        "Boatswain",
+        "Treasure hunter",
+        "Lost fisherman",
+        "Navigator with a map",
+        "Ship's cook",
+        "Captive in the hold"
+      ]
+    },
+    {
+      "name": "Abandoned amusement park",
+      "roles": [
+        "Watchman",
+        "Blogger",
+        "Teenager on a dare",
+        "Ferris wheel mechanic",
+        "Former ticket seller",
+        "Photographer",
+        "Lost tourist",
+        "Clown actor"
+      ]
+    },
+    {
+      "name": "Old house attic",
+      "roles": [
+        "Grandma with a trunk",
+        "Grandson with a flashlight",
+        "Electrician",
+        "Antique dealer",
+        "Mom with boxes",
+        "Kid in grandma's dress",
+        "Grandpa with a photo album",
+        "Roofer"
+      ]
+    }
+  ]
+}

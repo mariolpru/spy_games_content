@@ -1,0 +1,279 @@
+{
+  "id": "school",
+  "title": "School",
+  "locations": [
+    {
+      "name": "Physics lab",
+      "roles": [
+        "Physics teacher",
+        "Lab assistant",
+        "Kid at the whiteboard",
+        "Kid with a spring scale",
+        "Straight-A student",
+        "Student on cleanup duty",
+        "Kid with a burnt-out bulb",
+        "Kid with a cheat sheet"
+      ]
+    },
+    {
+      "name": "Cafeteria",
+      "roles": [
+        "Cook",
+        "Lunch lady",
+        "Student on cleanup duty",
+        "Kid with a tray",
+        "Teacher on lunch duty",
+        "First grader",
+        "Senior cutting the line",
+        "Dishwasher"
+      ]
+    },
+    {
+      "name": "Gym class",
+      "roles": [
+        "PE teacher",
+        "Kid climbing the rope",
+        "Kid with a doctor's note",
+        "Team captain",
+        "Girl with a hula hoop",
+        "Kid who forgot gym clothes",
+        "Latecomer",
+        "Kid with a ball"
+      ]
+    },
+    {
+      "name": "Principal's office",
+      "roles": [
+        "Principal",
+        "Secretary",
+        "Kid in trouble",
+        "Parent",
+        "Vice principal",
+        "Homeroom teacher",
+        "District inspector",
+        "Honor student getting an award"
+      ]
+    },
+    {
+      "name": "Chemistry lab",
+      "roles": [
+        "Chemistry teacher",
+        "Lab assistant",
+        "Kid at the fume hood",
+        "Kid in safety goggles",
+        "Straight-A student",
+        "Startled student",
+        "Student on cleanup duty",
+        "Kid who dropped a test tube"
+      ]
+    },
+    {
+      "name": "School library",
+      "roles": [
+        "Librarian",
+        "Kid picking up textbooks",
+        "Reader at a desk",
+        "Kid with an overdue book",
+        "First grader",
+        "Library helper",
+        "English teacher",
+        "Kid asleep on a book"
+      ]
+    },
+    {
+      "name": "Teachers' lounge",
+      "roles": [
+        "Vice principal",
+        "Math teacher",
+        "PE teacher",
+        "Homeroom teacher",
+        "First-year teacher",
+        "School counselor",
+        "Custodian",
+        "Kid called in for a talk"
+      ]
+    },
+    {
+      "name": "Locker room",
+      "roles": [
+        "Student",
+        "Kid who forgot sneakers",
+        "Kid on cleanup duty",
+        "PE teacher at the door",
+        "Latecomer",
+        "Kid on the phone",
+        "Owner of the lost sock",
+        "Team captain"
+      ]
+    },
+    {
+      "name": "Auditorium",
+      "roles": [
+        "Host",
+        "Student performer",
+        "Principal in the front row",
+        "Sound tech",
+        "Choir member",
+        "Parent with a camera",
+        "Kid who forgot the lines",
+        "Facilities manager"
+      ]
+    },
+    {
+      "name": "Nurse's office",
+      "roles": [
+        "School nurse",
+        "Kid with a scraped knee",
+        "Faker",
+        "First grader getting a shot",
+        "Teacher escorting a student",
+        "Girl with a headache",
+        "Doctor",
+        "Kid scared of needles"
+      ]
+    },
+    {
+      "name": "Woodshop",
+      "roles": [
+        "Shop teacher",
+        "Kid with a hammer",
+        "Kid with a pattern",
+        "Kid with a finished stool",
+        "Student sweeping sawdust",
+        "Newbie",
+        "Facilities manager",
+        "Kid with a splinter"
+      ]
+    },
+    {
+      "name": "Computer lab",
+      "roles": [
+        "IT teacher",
+        "Secret gamer",
+        "Kid with a flash drive",
+        "Straight-A student",
+        "Sysadmin",
+        "Girl at the printer",
+        "Kid who forgot the password",
+        "Student on cleanup duty"
+      ]
+    },
+    {
+      "name": "Schoolyard",
+      "roles": [
+        "Security guard",
+        "Groundskeeper",
+        "Kid on a bench",
+        "First grader with a backpack",
+        "Parent at the gate",
+        "Facilities manager",
+        "PE teacher with a stopwatch",
+        "Truant"
+      ]
+    },
+    {
+      "name": "Hallway between classes",
+      "roles": [
+        "Hall monitor",
+        "Running kid",
+        "Teacher with a pointer",
+        "Senior by the window",
+        "First grader with a sandwich",
+        "Custodian with a mop",
+        "Vice principal",
+        "Kid on the phone"
+      ]
+    },
+    {
+      "name": "School bus",
+      "roles": [
+        "Bus driver",
+        "Kid in the back seat",
+        "First grader up front",
+        "Kid who missed the stop",
+        "Bus monitor",
+        "Kid with a huge project",
+        "Sleeping kid",
+        "Kid saving a seat"
+      ]
+    },
+    {
+      "name": "Music room",
+      "roles": [
+        "Music teacher",
+        "Soloist",
+        "Kid with a flute",
+        "Choir member",
+        "Accompanist",
+        "Kid with a tambourine",
+        "Off-key singer",
+        "Girl with a guitar"
+      ]
+    },
+    {
+      "name": "After-school program",
+      "roles": [
+        "Supervisor",
+        "First grader doing homework",
+        "Kid with building blocks",
+        "Mom picking up her kid",
+        "Kid waiting for dad",
+        "Helper",
+        "Babysitter",
+        "Kid finishing a snack"
+      ]
+    },
+    {
+      "name": "Biology lab",
+      "roles": [
+        "Biology teacher",
+        "Kid by the skeleton",
+        "Girl with a microscope",
+        "Kid watering the plants",
+        "Kid with a plant collection",
+        "Straight-A student",
+        "Kid scared of frogs",
+        "Lab assistant"
+      ]
+    },
+    {
+      "name": "Football field",
+      "roles": [
+        "PE teacher",
+        "Runner",
+        "Referee",
+        "Fan in the bleachers",
+        "Kid running the fitness test",
+        "Kid with a doctor's note",
+        "Coach",
+        "Team medic"
+      ]
+    },
+    {
+      "name": "Detention room",
+      "roles": [
+        "Detention teacher",
+        "Kid who was late",
+        "Kid who talked back",
+        "Kid doing homework",
+        "Sleeping kid",
+        "Note passer",
+        "Honor student here by mistake",
+        "Custodian"
+      ]
+    },
+    {
+      "name": "First-grade classroom",
+      "roles": [
+        "Teacher",
+        "First grader with a reader",
+        "Kid who forgot the pencil case",
+        "Crying kid",
+        "Mom outside the door",
+        "Girl with pigtails",
+        "Kid chewing gum",
+        "Line leader"
+      ]
+    }
+  ]
+}

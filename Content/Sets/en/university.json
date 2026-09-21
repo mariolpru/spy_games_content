@@ -1,0 +1,227 @@
+{
+  "id": "university",
+  "title": "University",
+  "locations": [
+    {
+      "name": "Lecture",
+      "roles": [
+        "Professor",
+        "Student in the front row",
+        "Student asleep in the back",
+        "Class rep with the attendance sheet",
+        "Note-taker",
+        "Latecomer",
+        "Student with a laptop",
+        "Auditing student"
+      ]
+    },
+    {
+      "name": "Dorm room",
+      "roles": [
+        "Resident advisor",
+        "Freshman with a suitcase",
+        "Roommate",
+        "Student with a guitar",
+        "Front desk attendant",
+        "Student with a pot",
+        "International student",
+        "Student looking for an iron"
+      ]
+    },
+    {
+      "name": "Dining hall",
+      "roles": [
+        "Cashier",
+        "Student with a tray",
+        "Professor",
+        "Cook",
+        "Student counting change",
+        "Girl with a salad",
+        "Cleaner",
+        "Student cutting the line"
+      ]
+    },
+    {
+      "name": "Final exam",
+      "roles": [
+        "Professor",
+        "Student picking an exam question",
+        "Straight-A student",
+        "Student with a cheat sheet",
+        "Student cramming at the door",
+        "Teaching assistant",
+        "Class rep",
+        "Student with a grade book"
+      ]
+    },
+    {
+      "name": "Thesis defense",
+      "roles": [
+        "Candidate",
+        "Thesis advisor",
+        "Committee chair",
+        "Reviewer",
+        "Committee member",
+        "Classmate in the audience",
+        "Secretary",
+        "Parent in the back row"
+      ]
+    },
+    {
+      "name": "Library",
+      "roles": [
+        "Librarian",
+        "Student with a stack of books",
+        "Student cramming before finals",
+        "Grad student",
+        "Student asleep at a desk",
+        "Reader with headphones",
+        "Security guard",
+        "Student looking for an outlet"
+      ]
+    },
+    {
+      "name": "Research lab",
+      "roles": [
+        "Lab tech",
+        "Grad student",
+        "Student with a test tube",
+        "Professor",
+        "Student in a lab coat",
+        "Student who broke the equipment",
+        "Technician",
+        "Intern"
+      ]
+    },
+    {
+      "name": "Admissions office",
+      "roles": [
+        "Applicant",
+        "Admissions officer",
+        "Applicant's parent",
+        "Student volunteer",
+        "Head of admissions",
+        "Applicant with a gold medal",
+        "Applicant with a document folder",
+        "Security guard"
+      ]
+    },
+    {
+      "name": "Dean's office",
+      "roles": [
+        "Dean",
+        "Dean's secretary",
+        "Student asking for a certificate",
+        "Student with failed exams",
+        "Group advisor",
+        "Girl with an application",
+        "Associate dean",
+        "Student getting reinstated"
+      ]
+    },
+    {
+      "name": "Campus talent show",
+      "roles": [
+        "Host",
+        "Singer",
+        "Dancer",
+        "Sound tech",
+        "Judge",
+        "Student who forgot the lyrics",
+        "Photographer",
+        "Fan from the department"
+      ]
+    },
+    {
+      "name": "Exam retake",
+      "roles": [
+        "Professor",
+        "Student who failed",
+        "Student retaking for the third time",
+        "Class rep",
+        "Teaching assistant",
+        "Student waiting at the door",
+        "Department secretary",
+        "Straight-A student tagging along"
+      ]
+    },
+    {
+      "name": "All-nighter before the exam",
+      "roles": [
+        "Student with coffee",
+        "Girl with lecture notes",
+        "First-time textbook reader",
+        "Roommate",
+        "Student asleep on the textbook",
+        "Student watching a recorded lecture",
+        "Student phoning the class genius",
+        "Student ironing a shirt"
+      ]
+    },
+    {
+      "name": "Graduation ceremony",
+      "roles": [
+        "Graduate in a gown",
+        "University president",
+        "Dean",
+        "Parent with flowers",
+        "Photographer",
+        "Graduate with honors",
+        "Classmate",
+        "Band musician"
+      ]
+    },
+    {
+      "name": "Department office",
+      "roles": [
+        "Department head",
+        "Lab tech",
+        "Grad student",
+        "Associate professor",
+        "Secretary",
+        "Student with a term paper",
+        "Professor",
+        "Curriculum coordinator"
+      ]
+    },
+    {
+      "name": "8 a.m. class",
+      "roles": [
+        "Professor",
+        "Latecomer",
+        "Girl with coffee",
+        "Sleeping student",
+        "Class rep",
+        "Student with a laptop",
+        "Student finishing breakfast",
+        "Student on cleanup duty"
+      ]
+    },
+    {
+      "name": "Dorm kitchen",
+      "roles": [
+        "Student with pasta",
+        "Girl with a kettle",
+        "Neighbor borrowing salt",
+        "Resident advisor on inspection",
+        "Student who forgot the pot",
+        "Exchange student with a home dish",
+        "Kitchen duty student",
+        "Student washing dishes"
+      ]
+    },
+    {
+      "name": "Copy shop",
+      "roles": [
+        "Copy shop clerk",
+        "Student with a term paper",
+        "Student with a jammed page",
+        "Professor with handouts",
+        "Girl with a flash drive",
+        "Student without change",
+        "Freshman with a schedule",
+        "Grad student with a thesis"
+      ]
+    }
+  ]
+}
