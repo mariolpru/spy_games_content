@@ -1,0 +1,227 @@
+{
+  "id": "school-year",
+  "title": "Curso escolar",
+  "locations": [
+    {
+      "name": "Primer día de clase",
+      "roles": [
+        "Alumno de primero con mochila nueva",
+        "Mayor acompañando a un pequeño",
+        "Director dando un discurso",
+        "Padre con una cámara",
+        "Profesor con el cartel de la clase",
+        "Presentador",
+        "Niño con flores para la maestra",
+        "Conserje en la verja"
+      ]
+    },
+    {
+      "name": "Reunión de padres",
+      "roles": [
+        "Tutor",
+        "Madre de la asociación de padres",
+        "Padre que viene por primera vez",
+        "Tesorero de la clase",
+        "Padre que llega tarde",
+        "Abuela que viene en lugar de los padres",
+        "Jefe de estudios",
+        "Madre con muchas preguntas"
+      ]
+    },
+    {
+      "name": "Feria de ciencias",
+      "roles": [
+        "Niño con un volcán",
+        "Miembro del jurado",
+        "Profesor de guardia",
+        "Ganador del año pasado",
+        "Padre que montó el proyecto",
+        "Empollón de la clase",
+        "Niño con la maqueta rota",
+        "Niño explicando al jurado"
+      ]
+    },
+    {
+      "name": "Festival de Navidad",
+      "roles": [
+        "Niño disfrazado de pastor",
+        "Niña cantando villancicos",
+        "Profesora al piano",
+        "Padre grabando con el móvil",
+        "Presentador",
+        "Niño recitando un poema",
+        "Niño disfrazado de copo de nieve",
+        "Niño disfrazado de Rey Mago"
+      ]
+    },
+    {
+      "name": "Excursión al museo",
+      "roles": [
+        "Guía del museo",
+        "Tutor",
+        "Niño que se quedó atrás",
+        "Alumno con el teléfono",
+        "Padre acompañante",
+        "Vigilante de sala",
+        "Empollón con un cuaderno",
+        "Niño tocando las vitrinas"
+      ]
+    },
+    {
+      "name": "Granja escuela",
+      "roles": [
+        "Monitor",
+        "Tutor",
+        "Niño dando de comer a las gallinas",
+        "Niña con botas de goma",
+        "Padre acompañante",
+        "Niño encargado de la cocina",
+        "Niño que perdió una zapatilla",
+        "Niño con una guitarra"
+      ]
+    },
+    {
+      "name": "Graduación",
+      "roles": [
+        "Graduado con la banda",
+        "Alumno que da el discurso",
+        "Director entregando diplomas",
+        "Tutora emocionada",
+        "Padre con un ramo",
+        "Fotógrafo",
+        "Hermano pequeño",
+        "Alumno que tropezó en el escenario"
+      ]
+    },
+    {
+      "name": "Cena de fin de curso",
+      "roles": [
+        "Alumno con traje prestado",
+        "Alumna con vestido nuevo",
+        "DJ",
+        "Profesor acompañante",
+        "Fotógrafo",
+        "Alumno que vino solo",
+        "Camarero",
+        "Delegado de clase"
+      ]
+    },
+    {
+      "name": "Fiesta de Carnaval",
+      "roles": [
+        "Niño disfrazado de superhéroe",
+        "Niña disfrazada de bruja",
+        "Profesor disfrazado",
+        "DJ",
+        "Padre con confeti",
+        "Niño sin disfraz",
+        "Fotógrafo",
+        "Miembro del jurado de disfraces"
+      ]
+    },
+    {
+      "name": "Huerto escolar",
+      "roles": [
+        "Conserje",
+        "Niño con un rastrillo",
+        "Niño escondido detrás de un árbol",
+        "Tutor",
+        "Director con una pala",
+        "Niña con una bolsa de hojas",
+        "Jardinero",
+        "Niño con una carretilla"
+      ]
+    },
+    {
+      "name": "Mercadillo solidario",
+      "roles": [
+        "Niño detrás de la mesa",
+        "Padre comprando",
+        "Madre con bizcochos caseros",
+        "Niña con manualidades",
+        "Cajero",
+        "Profesora organizadora",
+        "Niño de primero con monedas",
+        "Director"
+      ]
+    },
+    {
+      "name": "Simulacro de incendio",
+      "roles": [
+        "Bombero",
+        "Director con un megáfono",
+        "Tutor con la lista",
+        "Niño sin abrigo",
+        "Niño que olvidó la mochila",
+        "Conserje",
+        "Enfermera del colegio",
+        "Niño que no oyó la alarma"
+      ]
+    },
+    {
+      "name": "Día de la foto de clase",
+      "roles": [
+        "Fotógrafo",
+        "Niño de la primera fila",
+        "Niña con un peinado nuevo",
+        "Tutor",
+        "Niño que parpadeó",
+        "El que llega tarde",
+        "Niño haciendo muecas",
+        "Ayudante del fotógrafo"
+      ]
+    },
+    {
+      "name": "Exámenes finales",
+      "roles": [
+        "Alumno de último curso",
+        "Profesor que vigila",
+        "Responsable del aula",
+        "Alumno con calculadora",
+        "Alumno que olvidó el carné",
+        "Conserje en la puerta",
+        "Padre esperando fuera",
+        "Empollón de la clase"
+      ]
+    },
+    {
+      "name": "Jornada deportiva",
+      "roles": [
+        "Profesor de educación física",
+        "Corredor",
+        "Árbitro",
+        "Aficionado con la cara pintada",
+        "Entrenador",
+        "Mascota del colegio",
+        "Vendedor de bocadillos",
+        "Ganador de la carrera"
+      ]
+    },
+    {
+      "name": "Obra de teatro del colegio",
+      "roles": [
+        "Profesor de teatro",
+        "Actor protagonista",
+        "Apuntador",
+        "Niño disfrazado de árbol",
+        "Técnico de luces",
+        "Diseñadora de vestuario",
+        "Padre entre el público",
+        "Actor que olvidó su frase"
+      ]
+    },
+    {
+      "name": "Día del libro",
+      "roles": [
+        "Niño disfrazado de personaje",
+        "Profesora leyendo en voz alta",
+        "Bibliotecaria",
+        "Autor invitado",
+        "Niño con un marcapáginas hecho a mano",
+        "Miembro del jurado",
+        "Alumno recitando",
+        "Padre entre el público"
+      ]
+    }
+  ]
+}

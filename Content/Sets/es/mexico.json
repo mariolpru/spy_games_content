@@ -1,0 +1,266 @@
+{
+  "id": "mexico",
+  "title": "México de cada día",
+  "locations": [
+    {
+      "name": "Mercado de la ciudad",
+      "roles": [
+        "Vendedor del puesto",
+        "Señora de las tortillas",
+        "Cliente con bolsa del mandado",
+        "Carnicero",
+        "Frutero",
+        "Cargador con diablito",
+        "Niño ayudando en el puesto",
+        "Vendedora de flores"
+      ]
+    },
+    {
+      "name": "Puesto de tacos",
+      "roles": [
+        "Taquero",
+        "Cliente de pie",
+        "Encargado del trompo",
+        "Repartidor",
+        "Vecino habitual",
+        "Niño con un refresco",
+        "Cajero",
+        "Señora de las salsas"
+      ]
+    },
+    {
+      "name": "Zócalo",
+      "roles": [
+        "Turista",
+        "Danzante prehispánico",
+        "Vendedor de globos",
+        "Policía",
+        "Organillero",
+        "Fotógrafo",
+        "Guía",
+        "Niño con algodón de azúcar"
+      ]
+    },
+    {
+      "name": "Día de Muertos",
+      "roles": [
+        "Familia junto al altar",
+        "Niño disfrazado de catrín",
+        "Vendedora de pan de muerto",
+        "Músico",
+        "Vecina adornando con cempasúchil",
+        "Fotógrafo",
+        "Sepulturero",
+        "Abuela rezando"
+      ]
+    },
+    {
+      "name": "Posada navideña",
+      "roles": [
+        "Anfitriona",
+        "Niño con la piñata",
+        "Vecino cantando la letanía",
+        "Cocinera de los tamales",
+        "Niño con bolsita de dulces",
+        "Músico",
+        "Invitado que llega tarde",
+        "Abuelo repartiendo ponche"
+      ]
+    },
+    {
+      "name": "Lucha libre",
+      "roles": [
+        "Luchador enmascarado",
+        "Réferi",
+        "Aficionado gritando",
+        "Vendedor de palomitas",
+        "Comentarista",
+        "Niño con máscara",
+        "Fotógrafo",
+        "Médico del ring"
+      ]
+    },
+    {
+      "name": "Xochimilco",
+      "roles": [
+        "Trajinero",
+        "Familia en la trajinera",
+        "Mariachi flotante",
+        "Vendedora de elotes",
+        "Turista",
+        "Fotógrafo",
+        "Niño saludando",
+        "Vendedor de artesanías"
+      ]
+    },
+    {
+      "name": "Fiesta de quince años",
+      "roles": [
+        "La quinceañera",
+        "Chambelán",
+        "Madrina",
+        "Fotógrafo",
+        "DJ",
+        "Abuela emocionada",
+        "Mesero",
+        "Primo pequeño"
+      ]
+    },
+    {
+      "name": "Pirámides de Teotihuacán",
+      "roles": [
+        "Guía",
+        "Turista",
+        "Vendedor de artesanías",
+        "Arqueólogo",
+        "Fotógrafo",
+        "Escolar de excursión",
+        "Guarda del sitio",
+        "Ciclista"
+      ]
+    },
+    {
+      "name": "Cancha de fútbol llanero",
+      "roles": [
+        "Jugador",
+        "Portero",
+        "Árbitro",
+        "Aficionado",
+        "Entrenador",
+        "Vendedor de aguas frescas",
+        "Niño recogiendo el balón",
+        "Dueño de la cancha"
+      ]
+    },
+    {
+      "name": "Cenote en Yucatán",
+      "roles": [
+        "Guía",
+        "Nadador",
+        "Instructor de buceo",
+        "Turista",
+        "Vendedor de agua",
+        "Fotógrafo",
+        "Biólogo",
+        "Niño que salta desde la orilla"
+      ]
+    },
+    {
+      "name": "Fonda de la esquina",
+      "roles": [
+        "Cocinera",
+        "Mesera",
+        "Cliente de la comida corrida",
+        "Repartidor",
+        "Cajero",
+        "Vecino habitual",
+        "Ayudante de cocina",
+        "Estudiante con prisa"
+      ]
+    },
+    {
+      "name": "Mariachis de la plaza",
+      "roles": [
+        "Mariachi con trompeta",
+        "Cantante",
+        "Cliente que pide una canción",
+        "Turista",
+        "Vendedor de flores",
+        "Fotógrafo",
+        "Pareja celebrando",
+        "Policía"
+      ]
+    },
+    {
+      "name": "Metro de la Ciudad de México",
+      "roles": [
+        "Pasajero de pie",
+        "Vendedor ambulante del vagón",
+        "Policía",
+        "Estudiante con audífonos",
+        "Turista con mapa",
+        "Madre con carriola",
+        "Músico del vagón",
+        "Conductor"
+      ]
+    },
+    {
+      "name": "Playa de Tulum",
+      "roles": [
+        "Socorrista",
+        "Turista",
+        "Vendedor de cocos",
+        "Instructor de yoga",
+        "Fotógrafo",
+        "Niño con una cubeta",
+        "Pescador",
+        "Mesero del chiringuito"
+      ]
+    },
+    {
+      "name": "Rancho ganadero",
+      "roles": [
+        "Charro",
+        "Vaquero",
+        "Dueño del rancho",
+        "Ordeñadora",
+        "Veterinario",
+        "Niño en el corral",
+        "Cocinera del rancho",
+        "Herrador"
+      ]
+    },
+    {
+      "name": "Feria del pueblo",
+      "roles": [
+        "Vendedor de churros",
+        "Niño en los juegos mecánicos",
+        "Charro de la charreada",
+        "Vendedora de antojitos",
+        "Músico de banda",
+        "Abuela sentada",
+        "Encargado de la rueda de la fortuna",
+        "Adolescente con un peluche"
+      ]
+    },
+    {
+      "name": "Escuela primaria",
+      "roles": [
+        "Maestra",
+        "Alumno con uniforme",
+        "Director",
+        "Conserje",
+        "Niño en honores a la bandera",
+        "Mamá en la puerta",
+        "Vendedora de la cooperativa",
+        "Niño en el recreo"
+      ]
+    },
+    {
+      "name": "Mercado de artesanías de Oaxaca",
+      "roles": [
+        "Artesano del barro negro",
+        "Tejedora",
+        "Turista",
+        "Cliente regateando",
+        "Vendedor de alebrijes",
+        "Guía",
+        "Fotógrafo",
+        "Niño ayudando"
+      ]
+    },
+    {
+      "name": "Tianguis del barrio",
+      "roles": [
+        "Vendedor del tianguis",
+        "Cliente con carrito",
+        "Vendedor de fruta",
+        "Cargador",
+        "Señora que regatea",
+        "Niño ayudando",
+        "Vendedor de discos",
+        "Barrendero al final del día"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "id": "school",
+  "title": "Colegio",
+  "locations": [
+    {
+      "name": "Clase de física",
+      "roles": [
+        "Profesor de física",
+        "Ayudante de laboratorio",
+        "Alumno en la pizarra",
+        "Alumno con un dinamómetro",
+        "Empollón de la clase",
+        "Encargado de recoger el aula",
+        "Alumno con una bombilla fundida",
+        "Alumno con una chuleta"
+      ]
+    },
+    {
+      "name": "Comedor del colegio",
+      "roles": [
+        "Cocinero",
+        "Señora del comedor",
+        "Encargado de recoger las bandejas",
+        "Niño con la bandeja",
+        "Profesor de turno",
+        "Alumno de primero",
+        "Mayor que se cuela en la fila",
+        "Friegaplatos"
+      ]
+    },
+    {
+      "name": "Clase de educación física",
+      "roles": [
+        "Profesor de educación física",
+        "Niño trepando por la cuerda",
+        "Alumno con justificante médico",
+        "Capitán del equipo",
+        "Niña con un aro",
+        "Alumno que olvidó la ropa de deporte",
+        "El que llega tarde",
+        "Niño con un balón"
+      ]
+    },
+    {
+      "name": "Despacho del director",
+      "roles": [
+        "Director",
+        "Secretaria",
+        "Alumno castigado",
+        "Padre de un alumno",
+        "Jefe de estudios",
+        "Tutor",
+        "Inspector de educación",
+        "Alumno que recibe un premio"
+      ]
+    },
+    {
+      "name": "Laboratorio de química",
+      "roles": [
+        "Profesor de química",
+        "Ayudante de laboratorio",
+        "Alumno en la campana extractora",
+        "Alumno con gafas de protección",
+        "Empollón de la clase",
+        "Alumno asustado",
+        "Encargado de recoger",
+        "Alumno que rompió un tubo de ensayo"
+      ]
+    },
+    {
+      "name": "Biblioteca del colegio",
+      "roles": [
+        "Bibliotecario",
+        "Alumno recogiendo libros de texto",
+        "Lector en una mesa",
+        "Alumno con un libro sin devolver",
+        "Alumno de primero",
+        "Ayudante de biblioteca",
+        "Profesora de lengua",
+        "Alumno dormido sobre un libro"
+      ]
+    },
+    {
+      "name": "Sala de profesores",
+      "roles": [
+        "Jefe de estudios",
+        "Profesor de matemáticas",
+        "Profesor de educación física",
+        "Tutor",
+        "Profesora recién llegada",
+        "Orientador",
+        "Conserje",
+        "Alumno llamado a hablar"
+      ]
+    },
+    {
+      "name": "Vestuario",
+      "roles": [
+        "Alumno",
+        "Alumno que olvidó las zapatillas",
+        "Encargado de recoger",
+        "Profesor en la puerta",
+        "El que llega tarde",
+        "Alumno con el teléfono",
+        "Dueño del calcetín perdido",
+        "Capitán del equipo"
+      ]
+    },
+    {
+      "name": "Salón de actos",
+      "roles": [
+        "Presentador",
+        "Alumno que actúa",
+        "Director en primera fila",
+        "Técnico de sonido",
+        "Miembro del coro",
+        "Padre con una cámara",
+        "Alumno que olvidó su frase",
+        "Conserje"
+      ]
+    },
+    {
+      "name": "Enfermería",
+      "roles": [
+        "Enfermera del colegio",
+        "Niño con la rodilla raspada",
+        "El que finge estar malo",
+        "Alumno de primero vacunándose",
+        "Profesor acompañando a un alumno",
+        "Niña con dolor de cabeza",
+        "Médico",
+        "Niño con miedo a las agujas"
+      ]
+    },
+    {
+      "name": "Taller de tecnología",
+      "roles": [
+        "Profesor de tecnología",
+        "Alumno con un martillo",
+        "Alumno con un plano",
+        "Alumno con un taburete terminado",
+        "Alumno barriendo serrín",
+        "Novato",
+        "Conserje",
+        "Alumno con una astilla"
+      ]
+    },
+    {
+      "name": "Aula de informática",
+      "roles": [
+        "Profesor de informática",
+        "Alumno jugando a escondidas",
+        "Alumno con un pendrive",
+        "Empollón de la clase",
+        "Administrador de sistemas",
+        "Niña en la impresora",
+        "Alumno que olvidó la contraseña",
+        "Encargado de apagar los equipos"
+      ]
+    },
+    {
+      "name": "Patio del colegio",
+      "roles": [
+        "Vigilante",
+        "Jardinero",
+        "Niño en un banco",
+        "Alumno de primero con la mochila",
+        "Padre en la verja",
+        "Conserje",
+        "Profesor con un cronómetro",
+        "Alumno que se ha saltado la clase"
+      ]
+    },
+    {
+      "name": "Pasillo entre clases",
+      "roles": [
+        "Profesor de guardia",
+        "Niño corriendo",
+        "Profesora con un puntero",
+        "Mayor junto a la ventana",
+        "Alumno de primero con un bocadillo",
+        "Limpiadora con la fregona",
+        "Jefe de estudios",
+        "Alumno con el teléfono"
+      ]
+    },
+    {
+      "name": "Autobús escolar",
+      "roles": [
+        "Conductor",
+        "Niño en el asiento del fondo",
+        "Alumno de primero delante",
+        "Niño que se pasó la parada",
+        "Acompañante de la ruta",
+        "Niño con una maqueta enorme",
+        "Niño dormido",
+        "Niño guardando un sitio"
+      ]
+    },
+    {
+      "name": "Aula de música",
+      "roles": [
+        "Profesor de música",
+        "Solista",
+        "Niño con una flauta",
+        "Miembro del coro",
+        "Pianista acompañante",
+        "Niño con una pandereta",
+        "El que desafina",
+        "Niña con una guitarra"
+      ]
+    },
+    {
+      "name": "Actividades extraescolares",
+      "roles": [
+        "Monitor",
+        "Alumno de primero haciendo deberes",
+        "Niño con piezas de construcción",
+        "Madre recogiendo a su hijo",
+        "Niño esperando a su padre",
+        "Ayudante",
+        "Cuidadora",
+        "Niño terminando la merienda"
+      ]
+    },
+    {
+      "name": "Laboratorio de biología",
+      "roles": [
+        "Profesora de biología",
+        "Niño junto al esqueleto",
+        "Niña con un microscopio",
+        "Alumno regando las plantas",
+        "Alumno con un herbario",
+        "Empollón de la clase",
+        "Niño con miedo a las ranas",
+        "Ayudante de laboratorio"
+      ]
+    },
+    {
+      "name": "Campo de fútbol del colegio",
+      "roles": [
+        "Profesor de educación física",
+        "Corredor",
+        "Árbitro",
+        "Aficionado en la grada",
+        "Alumno haciendo la prueba física",
+        "Alumno con justificante médico",
+        "Entrenador",
+        "Médico del equipo"
+      ]
+    },
+    {
+      "name": "Aula de castigo",
+      "roles": [
+        "Profesor de guardia",
+        "Alumno que llegó tarde",
+        "Alumno que contestó mal",
+        "Alumno haciendo deberes",
+        "Alumno dormido",
+        "El que pasa notas",
+        "Buen alumno que está aquí por error",
+        "Conserje"
+      ]
+    },
+    {
+      "name": "Clase de primero",
+      "roles": [
+        "Maestra",
+        "Niño con la cartilla de lectura",
+        "Niño que olvidó el estuche",
+        "Niño llorando",
+        "Madre en la puerta",
+        "Niña con coletas",
+        "Niño mascando chicle",
+        "Niño que encabeza la fila"
+      ]
+    }
+  ]
+}

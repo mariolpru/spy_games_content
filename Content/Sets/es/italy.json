@@ -1,0 +1,123 @@
+{
+  "id": "italy",
+  "title": "Italia",
+  "locations": [
+    {
+      "name": "Coliseo",
+      "roles": [
+        "Guía turístico",
+        "Turista",
+        "Actor de gladiador",
+        "Fotógrafo",
+        "Vendedor de recuerdos",
+        "Arqueólogo",
+        "Vigilante",
+        "Escolar"
+      ]
+    },
+    {
+      "name": "Pizzería",
+      "roles": [
+        "Pizzero",
+        "Camarero",
+        "Comensal",
+        "Turista",
+        "Cocinero",
+        "Cajero",
+        "Repartidor",
+        "Cliente habitual"
+      ]
+    },
+    {
+      "name": "Canal veneciano",
+      "roles": [
+        "Gondolero",
+        "Turista",
+        "Soplador de vidrio",
+        "Fabricante de máscaras",
+        "Camarero",
+        "Fotógrafo",
+        "Barquero de reparto",
+        "Pintor"
+      ]
+    },
+    {
+      "name": "Torre de Pisa",
+      "roles": [
+        "Turista",
+        "Guía turístico",
+        "Fotógrafo",
+        "Vendedor de recuerdos",
+        "Vigilante",
+        "Escolar",
+        "Pareja enamorada",
+        "Cajero"
+      ]
+    },
+    {
+      "name": "Vaticano",
+      "roles": [
+        "Cura",
+        "Turista",
+        "Guía turístico",
+        "Guardia suizo",
+        "Peregrino",
+        "Fotógrafo",
+        "Monja",
+        "Vigilante"
+      ]
+    },
+    {
+      "name": "Desfile de moda de Milán",
+      "roles": [
+        "Modelo",
+        "Diseñador",
+        "Fotógrafo",
+        "Estilista",
+        "Periodista",
+        "Invitado de primera fila",
+        "Maquillador",
+        "Guardia de seguridad"
+      ]
+    },
+    {
+      "name": "Heladería",
+      "roles": [
+        "Maestro heladero",
+        "Cliente",
+        "Niño",
+        "Turista",
+        "Cajero",
+        "Vendedor",
+        "Cliente habitual",
+        "Repartidor"
+      ]
+    },
+    {
+      "name": "Lago de Como",
+      "roles": [
+        "Turista",
+        "Barquero",
+        "Camarero de la villa",
+        "Jardinero",
+        "Fotógrafo",
+        "Patrón de yate",
+        "Veraneante",
+        "Guía turístico"
+      ]
+    },
+    {
+      "name": "Carnaval de Venecia",
+      "roles": [
+        "Invitado enmascarado",
+        "Turista",
+        "Músico",
+        "Bailarín",
+        "Vendedor de disfraces",
+        "Fotógrafo",
+        "Zanquero",
+        "Espectador"
+      ]
+    }
+  ]
+}

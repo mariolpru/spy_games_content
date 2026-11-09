@@ -1,0 +1,136 @@
+{
+  "id": "germany",
+  "title": "Alemania",
+  "locations": [
+    {
+      "name": "Oktoberfest",
+      "roles": [
+        "Camarera con pretzels",
+        "Panadero",
+        "Invitada con dirndl",
+        "Músico de la banda",
+        "Turista",
+        "Cocinero",
+        "Cliente habitual",
+        "Guardia de seguridad"
+      ]
+    },
+    {
+      "name": "Muro de Berlín",
+      "roles": [
+        "Artista callejero",
+        "Turista",
+        "Guía turístico",
+        "Fotógrafo",
+        "Historiador",
+        "Ciclista",
+        "Vendedor",
+        "Músico"
+      ]
+    },
+    {
+      "name": "Autobahn",
+      "roles": [
+        "Conductor de un deportivo",
+        "Camionero",
+        "Mecánico",
+        "Policía",
+        "Turista",
+        "Empleado de la gasolinera",
+        "Pasajero",
+        "Operario de asistencia en carretera"
+      ]
+    },
+    {
+      "name": "Fábrica de coches",
+      "roles": [
+        "Ingeniero",
+        "Operario de la cadena de montaje",
+        "Diseñador",
+        "Visitante de la fábrica",
+        "Guía",
+        "Piloto de pruebas",
+        "Encargado",
+        "Mecánico"
+      ]
+    },
+    {
+      "name": "Mercado de Navidad",
+      "roles": [
+        "Vendedor de chocolate caliente",
+        "Turista",
+        "Artesano",
+        "Músico",
+        "Niño",
+        "Vendedor de juguetes",
+        "Panadero",
+        "Papá Noel"
+      ]
+    },
+    {
+      "name": "Club tecno de Berlín",
+      "roles": [
+        "DJ",
+        "Bailarín",
+        "Portero",
+        "Camarero",
+        "Invitado",
+        "Relaciones públicas",
+        "Operador de luces",
+        "Cliente habitual"
+      ]
+    },
+    {
+      "name": "Pueblo bávaro",
+      "roles": [
+        "Granjero",
+        "Pastor",
+        "Quesero",
+        "Turista",
+        "Músico",
+        "Anfitriona con dirndl",
+        "Tallador de madera",
+        "Panadero"
+      ]
+    },
+    {
+      "name": "Bundestag",
+      "roles": [
+        "Diputado",
+        "Turista",
+        "Guía turístico",
+        "Guardia de seguridad",
+        "Periodista",
+        "Administrativo",
+        "Fotógrafo",
+        "Intérprete"
+      ]
+    },
+    {
+      "name": "Puesto de salchichas",
+      "roles": [
+        "Vendedor",
+        "Cliente",
+        "Turista",
+        "Cocinero",
+        "Cajero",
+        "Carnicero",
+        "Cliente habitual",
+        "Repartidor"
+      ]
+    },
+    {
+      "name": "Nürburgring",
+      "roles": [
+        "Piloto",
+        "Mecánico",
+        "Espectador",
+        "Comentarista",
+        "Comisario de pista",
+        "Fotógrafo",
+        "Ingeniero",
+        "Aficionado"
+      ]
+    }
+  ]
+}

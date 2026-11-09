@@ -1,0 +1,227 @@
+{
+  "id": "leisure",
+  "title": "Tiempo libre",
+  "locations": [
+    {
+      "name": "Parque de la ciudad",
+      "roles": [
+        "Corredor",
+        "Ciclista",
+        "Madre con un carrito",
+        "Heladero",
+        "Músico callejero",
+        "Jubilado en un banco",
+        "Paseador de perros",
+        "Barquero del estanque"
+      ]
+    },
+    {
+      "name": "Café de juegos de mesa",
+      "roles": [
+        "Jugador en la mesa",
+        "Anfitrión",
+        "Barista",
+        "Autónomo con portátil",
+        "Grupo de amigos",
+        "Novato",
+        "Limpiador",
+        "Jugador de rol"
+      ]
+    },
+    {
+      "name": "Sala de billar",
+      "roles": [
+        "Jugador",
+        "Anotador",
+        "Cajero",
+        "Espectador",
+        "Novato",
+        "Cliente habitual",
+        "Camarero",
+        "Encargado"
+      ]
+    },
+    {
+      "name": "Jornada de pesca",
+      "roles": [
+        "Pescador",
+        "Vecino en la orilla",
+        "Campista con una tienda",
+        "Niño con una caña",
+        "Vendedor de cebo",
+        "Barquero",
+        "Buscador de setas",
+        "Veraneante"
+      ]
+    },
+    {
+      "name": "Sauna",
+      "roles": [
+        "Bañista",
+        "Maestro de la sauna",
+        "Aficionado al vapor",
+        "Invitado en la sala de descanso",
+        "Recepcionista",
+        "Grupo de amigos",
+        "Masajista",
+        "Limpiador"
+      ]
+    },
+    {
+      "name": "Taller de cerámica",
+      "roles": [
+        "Alfarero",
+        "Aprendiz",
+        "Instructor",
+        "Novato",
+        "Recepcionista",
+        "Espectador del taller",
+        "Limpiador",
+        "Esmaltador"
+      ]
+    },
+    {
+      "name": "Casa de campo",
+      "roles": [
+        "Anfitrión en la barbacoa",
+        "Invitado",
+        "Niño en la hamaca",
+        "Jardinero",
+        "Vecino al otro lado de la valla",
+        "Cocinero de la parrilla",
+        "Limpiador de la piscina",
+        "Veraneante"
+      ]
+    },
+    {
+      "name": "Pícnic",
+      "roles": [
+        "Grupo sobre una manta",
+        "Cocinero de la parrilla",
+        "Niño con una pelota",
+        "Guitarrista",
+        "Dormilón en la hamaca",
+        "Ciclista",
+        "Paseador de perros",
+        "Heladero"
+      ]
+    },
+    {
+      "name": "Club de lectura",
+      "roles": [
+        "Anfitrión",
+        "Miembro con un libro",
+        "Novato",
+        "Barista",
+        "Oyente",
+        "Autor invitado",
+        "Organizador",
+        "El que siempre discute"
+      ]
+    },
+    {
+      "name": "Estudio de yoga",
+      "roles": [
+        "Instructor",
+        "Novato",
+        "Practicante habitual",
+        "Recepcionista",
+        "Invitado de clase de prueba",
+        "Amante de la meditación",
+        "Limpiador",
+        "El que llega tarde"
+      ]
+    },
+    {
+      "name": "Jardín botánico",
+      "roles": [
+        "Jardinero",
+        "Guía turístico",
+        "Visitante con una cámara",
+        "Niño",
+        "Botánico",
+        "Taquillero",
+        "Pintor con un caballete",
+        "Pareja enamorada"
+      ]
+    },
+    {
+      "name": "Planetario",
+      "roles": [
+        "Conferenciante",
+        "Espectador",
+        "Escolar de excursión",
+        "Operador del proyector de la cúpula",
+        "Taquillero",
+        "Astrónomo asesor",
+        "Niño con su padre",
+        "Limpiador"
+      ]
+    },
+    {
+      "name": "Club de ajedrez",
+      "roles": [
+        "Ajedrecista",
+        "Entrenador",
+        "Principiante",
+        "Espectador",
+        "Árbitro",
+        "Gran maestro",
+        "Niño en clase",
+        "Cliente habitual"
+      ]
+    },
+    {
+      "name": "Taller de pintura",
+      "roles": [
+        "Pintor",
+        "Instructor",
+        "Modelo",
+        "Principiante",
+        "Espectador",
+        "Recepcionista",
+        "Limpiador",
+        "Aficionado a la acuarela"
+      ]
+    },
+    {
+      "name": "Circuito de cuerdas",
+      "roles": [
+        "Instructor",
+        "Participante en el circuito",
+        "Niño",
+        "Asegurador",
+        "Padre que mira",
+        "Novato",
+        "Fotógrafo",
+        "Encargado"
+      ]
+    },
+    {
+      "name": "Clase de cocina",
+      "roles": [
+        "Chef anfitrión",
+        "Participante",
+        "Ayudante",
+        "Catador",
+        "Novato",
+        "Espectador",
+        "Organizador",
+        "Limpiador"
+      ]
+    },
+    {
+      "name": "Estudio de baile",
+      "roles": [
+        "Coreógrafo",
+        "Alumno",
+        "Principiante",
+        "Pianista acompañante",
+        "Espectador",
+        "Recepcionista",
+        "Pareja de baile",
+        "El que llega tarde"
+      ]
+    }
+  ]
+}
