@@ -1,0 +1,123 @@
+{
+  "id": "italy",
+  "title": "Itália",
+  "locations": [
+    {
+      "name": "Coliseu",
+      "roles": [
+        "Guia turístico",
+        "Turista",
+        "Ator de gladiador",
+        "Fotógrafo",
+        "Vendedor de lembranças",
+        "Arqueóloga",
+        "Zelador",
+        "Estudante"
+      ]
+    },
+    {
+      "name": "Pizzaria",
+      "roles": [
+        "Pizzaiolo",
+        "Garçom",
+        "Cliente",
+        "Turista",
+        "Cozinheiro",
+        "Caixa",
+        "Entregador",
+        "Cliente habitual"
+      ]
+    },
+    {
+      "name": "Canal veneziano",
+      "roles": [
+        "Gondoleiro",
+        "Turista",
+        "Soprador de vidro",
+        "Fabricante de máscaras",
+        "Garçom",
+        "Fotógrafo",
+        "Barqueiro de entregas",
+        "Pintor"
+      ]
+    },
+    {
+      "name": "Torre de Pisa",
+      "roles": [
+        "Turista",
+        "Guia turístico",
+        "Fotógrafo",
+        "Vendedor de lembranças",
+        "Zelador",
+        "Estudante",
+        "Casal apaixonado",
+        "Bilheteiro"
+      ]
+    },
+    {
+      "name": "Vaticano",
+      "roles": [
+        "Padre",
+        "Turista",
+        "Guia turístico",
+        "Guarda suíço",
+        "Peregrino",
+        "Fotógrafo",
+        "Freira",
+        "Zelador"
+      ]
+    },
+    {
+      "name": "Desfile de moda em Milão",
+      "roles": [
+        "Modelo",
+        "Estilista",
+        "Fotógrafo",
+        "Produtor de moda",
+        "Jornalista",
+        "Convidado da primeira fila",
+        "Maquiador",
+        "Segurança"
+      ]
+    },
+    {
+      "name": "Gelateria",
+      "roles": [
+        "Mestre sorveteiro",
+        "Cliente",
+        "Criança",
+        "Turista",
+        "Caixa",
+        "Vendedora",
+        "Cliente habitual",
+        "Entregador"
+      ]
+    },
+    {
+      "name": "Lago de Como",
+      "roles": [
+        "Turista",
+        "Barqueiro",
+        "Garçom da villa",
+        "Jardineiro",
+        "Fotógrafo",
+        "Dono do iate",
+        "Veranista",
+        "Guia turístico"
+      ]
+    },
+    {
+      "name": "Carnaval de Veneza",
+      "roles": [
+        "Convidado mascarado",
+        "Turista",
+        "Músico",
+        "Dançarina",
+        "Vendedor de fantasias",
+        "Fotógrafo",
+        "Perneiro",
+        "Espectadora"
+      ]
+    }
+  ]
+}

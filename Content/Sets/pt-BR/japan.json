@@ -1,0 +1,188 @@
+{
+  "id": "japan",
+  "title": "Japão",
+  "locations": [
+    {
+      "name": "Monte Fuji",
+      "roles": [
+        "Turista",
+        "Alpinista",
+        "Guia",
+        "Fotógrafo",
+        "Peregrino",
+        "Vendedor da estação",
+        "Guarda da trilha",
+        "Ciclista"
+      ]
+    },
+    {
+      "name": "Templo de Quioto",
+      "roles": [
+        "Monge",
+        "Turista",
+        "Guia",
+        "Peregrina",
+        "Vendedor de amuletos",
+        "Fotógrafo",
+        "Jardineiro do templo",
+        "Calígrafa"
+      ]
+    },
+    {
+      "name": "Cruzamento de Shibuya",
+      "roles": [
+        "Pedestre",
+        "Turista",
+        "Agente de trânsito",
+        "Streamer com câmera",
+        "Empresário",
+        "Estudante",
+        "Vendedor",
+        "Promotor"
+      ]
+    },
+    {
+      "name": "Restaurante de sushi",
+      "roles": [
+        "Mestre sushi",
+        "Cliente no balcão",
+        "Garçom",
+        "Turista",
+        "Cozinheiro",
+        "Anfitriã",
+        "Cliente habitual",
+        "Aprendiz de cozinha"
+      ]
+    },
+    {
+      "name": "Jardim zen",
+      "roles": [
+        "Monge",
+        "Turista",
+        "Jardineiro",
+        "Visitante meditando",
+        "Guia",
+        "Fotógrafo",
+        "Pintor",
+        "Zelador"
+      ]
+    },
+    {
+      "name": "Banhos termais",
+      "roles": [
+        "Hóspede de toalha",
+        "Atendente dos banhos",
+        "Recepcionista",
+        "Turista",
+        "Massagista",
+        "Pessoal da limpeza",
+        "Hóspede da pousada",
+        "Idoso do lugar"
+      ]
+    },
+    {
+      "name": "Cerimônia do chá",
+      "roles": [
+        "Mestra do chá",
+        "Convidado",
+        "Aluna",
+        "Turista",
+        "Calígrafo",
+        "Anfitriã",
+        "Músico",
+        "Assistente"
+      ]
+    },
+    {
+      "name": "Akihabara",
+      "roles": [
+        "Fã de anime",
+        "Cosplayer",
+        "Vendedor de miniaturas",
+        "Turista",
+        "Gamer",
+        "Promotora do maid café",
+        "Streamer",
+        "Caixa"
+      ]
+    },
+    {
+      "name": "Piquenique das cerejeiras",
+      "roles": [
+        "Turista",
+        "Família no piquenique",
+        "Fotógrafo",
+        "Vendedora de dango",
+        "Músico",
+        "Estudante",
+        "Pintora",
+        "Casal debaixo de uma árvore"
+      ]
+    },
+    {
+      "name": "Castelo dos samurais",
+      "roles": [
+        "Guia",
+        "Turista",
+        "Ator samurai",
+        "Zeladora",
+        "Recriador com armadura",
+        "Fotógrafo",
+        "Bilheteiro",
+        "Historiador"
+      ]
+    },
+    {
+      "name": "Mercado de peixes",
+      "roles": [
+        "Peixeiro",
+        "Cozinheiro",
+        "Comprador",
+        "Leiloeiro",
+        "Turista",
+        "Carregador",
+        "Mestre sushi",
+        "Degustadora"
+      ]
+    },
+    {
+      "name": "Shinkansen",
+      "roles": [
+        "Condutor",
+        "Passageiro a trabalho",
+        "Turista",
+        "Maquinista",
+        "Vendedora de bentô",
+        "Estudante",
+        "Pessoal da limpeza",
+        "Comissário de bordo"
+      ]
+    },
+    {
+      "name": "Teatro kabuki",
+      "roles": [
+        "Ator",
+        "Espectadora",
+        "Maquiador",
+        "Músico",
+        "Lanterninha",
+        "Figurinista",
+        "Ponto",
+        "Guia"
+      ]
+    },
+    {
+      "name": "Hotel cápsula",
+      "roles": [
+        "Recepcionista",
+        "Hóspede da noite",
+        "Empresário",
+        "Turista",
+        "Pessoal da limpeza",
+        "Porteiro da noite",
+        "Vizinho de cápsula",
+        "Entregador"
+      ]
+    }
+  ]
+}

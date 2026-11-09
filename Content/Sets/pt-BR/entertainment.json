@@ -1,0 +1,188 @@
+{
+  "id": "entertainment",
+  "title": "Diversão",
+  "locations": [
+    {
+      "name": "Balada",
+      "roles": [
+        "DJ",
+        "Garçom",
+        "Dançarina",
+        "Segurança da porta",
+        "Convidado VIP",
+        "Promoter",
+        "Garçonete",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Teatro",
+      "roles": [
+        "Ator",
+        "Lanterninha",
+        "Espectador da primeira fila",
+        "Ponto",
+        "Maquiadora",
+        "Maestro",
+        "Atendente do chapéu",
+        "Técnico de luz"
+      ]
+    },
+    {
+      "name": "Show de rock",
+      "roles": [
+        "Músico",
+        "Fã da primeira fila",
+        "Técnico de som",
+        "Segurança do palco",
+        "Vendedora de camisetas",
+        "Cinegrafista",
+        "Espectador com ingresso",
+        "Backing vocal"
+      ]
+    },
+    {
+      "name": "Circo",
+      "roles": [
+        "Palhaço",
+        "Domador",
+        "Acrobata",
+        "Pai com uma criança",
+        "Lanterninha",
+        "Mágico",
+        "Vendedora de algodão-doce",
+        "Malabarista"
+      ]
+    },
+    {
+      "name": "Casa de stand-up",
+      "roles": [
+        "Comediante",
+        "Apresentador",
+        "Espectadora na mesa",
+        "Recepcionista",
+        "Garçom",
+        "Técnico de som",
+        "Gerente",
+        "Convidado da primeira fila"
+      ]
+    },
+    {
+      "name": "Boliche",
+      "roles": [
+        "Jogador",
+        "Atendente do aluguel de sapatos",
+        "Caixa",
+        "Grupo de amigos",
+        "Recepcionista",
+        "Criança na pista",
+        "Garçom",
+        "Pessoal da limpeza"
+      ]
+    },
+    {
+      "name": "Karaokê",
+      "roles": [
+        "Convidado cantando",
+        "Apresentadora",
+        "Caixa",
+        "Garçom",
+        "Técnico de som",
+        "Grupo no sofá",
+        "Recepcionista",
+        "Convidado tímido"
+      ]
+    },
+    {
+      "name": "Teatro municipal",
+      "roles": [
+        "Cantora lírica",
+        "Maestro",
+        "Convidado no camarote",
+        "Lanterninha",
+        "Atendente do chapéu",
+        "Músico da orquestra",
+        "Maquiador",
+        "Chefe dos lanterninhas"
+      ]
+    },
+    {
+      "name": "Confeitaria",
+      "roles": [
+        "Barista",
+        "Garçom",
+        "Confeiteira",
+        "Cliente habitual",
+        "Auxiliar de salão",
+        "Caixa",
+        "Cliente com notebook",
+        "Gerente"
+      ]
+    },
+    {
+      "name": "Escape room",
+      "roles": [
+        "Ator na sala",
+        "Jogadora",
+        "Operador",
+        "Recepcionista",
+        "Equipe de amigos",
+        "Mestre do jogo",
+        "Observador na sala de controle",
+        "Novato"
+      ]
+    },
+    {
+      "name": "Festival de música",
+      "roles": [
+        "Músico no palco",
+        "Espectadora com canga",
+        "Vendedor de comida de rua",
+        "Voluntário",
+        "Técnico de som",
+        "Segurança",
+        "Festeiro com bandeira",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Festa de dança",
+      "roles": [
+        "DJ",
+        "Convidado dançando",
+        "Garçonete",
+        "Operador de luz",
+        "Segurança da porta",
+        "Promoter",
+        "Grupo de amigos",
+        "Convidada na pista"
+      ]
+    },
+    {
+      "name": "Cinema",
+      "roles": [
+        "Espectador com pipoca",
+        "Lanterninha",
+        "Caixa",
+        "Projecionista",
+        "Casal em um encontro",
+        "Vendedora da bomboniere",
+        "Pessoal da limpeza",
+        "Espectador atrasado"
+      ]
+    },
+    {
+      "name": "Show de patinação no gelo",
+      "roles": [
+        "Patinadora artística",
+        "Espectador",
+        "Apresentador",
+        "Técnico de luz",
+        "Figurinista",
+        "Lanterninha",
+        "Técnico de som",
+        "Criança na plateia"
+      ]
+    }
+  ]
+}

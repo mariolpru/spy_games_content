@@ -1,0 +1,227 @@
+{
+  "id": "school-year",
+  "title": "Ano escolar",
+  "locations": [
+    {
+      "name": "Primeiro dia de aula",
+      "roles": [
+        "Aluno do primeiro ano com a mochila nova",
+        "Veterana ajudando um caloura",
+        "Diretora discursando",
+        "Mãe com a câmera",
+        "Professora com a placa da turma",
+        "Apresentador",
+        "Criança com flores",
+        "Segurança no portão"
+      ]
+    },
+    {
+      "name": "Reunião de pais",
+      "roles": [
+        "Professora da turma",
+        "Mãe da associação de pais",
+        "Pai que veio pela primeira vez",
+        "Tesoureira da turma",
+        "Pai atrasado",
+        "Avó no lugar dos pais",
+        "Vice-diretor",
+        "Mãe cheia de perguntas"
+      ]
+    },
+    {
+      "name": "Feira de ciências",
+      "roles": [
+        "Aluno com o vulcão",
+        "Avaliador",
+        "Professora de plantão",
+        "Vencedor do ano passado",
+        "Pai que montou o projeto",
+        "Aluna nota dez",
+        "Aluno com a maquete quebrada",
+        "Aluna explicando aos jurados"
+      ]
+    },
+    {
+      "name": "Festa de fim de ano",
+      "roles": [
+        "Papai Noel",
+        "Ajudante de duende",
+        "Criança fantasiada de boneco de neve",
+        "Menina fantasiada de floco de neve",
+        "Mãe com o celular",
+        "Professora junto à árvore",
+        "Apresentador",
+        "Aluno recitando um poema"
+      ]
+    },
+    {
+      "name": "Excursão ao museu",
+      "roles": [
+        "Guia do museu",
+        "Professora da turma",
+        "Aluno que ficou atrás do grupo",
+        "Aluna no celular",
+        "Mãe acompanhante",
+        "Vigia da sala",
+        "Aluno nota dez com o caderno",
+        "Criança tocando nas peças"
+      ]
+    },
+    {
+      "name": "Acampamento da turma",
+      "roles": [
+        "Professora da turma",
+        "Aluno com o violão",
+        "Aluno acendendo a fogueira",
+        "Pai acompanhante",
+        "Menina com a mochila pesada",
+        "Aluno de plantão na cozinha",
+        "Quem perdeu um tênis",
+        "Instrutor do acampamento"
+      ]
+    },
+    {
+      "name": "Formatura",
+      "roles": [
+        "Formanda de beca",
+        "Orador da turma",
+        "Diretora entregando diplomas",
+        "Professora chorando",
+        "Mãe com o buquê",
+        "Fotógrafo",
+        "Irmão menor",
+        "Quem tropeçou no palco"
+      ]
+    },
+    {
+      "name": "Baile de formatura",
+      "roles": [
+        "Rei do baile",
+        "Rainha do baile",
+        "Rapaz de terno alugado",
+        "Moça de vestido novo",
+        "DJ",
+        "Professor acompanhante",
+        "Fotógrafo",
+        "Quem veio sozinho"
+      ]
+    },
+    {
+      "name": "Festa junina da escola",
+      "roles": [
+        "Quadrilheira",
+        "Sanfoneiro",
+        "Aluno na pescaria",
+        "Professor acompanhante",
+        "Menina de vestido de chita",
+        "Segurança",
+        "Representante de turma",
+        "Aluno filmando tudo"
+      ]
+    },
+    {
+      "name": "Mutirão de limpeza da escola",
+      "roles": [
+        "Responsável pela manutenção",
+        "Aluno com o rastelo",
+        "Aluno escondido atrás da árvore",
+        "Professora da turma",
+        "Diretora com a pá",
+        "Menina com o saco de folhas",
+        "Jardineiro",
+        "Aluno com o carrinho de mão"
+      ]
+    },
+    {
+      "name": "Bazar de doces",
+      "roles": [
+        "Aluna atrás da mesa",
+        "Pai fazendo compras",
+        "Mãe com os bolos caseiros",
+        "Menina com artesanato",
+        "Caixa",
+        "Professora organizadora",
+        "Aluno do primeiro ano com moedas",
+        "Diretora"
+      ]
+    },
+    {
+      "name": "Simulado de incêndio",
+      "roles": [
+        "Bombeiro",
+        "Diretora com o megafone",
+        "Professora com a lista da turma",
+        "Aluno sem jaqueta",
+        "Quem esqueceu a mochila",
+        "Responsável pela manutenção",
+        "Enfermeira da escola",
+        "Quem não ouviu o alarme"
+      ]
+    },
+    {
+      "name": "Dia da foto da turma",
+      "roles": [
+        "Fotógrafo",
+        "Aluno da primeira fila",
+        "Menina de penteado elaborado",
+        "Professora da turma",
+        "Quem piscou na hora",
+        "Quem chegou atrasado",
+        "Aluno fazendo careta",
+        "Assistente do fotógrafo"
+      ]
+    },
+    {
+      "name": "Provas finais",
+      "roles": [
+        "Veterano",
+        "Fiscal de prova",
+        "Coordenadora da sala",
+        "Aluna com a calculadora",
+        "Quem esqueceu o documento",
+        "Segurança no detector de metal",
+        "Mãe esperando fora",
+        "Aluno nota dez"
+      ]
+    },
+    {
+      "name": "Jogos interescolares",
+      "roles": [
+        "Jogadora de vôlei",
+        "Líder de torcida",
+        "Baterista da fanfarra",
+        "Torcedor pintado",
+        "Técnico",
+        "Mascote",
+        "Vendedor de cachorro-quente",
+        "Rainha dos jogos"
+      ]
+    },
+    {
+      "name": "Peça de teatro da escola",
+      "roles": [
+        "Professora de teatro",
+        "Ator principal",
+        "Pontuadora de falas",
+        "Criança fantasiada de árvore",
+        "Técnico de luz",
+        "Figurinista",
+        "Mãe na plateia",
+        "Ator que esqueceu a fala"
+      ]
+    },
+    {
+      "name": "Concurso de ortografia",
+      "roles": [
+        "Competidor",
+        "Quem dita as palavras",
+        "Avaliadora",
+        "Pai nervoso",
+        "Campeã do ano passado",
+        "Quem errou a palavra",
+        "Apresentador",
+        "Aluno soletrando de boca fechada"
+      ]
+    }
+  ]
+}

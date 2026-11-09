@@ -1,0 +1,266 @@
+{
+  "id": "fantasy",
+  "title": "Fantasia",
+  "locations": [
+    {
+      "name": "Taverna",
+      "roles": [
+        "Taverneiro",
+        "Cozinheiro",
+        "Criada",
+        "Viajante",
+        "Bardo",
+        "Cavalariço",
+        "Mercador",
+        "Guarda"
+      ]
+    },
+    {
+      "name": "Salão do trono",
+      "roles": [
+        "Rei",
+        "Rainha",
+        "Conselheiro real",
+        "Guarda",
+        "Bobo da corte",
+        "Arauto",
+        "Dama da corte",
+        "Embaixador"
+      ]
+    },
+    {
+      "name": "Mercado dos magos",
+      "roles": [
+        "Preparadora de poções",
+        "Cliente",
+        "Vendedor de artefatos",
+        "Alquimista",
+        "Aprendiz",
+        "Guarda",
+        "Pregoeiro",
+        "Cartomante"
+      ]
+    },
+    {
+      "name": "Forja do ferreiro",
+      "roles": [
+        "Ferreiro",
+        "Aprendiz",
+        "Guerreiro atrás de uma espada",
+        "Fornecedor de carvão",
+        "Mercador",
+        "Escudeiro",
+        "Ajudante da forja",
+        "Cliente de armadura"
+      ]
+    },
+    {
+      "name": "Castelo",
+      "roles": [
+        "Cavaleiro",
+        "Guarda",
+        "Senhor do castelo",
+        "Camareira",
+        "Cavalariço",
+        "Cozinheiro",
+        "Menestrel",
+        "Castelão"
+      ]
+    },
+    {
+      "name": "Masmorra",
+      "roles": [
+        "Carcereiro",
+        "Guarda",
+        "Prisioneiro",
+        "Carrasco",
+        "Interrogador",
+        "Sentinela",
+        "Escriba",
+        "Caçador de ratos"
+      ]
+    },
+    {
+      "name": "Porto",
+      "roles": [
+        "Capitão",
+        "Marinheiro",
+        "Mercador",
+        "Pescador",
+        "Estivador",
+        "Guarda do porto",
+        "Contramestre",
+        "Prático"
+      ]
+    },
+    {
+      "name": "Acampamento de bandidos",
+      "roles": [
+        "Chefe dos bandidos",
+        "Bandido",
+        "Arqueiro",
+        "Cozinheiro da fogueira",
+        "Vigia",
+        "Cativa",
+        "Ferreiro do acampamento",
+        "Mensageiro"
+      ]
+    },
+    {
+      "name": "Torre do mago",
+      "roles": [
+        "Mago",
+        "Aprendiz de feiticeiro",
+        "Alquimista",
+        "Guardião dos pergaminhos",
+        "Preparador de poções",
+        "Servo",
+        "Maga de passagem",
+        "Observador de estrelas"
+      ]
+    },
+    {
+      "name": "Vilarejo",
+      "roles": [
+        "Camponês",
+        "Ancião do vilarejo",
+        "Ferreiro",
+        "Curandeira",
+        "Pastor",
+        "Moleiro",
+        "Taverneira",
+        "Criança"
+      ]
+    },
+    {
+      "name": "Floresta élfica",
+      "roles": [
+        "Arqueira élfica",
+        "Druida",
+        "Patrulheiro",
+        "Curandeiro",
+        "Guardião da clareira",
+        "Bardo",
+        "Viajante",
+        "Coletor de ervas"
+      ]
+    },
+    {
+      "name": "Mina dos anões",
+      "roles": [
+        "Minerador anão",
+        "Ferreiro",
+        "Capataz da mina",
+        "Carregador de minério",
+        "Agrimensor anão",
+        "Carvoeiro",
+        "Vigia",
+        "Aprendiz"
+      ]
+    },
+    {
+      "name": "Templo",
+      "roles": [
+        "Sacerdote",
+        "Peregrina",
+        "Noviço",
+        "Oráculo",
+        "Guardião do altar",
+        "Corista",
+        "Guarda do templo",
+        "Curandeiro"
+      ]
+    },
+    {
+      "name": "Arena",
+      "roles": [
+        "Gladiador",
+        "Mestre de cerimônias",
+        "Espectadora",
+        "Médico de campo",
+        "Guarda",
+        "Vendedor das arquibancadas",
+        "Arauto",
+        "Escudeiro"
+      ]
+    },
+    {
+      "name": "Covil do dragão",
+      "roles": [
+        "Cavaleiro caçador",
+        "Patrulheiro",
+        "Escudeiro",
+        "Arqueiro",
+        "Mago",
+        "Guerreiro ferido",
+        "Guia",
+        "Cronista"
+      ]
+    },
+    {
+      "name": "Biblioteca dos magos",
+      "roles": [
+        "Arquivista",
+        "Pesquisador do arcano",
+        "Aprendiz",
+        "Copista",
+        "Guardião",
+        "Visitante",
+        "Observador de estrelas",
+        "Intérprete de runas"
+      ]
+    },
+    {
+      "name": "Banquete real",
+      "roles": [
+        "Rei",
+        "Menestrel",
+        "Servo",
+        "Senhor convidado",
+        "Bobo da corte",
+        "Guarda",
+        "Cozinheiro",
+        "Provador de comida"
+      ]
+    },
+    {
+      "name": "Laboratório do alquimista",
+      "roles": [
+        "Alquimista",
+        "Aprendiz",
+        "Preparadora de poções",
+        "Herbalista",
+        "Cliente",
+        "Guardião dos ingredientes",
+        "Guarda",
+        "Novato"
+      ]
+    },
+    {
+      "name": "Navio pirata",
+      "roles": [
+        "Capitão pirata",
+        "Contramestre",
+        "Grumete",
+        "Artilheiro",
+        "Navegadora",
+        "Cozinheiro de bordo",
+        "Marujo de convés",
+        "Cativo"
+      ]
+    },
+    {
+      "name": "Cabana da bruxa",
+      "roles": [
+        "Bruxa",
+        "Aprendiz",
+        "Comprador de poções",
+        "Herbalista",
+        "Camponês de visita",
+        "Curandeira",
+        "Cartomante",
+        "Coletora de ervas"
+      ]
+    }
+  ]
+}

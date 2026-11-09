@@ -1,0 +1,136 @@
+{
+  "id": "germany",
+  "title": "Alemanha",
+  "locations": [
+    {
+      "name": "Oktoberfest",
+      "roles": [
+        "Garçonete com pretzels",
+        "Padeiro",
+        "Convidada de dirndl",
+        "Músico da banda",
+        "Turista",
+        "Cozinheiro",
+        "Cliente habitual",
+        "Segurança"
+      ]
+    },
+    {
+      "name": "Muro de Berlim",
+      "roles": [
+        "Artista de rua",
+        "Turista",
+        "Guia turístico",
+        "Fotógrafo",
+        "Historiador",
+        "Ciclista",
+        "Vendedora",
+        "Músico"
+      ]
+    },
+    {
+      "name": "Autobahn",
+      "roles": [
+        "Motorista de um esportivo",
+        "Caminhoneiro",
+        "Mecânico",
+        "Policial",
+        "Turista",
+        "Frentista",
+        "Passageira",
+        "Socorro na estrada"
+      ]
+    },
+    {
+      "name": "Fábrica de automóveis",
+      "roles": [
+        "Engenheiro",
+        "Operário da linha de montagem",
+        "Designer",
+        "Visitante da fábrica",
+        "Guia",
+        "Piloto de testes",
+        "Supervisor",
+        "Mecânica"
+      ]
+    },
+    {
+      "name": "Mercado de Natal",
+      "roles": [
+        "Vendedor de chocolate quente",
+        "Turista",
+        "Artesão",
+        "Música",
+        "Criança",
+        "Vendedor de brinquedos",
+        "Padeiro",
+        "Papai Noel"
+      ]
+    },
+    {
+      "name": "Clube de techno de Berlim",
+      "roles": [
+        "DJ",
+        "Dançarino",
+        "Segurança da porta",
+        "Garçonete",
+        "Convidado",
+        "Promoter",
+        "Operador de luz",
+        "Cliente habitual"
+      ]
+    },
+    {
+      "name": "Vilarejo bávaro",
+      "roles": [
+        "Agricultor",
+        "Pastor",
+        "Queijeiro",
+        "Turista",
+        "Músico",
+        "Anfitriã de dirndl",
+        "Entalhador de madeira",
+        "Padeira"
+      ]
+    },
+    {
+      "name": "Bundestag",
+      "roles": [
+        "Deputada",
+        "Turista",
+        "Guia turístico",
+        "Segurança",
+        "Jornalista",
+        "Servidor público",
+        "Fotógrafo",
+        "Intérprete"
+      ]
+    },
+    {
+      "name": "Barraca de salsichas",
+      "roles": [
+        "Vendedor",
+        "Cliente",
+        "Turista",
+        "Cozinheiro",
+        "Caixa",
+        "Açougueiro",
+        "Cliente habitual",
+        "Entregador"
+      ]
+    },
+    {
+      "name": "Nürburgring",
+      "roles": [
+        "Piloto",
+        "Mecânico",
+        "Espectador",
+        "Narrador",
+        "Fiscal de pista",
+        "Fotógrafo",
+        "Engenheira",
+        "Torcedor"
+      ]
+    }
+  ]
+}

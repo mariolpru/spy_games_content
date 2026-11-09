@@ -1,0 +1,149 @@
+{
+  "id": "china",
+  "title": "China",
+  "locations": [
+    {
+      "name": "Muralha da China",
+      "roles": [
+        "Turista",
+        "Guia turístico",
+        "Vendedor de lembranças",
+        "Fotógrafo",
+        "Zelador",
+        "Carregador",
+        "Estudante",
+        "Ciclista"
+      ]
+    },
+    {
+      "name": "Cidade Proibida",
+      "roles": [
+        "Guia turístico",
+        "Turista",
+        "Zelador",
+        "Historiadora",
+        "Fotógrafo",
+        "Bilheteira",
+        "Restaurador",
+        "Estudante em excursão"
+      ]
+    },
+    {
+      "name": "Plantação de chá",
+      "roles": [
+        "Colhedora de chá",
+        "Agricultor",
+        "Degustador",
+        "Turista",
+        "Guia turístico",
+        "Vendedor",
+        "Mestre do chá",
+        "Empacotador"
+      ]
+    },
+    {
+      "name": "Santuário de pandas",
+      "roles": [
+        "Tratador",
+        "Turista",
+        "Veterinária",
+        "Voluntário",
+        "Fotógrafo",
+        "Guia turístico",
+        "Biólogo",
+        "Criança"
+      ]
+    },
+    {
+      "name": "Mercado de comida de rua",
+      "roles": [
+        "Cozinheiro do wok",
+        "Vendedora de guioza",
+        "Cliente",
+        "Turista",
+        "Degustador",
+        "Pregoeiro",
+        "Caixa",
+        "Entregador"
+      ]
+    },
+    {
+      "name": "Arranha-céus de Hong Kong",
+      "roles": [
+        "Empresário",
+        "Turista",
+        "Guia turístico",
+        "Barista",
+        "Vendedor ambulante",
+        "Taxista",
+        "Entregador",
+        "Fotógrafa"
+      ]
+    },
+    {
+      "name": "Casa de chá",
+      "roles": [
+        "Mestre do chá",
+        "Convidado",
+        "Garçom",
+        "Música",
+        "Turista",
+        "Calígrafo",
+        "Dono",
+        "Aprendiz"
+      ]
+    },
+    {
+      "name": "Mosteiro de Shaolin",
+      "roles": [
+        "Monge lutador",
+        "Aluno",
+        "Mestre de kung fu",
+        "Turista",
+        "Guia turístico",
+        "Espectador",
+        "Noviço",
+        "Mentor"
+      ]
+    },
+    {
+      "name": "Trem-bala",
+      "roles": [
+        "Condutor",
+        "Passageiro",
+        "Turista",
+        "Maquinista",
+        "Vendedora",
+        "Empresário",
+        "Pessoal da limpeza",
+        "Comissária de bordo"
+      ]
+    },
+    {
+      "name": "Jardim de Suzhou",
+      "roles": [
+        "Jardineiro",
+        "Turista",
+        "Guia turística",
+        "Pintor",
+        "Fotógrafo",
+        "Zelador",
+        "Poeta",
+        "Estudante"
+      ]
+    },
+    {
+      "name": "Restaurante de pato laqueado",
+      "roles": [
+        "Cozinheiro",
+        "Garçom",
+        "Cliente",
+        "Anfitriã",
+        "Turista",
+        "Caixa",
+        "Trinchador de pato",
+        "Cliente habitual"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "usa",
+  "title": "Estados Unidos",
+  "locations": [
+    {
+      "name": "Estátua da Liberdade",
+      "roles": [
+        "Turista",
+        "Guia",
+        "Capitão da balsa",
+        "Fotógrafo",
+        "Vendedor de lembrancinhas",
+        "Guarda do parque",
+        "Aluno em excursão",
+        "Segurança"
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "roles": [
+        "Ator",
+        "Diretor",
+        "Turista",
+        "Paparazzo",
+        "Guia do ônibus de turismo",
+        "Vendedor de mapas das estrelas",
+        "Dublê",
+        "Roteirista"
+      ]
+    },
+    {
+      "name": "Grand Canyon",
+      "roles": [
+        "Turista",
+        "Guarda florestal",
+        "Guia",
+        "Fotógrafa",
+        "Geólogo",
+        "Piloto de helicóptero",
+        "Ciclista",
+        "Aluna em excursão"
+      ]
+    },
+    {
+      "name": "Times Square",
+      "roles": [
+        "Turista",
+        "Artista de rua",
+        "Vendedor de cachorro-quente",
+        "Motorista de táxi amarelo",
+        "Fotógrafo",
+        "Policial",
+        "Panfleteiro",
+        "Músico"
+      ]
+    },
+    {
+      "name": "Lanchonete de beira de estrada",
+      "roles": [
+        "Garçonete",
+        "Cozinheiro da chapa",
+        "Caminhoneiro",
+        "Caixa",
+        "Cliente de sempre",
+        "Adolescente",
+        "Policial",
+        "Viajante"
+      ]
+    },
+    {
+      "name": "Escola secundária americana",
+      "roles": [
+        "Veterano",
+        "Professora",
+        "Líder de torcida",
+        "Técnico",
+        "Diretor",
+        "Zelador",
+        "Jogador de futebol americano",
+        "Bibliotecária"
+      ]
+    },
+    {
+      "name": "Base de lançamento de Cabo Canaveral",
+      "roles": [
+        "Engenheira",
+        "Astronauta",
+        "Controlador de voo",
+        "Jornalista",
+        "Técnico",
+        "Diretor do lançamento",
+        "Turista",
+        "Segurança"
+      ]
+    },
+    {
+      "name": "Fazenda do interior",
+      "roles": [
+        "Fazendeiro",
+        "Peão de boiadeiro",
+        "Tratorista",
+        "Ordenhadora",
+        "Turista",
+        "Tratador do estábulo",
+        "Vendedor da feira",
+        "Criança"
+      ]
+    },
+    {
+      "name": "Estádio de beisebol",
+      "roles": [
+        "Rebatedor",
+        "Torcedor",
+        "Narrador",
+        "Vendedor de cachorro-quente",
+        "Árbitro",
+        "Técnico",
+        "Mascote",
+        "Lanterninha"
+      ]
+    },
+    {
+      "name": "Praia de Malibu",
+      "roles": [
+        "Surfista",
+        "Salva-vidas",
+        "Turista",
+        "Vendedor ambulante",
+        "Fotógrafa",
+        "Skatista",
+        "Quem toma sol",
+        "Instrutor de surfe"
+      ]
+    },
+    {
+      "name": "Metrô de Nova York",
+      "roles": [
+        "Passageiro",
+        "Músico de vagão",
+        "Turista",
+        "Policial",
+        "Operadora do trem",
+        "Executivo",
+        "Estudante",
+        "Dançarino de break"
+      ]
+    },
+    {
+      "name": "Rodeio",
+      "roles": [
+        "Peão de montaria",
+        "Espectador",
+        "Palhaço de rodeio",
+        "Locutor",
+        "Fiscal da prova",
+        "Vendedora",
+        "Dono do rancho",
+        "Veterinário"
+      ]
+    },
+    {
+      "name": "Delegacia de polícia",
+      "roles": [
+        "Policial",
+        "Detetive",
+        "Atendente do balcão",
+        "Advogado de defesa",
+        "Visitante",
+        "Sargento",
+        "Policial novato",
+        "Recepcionista"
+      ]
+    },
+    {
+      "name": "Posto de gasolina da Rota 66",
+      "roles": [
+        "Frentista",
+        "Viajante de estrada",
+        "Motociclista",
+        "Mecânico",
+        "Caixa",
+        "Caminhoneiro",
+        "Dono do carro antigo",
+        "Turista"
+      ]
+    },
+    {
+      "name": "Escritório no Vale do Silício",
+      "roles": [
+        "Engenheiro de software",
+        "Diretora executiva",
+        "Estagiário",
+        "Gerente de produto",
+        "Recrutadora",
+        "Designer",
+        "Investidor",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Jantar de Ação de Graças",
+      "roles": [
+        "Avó",
+        "Tio",
+        "Prima",
+        "Anfitriã",
+        "Criança",
+        "Sogra",
+        "Vizinho",
+        "Convidado atrasado"
+      ]
+    },
+    {
+      "name": "Wall Street",
+      "roles": [
+        "Operadora de mesa",
+        "Corretor",
+        "Analista",
+        "Diretor executivo",
+        "Estagiária",
+        "Turista",
+        "Segurança",
+        "Jornalista"
+      ]
+    },
+    {
+      "name": "Camping do parque nacional",
+      "roles": [
+        "Campista",
+        "Guarda florestal",
+        "Caminhante",
+        "Chefe dos escoteiros",
+        "Dono do trailer",
+        "Pescadora",
+        "Criança",
+        "Vendedor"
+      ]
+    },
+    {
+      "name": "Cinema drive-in",
+      "roles": [
+        "Bilheteiro",
+        "Casal em encontro",
+        "Vendedora de pipoca",
+        "Projecionista",
+        "Adolescente",
+        "Família",
+        "Atendente de carro",
+        "Segurança"
+      ]
+    }
+  ]
+}

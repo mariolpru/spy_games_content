@@ -1,0 +1,266 @@
+{
+  "id": "sport",
+  "title": "Esporte",
+  "locations": [
+    {
+      "name": "Estádio de futebol",
+      "roles": [
+        "Atacante",
+        "Goleiro",
+        "Árbitro",
+        "Torcedor",
+        "Narrador",
+        "Técnico",
+        "Vendedor da arquibancada",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Academia",
+      "roles": [
+        "Personal trainer",
+        "Rapaz na barra",
+        "Moça na esteira",
+        "Recepcionista",
+        "Novato",
+        "Instrutor de aula",
+        "Pessoal da limpeza",
+        "Frequentador do crossfit"
+      ]
+    },
+    {
+      "name": "Piscina",
+      "roles": [
+        "Nadador",
+        "Treinadora",
+        "Salva-vidas",
+        "Criança na borda",
+        "Professora de natação",
+        "Fã de hidroginástica",
+        "Juiz de largada",
+        "Pessoal da limpeza"
+      ]
+    },
+    {
+      "name": "Ringue de boxe",
+      "roles": [
+        "Boxeador",
+        "Treinador do córner",
+        "Árbitro",
+        "Médico ao lado do ringue",
+        "Torcedor",
+        "Narradora",
+        "Locutor",
+        "Fisioterapeuta"
+      ]
+    },
+    {
+      "name": "Quadra de tênis",
+      "roles": [
+        "Tenista",
+        "Juiz de cadeira",
+        "Gandula",
+        "Treinador",
+        "Espectadora",
+        "Narrador",
+        "Fotógrafo",
+        "Patrocinador no camarote"
+      ]
+    },
+    {
+      "name": "Pista de gelo",
+      "roles": [
+        "Patinadora artística",
+        "Jogador de hóquei",
+        "Treinador",
+        "Motorista da máquina de gelo",
+        "Criança junto à grade",
+        "Atendente do aluguel de patins",
+        "Espectadora",
+        "Juiz"
+      ]
+    },
+    {
+      "name": "Ginásio de escalada",
+      "roles": [
+        "Escalador",
+        "Instrutora",
+        "Segurança da corda",
+        "Novato",
+        "Recepcionista",
+        "Criança na parede",
+        "Fotógrafa",
+        "Montador de vias"
+      ]
+    },
+    {
+      "name": "Maratona",
+      "roles": [
+        "Corredora",
+        "Voluntário do posto de água",
+        "Espectador",
+        "Juiz da chegada",
+        "Fotógrafo",
+        "Socorrista",
+        "Narrador",
+        "Pacer"
+      ]
+    },
+    {
+      "name": "Clube de golfe",
+      "roles": [
+        "Golfista",
+        "Caddie",
+        "Instrutor",
+        "Recepcionista",
+        "Espectador",
+        "Convidado na sede",
+        "Zelador do campo",
+        "Árbitra"
+      ]
+    },
+    {
+      "name": "Velódromo",
+      "roles": [
+        "Ciclista de pista",
+        "Mecânica",
+        "Treinador",
+        "Juiz",
+        "Espectador",
+        "Narradora",
+        "Médico da equipe",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Estação de esqui",
+      "roles": [
+        "Esquiadora",
+        "Snowboarder",
+        "Instrutor",
+        "Patrulha de resgate",
+        "Operador do teleférico",
+        "Juiz de pista",
+        "Criança na pista de iniciantes",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Dojô de artes marciais",
+      "roles": [
+        "Caratê",
+        "Sensei",
+        "Aluna",
+        "Juiz",
+        "Pai no banco",
+        "Campeão do dojô",
+        "Novato",
+        "Treinador auxiliar"
+      ]
+    },
+    {
+      "name": "Autódromo",
+      "roles": [
+        "Piloto",
+        "Mecânico",
+        "Membro dos boxes",
+        "Comissário desportivo",
+        "Narrador",
+        "Espectadora",
+        "Fiscal de pista",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Pista de skate",
+      "roles": [
+        "Skatista",
+        "Rider de BMX",
+        "Novato",
+        "Espectador",
+        "Fotógrafo",
+        "Vendedor de água",
+        "Criança de patinete",
+        "Treinadora"
+      ]
+    },
+    {
+      "name": "Estande de tiro",
+      "roles": [
+        "Atirador",
+        "Instrutora",
+        "Chefe de linha",
+        "Espectador",
+        "Novato",
+        "Caixa",
+        "Armeiro",
+        "Treinador"
+      ]
+    },
+    {
+      "name": "Hipódromo",
+      "roles": [
+        "Jóquei",
+        "Tratadora de cavalos",
+        "Treinador",
+        "Espectador",
+        "Bilheteira",
+        "Veterinária",
+        "Dono do cavalo",
+        "Narrador"
+      ]
+    },
+    {
+      "name": "Vôlei de praia",
+      "roles": [
+        "Jogadora de vôlei",
+        "Árbitro",
+        "Espectador",
+        "Treinadora",
+        "Fotógrafo",
+        "Vendedor de bebidas",
+        "Criança com bola",
+        "Narrador"
+      ]
+    },
+    {
+      "name": "Parque de trampolins",
+      "roles": [
+        "Saltadora",
+        "Instrutor",
+        "Criança",
+        "Recepcionista",
+        "Monitor de segurança",
+        "Pai no banco",
+        "Pessoal da limpeza",
+        "Treinadora"
+      ]
+    },
+    {
+      "name": "Centro de formação esportiva",
+      "roles": [
+        "Jovem atleta",
+        "Treinadora",
+        "Pai na arquibancada",
+        "Zelador",
+        "Enfermeira",
+        "Diretor",
+        "Aluno veterano",
+        "Pessoal da limpeza"
+      ]
+    },
+    {
+      "name": "Centro de esqui cross-country",
+      "roles": [
+        "Esquiador de fundo",
+        "Treinador",
+        "Atendente do aluguel",
+        "Guarda da pista",
+        "Criança de esqui",
+        "Torcedor",
+        "Juíza",
+        "Fotógrafo"
+      ]
+    }
+  ]
+}

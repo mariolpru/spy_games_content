@@ -726,6 +726,126 @@
       "lang": "it",
       "file": "it/usa.json",
       "version": 1
+    },
+    {
+      "id": "brazil",
+      "lang": "pt-BR",
+      "file": "pt-BR/brazil.json",
+      "version": 1
+    },
+    {
+      "id": "capitals",
+      "lang": "pt-BR",
+      "file": "pt-BR/capitals.json",
+      "version": 1
+    },
+    {
+      "id": "carnival",
+      "lang": "pt-BR",
+      "file": "pt-BR/carnival.json",
+      "version": 1
+    },
+    {
+      "id": "china",
+      "lang": "pt-BR",
+      "file": "pt-BR/china.json",
+      "version": 1
+    },
+    {
+      "id": "city",
+      "lang": "pt-BR",
+      "file": "pt-BR/city.json",
+      "version": 1
+    },
+    {
+      "id": "entertainment",
+      "lang": "pt-BR",
+      "file": "pt-BR/entertainment.json",
+      "version": 1
+    },
+    {
+      "id": "fantasy",
+      "lang": "pt-BR",
+      "file": "pt-BR/fantasy.json",
+      "version": 1
+    },
+    {
+      "id": "france",
+      "lang": "pt-BR",
+      "file": "pt-BR/france.json",
+      "version": 1
+    },
+    {
+      "id": "germany",
+      "lang": "pt-BR",
+      "file": "pt-BR/germany.json",
+      "version": 1
+    },
+    {
+      "id": "halloween",
+      "lang": "pt-BR",
+      "file": "pt-BR/halloween.json",
+      "version": 1
+    },
+    {
+      "id": "italy",
+      "lang": "pt-BR",
+      "file": "pt-BR/italy.json",
+      "version": 1
+    },
+    {
+      "id": "japan",
+      "lang": "pt-BR",
+      "file": "pt-BR/japan.json",
+      "version": 1
+    },
+    {
+      "id": "leisure",
+      "lang": "pt-BR",
+      "file": "pt-BR/leisure.json",
+      "version": 1
+    },
+    {
+      "id": "school",
+      "lang": "pt-BR",
+      "file": "pt-BR/school.json",
+      "version": 1
+    },
+    {
+      "id": "school-year",
+      "lang": "pt-BR",
+      "file": "pt-BR/school-year.json",
+      "version": 1
+    },
+    {
+      "id": "space",
+      "lang": "pt-BR",
+      "file": "pt-BR/space.json",
+      "version": 1
+    },
+    {
+      "id": "sport",
+      "lang": "pt-BR",
+      "file": "pt-BR/sport.json",
+      "version": 1
+    },
+    {
+      "id": "travel",
+      "lang": "pt-BR",
+      "file": "pt-BR/travel.json",
+      "version": 1
+    },
+    {
+      "id": "university",
+      "lang": "pt-BR",
+      "file": "pt-BR/university.json",
+      "version": 1
+    },
+    {
+      "id": "usa",
+      "lang": "pt-BR",
+      "file": "pt-BR/usa.json",
+      "version": 1
     }
   ]
 }
