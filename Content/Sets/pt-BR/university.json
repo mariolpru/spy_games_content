@@ -1,0 +1,227 @@
+{
+  "id": "university",
+  "title": "Universidade",
+  "locations": [
+    {
+      "name": "Aula magna",
+      "roles": [
+        "Professor",
+        "Aluna da primeira fila",
+        "Aluno dormindo no fundo",
+        "Representante com a lista de presença",
+        "Quem anota tudo",
+        "Quem chegou atrasado",
+        "Aluno com o notebook",
+        "Aluna ouvinte"
+      ]
+    },
+    {
+      "name": "Quarto do alojamento",
+      "roles": [
+        "Monitor do andar",
+        "Calouro com a mala",
+        "Colega de quarto",
+        "Aluno com o violão",
+        "Porteiro",
+        "Aluna com a panela",
+        "Aluno estrangeiro",
+        "Quem procura um ferro de passar"
+      ]
+    },
+    {
+      "name": "Restaurante universitário",
+      "roles": [
+        "Caixa",
+        "Aluno com a bandeja",
+        "Professora",
+        "Cozinheiro",
+        "Aluno contando moedas",
+        "Menina com a salada",
+        "Pessoal da limpeza",
+        "Aluno furando a fila"
+      ]
+    },
+    {
+      "name": "Prova final",
+      "roles": [
+        "Professor",
+        "Aluno sorteando a questão",
+        "Aluna nota dez",
+        "Aluno com a cola",
+        "Quem estuda na porta",
+        "Monitor da disciplina",
+        "Representante de turma",
+        "Aluno com a caderneta"
+      ]
+    },
+    {
+      "name": "Defesa de monografia",
+      "roles": [
+        "Formando",
+        "Orientadora",
+        "Presidente da banca",
+        "Parecerista",
+        "Membro da banca",
+        "Colega na plateia",
+        "Secretária",
+        "Mãe na última fila"
+      ]
+    },
+    {
+      "name": "Biblioteca",
+      "roles": [
+        "Bibliotecário",
+        "Aluna com a pilha de livros",
+        "Quem estuda na véspera da prova",
+        "Mestranda",
+        "Aluno dormindo na mesa",
+        "Leitora de fones",
+        "Segurança",
+        "Quem procura uma tomada"
+      ]
+    },
+    {
+      "name": "Laboratório de pesquisa",
+      "roles": [
+        "Técnica de laboratório",
+        "Mestrando",
+        "Aluna com o tubo de ensaio",
+        "Professor",
+        "Aluno de avental",
+        "Quem quebrou o equipamento",
+        "Técnico",
+        "Estagiária"
+      ]
+    },
+    {
+      "name": "Setor de admissões",
+      "roles": [
+        "Candidato",
+        "Atendente de admissões",
+        "Mãe do candidato",
+        "Aluna voluntária",
+        "Chefe de admissões",
+        "Candidata medalhista",
+        "Candidato com a pasta de documentos",
+        "Segurança"
+      ]
+    },
+    {
+      "name": "Secretaria da faculdade",
+      "roles": [
+        "Diretor da faculdade",
+        "Secretária da diretoria",
+        "Aluno pedindo um atestado",
+        "Aluno com reprovações",
+        "Coordenadora da turma",
+        "Menina com um requerimento",
+        "Vice-diretor",
+        "Aluno sendo reintegrado"
+      ]
+    },
+    {
+      "name": "Festival de talentos do campus",
+      "roles": [
+        "Apresentador",
+        "Cantora",
+        "Dançarino",
+        "Técnico de som",
+        "Avaliadora",
+        "Quem esqueceu a letra",
+        "Fotógrafo",
+        "Torcedor do curso"
+      ]
+    },
+    {
+      "name": "Segunda chamada",
+      "roles": [
+        "Professora",
+        "Aluno reprovado",
+        "Quem repete pela terceira vez",
+        "Representante de turma",
+        "Monitor da disciplina",
+        "Aluna esperando na porta",
+        "Secretária do departamento",
+        "Aluno nota dez que veio de companhia"
+      ]
+    },
+    {
+      "name": "Virada antes da prova",
+      "roles": [
+        "Aluno com o café",
+        "Menina com os resumos da aula",
+        "Quem abre o livro pela primeira vez",
+        "Colega de quarto",
+        "Aluno dormindo sobre o livro",
+        "Quem assiste à aula gravada",
+        "Quem liga para o gênio da turma",
+        "Quem passa a camisa"
+      ]
+    },
+    {
+      "name": "Colação de grau",
+      "roles": [
+        "Formanda de beca",
+        "Reitor",
+        "Diretor da faculdade",
+        "Mãe com as flores",
+        "Fotógrafo",
+        "Formando com louvor",
+        "Colega de turma",
+        "Músico da banda"
+      ]
+    },
+    {
+      "name": "Sala do departamento",
+      "roles": [
+        "Chefe do departamento",
+        "Técnico de laboratório",
+        "Mestranda",
+        "Professor adjunto",
+        "Secretária",
+        "Aluno com o trabalho final",
+        "Professora",
+        "Coordenador do currículo"
+      ]
+    },
+    {
+      "name": "Aula das sete da manhã",
+      "roles": [
+        "Professor",
+        "Quem chegou atrasado",
+        "Menina com o café",
+        "Aluno dormindo",
+        "Representante de turma",
+        "Aluna com o notebook",
+        "Quem termina o café da manhã",
+        "Aluno da limpeza"
+      ]
+    },
+    {
+      "name": "Cozinha do alojamento",
+      "roles": [
+        "Aluno com o macarrão",
+        "Menina com a chaleira",
+        "Vizinho pedindo sal",
+        "Monitor do andar em inspeção",
+        "Quem esqueceu a panela",
+        "Aluno de intercâmbio com um prato típico",
+        "Aluna de plantão na cozinha",
+        "Quem está lavando a louça"
+      ]
+    },
+    {
+      "name": "Copiadora",
+      "roles": [
+        "Atendente da copiadora",
+        "Aluno com o trabalho final",
+        "Aluna com a folha enroscada",
+        "Professor com as apostilas",
+        "Menina com o pen drive",
+        "Aluno sem trocado",
+        "Caloura com a grade de horários",
+        "Mestrando com a dissertação"
+      ]
+    }
+  ]
+}

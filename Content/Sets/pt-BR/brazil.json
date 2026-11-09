@@ -1,0 +1,253 @@
+{
+  "id": "brazil",
+  "title": "Brasil do dia a dia",
+  "locations": [
+    {
+      "name": "Feira livre",
+      "roles": [
+        "Feirante de frutas",
+        "Dona de casa com o carrinho",
+        "Vendedor de pastel",
+        "Quem pede para provar",
+        "Peixeiro",
+        "Carregador de caixas",
+        "Fiscal da prefeitura",
+        "Criança com a sacola"
+      ]
+    },
+    {
+      "name": "Padaria do bairro",
+      "roles": [
+        "Padeiro",
+        "Atendente do balcão",
+        "Cliente do pão na chapa",
+        "Caixa",
+        "Entregador",
+        "Vizinho de sempre",
+        "Criança com a lista da mãe",
+        "Confeiteira"
+      ]
+    },
+    {
+      "name": "Praia de Copacabana",
+      "roles": [
+        "Banhista na cadeira",
+        "Vendedor de milho",
+        "Salva-vidas",
+        "Jogador de futevôlei",
+        "Turista estrangeiro",
+        "Ambulante de água de coco",
+        "Fotógrafo",
+        "Criança com a prancha"
+      ]
+    },
+    {
+      "name": "Churrasco de domingo no quintal",
+      "roles": [
+        "Churrasqueiro",
+        "Tio que dá palpite",
+        "Criança na piscina de plástico",
+        "Vizinho convidado de última hora",
+        "Prima com a sobremesa",
+        "Quem lava a louça",
+        "Avó na cadeira",
+        "Quem cuida do som"
+      ]
+    },
+    {
+      "name": "Pelada no campinho de várzea",
+      "roles": [
+        "Atacante",
+        "Goleiro",
+        "Juiz improvisado",
+        "Torcedor na grade",
+        "Quem levou a bola",
+        "Técnico amador",
+        "Vendedor de refrigerante",
+        "Quem chegou atrasado"
+      ]
+    },
+    {
+      "name": "Ônibus lotado no horário de pico",
+      "roles": [
+        "Motorista",
+        "Cobrador",
+        "Passageira em pé",
+        "Quem dorme no banco",
+        "Estudante com a mochila",
+        "Senhora com direito ao assento",
+        "Vendedor de balas",
+        "Quem pede a parada"
+      ]
+    },
+    {
+      "name": "Posto de saúde",
+      "roles": [
+        "Enfermeira da triagem",
+        "Médica de família",
+        "Paciente da fila",
+        "Mãe com o bebê",
+        "Recepcionista",
+        "Agente de saúde",
+        "Senhor com a receita",
+        "Quem vem tomar vacina"
+      ]
+    },
+    {
+      "name": "Fila do banco",
+      "roles": [
+        "Caixa",
+        "Cliente pagando contas",
+        "Gerente",
+        "Segurança",
+        "Aposentado com o comprovante",
+        "Atendente do autoatendimento",
+        "Quem esqueceu a senha",
+        "Entregador com o malote"
+      ]
+    },
+    {
+      "name": "Mercado municipal",
+      "roles": [
+        "Vendedor de temperos",
+        "Açougueiro",
+        "Turista provando frutas",
+        "Caixa",
+        "Quem empurra o carrinho",
+        "Carregador",
+        "Dona da barraca de queijos",
+        "Fiscal sanitário"
+      ]
+    },
+    {
+      "name": "Rodoviária",
+      "roles": [
+        "Atendente do guichê",
+        "Passageiro com a mala",
+        "Motorista de ônibus",
+        "Carregador",
+        "Vendedor de salgados",
+        "Quem perdeu o ônibus",
+        "Segurança",
+        "Quem espera com a placa do nome"
+      ]
+    },
+    {
+      "name": "Salão de beleza do bairro",
+      "roles": [
+        "Cabeleireira",
+        "Cliente na cadeira",
+        "Manicure",
+        "Quem só veio conversar",
+        "Recepcionista",
+        "Aprendiz",
+        "Quem está com a toalha na cabeça",
+        "Vizinha de sempre"
+      ]
+    },
+    {
+      "name": "Loja de material de construção",
+      "roles": [
+        "Vendedor do balcão",
+        "Pedreiro fazendo a lista",
+        "Caixa",
+        "Dono da obra",
+        "Entregador",
+        "Pintor escolhendo a cor",
+        "Estoquista",
+        "Quem só queria um parafuso"
+      ]
+    },
+    {
+      "name": "Praça da matriz",
+      "roles": [
+        "Vendedor de pipoca",
+        "Casal no banco",
+        "Criança no escorregador",
+        "Senhor jogando dominó",
+        "Engraxate",
+        "Músico de rua",
+        "Pessoa com o cachorro",
+        "Varredor"
+      ]
+    },
+    {
+      "name": "Barraca de açaí",
+      "roles": [
+        "Atendente",
+        "Cliente da tigela grande",
+        "Quem pede sem granola",
+        "Caixa",
+        "Entregador de aplicativo",
+        "Criança indecisa",
+        "Quem lava as tigelas",
+        "Turista curioso"
+      ]
+    },
+    {
+      "name": "Trailer de cachorro-quente",
+      "roles": [
+        "Dono do trailer",
+        "Cliente da fila",
+        "Quem pede tudo",
+        "Ajudante",
+        "Casal depois do cinema",
+        "Entregador",
+        "Quem só pede refrigerante",
+        "Guardador de carros"
+      ]
+    },
+    {
+      "name": "Portaria do condomínio",
+      "roles": [
+        "Porteiro",
+        "Morador voltando do trabalho",
+        "Entregador",
+        "Visitante no interfone",
+        "Zelador",
+        "Síndica",
+        "Criança brincando no hall",
+        "Faxineira"
+      ]
+    },
+    {
+      "name": "Barco no rio Amazonas",
+      "roles": [
+        "Barqueiro",
+        "Passageiro na rede",
+        "Pescador",
+        "Ribeirinha com as frutas",
+        "Turista com a câmera",
+        "Guia",
+        "Criança no parapeito",
+        "Comerciante com as caixas"
+      ]
+    },
+    {
+      "name": "Mirante do Cristo Redentor",
+      "roles": [
+        "Turista de braços abertos",
+        "Guia",
+        "Vendedor de lembrancinhas",
+        "Fotógrafo",
+        "Operador do bondinho",
+        "Guarda do parque",
+        "Criança cansada da subida",
+        "Quem vende água"
+      ]
+    },
+    {
+      "name": "Roda de samba no quintal",
+      "roles": [
+        "Quem toca o cavaquinho",
+        "Pandeirista",
+        "Cantora do centro da roda",
+        "Vizinho na janela",
+        "Quem bate palma fora do tempo",
+        "Anfitrião",
+        "Quem serve os salgados",
+        "Criança dançando"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "space",
+  "title": "Espaço",
+  "locations": [
+    {
+      "name": "Estação espacial",
+      "roles": [
+        "Comandante",
+        "Engenheira de voo",
+        "Cientista",
+        "Oficial de comunicações",
+        "Médico de bordo",
+        "Técnico",
+        "Piloto",
+        "Astronauta em caminhada espacial"
+      ]
+    },
+    {
+      "name": "Sala do reator",
+      "roles": [
+        "Engenheiro nuclear",
+        "Técnico",
+        "Operador do reator",
+        "Monitora de radiação",
+        "Mecânico",
+        "Aprendiz",
+        "Engenheira-chefe",
+        "Equipe de reparo"
+      ]
+    },
+    {
+      "name": "Controle da missão",
+      "roles": [
+        "Diretor de voo",
+        "Operadora de comunicações",
+        "Analista de trajetória",
+        "Engenheiro de sistemas",
+        "Analista de dados",
+        "Oficial de plantão",
+        "Estagiária",
+        "Médico de voo"
+      ]
+    },
+    {
+      "name": "Módulo de habitação",
+      "roles": [
+        "Astronauta fora de turno",
+        "Cozinheiro",
+        "Psicólogo",
+        "Engenheira",
+        "Cientista",
+        "Oficial de plantão",
+        "Tripulante na esteira",
+        "Oficial de comunicações"
+      ]
+    },
+    {
+      "name": "Laboratório científico",
+      "roles": [
+        "Cientista",
+        "Técnico de laboratório",
+        "Química",
+        "Biólogo",
+        "Estagiário",
+        "Diretora do laboratório",
+        "Técnico de equipamentos",
+        "Assistente de pesquisa"
+      ]
+    },
+    {
+      "name": "Elevador espacial",
+      "roles": [
+        "Operador",
+        "Passageira",
+        "Engenheiro",
+        "Técnica",
+        "Controlador de tráfego",
+        "Responsável pela carga",
+        "Segurança",
+        "Aprendiz"
+      ]
+    },
+    {
+      "name": "Base de lançamento",
+      "roles": [
+        "Engenheiro de lançamento",
+        "Piloto",
+        "Técnico",
+        "Controlador de lançamento",
+        "Técnico de combustível",
+        "Jornalista",
+        "Diretora do lançamento",
+        "Segurança"
+      ]
+    },
+    {
+      "name": "Observatório",
+      "roles": [
+        "Astrônoma",
+        "Operador do telescópio",
+        "Pesquisador",
+        "Técnica",
+        "Estagiário",
+        "Palestrante",
+        "Analista de dados",
+        "Oficial do turno da noite"
+      ]
+    },
+    {
+      "name": "Colônia em Marte",
+      "roles": [
+        "Colono",
+        "Engenheiro da cúpula",
+        "Geólogo",
+        "Médica",
+        "Agricultor hidropônico",
+        "Comandante da base",
+        "Técnico",
+        "Explorador"
+      ]
+    },
+    {
+      "name": "Porão de carga",
+      "roles": [
+        "Responsável pela carga",
+        "Oficial de logística",
+        "Engenheiro",
+        "Operador da empilhadeira",
+        "Técnica",
+        "Aprendiz",
+        "Chefe do almoxarifado",
+        "Monitor de radiação"
+      ]
+    },
+    {
+      "name": "Bloco de quarentena",
+      "roles": [
+        "Médico",
+        "Paciente isolado",
+        "Bióloga",
+        "Auxiliar de enfermagem",
+        "Segurança",
+        "Técnico de sistemas",
+        "Psicóloga",
+        "Técnica de laboratório"
+      ]
+    },
+    {
+      "name": "Nave de exploração",
+      "roles": [
+        "Piloto",
+        "Navegador",
+        "Oficial de comunicações",
+        "Engenheiro",
+        "Cientista",
+        "Artilheiro",
+        "Capitã",
+        "Aprendiz"
+      ]
+    },
+    {
+      "name": "Ponte de comando",
+      "roles": [
+        "Comandante",
+        "Operador de armas",
+        "Oficial de comunicações",
+        "Oficial tático",
+        "Engenheiro",
+        "Oficial de plantão",
+        "Aprendiz",
+        "Operador de sensores"
+      ]
+    }
+  ]
+}

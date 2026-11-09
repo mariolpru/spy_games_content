@@ -1,0 +1,279 @@
+{
+  "id": "school",
+  "title": "Escola",
+  "locations": [
+    {
+      "name": "Laboratório de física",
+      "roles": [
+        "Professor de física",
+        "Auxiliar de laboratório",
+        "Aluno no quadro",
+        "Aluna com o dinamômetro",
+        "Aluna nota dez",
+        "Aluno da limpeza",
+        "Aluno com a lâmpada queimada",
+        "Aluno com a cola"
+      ]
+    },
+    {
+      "name": "Cantina",
+      "roles": [
+        "Cozinheiro",
+        "Merendeira",
+        "Aluno da limpeza",
+        "Aluna com a bandeja",
+        "Professora de plantão",
+        "Aluno do primeiro ano",
+        "Veterano furando a fila",
+        "Lavador de louça"
+      ]
+    },
+    {
+      "name": "Aula de educação física",
+      "roles": [
+        "Professor de educação física",
+        "Aluno subindo na corda",
+        "Aluno com atestado",
+        "Capitão do time",
+        "Menina com a argola",
+        "Aluno que esqueceu o uniforme",
+        "Quem chegou atrasado",
+        "Aluno com a bola"
+      ]
+    },
+    {
+      "name": "Sala da direção",
+      "roles": [
+        "Diretora",
+        "Secretária",
+        "Aluno em apuros",
+        "Mãe de aluno",
+        "Vice-diretor",
+        "Professora da turma",
+        "Inspetor da rede",
+        "Aluna recebendo prêmio"
+      ]
+    },
+    {
+      "name": "Laboratório de química",
+      "roles": [
+        "Professora de química",
+        "Auxiliar de laboratório",
+        "Aluno na capela",
+        "Aluna de óculos de proteção",
+        "Aluno nota dez",
+        "Aluna assustada",
+        "Aluno da limpeza",
+        "Quem derrubou o tubo de ensaio"
+      ]
+    },
+    {
+      "name": "Biblioteca da escola",
+      "roles": [
+        "Bibliotecária",
+        "Aluno pegando livros",
+        "Leitora na mesa",
+        "Aluno com livro atrasado",
+        "Aluna do primeiro ano",
+        "Monitor da biblioteca",
+        "Professora de português",
+        "Aluno dormindo sobre o livro"
+      ]
+    },
+    {
+      "name": "Sala dos professores",
+      "roles": [
+        "Vice-diretor",
+        "Professor de matemática",
+        "Professora de educação física",
+        "Professora da turma",
+        "Professor novato",
+        "Orientadora educacional",
+        "Zelador",
+        "Aluno chamado para conversar"
+      ]
+    },
+    {
+      "name": "Vestiário",
+      "roles": [
+        "Aluno",
+        "Quem esqueceu o tênis",
+        "Aluno da limpeza",
+        "Professor na porta",
+        "Quem chegou atrasado",
+        "Aluno no celular",
+        "Dono da meia perdida",
+        "Capitã do time"
+      ]
+    },
+    {
+      "name": "Auditório",
+      "roles": [
+        "Apresentador",
+        "Aluna no palco",
+        "Diretora na primeira fila",
+        "Técnico de som",
+        "Integrante do coral",
+        "Mãe com a câmera",
+        "Aluno que esqueceu a fala",
+        "Responsável pela manutenção"
+      ]
+    },
+    {
+      "name": "Sala da enfermaria",
+      "roles": [
+        "Enfermeira da escola",
+        "Aluno com o joelho esfolado",
+        "Quem está fingindo",
+        "Aluna do primeiro ano tomando vacina",
+        "Professor acompanhando o aluno",
+        "Menina com dor de cabeça",
+        "Médico",
+        "Aluno com medo de agulha"
+      ]
+    },
+    {
+      "name": "Oficina de marcenaria",
+      "roles": [
+        "Professor de oficina",
+        "Aluno com o martelo",
+        "Aluna com o molde",
+        "Aluno com o banquinho pronto",
+        "Aluna varrendo a serragem",
+        "Novato",
+        "Responsável pela manutenção",
+        "Aluno com uma lasca no dedo"
+      ]
+    },
+    {
+      "name": "Laboratório de informática",
+      "roles": [
+        "Professor de informática",
+        "Jogador disfarçado",
+        "Aluna com o pen drive",
+        "Aluno nota dez",
+        "Administrador de rede",
+        "Menina na impressora",
+        "Quem esqueceu a senha",
+        "Aluno da limpeza"
+      ]
+    },
+    {
+      "name": "Pátio da escola",
+      "roles": [
+        "Segurança",
+        "Jardineiro",
+        "Aluno no banco",
+        "Aluna do primeiro ano com a mochila",
+        "Mãe no portão",
+        "Responsável pela manutenção",
+        "Professor com o cronômetro",
+        "Aluno matando aula"
+      ]
+    },
+    {
+      "name": "Corredor no intervalo",
+      "roles": [
+        "Monitor de corredor",
+        "Aluno correndo",
+        "Professora com o ponteiro",
+        "Veterano na janela",
+        "Aluno do primeiro ano com o sanduíche",
+        "Zelador com o rodo",
+        "Vice-diretora",
+        "Aluna no celular"
+      ]
+    },
+    {
+      "name": "Ônibus escolar",
+      "roles": [
+        "Motorista",
+        "Aluno no último banco",
+        "Aluna do primeiro ano na frente",
+        "Quem perdeu a parada",
+        "Monitora do ônibus",
+        "Aluno com a maquete enorme",
+        "Aluno dormindo",
+        "Quem guarda lugar"
+      ]
+    },
+    {
+      "name": "Sala de música",
+      "roles": [
+        "Professora de música",
+        "Solista",
+        "Aluna com a flauta",
+        "Integrante do coral",
+        "Pianista acompanhante",
+        "Aluno com o pandeiro",
+        "Quem canta desafinado",
+        "Menina com o violão"
+      ]
+    },
+    {
+      "name": "Contraturno",
+      "roles": [
+        "Monitora",
+        "Aluno do primeiro ano fazendo a lição",
+        "Aluna com blocos de montar",
+        "Mãe buscando o filho",
+        "Aluno esperando o pai",
+        "Auxiliar",
+        "Babá",
+        "Aluna terminando a merenda"
+      ]
+    },
+    {
+      "name": "Laboratório de biologia",
+      "roles": [
+        "Professora de biologia",
+        "Aluno junto ao esqueleto",
+        "Menina com o microscópio",
+        "Aluno regando as plantas",
+        "Aluna com o herbário",
+        "Aluno nota dez",
+        "Quem tem medo de sapo",
+        "Auxiliar de laboratório"
+      ]
+    },
+    {
+      "name": "Campo de futebol da escola",
+      "roles": [
+        "Professor de educação física",
+        "Corredora",
+        "Árbitro",
+        "Torcedor na arquibancada",
+        "Aluno no teste físico",
+        "Aluna com atestado",
+        "Técnico",
+        "Socorrista da equipe"
+      ]
+    },
+    {
+      "name": "Sala de reforço",
+      "roles": [
+        "Professora de reforço",
+        "Aluno que chegou atrasado",
+        "Aluno malcriado",
+        "Aluna fazendo a lição",
+        "Aluno dormindo",
+        "Quem passa recadinhos",
+        "Aluna nota dez ali por engano",
+        "Zelador"
+      ]
+    },
+    {
+      "name": "Sala do primeiro ano",
+      "roles": [
+        "Professora",
+        "Aluno com o livro de leitura",
+        "Quem esqueceu o estojo",
+        "Criança chorando",
+        "Mãe na porta",
+        "Menina de maria-chiquinha",
+        "Aluno mascando chiclete",
+        "Chefe da fila"
+      ]
+    }
+  ]
+}

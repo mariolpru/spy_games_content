@@ -1,0 +1,227 @@
+{
+  "id": "leisure",
+  "title": "Tempo livre",
+  "locations": [
+    {
+      "name": "Parque da cidade",
+      "roles": [
+        "Corredor",
+        "Ciclista",
+        "Mãe com carrinho de bebê",
+        "Sorveteiro",
+        "Músico de rua",
+        "Aposentado no banco",
+        "Pessoa passeando com o cachorro",
+        "Barqueiro do lago"
+      ]
+    },
+    {
+      "name": "Café de jogos de tabuleiro",
+      "roles": [
+        "Jogador na mesa",
+        "Anfitrião",
+        "Barista",
+        "Freelancer com notebook",
+        "Grupo de amigos",
+        "Novata",
+        "Pessoal da limpeza",
+        "Explicador de regras"
+      ]
+    },
+    {
+      "name": "Salão de sinuca",
+      "roles": [
+        "Jogador",
+        "Marcador de pontos",
+        "Caixa",
+        "Espectador",
+        "Novato",
+        "Cliente habitual",
+        "Garçom",
+        "Gerente"
+      ]
+    },
+    {
+      "name": "Pescaria",
+      "roles": [
+        "Pescador",
+        "Vizinho na margem",
+        "Campista com barraca",
+        "Criança com vara",
+        "Vendedor de iscas",
+        "Barqueiro",
+        "Catadora de cogumelos",
+        "Veranista"
+      ]
+    },
+    {
+      "name": "Sauna",
+      "roles": [
+        "Frequentador da sauna",
+        "Responsável pelo vapor",
+        "Apreciadora do calor",
+        "Hóspede na sala de descanso",
+        "Recepcionista",
+        "Grupo de amigos",
+        "Massagista",
+        "Pessoal da limpeza"
+      ]
+    },
+    {
+      "name": "Ateliê de cerâmica",
+      "roles": [
+        "Ceramista",
+        "Aprendiz",
+        "Instrutor",
+        "Novato",
+        "Recepcionista",
+        "Espectador da oficina",
+        "Pessoal da limpeza",
+        "Esmaltador"
+      ]
+    },
+    {
+      "name": "Casa de campo",
+      "roles": [
+        "Anfitrião na churrasqueira",
+        "Convidado",
+        "Criança na rede",
+        "Jardineira",
+        "Vizinho por cima da cerca",
+        "Churrasqueiro",
+        "Responsável pela piscina",
+        "Veranista"
+      ]
+    },
+    {
+      "name": "Piquenique",
+      "roles": [
+        "Grupo na toalha",
+        "Churrasqueira",
+        "Criança com bola",
+        "Violonista",
+        "Dorminhoco na rede",
+        "Ciclista",
+        "Pessoa com o cachorro",
+        "Sorveteiro"
+      ]
+    },
+    {
+      "name": "Clube do livro",
+      "roles": [
+        "Anfitriã",
+        "Membro com o livro",
+        "Novato",
+        "Barista",
+        "Ouvinte",
+        "Autor convidado",
+        "Organizadora",
+        "Aquele que sempre discorda"
+      ]
+    },
+    {
+      "name": "Estúdio de ioga",
+      "roles": [
+        "Instrutora",
+        "Novato",
+        "Praticante antiga",
+        "Recepcionista",
+        "Convidada da aula experimental",
+        "Fã de meditação",
+        "Pessoal da limpeza",
+        "Quem chega atrasado"
+      ]
+    },
+    {
+      "name": "Jardim botânico",
+      "roles": [
+        "Jardineiro",
+        "Guia",
+        "Visitante com câmera",
+        "Criança",
+        "Botânica",
+        "Bilheteiro",
+        "Artista com cavalete",
+        "Casal apaixonado"
+      ]
+    },
+    {
+      "name": "Planetário",
+      "roles": [
+        "Palestrante",
+        "Espectadora",
+        "Estudante em excursão",
+        "Operador da projeção",
+        "Bilheteira",
+        "Astrônomo consultor",
+        "Criança com o pai",
+        "Pessoal da limpeza"
+      ]
+    },
+    {
+      "name": "Clube de xadrez",
+      "roles": [
+        "Enxadrista",
+        "Treinador",
+        "Iniciante",
+        "Espectador",
+        "Árbitro",
+        "Grande mestre",
+        "Criança na aula",
+        "Frequentador antigo"
+      ]
+    },
+    {
+      "name": "Ateliê de pintura",
+      "roles": [
+        "Pintora",
+        "Instrutor",
+        "Modelo",
+        "Iniciante",
+        "Espectador",
+        "Recepcionista",
+        "Pessoal da limpeza",
+        "Fã de aquarela"
+      ]
+    },
+    {
+      "name": "Arvorismo",
+      "roles": [
+        "Instrutor",
+        "Participante no percurso",
+        "Criança",
+        "Responsável pela segurança",
+        "Pai assistindo",
+        "Novato",
+        "Fotógrafo",
+        "Gerente"
+      ]
+    },
+    {
+      "name": "Aula de culinária",
+      "roles": [
+        "Chef que conduz",
+        "Participante",
+        "Assistente",
+        "Degustador",
+        "Novato",
+        "Espectador",
+        "Organizadora",
+        "Pessoal da limpeza"
+      ]
+    },
+    {
+      "name": "Estúdio de dança",
+      "roles": [
+        "Coreógrafa",
+        "Aluno",
+        "Iniciante",
+        "Pianista acompanhante",
+        "Espectador",
+        "Recepcionista",
+        "Par de dança",
+        "Quem chega atrasado"
+      ]
+    }
+  ]
+}

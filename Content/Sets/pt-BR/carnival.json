@@ -1,0 +1,214 @@
+{
+  "id": "carnival",
+  "title": "Carnaval",
+  "locations": [
+    {
+      "name": "Desfile na Sapucaí",
+      "roles": [
+        "Porta-bandeira",
+        "Mestre-sala",
+        "Puxador do samba",
+        "Ritmista da bateria",
+        "Jurado",
+        "Diretor de harmonia",
+        "Turista na arquibancada",
+        "Quem empurra o carro alegórico"
+      ]
+    },
+    {
+      "name": "Bloco de rua",
+      "roles": [
+        "Foliã de fantasia",
+        "Puxador do bloco",
+        "Vendedor de água",
+        "Quem segura a corda",
+        "Criança nos ombros do pai",
+        "Fotógrafa",
+        "Agente de limpeza",
+        "Quem perdeu o grupo"
+      ]
+    },
+    {
+      "name": "Trio elétrico em Salvador",
+      "roles": [
+        "Cantor no trio",
+        "Motorista do caminhão",
+        "Técnico de som",
+        "Foliã da pipoca",
+        "Quem está no bloco com abadá",
+        "Segurança do cordão",
+        "Vendedor ambulante",
+        "Dançarino do palco"
+      ]
+    },
+    {
+      "name": "Ensaio na quadra da escola",
+      "roles": [
+        "Mestre de bateria",
+        "Passista",
+        "Quem aprende o samba-enredo",
+        "Diretora de ala",
+        "Vizinho na porta",
+        "Vendedora de espetinho",
+        "Criança da bateria mirim",
+        "Presidente da escola"
+      ]
+    },
+    {
+      "name": "Barracão de alegorias",
+      "roles": [
+        "Carnavalesco",
+        "Escultor de isopor",
+        "Pintora",
+        "Costureira",
+        "Soldador",
+        "Aprendiz",
+        "Produtor correndo atrás do prazo",
+        "Visitante curioso"
+      ]
+    },
+    {
+      "name": "Camarote da avenida",
+      "roles": [
+        "Convidada do camarote",
+        "Garçom",
+        "Apresentador de TV",
+        "Segurança",
+        "Fotógrafo",
+        "Celebridade",
+        "Quem assiste de pé na grade",
+        "Produtor do evento"
+      ]
+    },
+    {
+      "name": "Concentração antes do desfile",
+      "roles": [
+        "Diretor de harmonia com o relógio",
+        "Baiana ajustando a saia",
+        "Quem procura a sua ala",
+        "Ritmista aquecendo",
+        "Costureira de emergência",
+        "Porta-bandeira ensaiando",
+        "Fiscal da liga",
+        "Quem chegou em cima da hora"
+      ]
+    },
+    {
+      "name": "Frevo no Recife",
+      "roles": [
+        "Passista de frevo com a sombrinha",
+        "Músico do metal",
+        "Mestre da orquestra",
+        "Foliã de camiseta do bloco",
+        "Vendedor de sombrinhas",
+        "Criança aprendendo o passo",
+        "Fotógrafo",
+        "Segurança"
+      ]
+    },
+    {
+      "name": "Baile de máscaras",
+      "roles": [
+        "Convidada mascarada",
+        "Anfitrião",
+        "Orquestra",
+        "Garçom",
+        "Quem adivinha quem é quem",
+        "Fotógrafo",
+        "Figurinista",
+        "Casal dançando"
+      ]
+    },
+    {
+      "name": "Ala das baianas",
+      "roles": [
+        "Baiana mais antiga",
+        "Diretora da ala",
+        "Baiana estreante",
+        "Costureira",
+        "Quem carrega a água",
+        "Fotógrafo",
+        "Jurado observando",
+        "Neta acompanhando a avó"
+      ]
+    },
+    {
+      "name": "Carro alegórico",
+      "roles": [
+        "Destaque no alto",
+        "Composição da base",
+        "Empurrador do carro",
+        "Eletricista do carro",
+        "Diretor de carnaval",
+        "Socorrista de plantão",
+        "Quem conserta a fantasia",
+        "Carnavalesco nervoso"
+      ]
+    },
+    {
+      "name": "Oficina de fantasias",
+      "roles": [
+        "Costureira-chefe",
+        "Quem cola as lantejoulas",
+        "Modelista",
+        "Figurinista",
+        "Aprendiz",
+        "Cliente provando a fantasia",
+        "Quem organiza as plumas",
+        "Entregador de tecidos"
+      ]
+    },
+    {
+      "name": "Marchinhas na praça",
+      "roles": [
+        "Regente da banda",
+        "Trompetista",
+        "Senhora que sabe todas as letras",
+        "Criança fantasiada de palhaço",
+        "Vendedor de confete",
+        "Fotógrafo",
+        "Casal dançando",
+        "Apresentador do palco"
+      ]
+    },
+    {
+      "name": "Posto médico do carnaval",
+      "roles": [
+        "Enfermeira de plantão",
+        "Médico",
+        "Foliã com o pé machucado",
+        "Socorrista",
+        "Recepcionista",
+        "Quem acompanha o amigo",
+        "Maqueiro",
+        "Quem só quer um copo de água"
+      ]
+    },
+    {
+      "name": "Bonecos gigantes de Olinda",
+      "roles": [
+        "Quem carrega o boneco",
+        "Mestre da orquestra de frevo",
+        "Turista na ladeira",
+        "Criança apontando para o boneco",
+        "Vendedor de picolé",
+        "Fotógrafo",
+        "Artesão dos bonecos",
+        "Guia"
+      ]
+    },
+    {
+      "name": "Apuração do carnaval",
+      "roles": [
+        "Leitor das notas",
+        "Presidente da escola",
+        "Jurado",
+        "Torcedora na plateia",
+        "Jornalista",
+        "Carnavalesco ansioso",
+        "Apresentador de TV",
+        "Quem anota tudo na planilha"
+      ]
+    }
+  ]
+}

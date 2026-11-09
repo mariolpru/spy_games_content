@@ -1,0 +1,266 @@
+{
+  "id": "halloween",
+  "title": "Halloween",
+  "locations": [
+    {
+      "name": "Casa mal-assombrada",
+      "roles": [
+        "Ator fantasma",
+        "Bilheteira",
+        "Visitante",
+        "Maquiadora",
+        "Segurança",
+        "Adolescente no desafio",
+        "Técnico de efeitos",
+        "Mãe segurando a criança pela mão"
+      ]
+    },
+    {
+      "name": "Plantação de abóboras",
+      "roles": [
+        "Agricultor",
+        "Criança com carrinho",
+        "Mãe com câmera",
+        "Vendedor de chocolate quente",
+        "Tratorista",
+        "Animador de espantalho",
+        "Blogueira",
+        "Comprador atrás da maior abóbora"
+      ]
+    },
+    {
+      "name": "Cemitério antigo",
+      "roles": [
+        "Zelador",
+        "Guia do passeio noturno",
+        "Caçador de fantasmas",
+        "Turista com lanterna",
+        "Historiadora",
+        "Jardineiro",
+        "Adolescente no desafio",
+        "Ator fantasiado de fantasma"
+      ]
+    },
+    {
+      "name": "Castelo do Drácula",
+      "roles": [
+        "Conde Drácula",
+        "Mordomo",
+        "Convidado do jantar",
+        "Camareira",
+        "Cocheiro",
+        "Caçadora de vampiros",
+        "Viajante perdido",
+        "Cronista do castelo"
+      ]
+    },
+    {
+      "name": "Laboratório do cientista maluco",
+      "roles": [
+        "Cientista maluco",
+        "Assistente",
+        "Monstro na mesa",
+        "Eletricista",
+        "Pessoal da limpeza",
+        "Inspetor",
+        "Repórter",
+        "Voluntário do experimento"
+      ]
+    },
+    {
+      "name": "Loja de fantasias",
+      "roles": [
+        "Vendedora",
+        "Cliente",
+        "Criança no provador",
+        "Maquiador",
+        "Caixa",
+        "Mãe com três crianças",
+        "Adolescente",
+        "Estoquista"
+      ]
+    },
+    {
+      "name": "Rua do doces ou travessuras",
+      "roles": [
+        "Criança fantasiada de fantasma",
+        "Menina fantasiada de bruxa",
+        "Pai com lanterna",
+        "Vizinha com a tigela de doces",
+        "Adolescente com fronha",
+        "Vovó na porta",
+        "Irmão mais velho acompanhando",
+        "Vizinho com a casa decorada"
+      ]
+    },
+    {
+      "name": "Tumba egípcia no museu",
+      "roles": [
+        "Arqueóloga",
+        "Ator fantasiado de múmia",
+        "Guia do museu",
+        "Turista",
+        "Segurança",
+        "Restauradora",
+        "Estudante em excursão",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Mansão abandonada",
+      "roles": [
+        "Corretora de imóveis",
+        "Caçador de fantasmas",
+        "Blogueiro",
+        "Eletricista",
+        "Zelador",
+        "Adolescente no desafio",
+        "Ator fantasma",
+        "Vizinha com uma torta"
+      ]
+    },
+    {
+      "name": "Loja de doces",
+      "roles": [
+        "Confeiteiro",
+        "Criança com o cofrinho",
+        "Lojista",
+        "Degustadora",
+        "Entregador",
+        "Mãe com a lista",
+        "Dentista comprando doces",
+        "Vitrinista"
+      ]
+    },
+    {
+      "name": "Sala da cartomante",
+      "roles": [
+        "Cartomante",
+        "Cliente",
+        "Cético",
+        "Aprendiz",
+        "Fotógrafo",
+        "Vizinha curiosa",
+        "Desmascarador de truques",
+        "Jovem médium"
+      ]
+    },
+    {
+      "name": "Noite de filme de terror",
+      "roles": [
+        "Espectador embaixo do cobertor",
+        "Lanterninha",
+        "Vendedor de pipoca",
+        "Projecionista",
+        "Casal em um encontro",
+        "Espectador que dormiu",
+        "Crítico de cinema",
+        "Adolescente no celular"
+      ]
+    },
+    {
+      "name": "Museu de cera",
+      "roles": [
+        "Vigia noturno",
+        "Ator parado como estátua",
+        "Escultora",
+        "Turista",
+        "Criança",
+        "Restaurador",
+        "Guia",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Passeio assombrado na carroça",
+      "roles": [
+        "Tratorista",
+        "Passageira",
+        "Ator espantalho",
+        "Recolhedor de ingressos",
+        "Criança agarrada ao cobertor",
+        "Adolescente gritando por diversão",
+        "Dono da fazenda",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Festa de Halloween",
+      "roles": [
+        "Anfitrião",
+        "Convidado de esqueleto",
+        "Convidada de abóbora",
+        "DJ",
+        "Criança com o balde de doces",
+        "Convidado pescando maçãs",
+        "Fotógrafa",
+        "Vizinho reclamando do barulho"
+      ]
+    },
+    {
+      "name": "Casa da bruxa",
+      "roles": [
+        "Bruxa",
+        "Aprendiz da bruxa",
+        "Criança perdida",
+        "Entregador",
+        "Vizinha com uma torta",
+        "Coletor de ervas",
+        "Convidado para o chá",
+        "Consertador de vassouras"
+      ]
+    },
+    {
+      "name": "Casa de pão de mel",
+      "roles": [
+        "Bruxa",
+        "João",
+        "Maria",
+        "Caminhante perdido",
+        "Lenhador",
+        "Entregador de doces",
+        "Criança mordiscando a parede",
+        "Confeiteira de pão de mel"
+      ]
+    },
+    {
+      "name": "Navio fantasma",
+      "roles": [
+        "Capitão fantasma",
+        "Grumete",
+        "Contramestre",
+        "Caçadora de tesouros",
+        "Pescador perdido",
+        "Navegador com o mapa",
+        "Cozinheiro de bordo",
+        "Cativo no porão"
+      ]
+    },
+    {
+      "name": "Parque de diversões abandonado",
+      "roles": [
+        "Vigia",
+        "Blogueiro",
+        "Adolescente no desafio",
+        "Mecânico da roda-gigante",
+        "Ex-bilheteira",
+        "Fotógrafo",
+        "Turista perdido",
+        "Ator palhaço"
+      ]
+    },
+    {
+      "name": "Sótão da casa antiga",
+      "roles": [
+        "Vovó com um baú",
+        "Neto com lanterna",
+        "Eletricista",
+        "Antiquário",
+        "Mãe com caixas",
+        "Menina com o vestido da avó",
+        "Vovô com o álbum de fotos",
+        "Telhadista"
+      ]
+    }
+  ]
+}

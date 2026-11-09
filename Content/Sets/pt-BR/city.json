@@ -1,0 +1,266 @@
+{
+  "id": "city",
+  "title": "Cidade",
+  "locations": [
+    {
+      "name": "Restaurante",
+      "roles": [
+        "Garçom",
+        "Cozinheiro",
+        "Maître",
+        "Casal em um encontro",
+        "Auxiliar de salão",
+        "Lavador de pratos",
+        "Entregador",
+        "Músico ao vivo"
+      ]
+    },
+    {
+      "name": "Banco",
+      "roles": [
+        "Caixa do guichê",
+        "Segurança",
+        "Cliente na fila",
+        "Gerente de empréstimos",
+        "Tesoureiro",
+        "Gerente da agência",
+        "Transportador de valores",
+        "Pessoal da limpeza"
+      ]
+    },
+    {
+      "name": "Supermercado",
+      "roles": [
+        "Operadora de caixa",
+        "Cliente com carrinho",
+        "Repositor",
+        "Segurança",
+        "Estoquista",
+        "Mãe com uma criança",
+        "Promotora de degustação",
+        "Pessoal da limpeza"
+      ]
+    },
+    {
+      "name": "Escola",
+      "roles": [
+        "Professora",
+        "Aluno",
+        "Diretor",
+        "Faxineira",
+        "Porteiro",
+        "Coordenador pedagógico",
+        "Criança no quadro",
+        "Responsável pelo aluno"
+      ]
+    },
+    {
+      "name": "Hospital",
+      "roles": [
+        "Médico",
+        "Enfermeira",
+        "Paciente",
+        "Cirurgião",
+        "Maqueiro",
+        "Recepcionista",
+        "Visita",
+        "Pessoal da limpeza"
+      ]
+    },
+    {
+      "name": "Salão de beleza",
+      "roles": [
+        "Cabeleireira",
+        "Cliente na cadeira",
+        "Manicure",
+        "Recepcionista",
+        "Colorista",
+        "Criança cortando o cabelo",
+        "Pessoal da limpeza",
+        "Designer de sobrancelhas"
+      ]
+    },
+    {
+      "name": "Cafeteria",
+      "roles": [
+        "Barista",
+        "Cliente com notebook",
+        "Garçonete",
+        "Estudante com apostila",
+        "Gerente",
+        "Auxiliar de salão",
+        "Confeiteira",
+        "Cliente habitual"
+      ]
+    },
+    {
+      "name": "Biblioteca",
+      "roles": [
+        "Bibliotecária",
+        "Estudante",
+        "Leitor",
+        "Criança da escola",
+        "Aposentado com o jornal",
+        "Pessoal da limpeza",
+        "Arquivista",
+        "Visitante no computador"
+      ]
+    },
+    {
+      "name": "Livraria",
+      "roles": [
+        "Livreiro",
+        "Compradora",
+        "Caixa",
+        "Leitor folheando um livro",
+        "Entregador",
+        "Gerente da loja",
+        "Criança na seção infantil",
+        "Pessoal da limpeza"
+      ]
+    },
+    {
+      "name": "Correios",
+      "roles": [
+        "Atendente do guichê",
+        "Cliente com uma encomenda",
+        "Carteiro",
+        "Aposentado na fila",
+        "Entregador",
+        "Separador de cartas",
+        "Segurança",
+        "Pessoal da limpeza"
+      ]
+    },
+    {
+      "name": "Farmácia",
+      "roles": [
+        "Farmacêutica",
+        "Cliente com receita",
+        "Auxiliar de farmácia",
+        "Entregador",
+        "Mãe com uma criança",
+        "Aposentada",
+        "Caixa",
+        "Propagandista de laboratório"
+      ]
+    },
+    {
+      "name": "Delegacia",
+      "roles": [
+        "Policial",
+        "Agente de plantão",
+        "Delegado",
+        "Pessoa registrando um boletim",
+        "Advogado",
+        "Escrivão",
+        "Policial novato",
+        "Agente de escolta"
+      ]
+    },
+    {
+      "name": "Shopping",
+      "roles": [
+        "Vendedora",
+        "Cliente com sacolas",
+        "Segurança",
+        "Pessoal da limpeza",
+        "Adolescente na praça de alimentação",
+        "Promotor",
+        "Atendente do provador",
+        "Mãe com carrinho de bebê"
+      ]
+    },
+    {
+      "name": "Posto de gasolina",
+      "roles": [
+        "Frentista",
+        "Operadora de caixa",
+        "Motorista",
+        "Caminhoneiro",
+        "Atendente da loja de conveniência",
+        "Pessoal da limpeza",
+        "Lavador de para-brisa",
+        "Cliente com um café"
+      ]
+    },
+    {
+      "name": "Fórum",
+      "roles": [
+        "Juiz",
+        "Advogado de defesa",
+        "Promotora",
+        "Escrivão",
+        "Testemunha",
+        "Jurado",
+        "Oficial de justiça",
+        "Espectador"
+      ]
+    },
+    {
+      "name": "Consultório odontológico",
+      "roles": [
+        "Dentista",
+        "Paciente na cadeira",
+        "Auxiliar de dentista",
+        "Recepcionista",
+        "Criança com a mãe",
+        "Higienista",
+        "Paciente na sala de espera",
+        "Ortodontista"
+      ]
+    },
+    {
+      "name": "Escritório",
+      "roles": [
+        "Designer",
+        "Programador",
+        "Contadora",
+        "Entregador",
+        "Pessoal da limpeza",
+        "Funcionário ao telefone",
+        "Estagiário",
+        "Chefe"
+      ]
+    },
+    {
+      "name": "Quartel dos bombeiros",
+      "roles": [
+        "Bombeiro",
+        "Operadora de emergência",
+        "Comandante da equipe",
+        "Motorista do caminhão",
+        "Recruta",
+        "Mecânico",
+        "Oficial de plantão",
+        "Instrutor"
+      ]
+    },
+    {
+      "name": "Metrô",
+      "roles": [
+        "Maquinista",
+        "Passageiro",
+        "Fiscal",
+        "Músico de rua",
+        "Funcionário da escada rolante",
+        "Policial",
+        "Turista com mapa",
+        "Passageiro com mala"
+      ]
+    },
+    {
+      "name": "Floricultura",
+      "roles": [
+        "Florista",
+        "Comprador",
+        "Entregador",
+        "Decoradora de eventos",
+        "Caixa",
+        "Homem escolhendo um buquê",
+        "Comprador no atacado",
+        "Pessoal da limpeza"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "france",
+  "title": "França",
+  "locations": [
+    {
+      "name": "Torre Eiffel",
+      "roles": [
+        "Turista",
+        "Guia turística",
+        "Vendedor de lembranças",
+        "Fotógrafo",
+        "Casal apaixonado",
+        "Artista de rua",
+        "Segurança",
+        "Garçom do restaurante da torre"
+      ]
+    },
+    {
+      "name": "Louvre",
+      "roles": [
+        "Guia do museu",
+        "Turista com audioguia",
+        "Vigilante de sala",
+        "Pintora copista",
+        "Estudante em excursão",
+        "Bilheteiro",
+        "Restaurador",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Costa Azul",
+      "roles": [
+        "Turista na praia",
+        "Dono do iate",
+        "Garçom",
+        "Sorveteiro",
+        "Salva-vidas",
+        "Fotógrafa",
+        "Milionário de férias",
+        "Músico"
+      ]
+    },
+    {
+      "name": "Palácio de Versalhes",
+      "roles": [
+        "Guia",
+        "Turista",
+        "Jardineiro",
+        "Vigilante",
+        "Ator fantasiado de época",
+        "Fotógrafo",
+        "Bilheteira",
+        "Restauradora"
+      ]
+    },
+    {
+      "name": "Café parisiense",
+      "roles": [
+        "Garçom",
+        "Poeta com um caderno",
+        "Turista",
+        "Barista",
+        "Pintor",
+        "Casal apaixonado",
+        "Músico",
+        "Cliente habitual"
+      ]
+    },
+    {
+      "name": "Montmartre",
+      "roles": [
+        "Pintor de rua",
+        "Turista",
+        "Músico",
+        "Vendedora",
+        "Poeta",
+        "Guia",
+        "Caricaturista",
+        "Garçom"
+      ]
+    },
+    {
+      "name": "Campos de lavanda da Provença",
+      "roles": [
+        "Agricultor",
+        "Turista com câmera",
+        "Apicultor",
+        "Pintora",
+        "Guia",
+        "Vendedora de lavanda",
+        "Perfumista",
+        "Ciclista"
+      ]
+    },
+    {
+      "name": "Castelo do Loire",
+      "roles": [
+        "Guia",
+        "Turista",
+        "Vigilante",
+        "Jardineiro",
+        "Recriador histórico",
+        "Fotógrafo",
+        "Bilheteiro",
+        "Trabalhador da propriedade"
+      ]
+    },
+    {
+      "name": "Festival de Cannes",
+      "roles": [
+        "Estrela de cinema",
+        "Paparazzo",
+        "Diretora",
+        "Fã",
+        "Jornalista",
+        "Segurança",
+        "Estilista",
+        "Convidado com credencial"
+      ]
+    },
+    {
+      "name": "Queijaria",
+      "roles": [
+        "Queijeiro",
+        "Cliente",
+        "Degustador",
+        "Lojista",
+        "Turista",
+        "Produtor rural",
+        "Caixa",
+        "Gourmet"
+      ]
+    },
+    {
+      "name": "Disneyland Paris",
+      "roles": [
+        "Personagem fantasiado",
+        "Criança",
+        "Responsável",
+        "Operador do brinquedo",
+        "Vendedor",
+        "Fotógrafa",
+        "Turista",
+        "Caixa"
+      ]
+    },
+    {
+      "name": "Arco do Triunfo",
+      "roles": [
+        "Turista",
+        "Guia",
+        "Fotógrafo",
+        "Vendedora de lembranças",
+        "Agente de trânsito",
+        "Ciclista",
+        "Recém-casados",
+        "Segurança"
+      ]
+    },
+    {
+      "name": "Restaurante estrelado",
+      "roles": [
+        "Chef",
+        "Garçom",
+        "Maître",
+        "Cliente em um encontro",
+        "Confeiteiro",
+        "Crítica gastronômica",
+        "Auxiliar de cozinha",
+        "Recepcionista"
+      ]
+    }
+  ]
+}
