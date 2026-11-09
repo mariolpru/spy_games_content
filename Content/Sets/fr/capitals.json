@@ -1,0 +1,292 @@
+{
+  "id": "capitals",
+  "title": "Capitales du monde",
+  "locations": [
+    {
+      "name": "Paris",
+      "roles": [
+        "Serveur de café",
+        "Artiste de rue",
+        "Touriste à la tour Eiffel",
+        "Boulanger",
+        "Guide",
+        "Musicien du métro",
+        "Mannequin",
+        "Fleuriste"
+      ]
+    },
+    {
+      "name": "Londres",
+      "roles": [
+        "Garde du palais",
+        "Chauffeur de taxi",
+        "Touriste dans le bus à impériale",
+        "Barista",
+        "Banquier de la City",
+        "Musicien de rue",
+        "Guide à Big Ben",
+        "Policier de quartier"
+      ]
+    },
+    {
+      "name": "Tokyo",
+      "roles": [
+        "Vendeur de ramen",
+        "Touriste à Shibuya",
+        "Employé de bureau",
+        "Cosplayeuse",
+        "Guide",
+        "Vendeur d’électronique",
+        "Écolier",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Rome",
+      "roles": [
+        "Guide du Colisée",
+        "Glacier",
+        "Touriste à la fontaine",
+        "Serveur de trattoria",
+        "Prêtre",
+        "Artiste de rue",
+        "Chauffeur de taxi",
+        "Religieuse"
+      ]
+    },
+    {
+      "name": "New York",
+      "roles": [
+        "Chauffeur de taxi jaune",
+        "Musicien de rue",
+        "Touriste à Times Square",
+        "Barista",
+        "Vendeur de hot-dogs",
+        "Courtier",
+        "Guide",
+        "Graffeur"
+      ]
+    },
+    {
+      "name": "Moscou",
+      "roles": [
+        "Guide de la place Rouge",
+        "Touriste",
+        "Vendeur de souvenirs",
+        "Musicien du passage souterrain",
+        "Barista",
+        "Guide du métro",
+        "Artiste de rue",
+        "Chauffeur de taxi"
+      ]
+    },
+    {
+      "name": "Le Caire",
+      "roles": [
+        "Guide des pyramides",
+        "Marchand du bazar",
+        "Chamelier",
+        "Touriste",
+        "Marchand d’épices",
+        "Batelier du Nil",
+        "Patron du salon de thé",
+        "Musicien de rue"
+      ]
+    },
+    {
+      "name": "Istanbul",
+      "roles": [
+        "Marchand du Grand Bazar",
+        "Touriste à Sainte-Sophie",
+        "Patron du salon de thé",
+        "Batelier du Bosphore",
+        "Guide",
+        "Marchand de tapis",
+        "Musicien de rue",
+        "Vendeur de simit"
+      ]
+    },
+    {
+      "name": "Barcelone",
+      "roles": [
+        "Guide de la Sagrada Família",
+        "Artiste de rue",
+        "Touriste sur la Rambla",
+        "Serveur de tapas",
+        "Vendeur du marché",
+        "Supporter de foot",
+        "Peintre",
+        "Guitariste"
+      ]
+    },
+    {
+      "name": "Venise",
+      "roles": [
+        "Gondolier",
+        "Touriste place Saint-Marc",
+        "Souffleur de verre",
+        "Fabricant de masques",
+        "Serveur",
+        "Peintre",
+        "Guide",
+        "Batelier livreur"
+      ]
+    },
+    {
+      "name": "Amsterdam",
+      "roles": [
+        "Cycliste",
+        "Touriste au bord des canaux",
+        "Barista",
+        "Vendeur de tulipes",
+        "Guide de la croisière",
+        "Musicien",
+        "Fromager",
+        "Peintre"
+      ]
+    },
+    {
+      "name": "Berlin",
+      "roles": [
+        "Touriste à la porte de Brandebourg",
+        "DJ",
+        "Artiste de rue",
+        "Barista",
+        "Guide",
+        "Coursier à vélo",
+        "Vendeur de currywurst",
+        "Musicienne"
+      ]
+    },
+    {
+      "name": "Prague",
+      "roles": [
+        "Guide du pont Charles",
+        "Boulanger",
+        "Touriste",
+        "Musicien de rue",
+        "Vendeuse de trdelník",
+        "Marionnettiste",
+        "Peintre",
+        "Serveur"
+      ]
+    },
+    {
+      "name": "Dubaï",
+      "roles": [
+        "Guide des gratte-ciel",
+        "Touriste",
+        "Marchand du souk de l’or",
+        "Barista",
+        "Fauconnier",
+        "Chauffeur de taxi",
+        "Acheteur compulsif",
+        "Ouvrier du chantier"
+      ]
+    },
+    {
+      "name": "Sydney",
+      "roles": [
+        "Surfeur",
+        "Touriste devant l’Opéra",
+        "Maître-nageur",
+        "Guide",
+        "Barista",
+        "Musicien de rue",
+        "Vendeur de plage",
+        "Batelier du port"
+      ]
+    },
+    {
+      "name": "Rio de Janeiro",
+      "roles": [
+        "Danseuse de samba",
+        "Surfeur",
+        "Touriste au Christ Rédempteur",
+        "Vendeur de plage",
+        "Musicien",
+        "Footballeur de plage",
+        "Guide",
+        "Percussionniste du carnaval"
+      ]
+    },
+    {
+      "name": "Bangkok",
+      "roles": [
+        "Vendeur de cuisine de rue",
+        "Touriste",
+        "Conducteur de tuk-tuk",
+        "Moine",
+        "Guide",
+        "Batelier du marché flottant",
+        "Masseuse",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Pékin",
+      "roles": [
+        "Guide de la Grande Muraille",
+        "Touriste",
+        "Vendeur de raviolis",
+        "Calligraphe",
+        "Cycliste",
+        "Musicien de rue",
+        "Marchand de thé",
+        "Écolier"
+      ]
+    },
+    {
+      "name": "Athènes",
+      "roles": [
+        "Guide de l’Acropole",
+        "Touriste",
+        "Vendeur de souvenirs",
+        "Vendeur de street food",
+        "Pêcheur",
+        "Joueur de bouzouki",
+        "Peintre",
+        "Prêtre"
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "roles": [
+        "Conducteur du cable car",
+        "Touriste sur le pont",
+        "Employé de la tech",
+        "Barista",
+        "Musicien de rue",
+        "Surfeuse",
+        "Guide",
+        "Vendeur de crabe"
+      ]
+    },
+    {
+      "name": "Bruxelles",
+      "roles": [
+        "Vendeur de gaufres",
+        "Touriste à la Grand-Place",
+        "Serveur de friterie",
+        "Guide",
+        "Dessinateur de BD",
+        "Fonctionnaire européen",
+        "Chocolatier",
+        "Musicien de rue"
+      ]
+    },
+    {
+      "name": "Ottawa",
+      "roles": [
+        "Garde du Parlement",
+        "Touriste",
+        "Patineur sur le canal",
+        "Guide",
+        "Barista",
+        "Vendeur de queues de castor",
+        "Écolier",
+        "Photographe"
+      ]
+    }
+  ]
+}

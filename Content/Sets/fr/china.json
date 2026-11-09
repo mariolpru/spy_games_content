@@ -1,0 +1,149 @@
+{
+  "id": "china",
+  "title": "Chine",
+  "locations": [
+    {
+      "name": "Grande Muraille",
+      "roles": [
+        "Touriste",
+        "Guide",
+        "Vendeur de souvenirs",
+        "Photographe",
+        "Gardien",
+        "Porteur",
+        "Écolier",
+        "Cycliste"
+      ]
+    },
+    {
+      "name": "Cité interdite",
+      "roles": [
+        "Guide",
+        "Touriste",
+        "Gardien",
+        "Historienne",
+        "Photographe",
+        "Caissier",
+        "Restauratrice",
+        "Écolier en sortie scolaire"
+      ]
+    },
+    {
+      "name": "Plantation de thé",
+      "roles": [
+        "Cueilleuse de thé",
+        "Agriculteur",
+        "Dégustateur",
+        "Touriste",
+        "Guide",
+        "Vendeuse",
+        "Maître de thé",
+        "Emballeur"
+      ]
+    },
+    {
+      "name": "Réserve de pandas",
+      "roles": [
+        "Soigneur",
+        "Touriste",
+        "Vétérinaire",
+        "Bénévole",
+        "Photographe",
+        "Guide",
+        "Biologiste",
+        "Enfant"
+      ]
+    },
+    {
+      "name": "Marché de cuisine de rue",
+      "roles": [
+        "Cuisinier au wok",
+        "Vendeuse de raviolis",
+        "Client",
+        "Touriste",
+        "Dégustateur",
+        "Bonimenteur",
+        "Caissier",
+        "Livreur"
+      ]
+    },
+    {
+      "name": "Gratte-ciel de Hong Kong",
+      "roles": [
+        "Homme d’affaires",
+        "Touriste",
+        "Guide",
+        "Barista",
+        "Vendeur ambulant",
+        "Chauffeur de taxi",
+        "Coursier",
+        "Photographe"
+      ]
+    },
+    {
+      "name": "Maison de thé",
+      "roles": [
+        "Maître de thé",
+        "Invité",
+        "Serveur",
+        "Musicienne",
+        "Touriste",
+        "Calligraphe",
+        "Patron",
+        "Apprenti"
+      ]
+    },
+    {
+      "name": "Monastère de Shaolin",
+      "roles": [
+        "Moine combattant",
+        "Élève",
+        "Maître de kung-fu",
+        "Touriste",
+        "Guide",
+        "Spectateur",
+        "Novice",
+        "Mentor"
+      ]
+    },
+    {
+      "name": "Train à grande vitesse",
+      "roles": [
+        "Contrôleur",
+        "Passager",
+        "Touriste",
+        "Conducteur",
+        "Vendeuse",
+        "Homme d’affaires",
+        "Agent de propreté",
+        "Chef de bord"
+      ]
+    },
+    {
+      "name": "Jardin de Suzhou",
+      "roles": [
+        "Jardinier",
+        "Touriste",
+        "Guide",
+        "Peintre",
+        "Photographe",
+        "Gardien",
+        "Poète",
+        "Écolière"
+      ]
+    },
+    {
+      "name": "Restaurant de canard laqué",
+      "roles": [
+        "Cuisinier",
+        "Serveur",
+        "Convive",
+        "Hôtesse",
+        "Touriste",
+        "Caissier",
+        "Découpeur de canard",
+        "Habitué"
+      ]
+    }
+  ]
+}

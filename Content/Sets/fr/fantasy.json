@@ -1,0 +1,266 @@
+{
+  "id": "fantasy",
+  "title": "Fantasy",
+  "locations": [
+    {
+      "name": "Auberge",
+      "roles": [
+        "Aubergiste",
+        "Cuisinier",
+        "Servante",
+        "Voyageur",
+        "Barde",
+        "Garçon d’écurie",
+        "Marchand",
+        "Garde"
+      ]
+    },
+    {
+      "name": "Salle du trône",
+      "roles": [
+        "Roi",
+        "Reine",
+        "Conseiller royal",
+        "Garde",
+        "Bouffon",
+        "Héraut",
+        "Dame de la cour",
+        "Ambassadeur"
+      ]
+    },
+    {
+      "name": "Marché des mages",
+      "roles": [
+        "Préparatrice de potions",
+        "Cliente",
+        "Marchand d’artefacts",
+        "Alchimiste",
+        "Apprenti",
+        "Garde",
+        "Bonimenteur",
+        "Diseuse de bonne aventure"
+      ]
+    },
+    {
+      "name": "Forge",
+      "roles": [
+        "Forgeron",
+        "Apprenti",
+        "Guerrier venu pour une lame",
+        "Livreur de charbon",
+        "Marchand",
+        "Écuyer",
+        "Garçon de forge",
+        "Client pour une armure"
+      ]
+    },
+    {
+      "name": "Château",
+      "roles": [
+        "Chevalier",
+        "Garde",
+        "Seigneur",
+        "Femme de chambre",
+        "Garçon d’écurie",
+        "Cuisinier",
+        "Ménestrel",
+        "Châtelain"
+      ]
+    },
+    {
+      "name": "Cachot",
+      "roles": [
+        "Geôlier",
+        "Garde",
+        "Prisonnier",
+        "Bourreau",
+        "Interrogateur",
+        "Sentinelle",
+        "Scribe",
+        "Chasseur de rats"
+      ]
+    },
+    {
+      "name": "Port",
+      "roles": [
+        "Capitaine",
+        "Marin",
+        "Marchand",
+        "Pêcheur",
+        "Docker",
+        "Garde du port",
+        "Maître d’équipage",
+        "Pilote"
+      ]
+    },
+    {
+      "name": "Camp de bandits",
+      "roles": [
+        "Chef des bandits",
+        "Bandit",
+        "Archer",
+        "Cuisinier du campement",
+        "Guetteur",
+        "Captive",
+        "Forgeron du camp",
+        "Messager"
+      ]
+    },
+    {
+      "name": "Tour du mage",
+      "roles": [
+        "Mage",
+        "Apprenti sorcier",
+        "Alchimiste",
+        "Gardien des parchemins",
+        "Préparateur de potions",
+        "Serviteur",
+        "Magicienne de passage",
+        "Observateur des étoiles"
+      ]
+    },
+    {
+      "name": "Village",
+      "roles": [
+        "Paysan",
+        "Ancien du village",
+        "Forgeron",
+        "Guérisseuse",
+        "Berger",
+        "Meunier",
+        "Aubergiste",
+        "Enfant"
+      ]
+    },
+    {
+      "name": "Forêt elfique",
+      "roles": [
+        "Archère elfe",
+        "Druide",
+        "Rôdeur",
+        "Guérisseur",
+        "Gardien de la clairière",
+        "Barde",
+        "Voyageuse",
+        "Cueilleur d’herbes"
+      ]
+    },
+    {
+      "name": "Mine naine",
+      "roles": [
+        "Mineur nain",
+        "Forgeron",
+        "Chef de chantier",
+        "Porteur de minerai",
+        "Géomètre nain",
+        "Charbonnier",
+        "Guetteur",
+        "Apprenti"
+      ]
+    },
+    {
+      "name": "Temple",
+      "roles": [
+        "Prêtre",
+        "Pèlerine",
+        "Novice",
+        "Oracle",
+        "Gardien de l’autel",
+        "Choriste",
+        "Garde du temple",
+        "Guérisseur"
+      ]
+    },
+    {
+      "name": "Arène",
+      "roles": [
+        "Gladiateur",
+        "Maître de cérémonie",
+        "Spectatrice",
+        "Médecin de piste",
+        "Garde",
+        "Vendeur des gradins",
+        "Héraut",
+        "Écuyer"
+      ]
+    },
+    {
+      "name": "Antre du dragon",
+      "roles": [
+        "Chevalier chasseur",
+        "Rôdeur",
+        "Écuyer",
+        "Archère",
+        "Mage",
+        "Guerrier blessé",
+        "Guide",
+        "Chroniqueur"
+      ]
+    },
+    {
+      "name": "Bibliothèque des mages",
+      "roles": [
+        "Archiviste",
+        "Chercheur en arcanes",
+        "Apprentie",
+        "Copiste",
+        "Gardien",
+        "Visiteur",
+        "Observateur des étoiles",
+        "Interprète de runes"
+      ]
+    },
+    {
+      "name": "Festin royal",
+      "roles": [
+        "Roi",
+        "Ménestrel",
+        "Serviteur",
+        "Seigneur invité",
+        "Bouffon",
+        "Garde",
+        "Cuisinier",
+        "Goûteur"
+      ]
+    },
+    {
+      "name": "Laboratoire de l’alchimiste",
+      "roles": [
+        "Alchimiste",
+        "Apprenti",
+        "Préparatrice de potions",
+        "Herboriste",
+        "Client",
+        "Gardien des ingrédients",
+        "Garde",
+        "Novice"
+      ]
+    },
+    {
+      "name": "Navire pirate",
+      "roles": [
+        "Capitaine pirate",
+        "Maître d’équipage",
+        "Mousse",
+        "Canonnier",
+        "Navigatrice",
+        "Cuisinier du bord",
+        "Matelot de pont",
+        "Captif"
+      ]
+    },
+    {
+      "name": "Cabane de la sorcière",
+      "roles": [
+        "Sorcière",
+        "Apprenti",
+        "Acheteur de potions",
+        "Herboriste",
+        "Paysan de passage",
+        "Guérisseuse",
+        "Diseuse de bonne aventure",
+        "Cueilleuse d’herbes"
+      ]
+    }
+  ]
+}

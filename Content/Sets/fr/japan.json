@@ -1,0 +1,188 @@
+{
+  "id": "japan",
+  "title": "Japon",
+  "locations": [
+    {
+      "name": "Mont Fuji",
+      "roles": [
+        "Touriste",
+        "Alpiniste",
+        "Guide",
+        "Photographe",
+        "Pèlerin",
+        "Vendeur de la gare",
+        "Garde du sentier",
+        "Cycliste"
+      ]
+    },
+    {
+      "name": "Temple de Kyoto",
+      "roles": [
+        "Moine",
+        "Touriste",
+        "Guide",
+        "Pèlerine",
+        "Vendeur d’amulettes",
+        "Photographe",
+        "Jardinier du temple",
+        "Calligraphe"
+      ]
+    },
+    {
+      "name": "Carrefour de Shibuya",
+      "roles": [
+        "Piéton",
+        "Touriste",
+        "Agent de circulation",
+        "Streameuse avec sa caméra",
+        "Homme d’affaires",
+        "Lycéenne",
+        "Vendeur",
+        "Animateur de rue"
+      ]
+    },
+    {
+      "name": "Restaurant de sushis",
+      "roles": [
+        "Maître sushi",
+        "Convive au comptoir",
+        "Serveur",
+        "Touriste",
+        "Cuisinier",
+        "Hôtesse",
+        "Habitué",
+        "Apprenti de cuisine"
+      ]
+    },
+    {
+      "name": "Jardin zen",
+      "roles": [
+        "Moine",
+        "Touriste",
+        "Jardinier",
+        "Invité en méditation",
+        "Guide",
+        "Photographe",
+        "Peintre",
+        "Gardien"
+      ]
+    },
+    {
+      "name": "Bains thermaux",
+      "roles": [
+        "Client en serviette",
+        "Agent des bains",
+        "Réceptionniste",
+        "Touriste",
+        "Masseur",
+        "Agent d’entretien",
+        "Client de l’auberge",
+        "Habitué âgé"
+      ]
+    },
+    {
+      "name": "Cérémonie du thé",
+      "roles": [
+        "Maîtresse de thé",
+        "Invité",
+        "Élève",
+        "Touriste",
+        "Calligraphe",
+        "Hôtesse",
+        "Musicien",
+        "Assistant"
+      ]
+    },
+    {
+      "name": "Akihabara",
+      "roles": [
+        "Fan d’anime",
+        "Cosplayeuse",
+        "Vendeur de figurines",
+        "Touriste",
+        "Joueur",
+        "Animatrice du maid café",
+        "Streamer",
+        "Caissier"
+      ]
+    },
+    {
+      "name": "Pique-nique sous les cerisiers",
+      "roles": [
+        "Touriste",
+        "Famille en pique-nique",
+        "Photographe",
+        "Vendeuse de dango",
+        "Musicien",
+        "Écolier",
+        "Peintre",
+        "Couple sous un arbre"
+      ]
+    },
+    {
+      "name": "Château de samouraïs",
+      "roles": [
+        "Guide",
+        "Touriste",
+        "Comédien en samouraï",
+        "Gardienne",
+        "Figurant en armure",
+        "Photographe",
+        "Caissier",
+        "Historien"
+      ]
+    },
+    {
+      "name": "Marché aux poissons",
+      "roles": [
+        "Poissonnier",
+        "Cuisinier",
+        "Acheteur",
+        "Commissaire-priseur",
+        "Touriste",
+        "Porteur",
+        "Maître sushi",
+        "Dégustatrice"
+      ]
+    },
+    {
+      "name": "Shinkansen",
+      "roles": [
+        "Contrôleur",
+        "Passager d’affaires",
+        "Touriste",
+        "Conducteur",
+        "Vendeuse de bento",
+        "Écolier",
+        "Agent de propreté",
+        "Chef de bord"
+      ]
+    },
+    {
+      "name": "Théâtre kabuki",
+      "roles": [
+        "Comédien",
+        "Spectatrice",
+        "Maquilleur",
+        "Musicien",
+        "Ouvreur",
+        "Costumière",
+        "Souffleur",
+        "Guide"
+      ]
+    },
+    {
+      "name": "Hôtel capsule",
+      "roles": [
+        "Réceptionniste",
+        "Client pour la nuit",
+        "Homme d’affaires",
+        "Touriste",
+        "Agent d’entretien",
+        "Veilleur de nuit",
+        "Voisin de capsule",
+        "Livreur"
+      ]
+    }
+  ]
+}

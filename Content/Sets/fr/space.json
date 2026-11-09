@@ -1,0 +1,175 @@
+{
+  "id": "space",
+  "title": "Espace",
+  "locations": [
+    {
+      "name": "Station spatiale",
+      "roles": [
+        "Commandant",
+        "Ingénieure de vol",
+        "Scientifique",
+        "Officier des communications",
+        "Médecin de bord",
+        "Technicien",
+        "Pilote",
+        "Astronaute en sortie extravéhiculaire"
+      ]
+    },
+    {
+      "name": "Salle du réacteur",
+      "roles": [
+        "Ingénieur nucléaire",
+        "Technicien",
+        "Opérateur du réacteur",
+        "Contrôleuse des radiations",
+        "Mécanicien",
+        "Apprenti",
+        "Ingénieur en chef",
+        "Équipe de réparation"
+      ]
+    },
+    {
+      "name": "Centre de contrôle",
+      "roles": [
+        "Directeur de vol",
+        "Opératrice des communications",
+        "Analyste de trajectoire",
+        "Ingénieur systèmes",
+        "Analyste de données",
+        "Officier de permanence",
+        "Stagiaire",
+        "Médecin de vol"
+      ]
+    },
+    {
+      "name": "Module d’habitation",
+      "roles": [
+        "Astronaute hors service",
+        "Cuisinier",
+        "Psychologue",
+        "Ingénieure",
+        "Scientifique",
+        "Officier de permanence",
+        "Membre d’équipage sur le tapis de course",
+        "Officier des communications"
+      ]
+    },
+    {
+      "name": "Laboratoire scientifique",
+      "roles": [
+        "Scientifique",
+        "Laborantin",
+        "Chimiste",
+        "Biologiste",
+        "Stagiaire",
+        "Directrice du laboratoire",
+        "Technicien des équipements",
+        "Assistant de recherche"
+      ]
+    },
+    {
+      "name": "Ascenseur spatial",
+      "roles": [
+        "Opérateur",
+        "Passagère",
+        "Ingénieur",
+        "Technicienne",
+        "Contrôleur du trafic",
+        "Responsable du fret",
+        "Agent de sécurité",
+        "Apprenti"
+      ]
+    },
+    {
+      "name": "Port spatial",
+      "roles": [
+        "Ingénieur de lancement",
+        "Pilote",
+        "Technicien",
+        "Contrôleur de lancement",
+        "Technicien carburant",
+        "Journaliste",
+        "Directrice de lancement",
+        "Agent de sécurité"
+      ]
+    },
+    {
+      "name": "Observatoire",
+      "roles": [
+        "Astronome",
+        "Opérateur du télescope",
+        "Chercheuse",
+        "Technicien",
+        "Stagiaire",
+        "Conférencier",
+        "Analyste de données",
+        "Officier de nuit"
+      ]
+    },
+    {
+      "name": "Colonie martienne",
+      "roles": [
+        "Colon",
+        "Ingénieur du dôme",
+        "Géologue",
+        "Médecin",
+        "Agricultrice hydroponique",
+        "Commandant de la base",
+        "Technicien",
+        "Explorateur"
+      ]
+    },
+    {
+      "name": "Soute à cargo",
+      "roles": [
+        "Responsable du fret",
+        "Officier logistique",
+        "Ingénieur",
+        "Conducteur du chariot",
+        "Technicienne",
+        "Apprenti",
+        "Chef d’entrepôt",
+        "Contrôleur des radiations"
+      ]
+    },
+    {
+      "name": "Bloc de quarantaine",
+      "roles": [
+        "Médecin",
+        "Patient isolé",
+        "Biologiste",
+        "Aide-soignant",
+        "Agent de sécurité",
+        "Technicien systèmes",
+        "Psychologue",
+        "Laborantine"
+      ]
+    },
+    {
+      "name": "Vaisseau d’exploration",
+      "roles": [
+        "Pilote",
+        "Navigateur",
+        "Officière des communications",
+        "Ingénieur",
+        "Scientifique",
+        "Artilleur",
+        "Capitaine",
+        "Apprenti"
+      ]
+    },
+    {
+      "name": "Passerelle de commandement",
+      "roles": [
+        "Commandante",
+        "Opérateur d’armes",
+        "Officier des communications",
+        "Officier tactique",
+        "Ingénieur",
+        "Officier de permanence",
+        "Apprentie",
+        "Opérateur des capteurs"
+      ]
+    }
+  ]
+}

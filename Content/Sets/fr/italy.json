@@ -1,0 +1,123 @@
+{
+  "id": "italy",
+  "title": "Italie",
+  "locations": [
+    {
+      "name": "Colisée",
+      "roles": [
+        "Guide",
+        "Touriste",
+        "Comédien en gladiateur",
+        "Photographe",
+        "Vendeur de souvenirs",
+        "Archéologue",
+        "Gardien",
+        "Écolier"
+      ]
+    },
+    {
+      "name": "Pizzeria",
+      "roles": [
+        "Pizzaïolo",
+        "Serveur",
+        "Convive",
+        "Touriste",
+        "Cuisinier",
+        "Caissière",
+        "Livreur",
+        "Habitué"
+      ]
+    },
+    {
+      "name": "Canal vénitien",
+      "roles": [
+        "Gondolier",
+        "Touriste",
+        "Souffleur de verre",
+        "Fabricante de masques",
+        "Serveur",
+        "Photographe",
+        "Batelier livreur",
+        "Peintre"
+      ]
+    },
+    {
+      "name": "Tour de Pise",
+      "roles": [
+        "Touriste",
+        "Guide",
+        "Photographe",
+        "Vendeur de souvenirs",
+        "Gardien",
+        "Écolière",
+        "Couple amoureux",
+        "Caissier"
+      ]
+    },
+    {
+      "name": "Vatican",
+      "roles": [
+        "Prêtre",
+        "Touriste",
+        "Guide",
+        "Garde suisse",
+        "Pèlerin",
+        "Photographe",
+        "Religieuse",
+        "Gardien"
+      ]
+    },
+    {
+      "name": "Défilé de mode à Milan",
+      "roles": [
+        "Mannequin",
+        "Styliste",
+        "Photographe",
+        "Habilleuse",
+        "Journaliste",
+        "Invité au premier rang",
+        "Maquilleur",
+        "Agent de sécurité"
+      ]
+    },
+    {
+      "name": "Glacier",
+      "roles": [
+        "Maître glacier",
+        "Cliente",
+        "Enfant",
+        "Touriste",
+        "Caissier",
+        "Vendeuse",
+        "Habitué",
+        "Livreur"
+      ]
+    },
+    {
+      "name": "Lac de Côme",
+      "roles": [
+        "Touriste",
+        "Batelier",
+        "Serveur de la villa",
+        "Jardinier",
+        "Photographe",
+        "Propriétaire du yacht",
+        "Vacancière",
+        "Guide"
+      ]
+    },
+    {
+      "name": "Carnaval de Venise",
+      "roles": [
+        "Invité masqué",
+        "Touriste",
+        "Musicien",
+        "Danseuse",
+        "Vendeur de costumes",
+        "Photographe",
+        "Échassier",
+        "Spectatrice"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "id": "halloween",
+  "title": "Halloween",
+  "locations": [
+    {
+      "name": "Train fantôme",
+      "roles": [
+        "Comédien en fantôme",
+        "Caissière",
+        "Visiteur",
+        "Maquilleuse",
+        "Agent de sécurité",
+        "Ado au défi",
+        "Technicien des effets",
+        "Mère qui tient son enfant"
+      ]
+    },
+    {
+      "name": "Champ de citrouilles",
+      "roles": [
+        "Agriculteur",
+        "Enfant avec une charrette",
+        "Mère avec un appareil photo",
+        "Vendeur de chocolat chaud",
+        "Conducteur du tracteur",
+        "Animateur en épouvantail",
+        "Blogueuse",
+        "Acheteur qui cherche la plus grosse citrouille"
+      ]
+    },
+    {
+      "name": "Vieux cimetière",
+      "roles": [
+        "Gardien",
+        "Guide de la visite nocturne",
+        "Chasseur de fantômes",
+        "Touriste avec une lampe torche",
+        "Historienne",
+        "Jardinier",
+        "Ado au défi",
+        "Comédien en costume de fantôme"
+      ]
+    },
+    {
+      "name": "Château de Dracula",
+      "roles": [
+        "Comte Dracula",
+        "Majordome",
+        "Invité au dîner",
+        "Femme de chambre",
+        "Cocher",
+        "Chasseuse de vampires",
+        "Voyageur perdu",
+        "Chroniqueur du château"
+      ]
+    },
+    {
+      "name": "Laboratoire du savant fou",
+      "roles": [
+        "Savant fou",
+        "Assistante",
+        "Monstre sur la table",
+        "Électricien",
+        "Agent d’entretien",
+        "Inspecteur",
+        "Reporter",
+        "Volontaire pour l’expérience"
+      ]
+    },
+    {
+      "name": "Magasin de déguisements",
+      "roles": [
+        "Vendeuse",
+        "Client",
+        "Enfant dans la cabine",
+        "Maquilleur",
+        "Caissier",
+        "Mère avec trois enfants",
+        "Adolescente",
+        "Employé de la réserve"
+      ]
+    },
+    {
+      "name": "Rue des bonbons",
+      "roles": [
+        "Enfant déguisé en fantôme",
+        "Fillette déguisée en sorcière",
+        "Père avec une lampe torche",
+        "Voisine avec un saladier de bonbons",
+        "Ado avec une taie d’oreiller",
+        "Mamie à la porte",
+        "Grand frère accompagnateur",
+        "Voisin qui a décoré sa maison"
+      ]
+    },
+    {
+      "name": "Tombeau égyptien au musée",
+      "roles": [
+        "Archéologue",
+        "Comédien en momie",
+        "Guide du musée",
+        "Touriste",
+        "Agent de sécurité",
+        "Restauratrice",
+        "Écolier en sortie scolaire",
+        "Photographe"
+      ]
+    },
+    {
+      "name": "Manoir abandonné",
+      "roles": [
+        "Agente immobilière",
+        "Chasseur de fantômes",
+        "Blogueur",
+        "Électricien",
+        "Gardien",
+        "Ado au défi",
+        "Comédien en fantôme",
+        "Voisine avec une tarte"
+      ]
+    },
+    {
+      "name": "Confiserie",
+      "roles": [
+        "Confiseur",
+        "Enfant avec sa tirelire",
+        "Commerçante",
+        "Dégustatrice",
+        "Livreur",
+        "Mère avec une liste",
+        "Dentiste qui achète des bonbons",
+        "Décorateur de vitrine"
+      ]
+    },
+    {
+      "name": "Salon de la voyante",
+      "roles": [
+        "Voyante",
+        "Cliente",
+        "Sceptique",
+        "Apprentie",
+        "Photographe",
+        "Voisine curieuse",
+        "Démystificateur de tours",
+        "Jeune médium"
+      ]
+    },
+    {
+      "name": "Soirée film d’horreur",
+      "roles": [
+        "Spectateur sous un plaid",
+        "Ouvreuse",
+        "Vendeur de popcorn",
+        "Projectionniste",
+        "Couple en rendez-vous",
+        "Spectateur endormi",
+        "Critique de cinéma",
+        "Ado sur son téléphone"
+      ]
+    },
+    {
+      "name": "Musée de cire",
+      "roles": [
+        "Gardien de nuit",
+        "Comédien figé en statue",
+        "Sculptrice",
+        "Touriste",
+        "Enfant",
+        "Restaurateur",
+        "Guide",
+        "Photographe"
+      ]
+    },
+    {
+      "name": "Balade hantée en charrette",
+      "roles": [
+        "Conducteur du tracteur",
+        "Passagère",
+        "Comédien en épouvantail",
+        "Contrôleur des billets",
+        "Enfant serrant une couverture",
+        "Ado qui crie pour s’amuser",
+        "Propriétaire de la ferme",
+        "Photographe"
+      ]
+    },
+    {
+      "name": "Soirée d’Halloween",
+      "roles": [
+        "Hôte",
+        "Invité déguisé en squelette",
+        "Invitée déguisée en citrouille",
+        "DJ",
+        "Enfant avec un seau de bonbons",
+        "Invité qui pêche des pommes",
+        "Photographe",
+        "Voisin qui se plaint du bruit"
+      ]
+    },
+    {
+      "name": "Maison de la sorcière",
+      "roles": [
+        "Sorcière",
+        "Apprenti de la sorcière",
+        "Enfant perdu",
+        "Livreur",
+        "Voisine avec une tarte",
+        "Cueilleur d’herbes",
+        "Invité pour le thé",
+        "Réparateur de balais"
+      ]
+    },
+    {
+      "name": "Maison en pain d’épices",
+      "roles": [
+        "Sorcière",
+        "Hansel",
+        "Gretel",
+        "Randonneur perdu",
+        "Bûcheron",
+        "Livreur de bonbons",
+        "Enfant qui grignote le mur",
+        "Pâtissière en pain d’épices"
+      ]
+    },
+    {
+      "name": "Navire fantôme",
+      "roles": [
+        "Capitaine fantôme",
+        "Mousse",
+        "Maître d’équipage",
+        "Chasseuse de trésors",
+        "Pêcheur perdu",
+        "Navigateur avec une carte",
+        "Cuisinier du bord",
+        "Captif dans la cale"
+      ]
+    },
+    {
+      "name": "Parc d’attractions abandonné",
+      "roles": [
+        "Gardien",
+        "Blogueur",
+        "Ado au défi",
+        "Mécanicien de la grande roue",
+        "Ancienne caissière",
+        "Photographe",
+        "Touriste perdu",
+        "Comédien en clown"
+      ]
+    },
+    {
+      "name": "Grenier de la vieille maison",
+      "roles": [
+        "Mamie avec une malle",
+        "Petit-fils avec une lampe torche",
+        "Électricien",
+        "Antiquaire",
+        "Mère avec des cartons",
+        "Fillette dans la robe de mamie",
+        "Papi avec un album photo",
+        "Couvreur"
+      ]
+    }
+  ]
+}

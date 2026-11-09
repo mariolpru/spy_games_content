@@ -1,0 +1,266 @@
+{
+  "id": "city",
+  "title": "Ville",
+  "locations": [
+    {
+      "name": "Restaurant",
+      "roles": [
+        "Serveur",
+        "Cuisinier",
+        "Maître d’hôtel",
+        "Couple en rendez-vous",
+        "Commis de salle",
+        "Plongeur",
+        "Livreur",
+        "Musicien live"
+      ]
+    },
+    {
+      "name": "Banque",
+      "roles": [
+        "Guichetière",
+        "Agent de sécurité",
+        "Client dans la file",
+        "Conseiller en prêts",
+        "Caissier",
+        "Directrice d’agence",
+        "Convoyeur de fonds",
+        "Agent d’entretien"
+      ]
+    },
+    {
+      "name": "Supermarché",
+      "roles": [
+        "Caissière",
+        "Client avec un caddie",
+        "Employé de rayon",
+        "Agent de sécurité",
+        "Manutentionnaire",
+        "Mère avec un enfant",
+        "Animatrice de dégustation",
+        "Agent d’entretien"
+      ]
+    },
+    {
+      "name": "École",
+      "roles": [
+        "Professeure",
+        "Élève",
+        "Directeur",
+        "Agent d’entretien",
+        "Gardien",
+        "Directeur adjoint",
+        "Enfant au tableau",
+        "Parent d’élève"
+      ]
+    },
+    {
+      "name": "Hôpital",
+      "roles": [
+        "Médecin",
+        "Infirmière",
+        "Patient",
+        "Chirurgien",
+        "Brancardier",
+        "Agent d’accueil",
+        "Visiteur",
+        "Agent d’entretien"
+      ]
+    },
+    {
+      "name": "Salon de coiffure",
+      "roles": [
+        "Coiffeuse",
+        "Client dans le fauteuil",
+        "Manucure",
+        "Réceptionniste",
+        "Coloriste",
+        "Enfant qu’on coiffe",
+        "Agent d’entretien",
+        "Spécialiste des sourcils"
+      ]
+    },
+    {
+      "name": "Café",
+      "roles": [
+        "Barista",
+        "Client avec un ordinateur",
+        "Serveuse",
+        "Étudiante avec ses cours",
+        "Gérant",
+        "Commis de salle",
+        "Pâtissier",
+        "Habitué"
+      ]
+    },
+    {
+      "name": "Bibliothèque",
+      "roles": [
+        "Bibliothécaire",
+        "Étudiant",
+        "Lecteur",
+        "Écolier",
+        "Retraité avec son journal",
+        "Agent d’entretien",
+        "Archiviste",
+        "Visiteur à l’ordinateur"
+      ]
+    },
+    {
+      "name": "Librairie",
+      "roles": [
+        "Libraire",
+        "Cliente",
+        "Caissier",
+        "Lecteur qui feuillette",
+        "Livreur",
+        "Gérant",
+        "Enfant au rayon jeunesse",
+        "Agent d’entretien"
+      ]
+    },
+    {
+      "name": "Bureau de poste",
+      "roles": [
+        "Guichetier",
+        "Cliente avec un colis",
+        "Facteur",
+        "Retraité dans la file",
+        "Coursier",
+        "Trieur",
+        "Agent de sécurité",
+        "Agent d’entretien"
+      ]
+    },
+    {
+      "name": "Pharmacie",
+      "roles": [
+        "Pharmacienne",
+        "Client avec une ordonnance",
+        "Préparateur en pharmacie",
+        "Livreur",
+        "Mère avec un enfant",
+        "Retraitée",
+        "Caissier",
+        "Visiteur médical"
+      ]
+    },
+    {
+      "name": "Commissariat",
+      "roles": [
+        "Policière",
+        "Agent de permanence",
+        "Commissaire",
+        "Visiteur qui dépose plainte",
+        "Avocat",
+        "Agent administratif",
+        "Gardien de la paix stagiaire",
+        "Agent d’escorte"
+      ]
+    },
+    {
+      "name": "Centre commercial",
+      "roles": [
+        "Vendeuse",
+        "Client avec des sacs",
+        "Agent de sécurité",
+        "Agent d’entretien",
+        "Ado au food court",
+        "Animateur",
+        "Agent des cabines d’essayage",
+        "Mère avec une poussette"
+      ]
+    },
+    {
+      "name": "Station-service",
+      "roles": [
+        "Pompiste",
+        "Caissière",
+        "Automobiliste",
+        "Routier",
+        "Vendeur de la boutique",
+        "Agent d’entretien",
+        "Laveur de pare-brise",
+        "Client avec un café"
+      ]
+    },
+    {
+      "name": "Tribunal",
+      "roles": [
+        "Juge",
+        "Avocat de la défense",
+        "Procureure",
+        "Greffier",
+        "Témoin",
+        "Juré",
+        "Huissier",
+        "Spectateur"
+      ]
+    },
+    {
+      "name": "Cabinet dentaire",
+      "roles": [
+        "Dentiste",
+        "Patient dans le fauteuil",
+        "Assistante dentaire",
+        "Réceptionniste",
+        "Enfant avec sa mère",
+        "Hygiéniste",
+        "Patient en salle d’attente",
+        "Orthodontiste"
+      ]
+    },
+    {
+      "name": "Bureau",
+      "roles": [
+        "Designer",
+        "Développeur",
+        "Comptable",
+        "Coursier",
+        "Agent d’entretien",
+        "Employé au téléphone",
+        "Stagiaire",
+        "Patron"
+      ]
+    },
+    {
+      "name": "Caserne de pompiers",
+      "roles": [
+        "Pompier",
+        "Opératrice d’appels",
+        "Chef d’agrès",
+        "Conducteur du camion",
+        "Recrue",
+        "Mécanicien",
+        "Officier de garde",
+        "Formateur"
+      ]
+    },
+    {
+      "name": "Métro",
+      "roles": [
+        "Conductrice",
+        "Passager",
+        "Contrôleur",
+        "Musicien de rue",
+        "Agent à l’escalator",
+        "Policier",
+        "Touriste avec un plan",
+        "Passager avec une valise"
+      ]
+    },
+    {
+      "name": "Fleuriste",
+      "roles": [
+        "Fleuriste",
+        "Acheteur",
+        "Livreur",
+        "Décoratrice d’événements",
+        "Caissière",
+        "Homme qui choisit un bouquet",
+        "Acheteur en gros",
+        "Agent d’entretien"
+      ]
+    }
+  ]
+}

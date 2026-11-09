@@ -1,0 +1,253 @@
+{
+  "id": "usa",
+  "title": "États-Unis",
+  "locations": [
+    {
+      "name": "Statue de la Liberté",
+      "roles": [
+        "Touriste",
+        "Guide",
+        "Capitaine du ferry",
+        "Photographe",
+        "Vendeur de souvenirs",
+        "Ranger du parc",
+        "Écolier",
+        "Agent de sécurité"
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "roles": [
+        "Acteur",
+        "Réalisatrice",
+        "Touriste",
+        "Paparazzo",
+        "Guide du bus touristique",
+        "Vendeur de cartes des stars",
+        "Cascadeur",
+        "Scénariste"
+      ]
+    },
+    {
+      "name": "Grand Canyon",
+      "roles": [
+        "Touriste",
+        "Ranger",
+        "Guide",
+        "Photographe",
+        "Géologue",
+        "Pilote d’hélicoptère",
+        "Cycliste",
+        "Écolière"
+      ]
+    },
+    {
+      "name": "Times Square",
+      "roles": [
+        "Touriste",
+        "Artiste de rue",
+        "Vendeur de hot-dogs",
+        "Chauffeur de taxi jaune",
+        "Photographe",
+        "Policier",
+        "Animateur",
+        "Musicien"
+      ]
+    },
+    {
+      "name": "Diner au bord de la route",
+      "roles": [
+        "Serveuse",
+        "Cuisinier",
+        "Routier",
+        "Caissier",
+        "Client au comptoir",
+        "Adolescent",
+        "Policier",
+        "Voyageur de passage"
+      ]
+    },
+    {
+      "name": "Lycée américain",
+      "roles": [
+        "Élève de terminale",
+        "Professeure",
+        "Pom-pom girl",
+        "Coach",
+        "Proviseur",
+        "Agent d’entretien",
+        "Joueur de football américain",
+        "Documentaliste"
+      ]
+    },
+    {
+      "name": "Base de Cap Canaveral",
+      "roles": [
+        "Ingénieure",
+        "Astronaute",
+        "Contrôleur de vol",
+        "Journaliste",
+        "Technicien",
+        "Directeur de lancement",
+        "Touriste",
+        "Agent de sécurité"
+      ]
+    },
+    {
+      "name": "Ferme du Midwest",
+      "roles": [
+        "Fermier",
+        "Cow-boy",
+        "Conductrice du tracteur",
+        "Trayeuse",
+        "Touriste",
+        "Garçon d’écurie",
+        "Vendeur de la foire",
+        "Enfant"
+      ]
+    },
+    {
+      "name": "Stade de baseball",
+      "roles": [
+        "Batteur",
+        "Supporter",
+        "Commentateur",
+        "Vendeuse de hot-dogs",
+        "Arbitre",
+        "Coach",
+        "Mascotte",
+        "Placeur"
+      ]
+    },
+    {
+      "name": "Plage de Malibu",
+      "roles": [
+        "Surfeuse",
+        "Maître-nageur",
+        "Touriste",
+        "Vendeur",
+        "Photographe",
+        "Skateur",
+        "Baigneuse au soleil",
+        "Moniteur de surf"
+      ]
+    },
+    {
+      "name": "Métro de New York",
+      "roles": [
+        "Passager",
+        "Musicien de rue",
+        "Touriste",
+        "Policière",
+        "Conducteur",
+        "Homme d’affaires",
+        "Étudiante",
+        "Breakdanseur"
+      ]
+    },
+    {
+      "name": "Rodéo",
+      "roles": [
+        "Cavalier du taureau",
+        "Spectateur",
+        "Clown de rodéo",
+        "Annonceur",
+        "Commissaire",
+        "Vendeuse",
+        "Éleveur",
+        "Vétérinaire"
+      ]
+    },
+    {
+      "name": "Commissariat",
+      "roles": [
+        "Policier",
+        "Inspecteur",
+        "Agent administratif",
+        "Avocat de la défense",
+        "Visiteur",
+        "Sergent",
+        "Bleu de la patrouille",
+        "Agent d’accueil"
+      ]
+    },
+    {
+      "name": "Station-service de la Route 66",
+      "roles": [
+        "Pompiste",
+        "Voyageuse en road trip",
+        "Motard",
+        "Mécanicien",
+        "Caissière",
+        "Routier",
+        "Propriétaire d’une voiture de collection",
+        "Touriste"
+      ]
+    },
+    {
+      "name": "Bureau de la Silicon Valley",
+      "roles": [
+        "Développeur",
+        "Directrice générale",
+        "Stagiaire",
+        "Chef de produit",
+        "Recruteur",
+        "Designer",
+        "Investisseuse",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Repas de Thanksgiving",
+      "roles": [
+        "Mamie",
+        "Oncle",
+        "Cousine",
+        "Hôte",
+        "Enfant",
+        "Belle-mère",
+        "Voisin",
+        "Invité en retard"
+      ]
+    },
+    {
+      "name": "Wall Street",
+      "roles": [
+        "Trader",
+        "Courtier",
+        "Analyste",
+        "Directeur général",
+        "Stagiaire",
+        "Touriste",
+        "Agent de sécurité",
+        "Journaliste"
+      ]
+    },
+    {
+      "name": "Camping du parc national",
+      "roles": [
+        "Campeur",
+        "Ranger",
+        "Randonneuse",
+        "Chef scout",
+        "Propriétaire du camping-car",
+        "Pêcheur",
+        "Enfant",
+        "Vendeur"
+      ]
+    },
+    {
+      "name": "Drive-in",
+      "roles": [
+        "Caissière",
+        "Couple en rendez-vous",
+        "Vendeur de popcorn",
+        "Projectionniste",
+        "Adolescent",
+        "Famille",
+        "Serveur à la voiture",
+        "Agent de sécurité"
+      ]
+    }
+  ]
+}

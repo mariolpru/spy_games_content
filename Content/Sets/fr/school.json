@@ -1,0 +1,279 @@
+{
+  "id": "school",
+  "title": "École",
+  "locations": [
+    {
+      "name": "Salle de physique",
+      "roles": [
+        "Professeur de physique",
+        "Assistante de labo",
+        "Élève au tableau",
+        "Élève avec un dynamomètre",
+        "Premier de la classe",
+        "Élève de corvée",
+        "Élève avec une ampoule grillée",
+        "Élève avec une antisèche"
+      ]
+    },
+    {
+      "name": "Cantine",
+      "roles": [
+        "Cuisinier",
+        "Dame de cantine",
+        "Élève de corvée",
+        "Enfant avec son plateau",
+        "Surveillant",
+        "Élève de CP",
+        "Grand qui double la file",
+        "Plongeur"
+      ]
+    },
+    {
+      "name": "Cours d’EPS",
+      "roles": [
+        "Professeur d’EPS",
+        "Enfant à la corde",
+        "Élève avec un mot du médecin",
+        "Capitaine d’équipe",
+        "Fille avec un cerceau",
+        "Élève qui a oublié ses affaires",
+        "Retardataire",
+        "Enfant avec un ballon"
+      ]
+    },
+    {
+      "name": "Bureau du directeur",
+      "roles": [
+        "Directrice",
+        "Secrétaire",
+        "Élève convoqué",
+        "Parent d’élève",
+        "Conseiller principal d’éducation",
+        "Professeur principal",
+        "Inspecteur",
+        "Élève qui reçoit un prix"
+      ]
+    },
+    {
+      "name": "Salle de chimie",
+      "roles": [
+        "Professeure de chimie",
+        "Assistant de labo",
+        "Élève sous la hotte",
+        "Élève avec des lunettes de protection",
+        "Première de la classe",
+        "Élève effrayé",
+        "Élève de corvée",
+        "Élève qui a cassé une éprouvette"
+      ]
+    },
+    {
+      "name": "CDI",
+      "roles": [
+        "Documentaliste",
+        "Élève",
+        "Lecteur à une table",
+        "Élève avec un livre en retard",
+        "Élève de CP",
+        "Aide-bibliothécaire",
+        "Professeure de français",
+        "Élève endormi sur son livre"
+      ]
+    },
+    {
+      "name": "Salle des profs",
+      "roles": [
+        "Conseiller principal d’éducation",
+        "Professeure de maths",
+        "Professeur d’EPS",
+        "Professeur principal",
+        "Professeure stagiaire",
+        "Psychologue scolaire",
+        "Agent d’entretien",
+        "Élève convoqué"
+      ]
+    },
+    {
+      "name": "Vestiaire",
+      "roles": [
+        "Élève",
+        "Élève qui a oublié ses baskets",
+        "Élève de corvée",
+        "Professeur à la porte",
+        "Retardataire",
+        "Élève au téléphone",
+        "Propriétaire de la chaussette perdue",
+        "Capitaine d’équipe"
+      ]
+    },
+    {
+      "name": "Salle de spectacle",
+      "roles": [
+        "Présentatrice",
+        "Élève qui joue",
+        "Directeur au premier rang",
+        "Technicien du son",
+        "Choriste",
+        "Parent avec une caméra",
+        "Élève qui oublie son texte",
+        "Agent technique"
+      ]
+    },
+    {
+      "name": "Infirmerie",
+      "roles": [
+        "Infirmière scolaire",
+        "Enfant au genou écorché",
+        "Simulateur",
+        "Élève de CP vacciné",
+        "Professeur accompagnateur",
+        "Fille avec mal à la tête",
+        "Médecin",
+        "Enfant qui a peur des piqûres"
+      ]
+    },
+    {
+      "name": "Atelier de technologie",
+      "roles": [
+        "Professeur de technologie",
+        "Élève avec un marteau",
+        "Élève avec un plan",
+        "Élève avec son tabouret fini",
+        "Élève qui balaie la sciure",
+        "Novice",
+        "Agent technique",
+        "Élève avec une écharde"
+      ]
+    },
+    {
+      "name": "Salle informatique",
+      "roles": [
+        "Professeur d’informatique",
+        "Élève qui joue en douce",
+        "Élève avec une clé USB",
+        "Premier de la classe",
+        "Administrateur réseau",
+        "Fille à l’imprimante",
+        "Élève qui a oublié son mot de passe",
+        "Élève de corvée"
+      ]
+    },
+    {
+      "name": "Cour de récré",
+      "roles": [
+        "Surveillant",
+        "Jardinier",
+        "Enfant sur un banc",
+        "Élève de CP avec son cartable",
+        "Parent à la grille",
+        "Agent d’entretien",
+        "Professeur avec un chronomètre",
+        "Élève qui sèche les cours"
+      ]
+    },
+    {
+      "name": "Couloir entre deux cours",
+      "roles": [
+        "Surveillante",
+        "Enfant qui court",
+        "Professeure avec sa règle",
+        "Grand près de la fenêtre",
+        "Élève de CP avec son goûter",
+        "Agent d’entretien avec sa serpillière",
+        "Conseiller principal d’éducation",
+        "Élève au téléphone"
+      ]
+    },
+    {
+      "name": "Car de ramassage scolaire",
+      "roles": [
+        "Chauffeur",
+        "Enfant au fond du car",
+        "Élève de CP devant",
+        "Enfant qui rate son arrêt",
+        "Accompagnatrice",
+        "Enfant avec une énorme maquette",
+        "Enfant endormi",
+        "Enfant qui garde une place"
+      ]
+    },
+    {
+      "name": "Salle de musique",
+      "roles": [
+        "Professeure de musique",
+        "Soliste",
+        "Enfant avec une flûte",
+        "Choriste",
+        "Pianiste accompagnateur",
+        "Enfant avec un tambourin",
+        "Celui qui chante faux",
+        "Fille avec une guitare"
+      ]
+    },
+    {
+      "name": "Étude du soir",
+      "roles": [
+        "Surveillant",
+        "Élève de CP qui fait ses devoirs",
+        "Enfant avec des cubes",
+        "Mère qui vient chercher son enfant",
+        "Enfant qui attend son père",
+        "Assistant d’éducation",
+        "Animatrice",
+        "Enfant qui finit son goûter"
+      ]
+    },
+    {
+      "name": "Salle de SVT",
+      "roles": [
+        "Professeure de SVT",
+        "Enfant près du squelette",
+        "Fille avec un microscope",
+        "Élève qui arrose les plantes",
+        "Élève avec un herbier",
+        "Premier de la classe",
+        "Enfant qui a peur des grenouilles",
+        "Assistant de labo"
+      ]
+    },
+    {
+      "name": "Stade de l’école",
+      "roles": [
+        "Professeur d’EPS",
+        "Coureuse",
+        "Arbitre",
+        "Supporter dans les gradins",
+        "Élève qui passe le test d’endurance",
+        "Élève avec un mot du médecin",
+        "Entraîneur",
+        "Secouriste"
+      ]
+    },
+    {
+      "name": "Salle de retenue",
+      "roles": [
+        "Surveillant",
+        "Élève arrivé en retard",
+        "Élève qui a répondu",
+        "Élève qui fait ses devoirs",
+        "Élève endormi",
+        "Celui qui fait passer des mots",
+        "Bon élève là par erreur",
+        "Agent d’entretien"
+      ]
+    },
+    {
+      "name": "Classe de CP",
+      "roles": [
+        "Maîtresse",
+        "Enfant avec son livre de lecture",
+        "Enfant qui a oublié sa trousse",
+        "Enfant qui pleure",
+        "Mère devant la porte",
+        "Fille avec des couettes",
+        "Enfant qui mâche un chewing-gum",
+        "Enfant en tête de la file"
+      ]
+    }
+  ]
+}

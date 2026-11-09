@@ -1,0 +1,266 @@
+{
+  "id": "paris-everyday",
+  "title": "Paris au quotidien",
+  "locations": [
+    {
+      "name": "RER aux heures de pointe",
+      "roles": [
+        "Voyageur debout",
+        "Contrôleur",
+        "Musicien du wagon",
+        "Étudiante avec un casque",
+        "Touriste avec un plan",
+        "Mère avec une poussette",
+        "Conducteur",
+        "Agent de propreté"
+      ]
+    },
+    {
+      "name": "Brasserie de quartier",
+      "roles": [
+        "Serveur en tablier",
+        "Habitué au comptoir",
+        "Couple qui déjeune",
+        "Cuisinier",
+        "Livreur",
+        "Patron",
+        "Touriste perdu",
+        "Plongeur"
+      ]
+    },
+    {
+      "name": "Marché aux puces de Saint-Ouen",
+      "roles": [
+        "Brocanteur",
+        "Chineuse",
+        "Touriste",
+        "Restaurateur de meubles",
+        "Musicien",
+        "Acheteur qui marchande",
+        "Vendeur de disques",
+        "Enfant qui s’ennuie"
+      ]
+    },
+    {
+      "name": "Périphérique un vendredi soir",
+      "roles": [
+        "Automobiliste coincé",
+        "Motard",
+        "Routier",
+        "Conducteur de bus",
+        "Dépanneur",
+        "Enfant à l’arrière",
+        "Agent de la circulation",
+        "Passagère qui râle"
+      ]
+    },
+    {
+      "name": "Station Vélib’",
+      "roles": [
+        "Cycliste pressé",
+        "Agent de maintenance",
+        "Touriste qui galère avec la borne",
+        "Livreur à vélo",
+        "Étudiant",
+        "Retraité",
+        "Parent avec un siège enfant",
+        "Voisin qui explique la borne"
+      ]
+    },
+    {
+      "name": "Gardien d’immeuble",
+      "roles": [
+        "Gardien",
+        "Locataire qui râle",
+        "Facteur",
+        "Livreur",
+        "Enfant du troisième",
+        "Propriétaire",
+        "Plombier",
+        "Voisine du rez-de-chaussée"
+      ]
+    },
+    {
+      "name": "Berges de la Seine en été",
+      "roles": [
+        "Groupe en pique-nique",
+        "Joggeuse",
+        "Vendeur de boissons",
+        "Danseurs de salsa",
+        "Pêcheur",
+        "Touriste",
+        "Enfant à vélo",
+        "Agent de propreté"
+      ]
+    },
+    {
+      "name": "Bureau de poste du quartier",
+      "roles": [
+        "Guichetier",
+        "Cliente avec un colis",
+        "Retraité dans la file",
+        "Coursier",
+        "Agent d’accueil",
+        "Parent avec une poussette",
+        "Trieur",
+        "Habitué"
+      ]
+    },
+    {
+      "name": "Laverie automatique",
+      "roles": [
+        "Étudiant qui attend sa machine",
+        "Voisine avec son panier",
+        "Gérant",
+        "Enfant qui regarde le hublot",
+        "Habitué",
+        "Livreur",
+        "Touriste",
+        "Agent d’entretien"
+      ]
+    },
+    {
+      "name": "Cinéma d’art et d’essai",
+      "roles": [
+        "Caissière",
+        "Spectateur cinéphile",
+        "Projectionniste",
+        "Ouvreur",
+        "Couple en rendez-vous",
+        "Réalisateur venu présenter son film",
+        "Étudiante en cinéma",
+        "Agent d’entretien"
+      ]
+    },
+    {
+      "name": "Jardin public le mercredi",
+      "roles": [
+        "Parent sur un banc",
+        "Enfant au toboggan",
+        "Gardien du square",
+        "Nounou",
+        "Retraité avec son journal",
+        "Jardinier",
+        "Joueur de pétanque",
+        "Vendeur de glaces"
+      ]
+    },
+    {
+      "name": "Boulangerie à 7 heures",
+      "roles": [
+        "Boulanger",
+        "Client avec sa baguette",
+        "Vendeuse",
+        "Apprenti",
+        "Livreur",
+        "Ouvrier avant le chantier",
+        "Enfant avant l’école",
+        "Habituée"
+      ]
+    },
+    {
+      "name": "Salle de sport du quartier",
+      "roles": [
+        "Coach",
+        "Abonné du matin",
+        "Réceptionniste",
+        "Novice",
+        "Agent d’entretien",
+        "Habituée",
+        "Kinésithérapeute",
+        "Livreur de machines"
+      ]
+    },
+    {
+      "name": "Manifestation un samedi",
+      "roles": [
+        "Manifestant avec une pancarte",
+        "Policier",
+        "Journaliste",
+        "Badaud au balcon",
+        "Vendeur ambulant",
+        "Secouriste bénévole",
+        "Commerçant qui ferme",
+        "Photographe"
+      ]
+    },
+    {
+      "name": "Brocante de rue",
+      "roles": [
+        "Vendeur à sa table",
+        "Chineur",
+        "Voisin curieux",
+        "Enfant avec des jouets",
+        "Organisatrice",
+        "Acheteuse qui marchande",
+        "Musicien",
+        "Agent de la mairie"
+      ]
+    },
+    {
+      "name": "Cave à fromages",
+      "roles": [
+        "Fromager",
+        "Cliente",
+        "Apprenti",
+        "Livreur",
+        "Touriste",
+        "Habitué",
+        "Caissière",
+        "Affineur"
+      ]
+    },
+    {
+      "name": "Piscine municipale le samedi",
+      "roles": [
+        "Maître-nageur",
+        "Enfant au cours de natation",
+        "Nageur du matin",
+        "Parent sur les gradins",
+        "Caissier",
+        "Agent d’entretien",
+        "Ado avec ses copains",
+        "Retraitée"
+      ]
+    },
+    {
+      "name": "Terrasse de café en terrasse chauffée",
+      "roles": [
+        "Serveuse",
+        "Client avec son ordinateur",
+        "Couple",
+        "Livreur à vélo",
+        "Patron",
+        "Touriste",
+        "Habitué avec son chien",
+        "Musicien de rue"
+      ]
+    },
+    {
+      "name": "Marché de Noël sur la place",
+      "roles": [
+        "Vendeur de crêpes",
+        "Enfant devant le manège",
+        "Artisan",
+        "Musicienne",
+        "Vendeuse de décorations",
+        "Père Noël",
+        "Agent de sécurité",
+        "Photographe"
+      ]
+    },
+    {
+      "name": "Déménagement un 1er juillet",
+      "roles": [
+        "Déménageur",
+        "Locataire qui part",
+        "Voisin qui aide",
+        "Propriétaire",
+        "Enfant avec un carton",
+        "Chauffeur du camion",
+        "Concierge",
+        "Ami venu en renfort"
+      ]
+    }
+  ]
+}
