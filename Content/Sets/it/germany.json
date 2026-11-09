@@ -1,0 +1,136 @@
+{
+  "id": "germany",
+  "title": "Germania",
+  "locations": [
+    {
+      "name": "Oktoberfest",
+      "roles": [
+        "Cameriera con i bretzel",
+        "Fornaio",
+        "Ospite in dirndl",
+        "Musicista della banda",
+        "Turista",
+        "Cuoco",
+        "Cliente abituale",
+        "Addetto alla sicurezza"
+      ]
+    },
+    {
+      "name": "Muro di Berlino",
+      "roles": [
+        "Artista di strada",
+        "Turista",
+        "Guida turistica",
+        "Fotografo",
+        "Storico",
+        "Ciclista",
+        "Venditrice",
+        "Musicista"
+      ]
+    },
+    {
+      "name": "Autobahn",
+      "roles": [
+        "Guidatore di una sportiva",
+        "Camionista",
+        "Meccanico",
+        "Poliziotto",
+        "Turista",
+        "Benzinaio",
+        "Passeggera",
+        "Soccorso stradale"
+      ]
+    },
+    {
+      "name": "Fabbrica di automobili",
+      "roles": [
+        "Ingegnere",
+        "Operaio della catena di montaggio",
+        "Designer",
+        "Visitatore della fabbrica",
+        "Guida",
+        "Collaudatore",
+        "Capo reparto",
+        "Meccanica"
+      ]
+    },
+    {
+      "name": "Mercatino di Natale",
+      "roles": [
+        "Venditore di cioccolata calda",
+        "Turista",
+        "Artigiano",
+        "Musicista",
+        "Bambino",
+        "Venditore di giocattoli",
+        "Fornaio",
+        "Babbo Natale"
+      ]
+    },
+    {
+      "name": "Club techno di Berlino",
+      "roles": [
+        "DJ",
+        "Ballerino",
+        "Buttafuori",
+        "Cameriera",
+        "Ospite",
+        "Promoter",
+        "Tecnico delle luci",
+        "Cliente abituale"
+      ]
+    },
+    {
+      "name": "Paese bavarese",
+      "roles": [
+        "Contadino",
+        "Pastore",
+        "Casaro",
+        "Turista",
+        "Musicista",
+        "Ostessa in dirndl",
+        "Intagliatore del legno",
+        "Fornaia"
+      ]
+    },
+    {
+      "name": "Bundestag",
+      "roles": [
+        "Deputata",
+        "Turista",
+        "Guida turistica",
+        "Addetto alla sicurezza",
+        "Giornalista",
+        "Funzionario",
+        "Fotografo",
+        "Interprete"
+      ]
+    },
+    {
+      "name": "Chiosco delle salsicce",
+      "roles": [
+        "Venditore",
+        "Cliente",
+        "Turista",
+        "Cuoco",
+        "Cassiera",
+        "Macellaio",
+        "Cliente abituale",
+        "Fattorino"
+      ]
+    },
+    {
+      "name": "Nürburgring",
+      "roles": [
+        "Pilota",
+        "Meccanico",
+        "Spettatore",
+        "Telecronista",
+        "Commissario di pista",
+        "Fotografo",
+        "Ingegnera",
+        "Tifoso"
+      ]
+    }
+  ]
+}

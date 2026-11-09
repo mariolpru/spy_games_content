@@ -1,0 +1,266 @@
+{
+  "id": "italy",
+  "title": "L’Italia di tutti i giorni",
+  "locations": [
+    {
+      "name": "Bar la mattina",
+      "roles": [
+        "Barista",
+        "Cliente che beve il caffè al banco",
+        "Pensionato con il giornale",
+        "Operaio prima del turno",
+        "Fattorino",
+        "Cassiera",
+        "Bambino con la brioche",
+        "Cliente abituale"
+      ]
+    },
+    {
+      "name": "Mercato rionale",
+      "roles": [
+        "Fruttivendolo",
+        "Pescivendola",
+        "Cliente con la sporta",
+        "Macellaio",
+        "Formaggiaio",
+        "Imbonitore",
+        "Anziana che fa la spesa",
+        "Garzone che scarica le cassette"
+      ]
+    },
+    {
+      "name": "Passeggiata serale",
+      "roles": [
+        "Coppia a braccetto",
+        "Gruppo di ragazzi",
+        "Nonno con il nipote",
+        "Gelataio",
+        "Vigile urbano",
+        "Signora con il cane",
+        "Musicista di strada",
+        "Turista di passaggio"
+      ]
+    },
+    {
+      "name": "Oratorio",
+      "roles": [
+        "Don della parrocchia",
+        "Animatore",
+        "Bambino al campetto",
+        "Mamma che aspetta",
+        "Volontaria",
+        "Ragazzo al ping-pong",
+        "Catechista",
+        "Custode"
+      ]
+    },
+    {
+      "name": "Edicola",
+      "roles": [
+        "Edicolante",
+        "Cliente con il giornale",
+        "Bambino con le figurine",
+        "Pensionato",
+        "Fattorino dei giornali",
+        "Turista che chiede informazioni",
+        "Studente con la rivista",
+        "Cliente abituale"
+      ]
+    },
+    {
+      "name": "Farmacia di turno",
+      "roles": [
+        "Farmacista",
+        "Cliente con la ricetta",
+        "Genitore con un bambino",
+        "Fattorino",
+        "Pensionato",
+        "Aiuto farmacista",
+        "Cassiera",
+        "Studentessa di farmacia"
+      ]
+    },
+    {
+      "name": "Spiaggia ad agosto",
+      "roles": [
+        "Bagnino",
+        "Venditore di cocco",
+        "Famiglia sotto l’ombrellone",
+        "Bambino con il secchiello",
+        "Nonno all’ombra",
+        "Venditore ambulante",
+        "Ragazzo con i racchettoni",
+        "Animatore del villaggio"
+      ]
+    },
+    {
+      "name": "Sagra di paese",
+      "roles": [
+        "Volontario della pro loco",
+        "Cuoca allo stand",
+        "Bambino con lo zucchero filato",
+        "Suonatore della banda",
+        "Sindaco",
+        "Anziana seduta",
+        "Ragazzi al tiro a segno",
+        "Addetto alle griglie"
+      ]
+    },
+    {
+      "name": "Pizzeria il sabato sera",
+      "roles": [
+        "Pizzaiolo",
+        "Cameriere",
+        "Famiglia numerosa",
+        "Coppia a un appuntamento",
+        "Cassiere",
+        "Fattorino",
+        "Bambino che aspetta la margherita",
+        "Aiuto pizzaiolo"
+      ]
+    },
+    {
+      "name": "Stadio la domenica",
+      "roles": [
+        "Tifoso con la sciarpa",
+        "Steward",
+        "Venditore di panini",
+        "Allenatore",
+        "Speaker",
+        "Bambino sulle spalle del papà",
+        "Tamburino della curva",
+        "Magazziniere"
+      ]
+    },
+    {
+      "name": "Gita in montagna",
+      "roles": [
+        "Escursionista con i bastoncini",
+        "Gestore del rifugio",
+        "Famiglia con lo zaino",
+        "Guida alpina",
+        "Bambino stanco",
+        "Soccorritore",
+        "Fotografo",
+        "Pastore di passaggio"
+      ]
+    },
+    {
+      "name": "Treno regionale",
+      "roles": [
+        "Capotreno",
+        "Pendolare con il portatile",
+        "Studente con lo zaino",
+        "Famiglia con le valigie",
+        "Passeggero in piedi",
+        "Signora che chiacchiera",
+        "Addetto alle pulizie",
+        "Bambino al finestrino"
+      ]
+    },
+    {
+      "name": "Pranzo della domenica dalla nonna",
+      "roles": [
+        "Nonna ai fornelli",
+        "Nipote affamato",
+        "Zio che racconta",
+        "Mamma che apparecchia",
+        "Nonno in poltrona",
+        "Vicina che entra senza bussare",
+        "Cugino piccolo",
+        "Sorella che lava i piatti"
+      ]
+    },
+    {
+      "name": "Ufficio dell’anagrafe",
+      "roles": [
+        "Impiegata allo sportello",
+        "Cittadino con il numerino",
+        "Chi aspetta senza appuntamento",
+        "Mamma con un bambino",
+        "Usciere",
+        "Pensionato con la cartellina",
+        "Stagista",
+        "Vigile urbano"
+      ]
+    },
+    {
+      "name": "Piscina comunale",
+      "roles": [
+        "Bagnino",
+        "Bambino al trampolino",
+        "Istruttrice di nuoto",
+        "Pensionato che fa le vasche",
+        "Cassiera",
+        "Genitore con i braccioli",
+        "Addetto alle pulizie",
+        "Ragazzo con la merenda"
+      ]
+    },
+    {
+      "name": "Vendemmia in famiglia",
+      "roles": [
+        "Contadino",
+        "Raccoglitore stagionale",
+        "Bambino con la cesta",
+        "Trattorista",
+        "Cuoca della squadra",
+        "Nonno che dà ordini",
+        "Vicino venuto ad aiutare",
+        "Studente in vacanza"
+      ]
+    },
+    {
+      "name": "Panificio di quartiere",
+      "roles": [
+        "Fornaia",
+        "Cliente con il pane",
+        "Fattorino",
+        "Pensionato che viene ogni mattina",
+        "Bambino con la focaccia",
+        "Proprietario",
+        "Apprendista al forno",
+        "Vicina di casa"
+      ]
+    },
+    {
+      "name": "Processione del santo patrono",
+      "roles": [
+        "Portatore della statua",
+        "Chierichetto",
+        "Banda del paese",
+        "Signora al balcone",
+        "Vigile che blocca la strada",
+        "Fotografo",
+        "Bambino con il cero",
+        "Priore della confraternita"
+      ]
+    },
+    {
+      "name": "Officina del meccanico",
+      "roles": [
+        "Meccanico",
+        "Cliente con l’auto in panne",
+        "Titolare",
+        "Apprendista",
+        "Fornitore di ricambi",
+        "Cliente in attesa",
+        "Gommista",
+        "Carrozziere"
+      ]
+    },
+    {
+      "name": "Autogrill in autostrada",
+      "roles": [
+        "Camionista",
+        "Famiglia in viaggio",
+        "Cassiera",
+        "Cuoco al banco",
+        "Benzinaio",
+        "Bambino al distributore di dolci",
+        "Viaggiatore con il cane",
+        "Addetto alle pulizie"
+      ]
+    }
+  ]
+}

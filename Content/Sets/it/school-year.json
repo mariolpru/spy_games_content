@@ -1,0 +1,227 @@
+{
+  "id": "school-year",
+  "title": "Anno scolastico",
+  "locations": [
+    {
+      "name": "Primo giorno di scuola",
+      "roles": [
+        "Alunno di prima con lo zaino nuovo",
+        "Grande che accompagna un piccolo",
+        "Preside che fa il discorso",
+        "Genitore con la telecamera",
+        "Maestra con il cartello della classe",
+        "Presentatore",
+        "Bambino con i fiori",
+        "Bidello al cancello"
+      ]
+    },
+    {
+      "name": "Riunione con i genitori",
+      "roles": [
+        "Coordinatore di classe",
+        "Mamma rappresentante",
+        "Papà venuto per la prima volta",
+        "Tesoriere della classe",
+        "Genitore in ritardo",
+        "Nonna al posto dei genitori",
+        "Vicepreside",
+        "Mamma con molte domande"
+      ]
+    },
+    {
+      "name": "Settimana della scienza",
+      "roles": [
+        "Bambino con il vulcano",
+        "Membro della giuria",
+        "Prof di turno",
+        "Vincitore dell’anno scorso",
+        "Papà che ha costruito il modellino",
+        "Secchiona della classe",
+        "Bambino con il modellino rotto",
+        "Bambino che spiega alla giuria"
+      ]
+    },
+    {
+      "name": "Recita di Natale",
+      "roles": [
+        "Bambino vestito da pastore",
+        "Bambina che canta",
+        "Maestra al pianoforte",
+        "Papà che riprende con il telefono",
+        "Presentatore",
+        "Bambino che recita una poesia",
+        "Bambino vestito da fiocco di neve",
+        "Babbo Natale"
+      ]
+    },
+    {
+      "name": "Gita al museo",
+      "roles": [
+        "Guida del museo",
+        "Coordinatrice di classe",
+        "Bambino rimasto indietro",
+        "Alunno al telefono",
+        "Genitore accompagnatore",
+        "Custode di sala",
+        "Secchione con il quaderno",
+        "Bambino che tocca le vetrine"
+      ]
+    },
+    {
+      "name": "Settimana verde",
+      "roles": [
+        "Coordinatrice di classe",
+        "Bambino con la chitarra",
+        "Bambino che accende il fuoco",
+        "Genitore accompagnatore",
+        "Ragazza con lo zaino pesante",
+        "Bambino di turno in cucina",
+        "Bambino che ha perso una scarpa",
+        "Animatore"
+      ]
+    },
+    {
+      "name": "Consegna dei diplomi",
+      "roles": [
+        "Diplomata",
+        "Alunno che fa il discorso",
+        "Preside che consegna i diplomi",
+        "Prof commossa",
+        "Genitore con un mazzo di fiori",
+        "Fotografo",
+        "Fratellino",
+        "Alunno che inciampa sul palco"
+      ]
+    },
+    {
+      "name": "Festa di fine anno",
+      "roles": [
+        "Alunno con il vestito prestato",
+        "Alunna con l’abito nuovo",
+        "DJ",
+        "Prof accompagnatore",
+        "Fotografo",
+        "Alunno venuto da solo",
+        "Cameriere",
+        "Rappresentante di classe"
+      ]
+    },
+    {
+      "name": "Festa di Carnevale",
+      "roles": [
+        "Bambino vestito da supereroe",
+        "Bambina vestita da strega",
+        "Prof in maschera",
+        "DJ",
+        "Papà con i coriandoli",
+        "Bambino senza costume",
+        "Fotografa",
+        "Giurato dei costumi"
+      ]
+    },
+    {
+      "name": "Orto della scuola",
+      "roles": [
+        "Bidello",
+        "Bambino con il rastrello",
+        "Bambino nascosto dietro un albero",
+        "Coordinatore di classe",
+        "Preside con la pala",
+        "Bambina con il sacco di foglie",
+        "Giardiniere",
+        "Bambino con la carriola"
+      ]
+    },
+    {
+      "name": "Mercatino di beneficenza",
+      "roles": [
+        "Bambino dietro il banco",
+        "Genitore che compra",
+        "Mamma con i dolci fatti in casa",
+        "Bambina con i lavoretti",
+        "Cassiere",
+        "Prof organizzatrice",
+        "Alunno di prima con le monete",
+        "Preside"
+      ]
+    },
+    {
+      "name": "Prova di evacuazione",
+      "roles": [
+        "Vigile del fuoco",
+        "Preside con il megafono",
+        "Coordinatrice con l’elenco",
+        "Bambino senza giacca",
+        "Bambino che ha dimenticato lo zaino",
+        "Bidello",
+        "Infermiera scolastica",
+        "Bambino che non ha sentito l’allarme"
+      ]
+    },
+    {
+      "name": "Giorno della foto di classe",
+      "roles": [
+        "Fotografo",
+        "Bambino in prima fila",
+        "Bambina con la pettinatura nuova",
+        "Coordinatore di classe",
+        "Bambino che ha sbattuto gli occhi",
+        "Chi arriva in ritardo",
+        "Bambino che fa le smorfie",
+        "Assistente del fotografo"
+      ]
+    },
+    {
+      "name": "Esame di maturità",
+      "roles": [
+        "Maturando",
+        "Commissario d’esame",
+        "Responsabile dell’aula",
+        "Alunno con la calcolatrice",
+        "Alunno che ha dimenticato il documento",
+        "Bidello all’ingresso",
+        "Genitore che aspetta fuori",
+        "Secchiona della classe"
+      ]
+    },
+    {
+      "name": "Giornata sportiva",
+      "roles": [
+        "Prof di ginnastica",
+        "Corridrice",
+        "Arbitro",
+        "Tifoso con la faccia dipinta",
+        "Allenatore",
+        "Mascotte della scuola",
+        "Venditore di panini",
+        "Vincitrice della corsa"
+      ]
+    },
+    {
+      "name": "Recita della scuola",
+      "roles": [
+        "Prof di teatro",
+        "Attore protagonista",
+        "Suggeritore",
+        "Bambino vestito da albero",
+        "Tecnico delle luci",
+        "Costumista",
+        "Genitore tra il pubblico",
+        "Attore che dimentica la battuta"
+      ]
+    },
+    {
+      "name": "Gara di lettura",
+      "roles": [
+        "Alunno che legge",
+        "Membro della giuria",
+        "Prof di italiano",
+        "Autore invitato",
+        "Bibliotecaria",
+        "Bambino con il segnalibro fatto a mano",
+        "Presentatore",
+        "Genitore tra il pubblico"
+      ]
+    }
+  ]
+}

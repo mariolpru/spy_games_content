@@ -1,0 +1,266 @@
+{
+  "id": "city",
+  "title": "Città",
+  "locations": [
+    {
+      "name": "Ristorante",
+      "roles": [
+        "Cameriere",
+        "Cuoco",
+        "Maître",
+        "Coppia a cena",
+        "Aiuto cameriere",
+        "Lavapiatti",
+        "Fattorino",
+        "Musicista dal vivo"
+      ]
+    },
+    {
+      "name": "Banca",
+      "roles": [
+        "Impiegata allo sportello",
+        "Guardia giurata",
+        "Cliente in fila",
+        "Consulente dei prestiti",
+        "Cassiere",
+        "Direttrice di filiale",
+        "Portavalori",
+        "Addetto alle pulizie"
+      ]
+    },
+    {
+      "name": "Supermercato",
+      "roles": [
+        "Cassiera",
+        "Cliente con il carrello",
+        "Addetto agli scaffali",
+        "Guardia giurata",
+        "Magazziniere",
+        "Mamma con un bambino",
+        "Promoter degli assaggi",
+        "Addetto alle pulizie"
+      ]
+    },
+    {
+      "name": "Scuola",
+      "roles": [
+        "Maestra",
+        "Alunno",
+        "Preside",
+        "Bidella",
+        "Custode",
+        "Vicepreside",
+        "Bambino alla lavagna",
+        "Genitore"
+      ]
+    },
+    {
+      "name": "Ospedale",
+      "roles": [
+        "Medico",
+        "Infermiera",
+        "Paziente",
+        "Chirurgo",
+        "Barelliere",
+        "Addetta all’accettazione",
+        "Visitatore",
+        "Addetta alle pulizie"
+      ]
+    },
+    {
+      "name": "Parrucchiere",
+      "roles": [
+        "Parrucchiera",
+        "Cliente sulla poltrona",
+        "Estetista delle unghie",
+        "Receptionist",
+        "Colorista",
+        "Bambino dal barbiere",
+        "Addetto alle pulizie",
+        "Specialista delle sopracciglia"
+      ]
+    },
+    {
+      "name": "Bar",
+      "roles": [
+        "Barista",
+        "Cliente con il portatile",
+        "Cameriera",
+        "Studentessa con i libri",
+        "Gestore",
+        "Aiuto cameriere",
+        "Pasticcere",
+        "Cliente abituale"
+      ]
+    },
+    {
+      "name": "Biblioteca",
+      "roles": [
+        "Bibliotecaria",
+        "Studente",
+        "Lettore",
+        "Scolaro",
+        "Pensionato con il giornale",
+        "Addetto alle pulizie",
+        "Archivista",
+        "Visitatore al computer"
+      ]
+    },
+    {
+      "name": "Libreria",
+      "roles": [
+        "Libraio",
+        "Cliente",
+        "Cassiere",
+        "Lettore che sfoglia",
+        "Fattorino",
+        "Responsabile del negozio",
+        "Bambino nel reparto ragazzi",
+        "Addetto alle pulizie"
+      ]
+    },
+    {
+      "name": "Ufficio postale",
+      "roles": [
+        "Impiegato allo sportello",
+        "Cliente con un pacco",
+        "Postino",
+        "Pensionato in fila",
+        "Corriere",
+        "Smistatore",
+        "Guardia giurata",
+        "Addetta alle pulizie"
+      ]
+    },
+    {
+      "name": "Farmacia",
+      "roles": [
+        "Farmacista",
+        "Cliente con la ricetta",
+        "Aiuto farmacista",
+        "Fattorino",
+        "Mamma con un bambino",
+        "Pensionata",
+        "Cassiere",
+        "Informatore medico"
+      ]
+    },
+    {
+      "name": "Commissariato",
+      "roles": [
+        "Poliziotta",
+        "Agente di turno",
+        "Commissario",
+        "Visitatore che sporge denuncia",
+        "Avvocato",
+        "Impiegato",
+        "Agente alle prime armi",
+        "Agente di scorta"
+      ]
+    },
+    {
+      "name": "Centro commerciale",
+      "roles": [
+        "Commessa",
+        "Cliente con le borse",
+        "Guardia giurata",
+        "Addetto alle pulizie",
+        "Ragazzo all’area ristoro",
+        "Promoter",
+        "Addetta ai camerini",
+        "Mamma con il passeggino"
+      ]
+    },
+    {
+      "name": "Distributore di benzina",
+      "roles": [
+        "Benzinaio",
+        "Cassiera",
+        "Automobilista",
+        "Camionista",
+        "Commesso del negozio",
+        "Addetto alle pulizie",
+        "Lavavetri",
+        "Cliente con un caffè"
+      ]
+    },
+    {
+      "name": "Tribunale",
+      "roles": [
+        "Giudice",
+        "Avvocato difensore",
+        "Pubblico ministero",
+        "Cancelliere",
+        "Testimone",
+        "Giurato",
+        "Usciere",
+        "Spettatore"
+      ]
+    },
+    {
+      "name": "Studio dentistico",
+      "roles": [
+        "Dentista",
+        "Paziente sulla poltrona",
+        "Assistente alla poltrona",
+        "Receptionist",
+        "Bambino con la mamma",
+        "Igienista",
+        "Paziente in sala d’attesa",
+        "Ortodontista"
+      ]
+    },
+    {
+      "name": "Ufficio",
+      "roles": [
+        "Designer",
+        "Programmatore",
+        "Contabile",
+        "Corriere",
+        "Addetta alle pulizie",
+        "Impiegato al telefono",
+        "Stagista",
+        "Capo"
+      ]
+    },
+    {
+      "name": "Caserma dei pompieri",
+      "roles": [
+        "Pompiere",
+        "Operatrice delle chiamate",
+        "Caposquadra",
+        "Autista dell’autopompa",
+        "Allievo",
+        "Meccanico",
+        "Ufficiale di turno",
+        "Istruttore"
+      ]
+    },
+    {
+      "name": "Metropolitana",
+      "roles": [
+        "Macchinista",
+        "Passeggero",
+        "Controllore",
+        "Musicista di strada",
+        "Addetto alla scala mobile",
+        "Poliziotto",
+        "Turista con la mappa",
+        "Passeggero con la valigia"
+      ]
+    },
+    {
+      "name": "Fioraio",
+      "roles": [
+        "Fiorista",
+        "Cliente",
+        "Fattorino",
+        "Decoratrice di eventi",
+        "Cassiera",
+        "Uomo che sceglie un mazzo",
+        "Grossista",
+        "Addetto alle pulizie"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "id": "halloween",
+  "title": "Halloween",
+  "locations": [
+    {
+      "name": "Casa degli orrori",
+      "roles": [
+        "Attore fantasma",
+        "Bigliettaia",
+        "Visitatore",
+        "Truccatrice",
+        "Addetto alla sicurezza",
+        "Ragazzo alla sfida",
+        "Tecnico degli effetti",
+        "Mamma che tiene il bambino per mano"
+      ]
+    },
+    {
+      "name": "Campo di zucche",
+      "roles": [
+        "Contadino",
+        "Bambino con il carretto",
+        "Mamma con la macchina fotografica",
+        "Venditore di cioccolata calda",
+        "Trattorista",
+        "Animatore vestito da spaventapasseri",
+        "Blogger",
+        "Cliente in cerca della zucca più grande"
+      ]
+    },
+    {
+      "name": "Vecchio cimitero",
+      "roles": [
+        "Custode",
+        "Guida della visita notturna",
+        "Cacciatore di fantasmi",
+        "Turista con la torcia",
+        "Storica",
+        "Giardiniere",
+        "Ragazzo alla sfida",
+        "Attore travestito da fantasma"
+      ]
+    },
+    {
+      "name": "Castello di Dracula",
+      "roles": [
+        "Conte Dracula",
+        "Maggiordomo",
+        "Ospite a cena",
+        "Cameriera",
+        "Cocchiere",
+        "Cacciatrice di vampiri",
+        "Viaggiatore smarrito",
+        "Cronista del castello"
+      ]
+    },
+    {
+      "name": "Laboratorio dello scienziato pazzo",
+      "roles": [
+        "Scienziato pazzo",
+        "Assistente",
+        "Mostro sul tavolo",
+        "Elettricista",
+        "Addetta alle pulizie",
+        "Ispettore",
+        "Reporter",
+        "Volontario per l’esperimento"
+      ]
+    },
+    {
+      "name": "Negozio di costumi",
+      "roles": [
+        "Commessa",
+        "Cliente",
+        "Bambino in camerino",
+        "Truccatore",
+        "Cassiere",
+        "Mamma con tre bambini",
+        "Adolescente",
+        "Magazziniere"
+      ]
+    },
+    {
+      "name": "Via del dolcetto o scherzetto",
+      "roles": [
+        "Bambino vestito da fantasma",
+        "Bambina vestita da strega",
+        "Papà con la torcia",
+        "Vicina con la ciotola di caramelle",
+        "Ragazzo con la federa",
+        "Nonna sulla porta",
+        "Fratello maggiore accompagnatore",
+        "Vicino con la casa addobbata"
+      ]
+    },
+    {
+      "name": "Tomba egizia al museo",
+      "roles": [
+        "Archeologa",
+        "Attore vestito da mummia",
+        "Guida del museo",
+        "Turista",
+        "Guardia giurata",
+        "Restauratrice",
+        "Studente in gita",
+        "Fotografo"
+      ]
+    },
+    {
+      "name": "Villa abbandonata",
+      "roles": [
+        "Agente immobiliare",
+        "Cacciatore di fantasmi",
+        "Blogger",
+        "Elettricista",
+        "Custode",
+        "Ragazzo alla sfida",
+        "Attore fantasma",
+        "Vicina con una torta"
+      ]
+    },
+    {
+      "name": "Negozio di dolciumi",
+      "roles": [
+        "Pasticciere",
+        "Bambino con il salvadanaio",
+        "Negoziante",
+        "Assaggiatrice",
+        "Fattorino",
+        "Mamma con la lista",
+        "Dentista che compra caramelle",
+        "Vetrinista"
+      ]
+    },
+    {
+      "name": "Salotto della cartomante",
+      "roles": [
+        "Cartomante",
+        "Cliente",
+        "Scettico",
+        "Apprendista",
+        "Fotografo",
+        "Vicina curiosa",
+        "Smascheratore di trucchi",
+        "Giovane medium"
+      ]
+    },
+    {
+      "name": "Serata film horror",
+      "roles": [
+        "Spettatore sotto la coperta",
+        "Maschera",
+        "Venditore di popcorn",
+        "Proiezionista",
+        "Coppia a un appuntamento",
+        "Spettatore addormentato",
+        "Critico cinematografico",
+        "Ragazza al telefono"
+      ]
+    },
+    {
+      "name": "Museo delle cere",
+      "roles": [
+        "Guardiano notturno",
+        "Attore immobile come una statua",
+        "Scultrice",
+        "Turista",
+        "Bambino",
+        "Restauratore",
+        "Guida",
+        "Fotografo"
+      ]
+    },
+    {
+      "name": "Giro infestato sul carro di fieno",
+      "roles": [
+        "Trattorista",
+        "Passeggera",
+        "Attore spaventapasseri",
+        "Addetto ai biglietti",
+        "Bambino con la coperta",
+        "Ragazza che urla per gioco",
+        "Proprietario della fattoria",
+        "Fotografo"
+      ]
+    },
+    {
+      "name": "Festa di Halloween",
+      "roles": [
+        "Padrone di casa",
+        "Ospite vestito da scheletro",
+        "Ospite vestita da zucca",
+        "DJ",
+        "Bambino con il secchiello",
+        "Ospite che pesca le mele",
+        "Fotografa",
+        "Vicino che si lamenta del rumore"
+      ]
+    },
+    {
+      "name": "Casa della strega",
+      "roles": [
+        "Strega",
+        "Apprendista della strega",
+        "Bambino smarrito",
+        "Fattorino",
+        "Vicina con una torta",
+        "Raccoglitore di erbe",
+        "Ospite per il tè",
+        "Riparatore di scope"
+      ]
+    },
+    {
+      "name": "Casetta di marzapane",
+      "roles": [
+        "Strega",
+        "Hansel",
+        "Gretel",
+        "Escursionista smarrito",
+        "Boscaiolo",
+        "Fattorino di dolci",
+        "Bambino che sgranocchia il muro",
+        "Pasticciera di marzapane"
+      ]
+    },
+    {
+      "name": "Nave fantasma",
+      "roles": [
+        "Capitano fantasma",
+        "Mozzo",
+        "Nostromo",
+        "Cacciatrice di tesori",
+        "Pescatore smarrito",
+        "Navigatore con la mappa",
+        "Cuoco di bordo",
+        "Prigioniero nella stiva"
+      ]
+    },
+    {
+      "name": "Luna park abbandonato",
+      "roles": [
+        "Guardiano",
+        "Blogger",
+        "Ragazzo alla sfida",
+        "Meccanico della ruota panoramica",
+        "Ex bigliettaia",
+        "Fotografo",
+        "Turista smarrito",
+        "Attore clown"
+      ]
+    },
+    {
+      "name": "Soffitta della vecchia casa",
+      "roles": [
+        "Nonna con un baule",
+        "Nipote con la torcia",
+        "Elettricista",
+        "Antiquario",
+        "Mamma con gli scatoloni",
+        "Bambina nel vestito della nonna",
+        "Nonno con l’album di foto",
+        "Conciatetti"
+      ]
+    }
+  ]
+}

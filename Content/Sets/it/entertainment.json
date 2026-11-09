@@ -1,0 +1,188 @@
+{
+  "id": "entertainment",
+  "title": "Divertimenti",
+  "locations": [
+    {
+      "name": "Discoteca",
+      "roles": [
+        "DJ",
+        "Cameriere",
+        "Ballerina",
+        "Buttafuori",
+        "Ospite VIP",
+        "Promoter",
+        "Cameriera",
+        "Fotografo"
+      ]
+    },
+    {
+      "name": "Teatro",
+      "roles": [
+        "Attore",
+        "Maschera",
+        "Spettatore in prima fila",
+        "Suggeritore",
+        "Truccatrice",
+        "Direttore d’orchestra",
+        "Addetto al guardaroba",
+        "Tecnico delle luci"
+      ]
+    },
+    {
+      "name": "Concerto",
+      "roles": [
+        "Musicista",
+        "Fan in prima fila",
+        "Fonico",
+        "Sicurezza del palco",
+        "Venditrice di magliette",
+        "Cameraman",
+        "Spettatore con il biglietto",
+        "Corista"
+      ]
+    },
+    {
+      "name": "Circo",
+      "roles": [
+        "Clown",
+        "Domatore",
+        "Acrobata",
+        "Genitore con un bambino",
+        "Maschera",
+        "Mago",
+        "Venditrice di zucchero filato",
+        "Giocoliere"
+      ]
+    },
+    {
+      "name": "Serata di cabaret",
+      "roles": [
+        "Comico",
+        "Presentatore",
+        "Spettatrice al tavolo",
+        "Hostess all’ingresso",
+        "Cameriere",
+        "Fonico",
+        "Gestore",
+        "Ospite in prima fila"
+      ]
+    },
+    {
+      "name": "Bowling",
+      "roles": [
+        "Giocatore",
+        "Addetto al noleggio scarpe",
+        "Cassiera",
+        "Gruppo di amici",
+        "Receptionist",
+        "Bambino in pista",
+        "Cameriere",
+        "Addetto alle pulizie"
+      ]
+    },
+    {
+      "name": "Karaoke",
+      "roles": [
+        "Ospite che canta",
+        "Presentatrice",
+        "Cassiere",
+        "Cameriere",
+        "Fonico",
+        "Gruppo sul divano",
+        "Receptionist",
+        "Ospite timido"
+      ]
+    },
+    {
+      "name": "Teatro dell’opera",
+      "roles": [
+        "Cantante lirica",
+        "Direttore d’orchestra",
+        "Ospite nel palco",
+        "Maschera",
+        "Addetta al guardaroba",
+        "Musicista dell’orchestra",
+        "Truccatore",
+        "Capo delle maschere"
+      ]
+    },
+    {
+      "name": "Pasticceria",
+      "roles": [
+        "Barista",
+        "Cameriere",
+        "Pasticcera",
+        "Cliente abituale",
+        "Aiuto cameriere",
+        "Cassiera",
+        "Cliente con il portatile",
+        "Gestore"
+      ]
+    },
+    {
+      "name": "Escape room",
+      "roles": [
+        "Attore nella stanza",
+        "Giocatrice",
+        "Operatore",
+        "Receptionist",
+        "Squadra di amici",
+        "Game master",
+        "Osservatore in regia",
+        "Principiante"
+      ]
+    },
+    {
+      "name": "Festival musicale",
+      "roles": [
+        "Musicista sul palco",
+        "Spettatrice con la coperta",
+        "Venditore di cibo di strada",
+        "Volontario",
+        "Fonico",
+        "Addetto alla sicurezza",
+        "Festaiolo con la bandiera",
+        "Fotografo"
+      ]
+    },
+    {
+      "name": "Serata danzante",
+      "roles": [
+        "DJ",
+        "Ospite che balla",
+        "Cameriera",
+        "Tecnico delle luci",
+        "Buttafuori",
+        "Promoter",
+        "Gruppo di amici",
+        "Ospite in pista"
+      ]
+    },
+    {
+      "name": "Cinema",
+      "roles": [
+        "Spettatore con i popcorn",
+        "Maschera",
+        "Cassiere",
+        "Proiezionista",
+        "Coppia a un appuntamento",
+        "Venditrice al banco",
+        "Addetto alle pulizie",
+        "Spettatore in ritardo"
+      ]
+    },
+    {
+      "name": "Spettacolo sul ghiaccio",
+      "roles": [
+        "Pattinatrice artistica",
+        "Spettatore",
+        "Presentatore",
+        "Tecnico delle luci",
+        "Costumista",
+        "Maschera",
+        "Fonico",
+        "Bambino tra il pubblico"
+      ]
+    }
+  ]
+}

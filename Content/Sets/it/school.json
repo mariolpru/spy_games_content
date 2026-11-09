@@ -1,0 +1,279 @@
+{
+  "id": "school",
+  "title": "Scuola",
+  "locations": [
+    {
+      "name": "Aula di fisica",
+      "roles": [
+        "Prof di fisica",
+        "Assistente di laboratorio",
+        "Alunno alla lavagna",
+        "Alunna con il dinamometro",
+        "Secchione della classe",
+        "Alunno di turno alle pulizie",
+        "Alunno con la lampadina bruciata",
+        "Alunno con il bigliettino"
+      ]
+    },
+    {
+      "name": "Mensa scolastica",
+      "roles": [
+        "Cuoco",
+        "Signora della mensa",
+        "Alunno di turno",
+        "Bambino con il vassoio",
+        "Prof di sorveglianza",
+        "Alunno di prima",
+        "Grande che salta la fila",
+        "Lavapiatti"
+      ]
+    },
+    {
+      "name": "Ora di educazione fisica",
+      "roles": [
+        "Prof di ginnastica",
+        "Bambino che sale la pertica",
+        "Alunno con il certificato medico",
+        "Capitano della squadra",
+        "Ragazza con il cerchio",
+        "Alunno senza la tuta",
+        "Chi arriva in ritardo",
+        "Bambino con il pallone"
+      ]
+    },
+    {
+      "name": "Ufficio del preside",
+      "roles": [
+        "Preside",
+        "Segretaria",
+        "Alunno convocato",
+        "Genitore",
+        "Vicepreside",
+        "Prof coordinatore",
+        "Ispettore scolastico",
+        "Alunna che riceve un premio"
+      ]
+    },
+    {
+      "name": "Aula di chimica",
+      "roles": [
+        "Prof di chimica",
+        "Assistente di laboratorio",
+        "Alunno sotto la cappa",
+        "Alunna con gli occhiali protettivi",
+        "Secchiona della classe",
+        "Alunno spaventato",
+        "Alunno di turno",
+        "Alunno che ha rotto una provetta"
+      ]
+    },
+    {
+      "name": "Biblioteca della scuola",
+      "roles": [
+        "Bibliotecaria",
+        "Alunno che ritira i libri",
+        "Lettore al tavolo",
+        "Alunno con un libro in ritardo",
+        "Alunna di prima",
+        "Aiuto bibliotecario",
+        "Prof di italiano",
+        "Alunno addormentato sul libro"
+      ]
+    },
+    {
+      "name": "Sala professori",
+      "roles": [
+        "Vicepreside",
+        "Prof di matematica",
+        "Prof di ginnastica",
+        "Coordinatrice di classe",
+        "Supplente al primo giorno",
+        "Psicologa scolastica",
+        "Bidello",
+        "Alunno chiamato a colloquio"
+      ]
+    },
+    {
+      "name": "Spogliatoio",
+      "roles": [
+        "Alunno",
+        "Alunno senza le scarpe da ginnastica",
+        "Alunno di turno",
+        "Prof sulla porta",
+        "Chi arriva in ritardo",
+        "Alunna al telefono",
+        "Proprietario del calzino perso",
+        "Capitana della squadra"
+      ]
+    },
+    {
+      "name": "Aula magna",
+      "roles": [
+        "Presentatrice",
+        "Alunno che si esibisce",
+        "Preside in prima fila",
+        "Tecnico del suono",
+        "Corista",
+        "Genitore con la telecamera",
+        "Alunno che dimentica la battuta",
+        "Bidello"
+      ]
+    },
+    {
+      "name": "Infermeria",
+      "roles": [
+        "Infermiera scolastica",
+        "Bambino con il ginocchio sbucciato",
+        "Chi finge di star male",
+        "Alunno di prima alla vaccinazione",
+        "Prof accompagnatore",
+        "Ragazza con il mal di testa",
+        "Medico",
+        "Bambino che ha paura delle punture"
+      ]
+    },
+    {
+      "name": "Laboratorio di tecnica",
+      "roles": [
+        "Prof di tecnologia",
+        "Alunno con il martello",
+        "Alunna con il disegno tecnico",
+        "Alunno con lo sgabello finito",
+        "Alunno che spazza la segatura",
+        "Principiante",
+        "Bidello",
+        "Alunno con una scheggia"
+      ]
+    },
+    {
+      "name": "Aula di informatica",
+      "roles": [
+        "Prof di informatica",
+        "Alunno che gioca di nascosto",
+        "Alunna con la chiavetta",
+        "Secchione della classe",
+        "Amministratore di sistema",
+        "Ragazza alla stampante",
+        "Alunno che ha dimenticato la password",
+        "Alunno di turno"
+      ]
+    },
+    {
+      "name": "Cortile della ricreazione",
+      "roles": [
+        "Bidello di sorveglianza",
+        "Giardiniere",
+        "Bambino sulla panchina",
+        "Alunno di prima con lo zaino",
+        "Genitore al cancello",
+        "Custode",
+        "Prof con il cronometro",
+        "Alunno che marina la lezione"
+      ]
+    },
+    {
+      "name": "Corridoio durante la ricreazione",
+      "roles": [
+        "Prof di turno",
+        "Bambino che corre",
+        "Prof con la bacchetta",
+        "Grande vicino alla finestra",
+        "Alunno di prima con la merenda",
+        "Bidella con lo straccio",
+        "Vicepreside",
+        "Alunno al telefono"
+      ]
+    },
+    {
+      "name": "Scuolabus",
+      "roles": [
+        "Autista",
+        "Bambino sull’ultimo sedile",
+        "Alunno di prima davanti",
+        "Bambino che salta la fermata",
+        "Accompagnatrice",
+        "Bambino con un plastico enorme",
+        "Bambino addormentato",
+        "Bambino che tiene il posto"
+      ]
+    },
+    {
+      "name": "Aula di musica",
+      "roles": [
+        "Prof di musica",
+        "Solista",
+        "Bambino con il flauto",
+        "Corista",
+        "Pianista accompagnatore",
+        "Bambino con il tamburello",
+        "Quello che stona",
+        "Ragazza con la chitarra"
+      ]
+    },
+    {
+      "name": "Doposcuola",
+      "roles": [
+        "Educatrice",
+        "Alunno di prima che fa i compiti",
+        "Bambino con le costruzioni",
+        "Mamma che viene a prendere il figlio",
+        "Bambino che aspetta il papà",
+        "Aiuto educatore",
+        "Baby sitter",
+        "Bambino che finisce la merenda"
+      ]
+    },
+    {
+      "name": "Aula di scienze",
+      "roles": [
+        "Prof di scienze",
+        "Bambino vicino allo scheletro",
+        "Ragazza con il microscopio",
+        "Alunno che annaffia le piante",
+        "Alunno con l’erbario",
+        "Secchiona della classe",
+        "Bambino che ha paura delle rane",
+        "Assistente di laboratorio"
+      ]
+    },
+    {
+      "name": "Campo sportivo della scuola",
+      "roles": [
+        "Prof di ginnastica",
+        "Corridore",
+        "Arbitro",
+        "Tifoso in tribuna",
+        "Alunno al test di resistenza",
+        "Alunna con il certificato medico",
+        "Allenatore",
+        "Soccorritore"
+      ]
+    },
+    {
+      "name": "Aula della punizione",
+      "roles": [
+        "Prof di sorveglianza",
+        "Alunno arrivato in ritardo",
+        "Alunno che ha risposto male",
+        "Alunna che fa i compiti",
+        "Alunno addormentato",
+        "Quello che passa i bigliettini",
+        "Bravo alunno capitato lì per sbaglio",
+        "Bidello"
+      ]
+    },
+    {
+      "name": "Classe di prima elementare",
+      "roles": [
+        "Maestra",
+        "Bambino con il libro di lettura",
+        "Bambino che ha dimenticato l’astuccio",
+        "Bambino che piange",
+        "Mamma dietro la porta",
+        "Bambina con le trecce",
+        "Bambino che mastica la gomma",
+        "Bambino in testa alla fila"
+      ]
+    }
+  ]
+}
