@@ -1,0 +1,227 @@
+{
+  "id": "university",
+  "title": "Université",
+  "locations": [
+    {
+      "name": "Amphi",
+      "roles": [
+        "Professeur",
+        "Étudiante au premier rang",
+        "Étudiant endormi au fond",
+        "Délégué avec la feuille d’émargement",
+        "Preneur de notes",
+        "Retardataire",
+        "Étudiant avec un ordinateur",
+        "Auditeur libre"
+      ]
+    },
+    {
+      "name": "Chambre de la cité U",
+      "roles": [
+        "Responsable d’étage",
+        "Primo-arrivant avec une valise",
+        "Colocataire",
+        "Étudiant avec une guitare",
+        "Agent d’accueil",
+        "Étudiante avec une casserole",
+        "Étudiant en échange",
+        "Celui qui cherche un fer à repasser"
+      ]
+    },
+    {
+      "name": "Resto U",
+      "roles": [
+        "Caissière",
+        "Étudiant avec son plateau",
+        "Professeur",
+        "Cuisinier",
+        "Étudiant qui compte sa monnaie",
+        "Étudiante avec une salade",
+        "Agent d’entretien",
+        "Celui qui double la file"
+      ]
+    },
+    {
+      "name": "Partiels",
+      "roles": [
+        "Professeure",
+        "Étudiant qui tire un sujet",
+        "Premier de la promo",
+        "Étudiante avec une antisèche",
+        "Celui qui révise devant la porte",
+        "Chargé de TD",
+        "Délégué",
+        "Étudiant avec les copies"
+      ]
+    },
+    {
+      "name": "Soutenance de licence",
+      "roles": [
+        "Candidate",
+        "Directeur de mémoire",
+        "Président du jury",
+        "Membre du jury",
+        "Secrétaire de séance",
+        "Camarade dans le public",
+        "Agente administrative",
+        "Parent au dernier rang"
+      ]
+    },
+    {
+      "name": "Bibliothèque universitaire",
+      "roles": [
+        "Bibliothécaire",
+        "Étudiante avec une pile de livres",
+        "Celui qui révise avant les partiels",
+        "Doctorant",
+        "Étudiant endormi sur la table",
+        "Lectrice avec un casque",
+        "Agent de sécurité",
+        "Celui qui cherche une prise"
+      ]
+    },
+    {
+      "name": "Laboratoire de recherche",
+      "roles": [
+        "Laborantine",
+        "Doctorant",
+        "Étudiante avec une éprouvette",
+        "Professeur",
+        "Étudiant en blouse",
+        "Celui qui a cassé l’appareil",
+        "Technicien",
+        "Stagiaire"
+      ]
+    },
+    {
+      "name": "Scolarité",
+      "roles": [
+        "Candidate",
+        "Agente de scolarité",
+        "Parent du candidat",
+        "Étudiant bénévole",
+        "Responsable des admissions",
+        "Candidat avec mention très bien",
+        "Candidate avec son dossier",
+        "Agent de sécurité"
+      ]
+    },
+    {
+      "name": "Bureau du doyen",
+      "roles": [
+        "Doyen",
+        "Secrétaire du doyen",
+        "Étudiant qui demande une attestation",
+        "Étudiante avec des rattrapages",
+        "Coordinateur de promo",
+        "Étudiante avec une demande",
+        "Vice-doyenne",
+        "Étudiant de retour après une année"
+      ]
+    },
+    {
+      "name": "Scène ouverte du campus",
+      "roles": [
+        "Présentatrice",
+        "Chanteur",
+        "Danseuse",
+        "Technicien du son",
+        "Membre du jury",
+        "Étudiant qui oublie les paroles",
+        "Photographe",
+        "Supporter de la filière"
+      ]
+    },
+    {
+      "name": "Rattrapages",
+      "roles": [
+        "Professeur",
+        "Étudiant recalé",
+        "Celui qui passe pour la troisième fois",
+        "Déléguée",
+        "Chargé de TD",
+        "Étudiant qui attend devant la porte",
+        "Secrétaire du département",
+        "Premier de la promo venu en soutien"
+      ]
+    },
+    {
+      "name": "Nuit avant l’examen",
+      "roles": [
+        "Étudiant avec un café",
+        "Étudiante avec ses notes",
+        "Celui qui ouvre le livre pour la première fois",
+        "Colocataire",
+        "Étudiant endormi sur son manuel",
+        "Celui qui regarde le cours enregistré",
+        "Celui qui appelle le meilleur de la promo",
+        "Celui qui repasse une chemise"
+      ]
+    },
+    {
+      "name": "Cérémonie de remise des diplômes",
+      "roles": [
+        "Diplômée en toge",
+        "Président de l’université",
+        "Doyen",
+        "Parent avec des fleurs",
+        "Photographe",
+        "Diplômé avec les félicitations",
+        "Camarade de promo",
+        "Musicien de la fanfare"
+      ]
+    },
+    {
+      "name": "Secrétariat du département",
+      "roles": [
+        "Directeur du département",
+        "Laborantin",
+        "Doctorante",
+        "Maître de conférences",
+        "Secrétaire",
+        "Étudiant avec un devoir",
+        "Professeure",
+        "Coordinatrice des études"
+      ]
+    },
+    {
+      "name": "Cours de huit heures",
+      "roles": [
+        "Professeur",
+        "Retardataire",
+        "Étudiante avec un café",
+        "Étudiant endormi",
+        "Délégué",
+        "Étudiant avec un ordinateur",
+        "Celui qui finit son petit-déjeuner",
+        "Celui qui efface le tableau"
+      ]
+    },
+    {
+      "name": "Cuisine de la cité U",
+      "roles": [
+        "Étudiant avec des pâtes",
+        "Étudiante avec une bouilloire",
+        "Voisin qui emprunte du sel",
+        "Responsable d’étage en inspection",
+        "Celui qui a oublié sa casserole",
+        "Étudiant en échange avec un plat de chez lui",
+        "Étudiant de corvée",
+        "Celui qui fait la vaisselle"
+      ]
+    },
+    {
+      "name": "Reprographie",
+      "roles": [
+        "Employée de la reprographie",
+        "Étudiant avec son mémoire",
+        "Étudiant avec un bourrage papier",
+        "Professeur avec des polycopiés",
+        "Étudiante avec une clé USB",
+        "Étudiant sans monnaie",
+        "Primo-arrivant avec son emploi du temps",
+        "Doctorant avec sa thèse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "id": "france",
+  "title": "La France du quotidien",
+  "locations": [
+    {
+      "name": "Boulangerie du matin",
+      "roles": [
+        "Boulangère",
+        "Client avec sa baguette",
+        "Vendeuse",
+        "Retraité avec son journal",
+        "Livreur",
+        "Apprenti au fournil",
+        "Enfant avec un pain au chocolat",
+        "Habitué"
+      ]
+    },
+    {
+      "name": "Marché du dimanche",
+      "roles": [
+        "Maraîcher",
+        "Fromager",
+        "Cliente avec son panier",
+        "Poissonnier",
+        "Rôtisseur",
+        "Enfant qui goûte",
+        "Bonimenteur",
+        "Fleuriste"
+      ]
+    },
+    {
+      "name": "Terrasse de café",
+      "roles": [
+        "Serveur",
+        "Habitué au comptoir",
+        "Couple qui déjeune",
+        "Touriste perdu",
+        "Livreur",
+        "Patron",
+        "Enfant avec un diabolo",
+        "Serveuse qui débarrasse"
+      ]
+    },
+    {
+      "name": "Pharmacie de garde",
+      "roles": [
+        "Pharmacienne",
+        "Client avec une ordonnance",
+        "Préparateur",
+        "Parent avec un bébé",
+        "Livreur",
+        "Retraité",
+        "Caissière",
+        "Interne de garde"
+      ]
+    },
+    {
+      "name": "Cantine scolaire",
+      "roles": [
+        "Cuisinier",
+        "Dame de cantine",
+        "Élève avec son plateau",
+        "Surveillant",
+        "Élève de CP",
+        "Grand qui double la file",
+        "Plongeur",
+        "Infirmière scolaire"
+      ]
+    },
+    {
+      "name": "Mairie du village",
+      "roles": [
+        "Maire",
+        "Secrétaire de mairie",
+        "Couple qui se marie",
+        "Témoin",
+        "Agent technique",
+        "Habitant venu pour un papier",
+        "Adjointe au maire",
+        "Photographe"
+      ]
+    },
+    {
+      "name": "Boulodrome",
+      "roles": [
+        "Joueur de pétanque",
+        "Arbitre improvisé",
+        "Spectateur sur le banc",
+        "Débutante",
+        "Habitué",
+        "Enfant qui compte les points",
+        "Gérant du club",
+        "Voisin venu discuter"
+      ]
+    },
+    {
+      "name": "Vide-grenier",
+      "roles": [
+        "Vendeur à sa table",
+        "Chineuse",
+        "Enfant avec une caisse de jouets",
+        "Brocanteur",
+        "Musicien",
+        "Acheteur qui marchande",
+        "Retraitée avec sa vaisselle",
+        "Vendeur de crêpes"
+      ]
+    },
+    {
+      "name": "Fête de la musique",
+      "roles": [
+        "Musicien dans la rue",
+        "Voisin à la fenêtre",
+        "Badaud",
+        "Organisateur",
+        "Technicien du son",
+        "Enfant sur les épaules",
+        "Agent de sécurité",
+        "Vendeur de boissons"
+      ]
+    },
+    {
+      "name": "TGV un vendredi soir",
+      "roles": [
+        "Contrôleur",
+        "Passager debout",
+        "Étudiant qui rentre",
+        "Famille avec des valises",
+        "Bébé qui pleure",
+        "Chef de bord",
+        "Voisin de siège bavard",
+        "Agent de propreté"
+      ]
+    },
+    {
+      "name": "Piscine municipale",
+      "roles": [
+        "Maître-nageur",
+        "Enfant au plongeoir",
+        "Nageur du matin",
+        "Retraité qui fait ses longueurs",
+        "Caissière",
+        "Parent avec des brassards",
+        "Agent d’entretien",
+        "Ado avec son goûter"
+      ]
+    },
+    {
+      "name": "Kiosque à journaux",
+      "roles": [
+        "Kiosquier",
+        "Client avec son journal",
+        "Enfant avec une BD",
+        "Livreur",
+        "Retraitée",
+        "Touriste",
+        "Passant pressé",
+        "Habitué"
+      ]
+    },
+    {
+      "name": "Gîte à la campagne",
+      "roles": [
+        "Propriétaire",
+        "Vacancier",
+        "Enfant dans le hamac",
+        "Jardinier",
+        "Voisin par-dessus la haie",
+        "Cuisinier au barbecue",
+        "Agent d’entretien",
+        "Randonneur de passage"
+      ]
+    },
+    {
+      "name": "Déjeuner du dimanche chez mamie",
+      "roles": [
+        "Mamie aux fourneaux",
+        "Petit-fils affamé",
+        "Oncle qui raconte ses histoires",
+        "Mère qui met la table",
+        "Papi dans son fauteuil",
+        "Voisine qui entre sans frapper",
+        "Petit cousin",
+        "Grande sœur qui fait la vaisselle"
+      ]
+    },
+    {
+      "name": "Verger en automne",
+      "roles": [
+        "Arboriculteur",
+        "Cueilleur saisonnier",
+        "Enfant avec un panier",
+        "Conducteur du tracteur",
+        "Cuisinière de l’équipe",
+        "Vendeuse au bord de la route",
+        "Apprenti",
+        "Voisin venu aider"
+      ]
+    },
+    {
+      "name": "Stade un samedi",
+      "roles": [
+        "Joueur du club local",
+        "Gardien de but",
+        "Arbitre",
+        "Supporter avec son écharpe",
+        "Entraîneur",
+        "Parent au bord du terrain",
+        "Vendeur de la buvette",
+        "Intendant"
+      ]
+    },
+    {
+      "name": "Médiathèque",
+      "roles": [
+        "Bibliothécaire",
+        "Étudiant qui révise",
+        "Enfant à l’heure du conte",
+        "Retraité avec la presse",
+        "Agent d’accueil",
+        "Lecteur avec un casque",
+        "Agent d’entretien",
+        "Animatrice"
+      ]
+    },
+    {
+      "name": "Chasse aux œufs de Pâques",
+      "roles": [
+        "Enfant avec son panier",
+        "Parent qui cache les œufs",
+        "Grand-mère",
+        "Organisateur",
+        "Adulte déguisé en lapin",
+        "Photographe",
+        "Enfant qui pleure",
+        "Voisine"
+      ]
+    },
+    {
+      "name": "Péage de l’autoroute en juillet",
+      "roles": [
+        "Agent du péage",
+        "Famille en route pour les vacances",
+        "Routier",
+        "Motard",
+        "Dépanneur",
+        "Enfant à l’arrière",
+        "Vendeuse de la station",
+        "Agent de sécurité"
+      ]
+    },
+    {
+      "name": "Boucherie du quartier",
+      "roles": [
+        "Boucher",
+        "Cliente avec son numéro",
+        "Apprenti",
+        "Livreur",
+        "Habitué",
+        "Enfant",
+        "Caissière",
+        "Charcutière"
+      ]
+    }
+  ]
+}

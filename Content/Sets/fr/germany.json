@@ -1,0 +1,136 @@
+{
+  "id": "germany",
+  "title": "Allemagne",
+  "locations": [
+    {
+      "name": "Oktoberfest",
+      "roles": [
+        "Serveuse avec des bretzels",
+        "Boulanger",
+        "Invitée en dirndl",
+        "Musicien de la fanfare",
+        "Touriste",
+        "Cuisinier",
+        "Habitué",
+        "Agent de sécurité"
+      ]
+    },
+    {
+      "name": "Mur de Berlin",
+      "roles": [
+        "Artiste de rue",
+        "Touriste",
+        "Guide",
+        "Photographe",
+        "Historien",
+        "Cycliste",
+        "Vendeuse",
+        "Musicien"
+      ]
+    },
+    {
+      "name": "Autoroute sans limite",
+      "roles": [
+        "Conducteur d’une sportive",
+        "Routier",
+        "Mécanicien",
+        "Policier",
+        "Touriste",
+        "Pompiste",
+        "Passagère",
+        "Dépanneur"
+      ]
+    },
+    {
+      "name": "Usine automobile",
+      "roles": [
+        "Ingénieur",
+        "Ouvrier de la chaîne",
+        "Designer",
+        "Visiteur de l’usine",
+        "Guide",
+        "Pilote d’essai",
+        "Chef d’équipe",
+        "Mécanicienne"
+      ]
+    },
+    {
+      "name": "Marché de Noël",
+      "roles": [
+        "Vendeur de chocolat chaud",
+        "Touriste",
+        "Artisan",
+        "Musicienne",
+        "Enfant",
+        "Vendeur de jouets",
+        "Boulanger",
+        "Père Noël"
+      ]
+    },
+    {
+      "name": "Club techno de Berlin",
+      "roles": [
+        "DJ",
+        "Danseur",
+        "Videur",
+        "Serveuse",
+        "Invité",
+        "Chargé de relations",
+        "Technicien lumière",
+        "Habituée"
+      ]
+    },
+    {
+      "name": "Village bavarois",
+      "roles": [
+        "Agriculteur",
+        "Berger",
+        "Fromager",
+        "Touriste",
+        "Musicien",
+        "Hôtesse en dirndl",
+        "Sculpteur sur bois",
+        "Boulangère"
+      ]
+    },
+    {
+      "name": "Bundestag",
+      "roles": [
+        "Députée",
+        "Touriste",
+        "Guide",
+        "Agent de sécurité",
+        "Journaliste",
+        "Fonctionnaire",
+        "Photographe",
+        "Interprète"
+      ]
+    },
+    {
+      "name": "Stand de saucisses",
+      "roles": [
+        "Vendeur",
+        "Client",
+        "Touriste",
+        "Cuisinier",
+        "Caissière",
+        "Boucher",
+        "Habitué",
+        "Livreur"
+      ]
+    },
+    {
+      "name": "Nürburgring",
+      "roles": [
+        "Pilote",
+        "Mécanicien",
+        "Spectateur",
+        "Commentateur",
+        "Commissaire de piste",
+        "Photographe",
+        "Ingénieure",
+        "Supporter"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "id": "school-year",
+  "title": "Année scolaire",
+  "locations": [
+    {
+      "name": "Rentrée des classes",
+      "roles": [
+        "Élève de CP avec un cartable neuf",
+        "Grand qui accompagne un petit",
+        "Directeur qui fait un discours",
+        "Parent avec une caméra",
+        "Professeure avec la liste de sa classe",
+        "Présentateur",
+        "Enfant avec des fleurs",
+        "Agent à la grille"
+      ]
+    },
+    {
+      "name": "Réunion parents-professeurs",
+      "roles": [
+        "Professeur principal",
+        "Mère déléguée des parents",
+        "Père venu pour la première fois",
+        "Trésorier de la classe",
+        "Parent en retard",
+        "Mamie venue à la place des parents",
+        "Conseiller principal d’éducation",
+        "Mère avec beaucoup de questions"
+      ]
+    },
+    {
+      "name": "Fête de la science",
+      "roles": [
+        "Enfant avec un volcan",
+        "Membre du jury",
+        "Professeur de permanence",
+        "Gagnant de l’an dernier",
+        "Père qui a monté la maquette",
+        "Première de la classe",
+        "Enfant avec sa maquette cassée",
+        "Enfant qui explique au jury"
+      ]
+    },
+    {
+      "name": "Spectacle de Noël",
+      "roles": [
+        "Enfant en berger",
+        "Fille qui chante",
+        "Professeure au piano",
+        "Père qui filme",
+        "Présentateur",
+        "Enfant qui récite un poème",
+        "Enfant en flocon de neige",
+        "Père Noël"
+      ]
+    },
+    {
+      "name": "Sortie au musée",
+      "roles": [
+        "Guide du musée",
+        "Professeur principal",
+        "Enfant resté derrière",
+        "Élève au téléphone",
+        "Parent accompagnateur",
+        "Gardien de salle",
+        "Première de la classe avec son carnet",
+        "Enfant qui touche les vitrines"
+      ]
+    },
+    {
+      "name": "Classe verte",
+      "roles": [
+        "Professeure principale",
+        "Enfant avec une guitare",
+        "Enfant qui allume le feu de camp",
+        "Parent accompagnateur",
+        "Fille avec un sac trop lourd",
+        "Enfant de corvée de cuisine",
+        "Enfant qui a perdu une chaussure",
+        "Animateur"
+      ]
+    },
+    {
+      "name": "Remise des diplômes",
+      "roles": [
+        "Lauréate",
+        "Élève qui fait le discours",
+        "Directeur qui remet les diplômes",
+        "Professeure émue",
+        "Parent avec un bouquet",
+        "Photographe",
+        "Petit frère",
+        "Élève qui trébuche sur scène"
+      ]
+    },
+    {
+      "name": "Bal de fin d’année",
+      "roles": [
+        "Élève en costume emprunté",
+        "Élève en robe neuve",
+        "DJ",
+        "Professeur accompagnateur",
+        "Photographe",
+        "Élève venu seul",
+        "Serveur",
+        "Délégué de classe"
+      ]
+    },
+    {
+      "name": "Carnaval de l’école",
+      "roles": [
+        "Enfant en super-héros",
+        "Fille en sorcière",
+        "Professeur déguisé",
+        "DJ",
+        "Père avec des confettis",
+        "Enfant sans déguisement",
+        "Photographe",
+        "Membre du jury des costumes"
+      ]
+    },
+    {
+      "name": "Jardin de l’école",
+      "roles": [
+        "Agent technique",
+        "Enfant avec un râteau",
+        "Enfant caché derrière un arbre",
+        "Professeur principal",
+        "Directrice avec une pelle",
+        "Fille avec un sac de feuilles",
+        "Jardinier",
+        "Enfant avec une brouette"
+      ]
+    },
+    {
+      "name": "Kermesse",
+      "roles": [
+        "Enfant derrière le stand",
+        "Parent qui achète",
+        "Mère avec des gâteaux maison",
+        "Fille avec des bricolages",
+        "Caissier",
+        "Professeure organisatrice",
+        "Élève de CP avec des pièces",
+        "Directeur"
+      ]
+    },
+    {
+      "name": "Exercice d’évacuation",
+      "roles": [
+        "Pompier",
+        "Directeur avec un mégaphone",
+        "Professeure avec la liste",
+        "Enfant sans manteau",
+        "Enfant qui a oublié son cartable",
+        "Agent technique",
+        "Infirmière scolaire",
+        "Enfant qui n’a pas entendu l’alarme"
+      ]
+    },
+    {
+      "name": "Photo de classe",
+      "roles": [
+        "Photographe",
+        "Enfant du premier rang",
+        "Fille avec une nouvelle coiffure",
+        "Professeur principal",
+        "Enfant qui a cligné des yeux",
+        "Retardataire",
+        "Enfant qui fait des grimaces",
+        "Assistante du photographe"
+      ]
+    },
+    {
+      "name": "Épreuves du bac",
+      "roles": [
+        "Candidat",
+        "Surveillante",
+        "Responsable de la salle",
+        "Élève avec une calculatrice",
+        "Élève qui a oublié sa convocation",
+        "Agent à l’entrée",
+        "Parent qui attend dehors",
+        "Première de la classe"
+      ]
+    },
+    {
+      "name": "Cross de l’école",
+      "roles": [
+        "Professeur d’EPS",
+        "Coureuse",
+        "Arbitre",
+        "Supporter au visage peint",
+        "Entraîneur",
+        "Mascotte de l’école",
+        "Vendeur de sandwichs",
+        "Gagnante de la course"
+      ]
+    },
+    {
+      "name": "Pièce de théâtre de l’école",
+      "roles": [
+        "Professeur de théâtre",
+        "Acteur principal",
+        "Souffleur",
+        "Enfant en arbre",
+        "Technicien lumière",
+        "Costumière",
+        "Parent dans le public",
+        "Acteur qui oublie son texte"
+      ]
+    },
+    {
+      "name": "Concours de lecture",
+      "roles": [
+        "Élève qui lit",
+        "Membre du jury",
+        "Professeure de français",
+        "Auteur invité",
+        "Documentaliste",
+        "Enfant avec un marque-page fait main",
+        "Présentateur",
+        "Parent dans le public"
+      ]
+    }
+  ]
+}

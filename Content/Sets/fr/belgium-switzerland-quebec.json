@@ -1,0 +1,266 @@
+{
+  "id": "belgium-switzerland-quebec",
+  "title": "Belgique, Suisse et Québec",
+  "locations": [
+    {
+      "name": "Friterie belge",
+      "roles": [
+        "Friturier",
+        "Client avec son cornet",
+        "Habitué",
+        "Livreur",
+        "Enfant",
+        "Étudiant à la sortie des cours",
+        "Caissière",
+        "Voisin du quartier"
+      ]
+    },
+    {
+      "name": "Carnaval de Binche",
+      "roles": [
+        "Gille avec son chapeau de plumes",
+        "Tambour",
+        "Spectatrice au balcon",
+        "Enfant qui ramasse les oranges",
+        "Organisateur",
+        "Policier qui bloque la rue",
+        "Photographe",
+        "Couturière des costumes"
+      ]
+    },
+    {
+      "name": "Grand-Place de Bruxelles",
+      "roles": [
+        "Guide",
+        "Touriste",
+        "Vendeur de gaufres",
+        "Dessinateur de BD",
+        "Fonctionnaire européen",
+        "Musicien de rue",
+        "Fleuriste",
+        "Photographe"
+      ]
+    },
+    {
+      "name": "Train panoramique des Alpes",
+      "roles": [
+        "Contrôleur",
+        "Passagère à la fenêtre",
+        "Randonneur",
+        "Chef de bord",
+        "Touriste avec des jumelles",
+        "Enfant qui compte les tunnels",
+        "Mécanicien",
+        "Vendeur du wagon-bar"
+      ]
+    },
+    {
+      "name": "Fromagerie suisse",
+      "roles": [
+        "Fromager",
+        "Apprenti",
+        "Visiteuse de la fabrication",
+        "Éleveur laitier",
+        "Vendeuse de la boutique",
+        "Dégustateur",
+        "Livreur",
+        "Contrôleuse qualité"
+      ]
+    },
+    {
+      "name": "Cabane à sucre québécoise",
+      "roles": [
+        "Acériculteur",
+        "Enfant avec sa tire sur la neige",
+        "Cuisinière",
+        "Violoneux",
+        "Famille à la longue table",
+        "Serveur",
+        "Guide",
+        "Voisin venu aider"
+      ]
+    },
+    {
+      "name": "Dépanneur du coin",
+      "roles": [
+        "Propriétaire du dépanneur",
+        "Client en fin de soirée",
+        "Adolescent avec des chips",
+        "Livreur",
+        "Habituée",
+        "Enfant avec une gomme",
+        "Caissier",
+        "Voisin"
+      ]
+    },
+    {
+      "name": "Chalet dans les Alpes",
+      "roles": [
+        "Gardien du refuge",
+        "Randonneuse",
+        "Guide de montagne",
+        "Enfant avec un chocolat chaud",
+        "Cuisinier",
+        "Skieur de randonnée",
+        "Secouriste",
+        "Berger de passage"
+      ]
+    },
+    {
+      "name": "Horlogerie à Genève",
+      "roles": [
+        "Horloger",
+        "Apprentie",
+        "Cliente avec une montre de famille",
+        "Graveur",
+        "Vendeuse",
+        "Touriste",
+        "Collectionneur",
+        "Cheffe d’atelier"
+      ]
+    },
+    {
+      "name": "Marché de Namur",
+      "roles": [
+        "Maraîcher",
+        "Cliente avec son panier",
+        "Fromagère",
+        "Boucher",
+        "Enfant qui goûte",
+        "Musicien de rue",
+        "Fleuriste",
+        "Bonimenteur"
+      ]
+    },
+    {
+      "name": "Tempête de neige à Montréal",
+      "roles": [
+        "Déneigeur",
+        "Voisin avec sa pelle",
+        "Enfant en traîneau",
+        "Facteur",
+        "Conductrice bloquée",
+        "Commerçant devant sa porte",
+        "Joggeur têtu",
+        "Retraitée à la fenêtre"
+      ]
+    },
+    {
+      "name": "Festival de jazz de Montréal",
+      "roles": [
+        "Musicien sur scène",
+        "Spectatrice debout",
+        "Technicien du son",
+        "Bénévole",
+        "Vendeur de poutine",
+        "Photographe",
+        "Enfant sur les épaules",
+        "Agent de sécurité"
+      ]
+    },
+    {
+      "name": "Matterhorn — camp de base",
+      "roles": [
+        "Guide de montagne",
+        "Alpiniste",
+        "Gardien de la cabane",
+        "Secouriste",
+        "Photographe",
+        "Touriste avec des jumelles",
+        "Météorologue",
+        "Porteur"
+      ]
+    },
+    {
+      "name": "Atomium",
+      "roles": [
+        "Guide",
+        "Touriste",
+        "Agent d’accueil",
+        "Photographe",
+        "Écolier en sortie scolaire",
+        "Technicien des ascenseurs",
+        "Vendeuse de souvenirs",
+        "Restaurateur"
+      ]
+    },
+    {
+      "name": "Alpage en été",
+      "roles": [
+        "Berger",
+        "Fromager d’alpage",
+        "Randonneuse",
+        "Enfant qui porte un seau",
+        "Vétérinaire",
+        "Touriste",
+        "Photographe",
+        "Voisin de l’alpage"
+      ]
+    },
+    {
+      "name": "Épicerie de village en Wallonie",
+      "roles": [
+        "Épicière",
+        "Client venu pour le pain",
+        "Retraité qui discute",
+        "Livreur",
+        "Enfant avec sa liste",
+        "Facteur",
+        "Apprentie",
+        "Voisine"
+      ]
+    },
+    {
+      "name": "Érablière au printemps",
+      "roles": [
+        "Acériculteur",
+        "Ouvrier des entailles",
+        "Visiteuse",
+        "Conducteur du tracteur",
+        "Cuisinière",
+        "Enfant",
+        "Guide",
+        "Voisin"
+      ]
+    },
+    {
+      "name": "Vieux-Québec",
+      "roles": [
+        "Guide en costume",
+        "Touriste",
+        "Calèche et son cocher",
+        "Artiste de rue",
+        "Vendeuse de souvenirs",
+        "Photographe",
+        "Serveur de terrasse",
+        "Étudiant"
+      ]
+    },
+    {
+      "name": "Lac Léman",
+      "roles": [
+        "Capitaine du bateau",
+        "Promeneur sur les quais",
+        "Nageuse",
+        "Pêcheur",
+        "Glacier",
+        "Cycliste",
+        "Photographe",
+        "Maître-nageur"
+      ]
+    },
+    {
+      "name": "Chocolaterie belge",
+      "roles": [
+        "Chocolatier",
+        "Apprentie",
+        "Cliente",
+        "Dégustateur",
+        "Vendeuse",
+        "Touriste",
+        "Livreur",
+        "Décorateur de vitrine"
+      ]
+    }
+  ]
+}

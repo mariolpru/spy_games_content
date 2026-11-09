@@ -1,0 +1,227 @@
+{
+  "id": "leisure",
+  "title": "Temps libre",
+  "locations": [
+    {
+      "name": "Parc de la ville",
+      "roles": [
+        "Joggeur",
+        "Cycliste",
+        "Mère avec une poussette",
+        "Glacier",
+        "Musicien de rue",
+        "Retraité sur un banc",
+        "Promeneur de chiens",
+        "Loueur de barques"
+      ]
+    },
+    {
+      "name": "Café des jeux de société",
+      "roles": [
+        "Joueur à la table",
+        "Hôte",
+        "Barista",
+        "Indépendant avec son ordinateur",
+        "Bande d’amis",
+        "Novice",
+        "Agent d’entretien",
+        "Explicateur de règles"
+      ]
+    },
+    {
+      "name": "Salle de billard",
+      "roles": [
+        "Joueur",
+        "Marqueur de points",
+        "Caissière",
+        "Spectateur",
+        "Novice",
+        "Habitué",
+        "Serveur",
+        "Gérant"
+      ]
+    },
+    {
+      "name": "Partie de pêche",
+      "roles": [
+        "Pêcheur",
+        "Voisin sur la berge",
+        "Campeur avec sa tente",
+        "Enfant avec une canne",
+        "Vendeur d’appâts",
+        "Batelier",
+        "Cueilleuse de champignons",
+        "Vacancier"
+      ]
+    },
+    {
+      "name": "Sauna",
+      "roles": [
+        "Client du sauna",
+        "Maître des lieux",
+        "Amateur de vapeur",
+        "Client en salle de repos",
+        "Réceptionniste",
+        "Bande d’amis",
+        "Masseur",
+        "Agent d’entretien"
+      ]
+    },
+    {
+      "name": "Atelier de poterie",
+      "roles": [
+        "Potière",
+        "Apprenti",
+        "Animateur",
+        "Novice",
+        "Réceptionniste",
+        "Spectateur de l’atelier",
+        "Agent d’entretien",
+        "Émailleur"
+      ]
+    },
+    {
+      "name": "Maison de campagne",
+      "roles": [
+        "Hôte au barbecue",
+        "Invité",
+        "Enfant dans le hamac",
+        "Jardinière",
+        "Voisin par-dessus la haie",
+        "Cuisinier du barbecue",
+        "Agent d’entretien de la piscine",
+        "Vacancier"
+      ]
+    },
+    {
+      "name": "Pique-nique",
+      "roles": [
+        "Groupe sur la couverture",
+        "Cuisinier du barbecue",
+        "Enfant avec un ballon",
+        "Guitariste",
+        "Dormeur dans le hamac",
+        "Cycliste",
+        "Promeneuse de chiens",
+        "Glacier"
+      ]
+    },
+    {
+      "name": "Club de lecture",
+      "roles": [
+        "Hôtesse",
+        "Membre avec son livre",
+        "Novice",
+        "Barista",
+        "Auditeur",
+        "Auteur invité",
+        "Organisateur",
+        "Celui qui conteste toujours"
+      ]
+    },
+    {
+      "name": "Studio de yoga",
+      "roles": [
+        "Professeure",
+        "Novice",
+        "Pratiquant régulier",
+        "Réceptionniste",
+        "Invitée au cours d’essai",
+        "Amateur de méditation",
+        "Agent d’entretien",
+        "Retardataire"
+      ]
+    },
+    {
+      "name": "Jardin botanique",
+      "roles": [
+        "Jardinier",
+        "Guide",
+        "Visiteur avec un appareil photo",
+        "Enfant",
+        "Botaniste",
+        "Caissier",
+        "Peintre avec un chevalet",
+        "Couple amoureux"
+      ]
+    },
+    {
+      "name": "Planétarium",
+      "roles": [
+        "Conférencier",
+        "Spectatrice",
+        "Écolier en sortie scolaire",
+        "Opérateur de la projection",
+        "Caissière",
+        "Astronome consultant",
+        "Enfant avec son parent",
+        "Agent d’entretien"
+      ]
+    },
+    {
+      "name": "Club d’échecs",
+      "roles": [
+        "Joueur d’échecs",
+        "Entraîneur",
+        "Débutante",
+        "Spectateur",
+        "Arbitre",
+        "Grand maître",
+        "Enfant en cours",
+        "Habitué"
+      ]
+    },
+    {
+      "name": "Atelier de peinture",
+      "roles": [
+        "Peintre",
+        "Animatrice",
+        "Modèle",
+        "Débutant",
+        "Spectateur",
+        "Réceptionniste",
+        "Agent d’entretien",
+        "Amateur d’aquarelle"
+      ]
+    },
+    {
+      "name": "Parcours accrobranche",
+      "roles": [
+        "Moniteur",
+        "Participante sur le parcours",
+        "Enfant",
+        "Assureur",
+        "Parent qui regarde",
+        "Novice",
+        "Photographe",
+        "Gérant"
+      ]
+    },
+    {
+      "name": "Cours de cuisine",
+      "roles": [
+        "Chef animateur",
+        "Participante",
+        "Assistant",
+        "Dégustateur",
+        "Novice",
+        "Spectateur",
+        "Organisatrice",
+        "Agent d’entretien"
+      ]
+    },
+    {
+      "name": "Studio de danse",
+      "roles": [
+        "Chorégraphe",
+        "Élève",
+        "Débutante",
+        "Pianiste accompagnateur",
+        "Spectateur",
+        "Réceptionniste",
+        "Partenaire de danse",
+        "Retardataire"
+      ]
+    }
+  ]
+}

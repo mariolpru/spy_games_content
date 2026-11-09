@@ -486,6 +486,126 @@
       "lang": "de",
       "file": "de/usa.json",
       "version": 1
+    },
+    {
+      "id": "capitals",
+      "lang": "fr",
+      "file": "fr/capitals.json",
+      "version": 1
+    },
+    {
+      "id": "china",
+      "lang": "fr",
+      "file": "fr/china.json",
+      "version": 1
+    },
+    {
+      "id": "city",
+      "lang": "fr",
+      "file": "fr/city.json",
+      "version": 1
+    },
+    {
+      "id": "entertainment",
+      "lang": "fr",
+      "file": "fr/entertainment.json",
+      "version": 1
+    },
+    {
+      "id": "fantasy",
+      "lang": "fr",
+      "file": "fr/fantasy.json",
+      "version": 1
+    },
+    {
+      "id": "france",
+      "lang": "fr",
+      "file": "fr/france.json",
+      "version": 1
+    },
+    {
+      "id": "germany",
+      "lang": "fr",
+      "file": "fr/germany.json",
+      "version": 1
+    },
+    {
+      "id": "halloween",
+      "lang": "fr",
+      "file": "fr/halloween.json",
+      "version": 1
+    },
+    {
+      "id": "italy",
+      "lang": "fr",
+      "file": "fr/italy.json",
+      "version": 1
+    },
+    {
+      "id": "japan",
+      "lang": "fr",
+      "file": "fr/japan.json",
+      "version": 1
+    },
+    {
+      "id": "belgium-switzerland-quebec",
+      "lang": "fr",
+      "file": "fr/belgium-switzerland-quebec.json",
+      "version": 1
+    },
+    {
+      "id": "leisure",
+      "lang": "fr",
+      "file": "fr/leisure.json",
+      "version": 1
+    },
+    {
+      "id": "paris-everyday",
+      "lang": "fr",
+      "file": "fr/paris-everyday.json",
+      "version": 1
+    },
+    {
+      "id": "school-year",
+      "lang": "fr",
+      "file": "fr/school-year.json",
+      "version": 1
+    },
+    {
+      "id": "school",
+      "lang": "fr",
+      "file": "fr/school.json",
+      "version": 1
+    },
+    {
+      "id": "space",
+      "lang": "fr",
+      "file": "fr/space.json",
+      "version": 1
+    },
+    {
+      "id": "sport",
+      "lang": "fr",
+      "file": "fr/sport.json",
+      "version": 1
+    },
+    {
+      "id": "travel",
+      "lang": "fr",
+      "file": "fr/travel.json",
+      "version": 1
+    },
+    {
+      "id": "university",
+      "lang": "fr",
+      "file": "fr/university.json",
+      "version": 1
+    },
+    {
+      "id": "usa",
+      "lang": "fr",
+      "file": "fr/usa.json",
+      "version": 1
     }
   ]
 }

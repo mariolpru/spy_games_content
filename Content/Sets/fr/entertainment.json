@@ -1,0 +1,188 @@
+{
+  "id": "entertainment",
+  "title": "Sorties",
+  "locations": [
+    {
+      "name": "Boîte de nuit",
+      "roles": [
+        "DJ",
+        "Serveur",
+        "Danseuse",
+        "Videur",
+        "Invité VIP",
+        "Chargée de relations",
+        "Serveuse",
+        "Photographe"
+      ]
+    },
+    {
+      "name": "Théâtre",
+      "roles": [
+        "Comédien",
+        "Ouvreuse",
+        "Spectateur au premier rang",
+        "Souffleur",
+        "Maquilleuse",
+        "Chef d’orchestre",
+        "Préposé au vestiaire",
+        "Technicien lumière"
+      ]
+    },
+    {
+      "name": "Concert",
+      "roles": [
+        "Musicien",
+        "Fan au premier rang",
+        "Ingénieur du son",
+        "Sécurité de scène",
+        "Vendeuse de t-shirts",
+        "Cadreur",
+        "Spectateur avec son billet",
+        "Choriste"
+      ]
+    },
+    {
+      "name": "Cirque",
+      "roles": [
+        "Clown",
+        "Dresseur",
+        "Acrobate",
+        "Parent avec un enfant",
+        "Ouvreur",
+        "Magicien",
+        "Vendeuse de barbe à papa",
+        "Jongleur"
+      ]
+    },
+    {
+      "name": "Club de stand-up",
+      "roles": [
+        "Humoriste",
+        "Animateur",
+        "Spectatrice à une table",
+        "Hôtesse d’accueil",
+        "Serveur",
+        "Technicien du son",
+        "Gérant",
+        "Invité au premier rang"
+      ]
+    },
+    {
+      "name": "Bowling",
+      "roles": [
+        "Joueur",
+        "Préposé aux chaussures",
+        "Caissière",
+        "Bande d’amis",
+        "Réceptionniste",
+        "Enfant sur la piste",
+        "Serveur",
+        "Agent d’entretien"
+      ]
+    },
+    {
+      "name": "Karaoké",
+      "roles": [
+        "Invité qui chante",
+        "Animatrice",
+        "Caissier",
+        "Serveur",
+        "Technicien du son",
+        "Groupe sur le canapé",
+        "Réceptionniste",
+        "Invité timide"
+      ]
+    },
+    {
+      "name": "Opéra",
+      "roles": [
+        "Chanteuse d’opéra",
+        "Chef d’orchestre",
+        "Invité dans la loge",
+        "Ouvreur",
+        "Préposée au vestiaire",
+        "Musicien de l’orchestre",
+        "Maquilleur",
+        "Chef des ouvreurs"
+      ]
+    },
+    {
+      "name": "Salon de thé",
+      "roles": [
+        "Barista",
+        "Serveur",
+        "Pâtissière",
+        "Habitué",
+        "Commis de salle",
+        "Caissière",
+        "Client avec un ordinateur",
+        "Gérante"
+      ]
+    },
+    {
+      "name": "Escape game",
+      "roles": [
+        "Comédien dans la salle",
+        "Joueuse",
+        "Opérateur",
+        "Réceptionniste",
+        "Équipe d’amis",
+        "Maître du jeu",
+        "Observateur en régie",
+        "Novice"
+      ]
+    },
+    {
+      "name": "Festival de musique",
+      "roles": [
+        "Musicien sur scène",
+        "Spectatrice avec une couverture",
+        "Vendeur de street food",
+        "Bénévole",
+        "Ingénieur du son",
+        "Agent de sécurité",
+        "Festivalier avec un drapeau",
+        "Photographe"
+      ]
+    },
+    {
+      "name": "Soirée dansante",
+      "roles": [
+        "DJ",
+        "Invité qui danse",
+        "Serveuse",
+        "Technicien lumière",
+        "Videur",
+        "Chargé de relations",
+        "Bande d’amis",
+        "Invitée sur la piste"
+      ]
+    },
+    {
+      "name": "Cinéma",
+      "roles": [
+        "Spectateur avec du popcorn",
+        "Ouvreuse",
+        "Caissier",
+        "Projectionniste",
+        "Couple en rendez-vous",
+        "Vendeuse au comptoir",
+        "Agent d’entretien",
+        "Spectateur en retard"
+      ]
+    },
+    {
+      "name": "Spectacle sur glace",
+      "roles": [
+        "Patineuse artistique",
+        "Spectateur",
+        "Animateur",
+        "Technicien lumière",
+        "Costumière",
+        "Ouvreur",
+        "Ingénieur du son",
+        "Enfant dans le public"
+      ]
+    }
+  ]
+}
