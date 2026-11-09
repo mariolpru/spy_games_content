@@ -1,0 +1,227 @@
+{
+  "id": "leisure",
+  "title": "Tempo libero",
+  "locations": [
+    {
+      "name": "Parco cittadino",
+      "roles": [
+        "Chi fa jogging",
+        "Ciclista",
+        "Mamma con il passeggino",
+        "Gelataio",
+        "Musicista di strada",
+        "Pensionato sulla panchina",
+        "Chi porta a spasso il cane",
+        "Noleggiatore di barche"
+      ]
+    },
+    {
+      "name": "Ludoteca dei giochi da tavolo",
+      "roles": [
+        "Giocatore al tavolo",
+        "Padrone di casa",
+        "Barista",
+        "Freelance con il portatile",
+        "Gruppo di amici",
+        "Principiante",
+        "Addetto alle pulizie",
+        "Spiegatore di regole"
+      ]
+    },
+    {
+      "name": "Sala da biliardo",
+      "roles": [
+        "Giocatore",
+        "Segnapunti",
+        "Cassiera",
+        "Spettatore",
+        "Principiante",
+        "Cliente abituale",
+        "Cameriere",
+        "Gestore"
+      ]
+    },
+    {
+      "name": "Giornata di pesca",
+      "roles": [
+        "Pescatore",
+        "Vicino sulla riva",
+        "Campeggiatore con la tenda",
+        "Bambino con la canna",
+        "Venditore di esche",
+        "Barcaiolo",
+        "Cercatrice di funghi",
+        "Villeggiante"
+      ]
+    },
+    {
+      "name": "Sauna",
+      "roles": [
+        "Ospite della sauna",
+        "Addetto ai vapori",
+        "Appassionata del vapore",
+        "Ospite nella sala relax",
+        "Receptionist",
+        "Gruppo di amici",
+        "Massaggiatore",
+        "Addetto alle pulizie"
+      ]
+    },
+    {
+      "name": "Laboratorio di ceramica",
+      "roles": [
+        "Ceramista",
+        "Apprendista",
+        "Insegnante del corso",
+        "Principiante",
+        "Receptionist",
+        "Spettatore del laboratorio",
+        "Addetto alle pulizie",
+        "Smaltatore"
+      ]
+    },
+    {
+      "name": "Casa in campagna",
+      "roles": [
+        "Padrone di casa alla griglia",
+        "Ospite",
+        "Bambino sull’amaca",
+        "Giardiniera",
+        "Vicino oltre la siepe",
+        "Cuoco alla brace",
+        "Addetto alla piscina",
+        "Villeggiante"
+      ]
+    },
+    {
+      "name": "Picnic",
+      "roles": [
+        "Gruppo sulla coperta",
+        "Cuoca alla griglia",
+        "Bambino con il pallone",
+        "Chitarrista",
+        "Dormiglione sull’amaca",
+        "Ciclista",
+        "Chi porta a spasso il cane",
+        "Gelataio"
+      ]
+    },
+    {
+      "name": "Circolo di lettura",
+      "roles": [
+        "Padrona di casa",
+        "Socio con il libro",
+        "Principiante",
+        "Barista",
+        "Ascoltatore",
+        "Autore invitato",
+        "Organizzatrice",
+        "Quello che contesta sempre"
+      ]
+    },
+    {
+      "name": "Studio di yoga",
+      "roles": [
+        "Insegnante",
+        "Principiante",
+        "Praticante abituale",
+        "Receptionist",
+        "Ospite della lezione di prova",
+        "Appassionato di meditazione",
+        "Addetto alle pulizie",
+        "Chi arriva in ritardo"
+      ]
+    },
+    {
+      "name": "Orto botanico",
+      "roles": [
+        "Giardiniere",
+        "Guida",
+        "Visitatore con la macchina fotografica",
+        "Bambino",
+        "Botanica",
+        "Bigliettaio",
+        "Pittore con il cavalletto",
+        "Coppia innamorata"
+      ]
+    },
+    {
+      "name": "Planetario",
+      "roles": [
+        "Conferenziere",
+        "Spettatrice",
+        "Studente in gita",
+        "Operatore della proiezione",
+        "Bigliettaia",
+        "Astronomo consulente",
+        "Bambino con il genitore",
+        "Addetto alle pulizie"
+      ]
+    },
+    {
+      "name": "Circolo di scacchi",
+      "roles": [
+        "Scacchista",
+        "Allenatore",
+        "Principiante",
+        "Spettatore",
+        "Arbitro",
+        "Gran maestro",
+        "Bambino al corso",
+        "Socio abituale"
+      ]
+    },
+    {
+      "name": "Laboratorio di pittura",
+      "roles": [
+        "Pittrice",
+        "Insegnante",
+        "Modello",
+        "Principiante",
+        "Spettatore",
+        "Receptionist",
+        "Addetto alle pulizie",
+        "Appassionato di acquerello"
+      ]
+    },
+    {
+      "name": "Percorso avventura tra gli alberi",
+      "roles": [
+        "Istruttore",
+        "Partecipante sul percorso",
+        "Bambino",
+        "Assicuratore",
+        "Genitore che guarda",
+        "Principiante",
+        "Fotografo",
+        "Gestore"
+      ]
+    },
+    {
+      "name": "Corso di cucina",
+      "roles": [
+        "Chef che conduce",
+        "Partecipante",
+        "Assistente",
+        "Assaggiatore",
+        "Principiante",
+        "Spettatore",
+        "Organizzatrice",
+        "Addetto alle pulizie"
+      ]
+    },
+    {
+      "name": "Scuola di ballo",
+      "roles": [
+        "Coreografa",
+        "Allievo",
+        "Principiante",
+        "Pianista accompagnatore",
+        "Spettatore",
+        "Receptionist",
+        "Compagno di ballo",
+        "Chi arriva in ritardo"
+      ]
+    }
+  ]
+}

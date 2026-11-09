@@ -1,0 +1,149 @@
+{
+  "id": "china",
+  "title": "Cina",
+  "locations": [
+    {
+      "name": "Grande Muraglia",
+      "roles": [
+        "Turista",
+        "Guida turistica",
+        "Venditore di souvenir",
+        "Fotografo",
+        "Custode",
+        "Portatore",
+        "Studente",
+        "Ciclista"
+      ]
+    },
+    {
+      "name": "Città Proibita",
+      "roles": [
+        "Guida turistica",
+        "Turista",
+        "Custode",
+        "Storica",
+        "Fotografo",
+        "Bigliettaio",
+        "Restauratore",
+        "Studente in gita"
+      ]
+    },
+    {
+      "name": "Piantagione di tè",
+      "roles": [
+        "Raccoglitrice di tè",
+        "Contadino",
+        "Degustatore",
+        "Turista",
+        "Guida turistica",
+        "Venditore",
+        "Maestro del tè",
+        "Confezionatore"
+      ]
+    },
+    {
+      "name": "Riserva dei panda",
+      "roles": [
+        "Custode",
+        "Turista",
+        "Veterinaria",
+        "Volontario",
+        "Fotografo",
+        "Guida turistica",
+        "Biologo",
+        "Bambino"
+      ]
+    },
+    {
+      "name": "Mercato di cibo di strada",
+      "roles": [
+        "Cuoco del wok",
+        "Venditrice di ravioli",
+        "Cliente",
+        "Turista",
+        "Degustatore",
+        "Imbonitore",
+        "Cassiere",
+        "Fattorino"
+      ]
+    },
+    {
+      "name": "Grattacieli di Hong Kong",
+      "roles": [
+        "Uomo d’affari",
+        "Turista",
+        "Guida turistica",
+        "Barista",
+        "Venditore ambulante",
+        "Tassista",
+        "Corriere",
+        "Fotografa"
+      ]
+    },
+    {
+      "name": "Sala da tè",
+      "roles": [
+        "Maestro del tè",
+        "Ospite",
+        "Cameriere",
+        "Musicista",
+        "Turista",
+        "Calligrafo",
+        "Proprietario",
+        "Apprendista"
+      ]
+    },
+    {
+      "name": "Monastero di Shaolin",
+      "roles": [
+        "Monaco combattente",
+        "Allievo",
+        "Maestro di kung fu",
+        "Turista",
+        "Guida turistica",
+        "Spettatore",
+        "Novizio",
+        "Mentore"
+      ]
+    },
+    {
+      "name": "Treno ad alta velocità",
+      "roles": [
+        "Controllore",
+        "Passeggero",
+        "Turista",
+        "Macchinista",
+        "Venditrice",
+        "Uomo d’affari",
+        "Addetto alle pulizie",
+        "Capotreno"
+      ]
+    },
+    {
+      "name": "Giardino di Suzhou",
+      "roles": [
+        "Giardiniere",
+        "Turista",
+        "Guida turistica",
+        "Pittore",
+        "Fotografo",
+        "Custode",
+        "Poeta",
+        "Studentessa"
+      ]
+    },
+    {
+      "name": "Ristorante dell’anatra laccata",
+      "roles": [
+        "Cuoco",
+        "Cameriere",
+        "Commensale",
+        "Hostess",
+        "Turista",
+        "Cassiere",
+        "Trinciante dell’anatra",
+        "Cliente abituale"
+      ]
+    }
+  ]
+}

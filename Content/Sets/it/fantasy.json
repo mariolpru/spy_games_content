@@ -1,0 +1,266 @@
+{
+  "id": "fantasy",
+  "title": "Fantasy",
+  "locations": [
+    {
+      "name": "Locanda",
+      "roles": [
+        "Oste",
+        "Cuoco",
+        "Serva",
+        "Viandante",
+        "Bardo",
+        "Garzone di stalla",
+        "Mercante",
+        "Guardia"
+      ]
+    },
+    {
+      "name": "Sala del trono",
+      "roles": [
+        "Re",
+        "Regina",
+        "Consigliere reale",
+        "Guardia",
+        "Giullare",
+        "Araldo",
+        "Dama di corte",
+        "Ambasciatore"
+      ]
+    },
+    {
+      "name": "Mercato dei maghi",
+      "roles": [
+        "Preparatrice di pozioni",
+        "Cliente",
+        "Mercante di artefatti",
+        "Alchimista",
+        "Apprendista",
+        "Guardia",
+        "Imbonitore",
+        "Indovina"
+      ]
+    },
+    {
+      "name": "Fucina del fabbro",
+      "roles": [
+        "Fabbro",
+        "Apprendista",
+        "Guerriero in cerca di una spada",
+        "Fornitore di carbone",
+        "Mercante",
+        "Scudiero",
+        "Garzone della fucina",
+        "Cliente per un’armatura"
+      ]
+    },
+    {
+      "name": "Castello",
+      "roles": [
+        "Cavaliere",
+        "Guardia",
+        "Signore del castello",
+        "Cameriera",
+        "Garzone di stalla",
+        "Cuoco",
+        "Menestrello",
+        "Castellano"
+      ]
+    },
+    {
+      "name": "Segrete",
+      "roles": [
+        "Carceriere",
+        "Guardia",
+        "Prigioniero",
+        "Boia",
+        "Inquisitore",
+        "Sentinella",
+        "Scrivano",
+        "Cacciatore di topi"
+      ]
+    },
+    {
+      "name": "Porto franco",
+      "roles": [
+        "Capitano",
+        "Marinaio",
+        "Mercante",
+        "Pescatore",
+        "Scaricatore",
+        "Guardia del molo",
+        "Nostromo",
+        "Pilota"
+      ]
+    },
+    {
+      "name": "Accampamento dei banditi",
+      "roles": [
+        "Capo dei banditi",
+        "Bandito",
+        "Arciere",
+        "Cuoco del fuoco",
+        "Vedetta",
+        "Prigioniera",
+        "Fabbro dell’accampamento",
+        "Messaggero"
+      ]
+    },
+    {
+      "name": "Torre del mago",
+      "roles": [
+        "Mago",
+        "Apprendista stregone",
+        "Alchimista",
+        "Custode delle pergamene",
+        "Preparatore di pozioni",
+        "Servitore",
+        "Maga in visita",
+        "Osservatore di stelle"
+      ]
+    },
+    {
+      "name": "Villaggio",
+      "roles": [
+        "Contadino",
+        "Anziano del villaggio",
+        "Fabbro",
+        "Guaritrice",
+        "Pastore",
+        "Mugnaio",
+        "Ostessa",
+        "Bambino"
+      ]
+    },
+    {
+      "name": "Bosco degli elfi",
+      "roles": [
+        "Arciera elfica",
+        "Druido",
+        "Ranger",
+        "Guaritore",
+        "Custode della radura",
+        "Bardo",
+        "Viandante",
+        "Raccoglitore di erbe"
+      ]
+    },
+    {
+      "name": "Miniera dei nani",
+      "roles": [
+        "Minatore nano",
+        "Fabbro",
+        "Caposquadra",
+        "Portatore di minerale",
+        "Agrimensore nano",
+        "Carbonaio",
+        "Vedetta",
+        "Apprendista"
+      ]
+    },
+    {
+      "name": "Tempio",
+      "roles": [
+        "Sacerdote",
+        "Pellegrina",
+        "Novizio",
+        "Oracolo",
+        "Custode dell’altare",
+        "Corista",
+        "Guardia del tempio",
+        "Guaritore"
+      ]
+    },
+    {
+      "name": "Arena",
+      "roles": [
+        "Gladiatore",
+        "Maestro di cerimonie",
+        "Spettatrice",
+        "Medico da campo",
+        "Guardia",
+        "Venditore sugli spalti",
+        "Araldo",
+        "Scudiero"
+      ]
+    },
+    {
+      "name": "Tana del drago",
+      "roles": [
+        "Cavaliere cacciatore",
+        "Ranger",
+        "Scudiero",
+        "Arciere",
+        "Mago",
+        "Guerriero ferito",
+        "Guida",
+        "Cronista"
+      ]
+    },
+    {
+      "name": "Biblioteca dei maghi",
+      "roles": [
+        "Archivista",
+        "Studioso dell’arcano",
+        "Apprendista",
+        "Copista",
+        "Custode",
+        "Visitatore",
+        "Osservatore di stelle",
+        "Interprete di rune"
+      ]
+    },
+    {
+      "name": "Banchetto reale",
+      "roles": [
+        "Re",
+        "Menestrello",
+        "Servitore",
+        "Signore invitato",
+        "Giullare",
+        "Guardia",
+        "Cuoco",
+        "Assaggiatore"
+      ]
+    },
+    {
+      "name": "Laboratorio dell’alchimista",
+      "roles": [
+        "Alchimista",
+        "Apprendista",
+        "Preparatrice di pozioni",
+        "Erborista",
+        "Cliente",
+        "Custode degli ingredienti",
+        "Guardia",
+        "Principiante"
+      ]
+    },
+    {
+      "name": "Nave dei pirati",
+      "roles": [
+        "Capitano pirata",
+        "Nostromo",
+        "Mozzo",
+        "Cannoniere",
+        "Navigatrice",
+        "Cuoco di bordo",
+        "Marinaio di coperta",
+        "Prigioniero"
+      ]
+    },
+    {
+      "name": "Capanna della strega",
+      "roles": [
+        "Strega",
+        "Apprendista",
+        "Compratore di pozioni",
+        "Erborista",
+        "Contadino in visita",
+        "Guaritrice",
+        "Indovina",
+        "Raccoglitrice di erbe"
+      ]
+    }
+  ]
+}

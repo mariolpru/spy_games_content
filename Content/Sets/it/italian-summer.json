@@ -1,0 +1,266 @@
+{
+  "id": "italian-summer",
+  "title": "Estate italiana",
+  "locations": [
+    {
+      "name": "Spiaggia all’alba",
+      "roles": [
+        "Pescatore che rientra",
+        "Chi fa jogging",
+        "Bagnino che apre gli ombrelloni",
+        "Fotografo",
+        "Signora che raccoglie conchiglie",
+        "Ragazzi rimasti alzati",
+        "Addetto alle pulizie della spiaggia",
+        "Chi fa il bagno presto"
+      ]
+    },
+    {
+      "name": "Traghetto per l’isola",
+      "roles": [
+        "Marinaio",
+        "Famiglia con le valigie",
+        "Turista al parapetto",
+        "Autista del camion a bordo",
+        "Bambino che conta i gabbiani",
+        "Capitano",
+        "Bigliettaio",
+        "Passeggera con il mal di mare"
+      ]
+    },
+    {
+      "name": "Sagra della porchetta",
+      "roles": [
+        "Volontario della pro loco",
+        "Cuoco allo stand",
+        "Bambino con il piatto di plastica",
+        "Suonatore della banda",
+        "Sindaco",
+        "Anziana che serve ai tavoli",
+        "Cassiere dei buoni pasto",
+        "Ragazzi alla tombola"
+      ]
+    },
+    {
+      "name": "Gelateria a mezzanotte",
+      "roles": [
+        "Gelataio",
+        "Famiglia in passeggiata",
+        "Coppia che divide un cono",
+        "Bambino indeciso",
+        "Cassiera",
+        "Turista",
+        "Gruppo di ragazzi",
+        "Cliente abituale"
+      ]
+    },
+    {
+      "name": "Notte di San Lorenzo",
+      "roles": [
+        "Chi guarda le stelle",
+        "Bambino con la coperta",
+        "Nonno che racconta",
+        "Astrofilo con il telescopio",
+        "Coppia",
+        "Guida dell’osservatorio",
+        "Fotografo",
+        "Vicino che spegne le luci"
+      ]
+    },
+    {
+      "name": "Campeggio in pineta",
+      "roles": [
+        "Campeggiatore",
+        "Bambino in bicicletta",
+        "Addetto alla reception",
+        "Famiglia alla griglia",
+        "Animatore",
+        "Vicino di piazzola",
+        "Bagnino della piscina",
+        "Addetto alle pulizie"
+      ]
+    },
+    {
+      "name": "Ferragosto al mare",
+      "roles": [
+        "Famiglia sotto l’ombrellone",
+        "Bagnino",
+        "Venditore ambulante",
+        "Bambino con il gonfiabile",
+        "Nonno all’ombra",
+        "Ragazzi con il pallone",
+        "Chi arriva a cercare posto",
+        "Animatore del bagno"
+      ]
+    },
+    {
+      "name": "Mercato del paese d’estate",
+      "roles": [
+        "Venditore di frutta",
+        "Turista straniero",
+        "Signora che contratta",
+        "Bancarella delle ciabatte",
+        "Bambino con il granita",
+        "Vigile urbano",
+        "Pensionato all’ombra",
+        "Imbonitore"
+      ]
+    },
+    {
+      "name": "Lungomare la sera",
+      "roles": [
+        "Famiglia in passeggiata",
+        "Venditore di braccialetti",
+        "Artista di strada",
+        "Coppia in bicicletta",
+        "Gelataio",
+        "Bambino con il monopattino",
+        "Pescatore sul molo",
+        "Vigile urbano"
+      ]
+    },
+    {
+      "name": "Piscina del paese",
+      "roles": [
+        "Bagnino",
+        "Bambino al trampolino",
+        "Istruttrice di nuoto",
+        "Ragazzi al bordo vasca",
+        "Cassiera",
+        "Genitore con i braccioli",
+        "Addetto alle pulizie",
+        "Pensionato che fa le vasche"
+      ]
+    },
+    {
+      "name": "Partita a carte sotto l’ombrellone",
+      "roles": [
+        "Nonno con le carte",
+        "Nipote che impara",
+        "Vicino di ombrellone",
+        "Signora che guarda",
+        "Bambino che fa il tifo",
+        "Chi dorme sul lettino",
+        "Venditore di cocco",
+        "Bagnino di passaggio"
+      ]
+    },
+    {
+      "name": "Rientro in autostrada",
+      "roles": [
+        "Autista stanco",
+        "Bambino che chiede quanto manca",
+        "Addetto al casello",
+        "Camionista",
+        "Famiglia all’autogrill",
+        "Soccorso stradale",
+        "Cane in auto con la testa fuori",
+        "Passeggera con la cartina"
+      ]
+    },
+    {
+      "name": "Festa patronale d’agosto",
+      "roles": [
+        "Portatore della statua",
+        "Banda del paese",
+        "Bambino con il cero",
+        "Venditore di torrone",
+        "Vigile urbano",
+        "Priore della confraternita",
+        "Turista",
+        "Nonna sulla sedia"
+      ]
+    },
+    {
+      "name": "Escursione in barca",
+      "roles": [
+        "Skipper",
+        "Turista con la maschera",
+        "Bambino che salta in acqua",
+        "Cuoca di bordo",
+        "Fotografo",
+        "Guida",
+        "Pescatore",
+        "Chi ha il mal di mare"
+      ]
+    },
+    {
+      "name": "Fuochi d’artificio sul porto",
+      "roles": [
+        "Pirotecnico",
+        "Famiglia sul molo",
+        "Bambino sulle spalle del papà",
+        "Venditore di luci",
+        "Fotografo",
+        "Vigile del fuoco",
+        "Barcaiolo",
+        "Anziana al balcone"
+      ]
+    },
+    {
+      "name": "Agriturismo in collina",
+      "roles": [
+        "Proprietario dell’agriturismo",
+        "Cuoca",
+        "Ospite a tavola",
+        "Bambino con le galline",
+        "Contadino",
+        "Cameriere",
+        "Turista straniero",
+        "Vicino venuto ad aiutare"
+      ]
+    },
+    {
+      "name": "Cinema all’aperto in piazza",
+      "roles": [
+        "Proiezionista",
+        "Spettatore sulla sedia di plastica",
+        "Venditore di popcorn",
+        "Bambino assonnato",
+        "Organizzatore",
+        "Coppia",
+        "Vigile urbano",
+        "Chi arriva in ritardo"
+      ]
+    },
+    {
+      "name": "Grigliata in giardino",
+      "roles": [
+        "Chi sta alla griglia",
+        "Ospite con l’insalata",
+        "Bambino con il gavettone",
+        "Vicino invitato all’ultimo",
+        "Nonna che porta il dolce",
+        "Cane sotto il tavolo che aspetta",
+        "Zio che dà consigli",
+        "Chi lava i piatti"
+      ]
+    },
+    {
+      "name": "Lago di montagna ad agosto",
+      "roles": [
+        "Escursionista",
+        "Famiglia a picnic",
+        "Noleggiatore di pedalò",
+        "Bagnino",
+        "Pescatore",
+        "Bambino con il retino",
+        "Gestore del chiosco",
+        "Fotografo"
+      ]
+    },
+    {
+      "name": "Ultimo giorno di vacanza",
+      "roles": [
+        "Chi chiude le valigie",
+        "Bambino che non vuole partire",
+        "Proprietaria dell’appartamento",
+        "Vicino che saluta",
+        "Addetto alle pulizie",
+        "Papà che carica l’auto",
+        "Ragazza che scambia i contatti",
+        "Gelataio dell’ultimo cono"
+      ]
+    }
+  ]
+}

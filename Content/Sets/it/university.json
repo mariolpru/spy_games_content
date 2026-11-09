@@ -1,0 +1,227 @@
+{
+  "id": "university",
+  "title": "Università",
+  "locations": [
+    {
+      "name": "Lezione in aula magna",
+      "roles": [
+        "Professore",
+        "Studentessa in prima fila",
+        "Studente addormentato in fondo",
+        "Rappresentante con il foglio firme",
+        "Chi prende appunti",
+        "Chi arriva in ritardo",
+        "Studente con il portatile",
+        "Uditore"
+      ]
+    },
+    {
+      "name": "Stanza dello studentato",
+      "roles": [
+        "Responsabile del piano",
+        "Matricola con la valigia",
+        "Coinquilino",
+        "Studente con la chitarra",
+        "Portiere",
+        "Studentessa con la pentola",
+        "Studente in scambio",
+        "Chi cerca un ferro da stiro"
+      ]
+    },
+    {
+      "name": "Mensa universitaria",
+      "roles": [
+        "Cassiera",
+        "Studente con il vassoio",
+        "Professoressa",
+        "Cuoco",
+        "Studente che conta le monete",
+        "Ragazza con l’insalata",
+        "Addetto alle pulizie",
+        "Chi salta la fila"
+      ]
+    },
+    {
+      "name": "Esame scritto",
+      "roles": [
+        "Professoressa",
+        "Studente che pesca il tema",
+        "Secchione",
+        "Studentessa con il bigliettino",
+        "Chi ripassa davanti alla porta",
+        "Assistente",
+        "Rappresentante",
+        "Studente con il verbale"
+      ]
+    },
+    {
+      "name": "Discussione della tesi",
+      "roles": [
+        "Laureanda",
+        "Relatore",
+        "Presidente della commissione",
+        "Controrelatrice",
+        "Segretario verbalizzante",
+        "Compagno tra il pubblico",
+        "Impiegata della segreteria",
+        "Genitore in ultima fila"
+      ]
+    },
+    {
+      "name": "Biblioteca universitaria",
+      "roles": [
+        "Bibliotecario",
+        "Studentessa con una pila di libri",
+        "Chi studia prima dell’esame",
+        "Dottorando",
+        "Studente addormentato al tavolo",
+        "Lettrice con le cuffie",
+        "Guardia giurata",
+        "Chi cerca una presa"
+      ]
+    },
+    {
+      "name": "Laboratorio di ricerca",
+      "roles": [
+        "Tecnica di laboratorio",
+        "Dottorando",
+        "Studentessa con la provetta",
+        "Professore",
+        "Studente in camice",
+        "Chi ha rotto l’apparecchio",
+        "Tecnico delle apparecchiature",
+        "Tirocinante"
+      ]
+    },
+    {
+      "name": "Segreteria studenti",
+      "roles": [
+        "Candidata",
+        "Impiegata della segreteria",
+        "Genitore della candidata",
+        "Studente volontario",
+        "Responsabile delle ammissioni",
+        "Candidato con il massimo dei voti",
+        "Candidata con la cartellina",
+        "Guardia giurata"
+      ]
+    },
+    {
+      "name": "Ufficio del preside di facoltà",
+      "roles": [
+        "Preside di facoltà",
+        "Segretaria",
+        "Studente che chiede un certificato",
+        "Studentessa con esami arretrati",
+        "Coordinatore del corso",
+        "Studentessa con una domanda",
+        "Vicepreside",
+        "Studente che rientra dopo un anno"
+      ]
+    },
+    {
+      "name": "Serata dei talenti del campus",
+      "roles": [
+        "Presentatrice",
+        "Cantante",
+        "Ballerina",
+        "Tecnico del suono",
+        "Membro della giuria",
+        "Studente che dimentica le parole",
+        "Fotografo",
+        "Tifoso della facoltà"
+      ]
+    },
+    {
+      "name": "Appello di recupero",
+      "roles": [
+        "Professore",
+        "Studente bocciato",
+        "Chi ci prova per la terza volta",
+        "Rappresentante",
+        "Assistente",
+        "Studente che aspetta fuori",
+        "Segretaria del dipartimento",
+        "Secchiona venuta per compagnia"
+      ]
+    },
+    {
+      "name": "Notte prima dell’esame",
+      "roles": [
+        "Studente con il caffè",
+        "Studentessa con gli appunti",
+        "Chi apre il libro per la prima volta",
+        "Coinquilino",
+        "Studente addormentato sul manuale",
+        "Chi guarda la lezione registrata",
+        "Chi telefona al più bravo del corso",
+        "Chi stira una camicia"
+      ]
+    },
+    {
+      "name": "Festa di laurea",
+      "roles": [
+        "Laureata con la corona d’alloro",
+        "Rettore",
+        "Preside di facoltà",
+        "Genitore con i fiori",
+        "Fotografo",
+        "Laureato con lode",
+        "Compagno di corso",
+        "Musicista della banda"
+      ]
+    },
+    {
+      "name": "Segreteria del dipartimento",
+      "roles": [
+        "Direttore del dipartimento",
+        "Tecnico di laboratorio",
+        "Dottoranda",
+        "Professore associato",
+        "Segretaria",
+        "Studente con una tesina",
+        "Professoressa",
+        "Coordinatrice didattica"
+      ]
+    },
+    {
+      "name": "Lezione delle otto",
+      "roles": [
+        "Professore",
+        "Chi arriva in ritardo",
+        "Studentessa con il caffè",
+        "Studente addormentato",
+        "Rappresentante",
+        "Studente con il portatile",
+        "Chi finisce la colazione",
+        "Chi pulisce la lavagna"
+      ]
+    },
+    {
+      "name": "Cucina dello studentato",
+      "roles": [
+        "Studente con la pasta",
+        "Studentessa con il bollitore",
+        "Vicino che chiede il sale",
+        "Responsabile del piano in ispezione",
+        "Chi ha dimenticato la pentola",
+        "Studente in scambio con un piatto di casa",
+        "Studente di turno",
+        "Chi lava i piatti"
+      ]
+    },
+    {
+      "name": "Copisteria",
+      "roles": [
+        "Addetta alla copisteria",
+        "Studente con la tesina",
+        "Studente con la carta inceppata",
+        "Professore con le dispense",
+        "Studentessa con la chiavetta",
+        "Studente senza spiccioli",
+        "Matricola con l’orario",
+        "Dottorando con la tesi"
+      ]
+    }
+  ]
+}

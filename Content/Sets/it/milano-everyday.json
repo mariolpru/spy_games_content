@@ -1,0 +1,266 @@
+{
+  "id": "milano-everyday",
+  "title": "Milano tutti i giorni",
+  "locations": [
+    {
+      "name": "Metro all’ora di punta",
+      "roles": [
+        "Pendolare in piedi",
+        "Controllore",
+        "Musicista in carrozza",
+        "Studentessa con le cuffie",
+        "Turista con la mappa",
+        "Mamma con il passeggino",
+        "Macchinista",
+        "Addetto alle pulizie"
+      ]
+    },
+    {
+      "name": "Colazione al bar",
+      "roles": [
+        "Barista",
+        "Cliente che beve il caffè al banco",
+        "Impiegato di corsa",
+        "Pensionato con il giornale",
+        "Cassiera",
+        "Fattorino",
+        "Bambino con la brioche",
+        "Cliente abituale"
+      ]
+    },
+    {
+      "name": "Navigli la sera",
+      "roles": [
+        "Cameriere",
+        "Gruppo di amici",
+        "Musicista di strada",
+        "Turista",
+        "Ciclista",
+        "Venditore di fiori",
+        "Vigile urbano",
+        "Fotografa"
+      ]
+    },
+    {
+      "name": "Ufficio in Porta Nuova",
+      "roles": [
+        "Designer",
+        "Sviluppatore",
+        "Receptionist",
+        "Corriere",
+        "Addetta alle pulizie",
+        "Manager in call",
+        "Stagista",
+        "Barista del piano terra"
+      ]
+    },
+    {
+      "name": "Tram storico",
+      "roles": [
+        "Conducente",
+        "Passeggero anziano",
+        "Turista con la macchina fotografica",
+        "Studente",
+        "Controllore",
+        "Mamma con il bambino",
+        "Operaio che torna a casa",
+        "Fotografo"
+      ]
+    },
+    {
+      "name": "Mercato di via",
+      "roles": [
+        "Fruttivendolo",
+        "Cliente con la sporta",
+        "Venditore di tessuti",
+        "Pensionata",
+        "Imbonitore",
+        "Bambino al banco dei formaggi",
+        "Vigile urbano",
+        "Garzone che scarica"
+      ]
+    },
+    {
+      "name": "Parco Sempione la domenica",
+      "roles": [
+        "Chi fa jogging",
+        "Famiglia sulla coperta",
+        "Venditore di gelato",
+        "Chi porta a spasso il cane",
+        "Bambino con la bici",
+        "Gruppo di tamburini",
+        "Giardiniere",
+        "Fotografo di matrimoni"
+      ]
+    },
+    {
+      "name": "Palestra dopo il lavoro",
+      "roles": [
+        "Personal trainer",
+        "Impiegato appena uscito dall’ufficio",
+        "Receptionist",
+        "Principiante",
+        "Addetto alle pulizie",
+        "Cliente abituale",
+        "Fisioterapista",
+        "Chi occupa l’attrezzo per ore"
+      ]
+    },
+    {
+      "name": "Fiera di quartiere",
+      "roles": [
+        "Espositore",
+        "Visitatore",
+        "Hostess",
+        "Addetto al montaggio",
+        "Fotografo",
+        "Cliente interessato",
+        "Venditore di panini",
+        "Addetto alla sicurezza"
+      ]
+    },
+    {
+      "name": "Lavanderia a gettoni",
+      "roles": [
+        "Studente che aspetta",
+        "Signora con il cesto",
+        "Gestore",
+        "Bambino che guarda l’oblò",
+        "Cliente abituale",
+        "Fattorino",
+        "Turista",
+        "Addetto alle pulizie"
+      ]
+    },
+    {
+      "name": "Coda alle poste",
+      "roles": [
+        "Impiegato allo sportello",
+        "Pensionato con il numerino",
+        "Mamma con il passeggino",
+        "Corriere",
+        "Chi sbaglia fila",
+        "Guardia giurata",
+        "Studente con una raccomandata",
+        "Addetta alle pulizie"
+      ]
+    },
+    {
+      "name": "Partita a San Siro",
+      "roles": [
+        "Tifoso con la sciarpa",
+        "Steward",
+        "Venditore di panini",
+        "Bambino alla prima partita",
+        "Fotografo",
+        "Speaker",
+        "Vigile urbano",
+        "Magazziniere"
+      ]
+    },
+    {
+      "name": "Tavolini in piazza",
+      "roles": [
+        "Cameriere",
+        "Gruppo di colleghi",
+        "Barista",
+        "Turista",
+        "Cliente abituale",
+        "Musicista di strada",
+        "Cassiere",
+        "Fattorino"
+      ]
+    },
+    {
+      "name": "Biblioteca comunale",
+      "roles": [
+        "Bibliotecario",
+        "Studente che prepara un esame",
+        "Bambino all’ora delle storie",
+        "Pensionato con i quotidiani",
+        "Addetta all’accoglienza",
+        "Lettore con le cuffie",
+        "Addetto alle pulizie",
+        "Volontaria"
+      ]
+    },
+    {
+      "name": "Officina in periferia",
+      "roles": [
+        "Meccanico",
+        "Cliente con l’auto in panne",
+        "Titolare",
+        "Apprendista",
+        "Fornitore di ricambi",
+        "Gommista",
+        "Cliente in attesa",
+        "Carrozziere"
+      ]
+    },
+    {
+      "name": "Cantiere della metro",
+      "roles": [
+        "Operaio",
+        "Capocantiere",
+        "Ingegnere",
+        "Vigile urbano",
+        "Passante curioso",
+        "Autista della betoniera",
+        "Geometra",
+        "Addetto alla sicurezza"
+      ]
+    },
+    {
+      "name": "Negozio di quartiere la mattina",
+      "roles": [
+        "Negoziante",
+        "Cliente con la lista",
+        "Fattorino",
+        "Pensionata",
+        "Bambino prima della scuola",
+        "Apprendista",
+        "Cassiera",
+        "Vicina di casa"
+      ]
+    },
+    {
+      "name": "Trasloco il primo del mese",
+      "roles": [
+        "Traslocatore",
+        "Inquilino che se ne va",
+        "Vicino che aiuta",
+        "Proprietario di casa",
+        "Bambino con uno scatolone",
+        "Autista del camion",
+        "Portinaia",
+        "Amico venuto a dare una mano"
+      ]
+    },
+    {
+      "name": "Portineria del condominio",
+      "roles": [
+        "Portinaia",
+        "Inquilino che si lamenta",
+        "Postino",
+        "Corriere",
+        "Bambino del terzo piano",
+        "Amministratore di condominio",
+        "Idraulico",
+        "Vicina del piano terra"
+      ]
+    },
+    {
+      "name": "Nebbia di novembre",
+      "roles": [
+        "Automobilista prudente",
+        "Chi aspetta il tram",
+        "Vigile urbano",
+        "Studente con la sciarpa",
+        "Fattorino in bici",
+        "Pensionato con il cappotto",
+        "Chi porta a spasso il cane",
+        "Fotografo"
+      ]
+    }
+  ]
+}

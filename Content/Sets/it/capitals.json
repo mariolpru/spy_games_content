@@ -1,0 +1,266 @@
+{
+  "id": "capitals",
+  "title": "Capitali del mondo",
+  "locations": [
+    {
+      "name": "Parigi",
+      "roles": [
+        "Cameriere del caffè",
+        "Artista di strada",
+        "Turista alla Torre Eiffel",
+        "Panettiere di baguette",
+        "Guida turistica",
+        "Musicista della metro",
+        "Modella in passerella",
+        "Fiorista"
+      ]
+    },
+    {
+      "name": "Londra",
+      "roles": [
+        "Guardia del palazzo",
+        "Tassista",
+        "Turista sul bus a due piani",
+        "Barista",
+        "Banchiere della City",
+        "Musicista di strada",
+        "Guida al Big Ben",
+        "Poliziotto di quartiere"
+      ]
+    },
+    {
+      "name": "Tokyo",
+      "roles": [
+        "Venditore di ramen",
+        "Turista a Shibuya",
+        "Impiegato",
+        "Cosplayer",
+        "Guida turistica",
+        "Commesso di elettronica",
+        "Studente",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Roma",
+      "roles": [
+        "Guida del Colosseo",
+        "Gelataio",
+        "Turista alla fontana",
+        "Cameriere di trattoria",
+        "Prete",
+        "Artista di strada",
+        "Tassista",
+        "Suora"
+      ]
+    },
+    {
+      "name": "New York",
+      "roles": [
+        "Tassista del taxi giallo",
+        "Musicista di strada",
+        "Turista a Times Square",
+        "Barista",
+        "Venditore di hot dog",
+        "Agente di borsa",
+        "Guida turistica",
+        "Writer di graffiti"
+      ]
+    },
+    {
+      "name": "Mosca",
+      "roles": [
+        "Guida della Piazza Rossa",
+        "Turista",
+        "Venditore di souvenir",
+        "Musicista del sottopasso",
+        "Barista",
+        "Guida della metro",
+        "Artista di strada",
+        "Tassista"
+      ]
+    },
+    {
+      "name": "Il Cairo",
+      "roles": [
+        "Guida delle piramidi",
+        "Venditore del bazar",
+        "Cammelliere",
+        "Turista",
+        "Mercante di spezie",
+        "Barcaiolo del Nilo",
+        "Proprietario della sala da tè",
+        "Musicista di strada"
+      ]
+    },
+    {
+      "name": "Istanbul",
+      "roles": [
+        "Venditore del Gran Bazar",
+        "Turista a Santa Sofia",
+        "Proprietario della sala da tè",
+        "Barcaiolo del Bosforo",
+        "Guida turistica",
+        "Mercante di tappeti",
+        "Musicista di strada",
+        "Venditore di simit"
+      ]
+    },
+    {
+      "name": "Barcellona",
+      "roles": [
+        "Guida della Sagrada Família",
+        "Artista di strada",
+        "Turista sulla Rambla",
+        "Cameriere di tapas",
+        "Venditore del mercato",
+        "Tifoso di calcio",
+        "Pittore",
+        "Chitarrista"
+      ]
+    },
+    {
+      "name": "Venezia",
+      "roles": [
+        "Gondoliere",
+        "Turista in piazza San Marco",
+        "Soffiatore di vetro",
+        "Mascheraio",
+        "Cameriere",
+        "Pittore",
+        "Guida turistica",
+        "Barcaiolo delle consegne"
+      ]
+    },
+    {
+      "name": "Amsterdam",
+      "roles": [
+        "Ciclista",
+        "Turista lungo i canali",
+        "Barista",
+        "Venditore di tulipani",
+        "Guida della crociera",
+        "Musicista",
+        "Casaro",
+        "Pittore"
+      ]
+    },
+    {
+      "name": "Berlino",
+      "roles": [
+        "Turista alla Porta di Brandeburgo",
+        "DJ",
+        "Artista di strada",
+        "Barista",
+        "Guida turistica",
+        "Corriere in bici",
+        "Venditore di currywurst",
+        "Musicista"
+      ]
+    },
+    {
+      "name": "Praga",
+      "roles": [
+        "Guida del Ponte Carlo",
+        "Fornaio",
+        "Turista",
+        "Musicista di strada",
+        "Venditrice di trdelník",
+        "Burattinaio",
+        "Pittore",
+        "Cameriere"
+      ]
+    },
+    {
+      "name": "Dubai",
+      "roles": [
+        "Guida dei grattacieli",
+        "Turista",
+        "Mercante del souk dell’oro",
+        "Barista",
+        "Falconiere",
+        "Tassista",
+        "Compratore compulsivo",
+        "Operaio del cantiere"
+      ]
+    },
+    {
+      "name": "Sydney",
+      "roles": [
+        "Surfista",
+        "Turista all’Opera House",
+        "Bagnino",
+        "Guida turistica",
+        "Barista",
+        "Musicista di strada",
+        "Venditore in spiaggia",
+        "Barcaiolo del porto"
+      ]
+    },
+    {
+      "name": "Rio de Janeiro",
+      "roles": [
+        "Ballerina di samba",
+        "Surfista",
+        "Turista al Cristo Redentore",
+        "Venditore in spiaggia",
+        "Musicista",
+        "Calciatore da spiaggia",
+        "Guida turistica",
+        "Percussionista del carnevale"
+      ]
+    },
+    {
+      "name": "Bangkok",
+      "roles": [
+        "Venditore di cibo di strada",
+        "Turista",
+        "Guidatore di tuk-tuk",
+        "Monaco",
+        "Guida turistica",
+        "Barcaiolo del mercato galleggiante",
+        "Massaggiatrice",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Pechino",
+      "roles": [
+        "Guida della Grande Muraglia",
+        "Turista",
+        "Venditore di ravioli",
+        "Calligrafo",
+        "Ciclista",
+        "Musicista di strada",
+        "Mercante di tè",
+        "Studente"
+      ]
+    },
+    {
+      "name": "Atene",
+      "roles": [
+        "Guida dell’Acropoli",
+        "Turista",
+        "Venditore di souvenir",
+        "Venditore di cibo di strada",
+        "Pescatore",
+        "Suonatore di bouzouki",
+        "Pittore",
+        "Prete"
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "roles": [
+        "Conducente del cable car",
+        "Turista sul ponte",
+        "Informatico",
+        "Barista",
+        "Musicista di strada",
+        "Surfista",
+        "Guida turistica",
+        "Venditore di granchi"
+      ]
+    }
+  ]
+}

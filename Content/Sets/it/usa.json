@@ -1,0 +1,253 @@
+{
+  "id": "usa",
+  "title": "Stati Uniti",
+  "locations": [
+    {
+      "name": "Statua della Libertà",
+      "roles": [
+        "Turista",
+        "Guida turistica",
+        "Capitano del traghetto",
+        "Fotografo",
+        "Venditore di souvenir",
+        "Ranger del parco",
+        "Studente",
+        "Guardia giurata"
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "roles": [
+        "Attore",
+        "Regista",
+        "Turista",
+        "Paparazzo",
+        "Guida del bus turistico",
+        "Venditore di mappe delle star",
+        "Stuntman",
+        "Sceneggiatrice"
+      ]
+    },
+    {
+      "name": "Grand Canyon",
+      "roles": [
+        "Turista",
+        "Ranger",
+        "Guida",
+        "Fotografo",
+        "Geologo",
+        "Pilota di elicottero",
+        "Ciclista",
+        "Studentessa"
+      ]
+    },
+    {
+      "name": "Times Square",
+      "roles": [
+        "Turista",
+        "Artista di strada",
+        "Venditore di hot dog",
+        "Tassista del taxi giallo",
+        "Fotografa",
+        "Poliziotto",
+        "Promoter",
+        "Musicista"
+      ]
+    },
+    {
+      "name": "Diner sulla statale",
+      "roles": [
+        "Cameriera",
+        "Cuoco alla piastra",
+        "Camionista",
+        "Cassiere",
+        "Cliente al bancone",
+        "Adolescente",
+        "Poliziotto",
+        "Viaggiatore di passaggio"
+      ]
+    },
+    {
+      "name": "Liceo americano",
+      "roles": [
+        "Studente dell’ultimo anno",
+        "Professoressa",
+        "Cheerleader",
+        "Coach",
+        "Preside",
+        "Bidello",
+        "Giocatore di football",
+        "Bibliotecaria"
+      ]
+    },
+    {
+      "name": "Base di Cape Canaveral",
+      "roles": [
+        "Ingegnera",
+        "Astronauta",
+        "Controllore di volo",
+        "Giornalista",
+        "Tecnico",
+        "Direttore del lancio",
+        "Turista",
+        "Guardia giurata"
+      ]
+    },
+    {
+      "name": "Fattoria del Midwest",
+      "roles": [
+        "Agricoltore",
+        "Cowboy",
+        "Trattorista",
+        "Mungitrice",
+        "Turista",
+        "Garzone di stalla",
+        "Venditore della fiera",
+        "Bambino"
+      ]
+    },
+    {
+      "name": "Stadio di baseball",
+      "roles": [
+        "Battitore",
+        "Tifoso",
+        "Telecronista",
+        "Venditrice di hot dog",
+        "Arbitro",
+        "Coach",
+        "Mascotte",
+        "Maschera"
+      ]
+    },
+    {
+      "name": "Spiaggia di Malibu",
+      "roles": [
+        "Surfista",
+        "Bagnino",
+        "Turista",
+        "Venditore",
+        "Fotografo",
+        "Skater",
+        "Chi prende il sole",
+        "Istruttore di surf"
+      ]
+    },
+    {
+      "name": "Metropolitana di New York",
+      "roles": [
+        "Passeggero",
+        "Musicista di strada",
+        "Turista",
+        "Poliziotta",
+        "Macchinista",
+        "Uomo d’affari",
+        "Studentessa",
+        "Breakdancer"
+      ]
+    },
+    {
+      "name": "Rodeo",
+      "roles": [
+        "Cavaliere del toro",
+        "Spettatore",
+        "Clown del rodeo",
+        "Annunciatore",
+        "Commissario",
+        "Venditrice",
+        "Allevatore",
+        "Veterinario"
+      ]
+    },
+    {
+      "name": "Stazione di polizia",
+      "roles": [
+        "Poliziotto",
+        "Detective",
+        "Impiegata",
+        "Avvocato difensore",
+        "Visitatore",
+        "Sergente",
+        "Recluta",
+        "Addetta all’accoglienza"
+      ]
+    },
+    {
+      "name": "Stazione di servizio sulla Route 66",
+      "roles": [
+        "Benzinaio",
+        "Viaggiatrice on the road",
+        "Motociclista",
+        "Meccanico",
+        "Cassiera",
+        "Camionista",
+        "Proprietario di un’auto d’epoca",
+        "Turista"
+      ]
+    },
+    {
+      "name": "Ufficio nella Silicon Valley",
+      "roles": [
+        "Sviluppatore",
+        "Amministratrice delegata",
+        "Stagista",
+        "Product manager",
+        "Recruiter",
+        "Designer",
+        "Investitrice",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Cena del Ringraziamento",
+      "roles": [
+        "Nonna",
+        "Zio",
+        "Cugina",
+        "Padrone di casa",
+        "Bambino",
+        "Suocera",
+        "Vicino",
+        "Ospite in ritardo"
+      ]
+    },
+    {
+      "name": "Wall Street",
+      "roles": [
+        "Trader",
+        "Broker",
+        "Analista",
+        "Amministratore delegato",
+        "Stagista",
+        "Turista",
+        "Guardia giurata",
+        "Giornalista"
+      ]
+    },
+    {
+      "name": "Campeggio nel parco nazionale",
+      "roles": [
+        "Campeggiatore",
+        "Ranger",
+        "Escursionista",
+        "Capo scout",
+        "Proprietario del camper",
+        "Pescatore",
+        "Bambino",
+        "Venditore"
+      ]
+    },
+    {
+      "name": "Cinema drive-in",
+      "roles": [
+        "Cassiera",
+        "Coppia a un appuntamento",
+        "Venditore di popcorn",
+        "Proiezionista",
+        "Adolescente",
+        "Famiglia",
+        "Cameriere alle auto",
+        "Guardia giurata"
+      ]
+    }
+  ]
+}

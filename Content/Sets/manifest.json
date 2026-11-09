@@ -606,6 +606,126 @@
       "lang": "fr",
       "file": "fr/usa.json",
       "version": 1
+    },
+    {
+      "id": "capitals",
+      "lang": "it",
+      "file": "it/capitals.json",
+      "version": 1
+    },
+    {
+      "id": "china",
+      "lang": "it",
+      "file": "it/china.json",
+      "version": 1
+    },
+    {
+      "id": "city",
+      "lang": "it",
+      "file": "it/city.json",
+      "version": 1
+    },
+    {
+      "id": "entertainment",
+      "lang": "it",
+      "file": "it/entertainment.json",
+      "version": 1
+    },
+    {
+      "id": "fantasy",
+      "lang": "it",
+      "file": "it/fantasy.json",
+      "version": 1
+    },
+    {
+      "id": "france",
+      "lang": "it",
+      "file": "it/france.json",
+      "version": 1
+    },
+    {
+      "id": "germany",
+      "lang": "it",
+      "file": "it/germany.json",
+      "version": 1
+    },
+    {
+      "id": "halloween",
+      "lang": "it",
+      "file": "it/halloween.json",
+      "version": 1
+    },
+    {
+      "id": "italy",
+      "lang": "it",
+      "file": "it/italy.json",
+      "version": 1
+    },
+    {
+      "id": "japan",
+      "lang": "it",
+      "file": "it/japan.json",
+      "version": 1
+    },
+    {
+      "id": "italian-summer",
+      "lang": "it",
+      "file": "it/italian-summer.json",
+      "version": 1
+    },
+    {
+      "id": "leisure",
+      "lang": "it",
+      "file": "it/leisure.json",
+      "version": 1
+    },
+    {
+      "id": "milano-everyday",
+      "lang": "it",
+      "file": "it/milano-everyday.json",
+      "version": 1
+    },
+    {
+      "id": "school-year",
+      "lang": "it",
+      "file": "it/school-year.json",
+      "version": 1
+    },
+    {
+      "id": "school",
+      "lang": "it",
+      "file": "it/school.json",
+      "version": 1
+    },
+    {
+      "id": "space",
+      "lang": "it",
+      "file": "it/space.json",
+      "version": 1
+    },
+    {
+      "id": "sport",
+      "lang": "it",
+      "file": "it/sport.json",
+      "version": 1
+    },
+    {
+      "id": "travel",
+      "lang": "it",
+      "file": "it/travel.json",
+      "version": 1
+    },
+    {
+      "id": "university",
+      "lang": "it",
+      "file": "it/university.json",
+      "version": 1
+    },
+    {
+      "id": "usa",
+      "lang": "it",
+      "file": "it/usa.json",
+      "version": 1
     }
   ]
 }

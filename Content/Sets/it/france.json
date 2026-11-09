@@ -1,0 +1,175 @@
+{
+  "id": "france",
+  "title": "Francia",
+  "locations": [
+    {
+      "name": "Torre Eiffel",
+      "roles": [
+        "Turista",
+        "Guida turistica",
+        "Venditore di souvenir",
+        "Fotografo",
+        "Coppia innamorata",
+        "Artista di strada",
+        "Guardia giurata",
+        "Cameriere del ristorante della torre"
+      ]
+    },
+    {
+      "name": "Louvre",
+      "roles": [
+        "Guida del museo",
+        "Turista con l’audioguida",
+        "Custode di sala",
+        "Pittrice copista",
+        "Studente in gita",
+        "Cassiere",
+        "Restauratore",
+        "Fotografo"
+      ]
+    },
+    {
+      "name": "Costa Azzurra",
+      "roles": [
+        "Turista in spiaggia",
+        "Proprietario dello yacht",
+        "Cameriere",
+        "Gelataio",
+        "Bagnino",
+        "Fotografa",
+        "Milionario in vacanza",
+        "Musicista"
+      ]
+    },
+    {
+      "name": "Reggia di Versailles",
+      "roles": [
+        "Guida",
+        "Turista",
+        "Giardiniere",
+        "Custode",
+        "Attore in costume",
+        "Fotografo",
+        "Cassiera",
+        "Restauratrice"
+      ]
+    },
+    {
+      "name": "Caffè parigino",
+      "roles": [
+        "Cameriere",
+        "Poeta con il quaderno",
+        "Turista",
+        "Barista",
+        "Pittore",
+        "Coppia innamorata",
+        "Musicista",
+        "Cliente abituale"
+      ]
+    },
+    {
+      "name": "Montmartre",
+      "roles": [
+        "Pittore di strada",
+        "Turista",
+        "Musicista",
+        "Venditrice",
+        "Poeta",
+        "Guida",
+        "Caricaturista",
+        "Cameriere"
+      ]
+    },
+    {
+      "name": "Campi di lavanda in Provenza",
+      "roles": [
+        "Agricoltore",
+        "Turista con la macchina fotografica",
+        "Apicoltore",
+        "Pittrice",
+        "Guida",
+        "Venditrice di lavanda",
+        "Profumiere",
+        "Ciclista"
+      ]
+    },
+    {
+      "name": "Castello della Loira",
+      "roles": [
+        "Guida",
+        "Turista",
+        "Custode",
+        "Giardiniere",
+        "Rievocatore storico",
+        "Fotografo",
+        "Cassiere",
+        "Operaio della tenuta"
+      ]
+    },
+    {
+      "name": "Festival di Cannes",
+      "roles": [
+        "Star del cinema",
+        "Paparazzo",
+        "Regista",
+        "Fan",
+        "Giornalista",
+        "Addetto alla sicurezza",
+        "Stilista",
+        "Ospite con l’invito"
+      ]
+    },
+    {
+      "name": "Negozio di formaggi",
+      "roles": [
+        "Casaro",
+        "Cliente",
+        "Degustatore",
+        "Negoziante",
+        "Turista",
+        "Allevatore",
+        "Cassiera",
+        "Buongustaio"
+      ]
+    },
+    {
+      "name": "Disneyland Paris",
+      "roles": [
+        "Personaggio in costume",
+        "Bambino",
+        "Genitore",
+        "Addetto alle giostre",
+        "Venditore",
+        "Fotografa",
+        "Turista",
+        "Cassiere"
+      ]
+    },
+    {
+      "name": "Arco di Trionfo",
+      "roles": [
+        "Turista",
+        "Guida",
+        "Fotografo",
+        "Venditrice di souvenir",
+        "Vigile urbano",
+        "Ciclista",
+        "Sposi",
+        "Guardia giurata"
+      ]
+    },
+    {
+      "name": "Ristorante stellato",
+      "roles": [
+        "Chef",
+        "Cameriere",
+        "Maître",
+        "Commensale a un appuntamento",
+        "Pasticcere",
+        "Critica gastronomica",
+        "Aiuto cuoco",
+        "Hostess"
+      ]
+    }
+  ]
+}
