@@ -1,0 +1,227 @@
+{
+  "id": "university",
+  "title": "Universidad",
+  "locations": [
+    {
+      "name": "Clase magistral",
+      "roles": [
+        "Profesor",
+        "Estudiante de primera fila",
+        "Estudiante dormido al fondo",
+        "Delegado con la lista de asistencia",
+        "El que toma apuntes",
+        "El que llega tarde",
+        "Estudiante con portátil",
+        "Oyente"
+      ]
+    },
+    {
+      "name": "Habitación de la residencia",
+      "roles": [
+        "Responsable de planta",
+        "Novato con una maleta",
+        "Compañero de habitación",
+        "Estudiante con una guitarra",
+        "Recepcionista",
+        "Estudiante con una olla",
+        "Estudiante de intercambio",
+        "El que busca una plancha"
+      ]
+    },
+    {
+      "name": "Comedor universitario",
+      "roles": [
+        "Cajero",
+        "Estudiante con la bandeja",
+        "Profesor",
+        "Cocinero",
+        "Estudiante contando monedas",
+        "Chica con una ensalada",
+        "Limpiador",
+        "El que se cuela en la fila"
+      ]
+    },
+    {
+      "name": "Examen final",
+      "roles": [
+        "Profesor",
+        "Estudiante eligiendo pregunta",
+        "Empollón",
+        "Estudiante con una chuleta",
+        "El que repasa en la puerta",
+        "Profesor ayudante",
+        "Delegado",
+        "Estudiante con las actas"
+      ]
+    },
+    {
+      "name": "Defensa del trabajo de fin de grado",
+      "roles": [
+        "Estudiante que defiende",
+        "Tutor del trabajo",
+        "Presidente del tribunal",
+        "Vocal del tribunal",
+        "Secretario del tribunal",
+        "Compañero entre el público",
+        "Administrativa",
+        "Padre en la última fila"
+      ]
+    },
+    {
+      "name": "Biblioteca",
+      "roles": [
+        "Bibliotecario",
+        "Estudiante con una pila de libros",
+        "El que empolla antes del examen",
+        "Doctorando",
+        "Estudiante dormido en la mesa",
+        "Lector con auriculares",
+        "Vigilante",
+        "El que busca un enchufe"
+      ]
+    },
+    {
+      "name": "Laboratorio de investigación",
+      "roles": [
+        "Técnico de laboratorio",
+        "Doctorando",
+        "Estudiante con un tubo de ensayo",
+        "Profesor",
+        "Estudiante con bata",
+        "El que rompió el aparato",
+        "Técnico de equipos",
+        "Becario"
+      ]
+    },
+    {
+      "name": "Secretaría",
+      "roles": [
+        "Aspirante",
+        "Administrativa de admisiones",
+        "Padre del aspirante",
+        "Estudiante voluntario",
+        "Jefe de admisiones",
+        "Aspirante con matrícula de honor",
+        "Aspirante con una carpeta de documentos",
+        "Vigilante"
+      ]
+    },
+    {
+      "name": "Decanato",
+      "roles": [
+        "Decano",
+        "Secretaria del decano",
+        "Estudiante pidiendo un certificado",
+        "Estudiante con suspensos",
+        "Coordinador del grupo",
+        "Chica con una solicitud",
+        "Vicedecano",
+        "Estudiante que vuelve tras un año"
+      ]
+    },
+    {
+      "name": "Concurso de talentos del campus",
+      "roles": [
+        "Presentador",
+        "Cantante",
+        "Bailarín",
+        "Técnico de sonido",
+        "Miembro del jurado",
+        "Estudiante que olvidó la letra",
+        "Fotógrafo",
+        "Animadora de la facultad"
+      ]
+    },
+    {
+      "name": "Examen de recuperación",
+      "roles": [
+        "Profesor",
+        "Estudiante que suspendió",
+        "El que se presenta por tercera vez",
+        "Delegado",
+        "Profesor ayudante",
+        "Estudiante esperando en la puerta",
+        "Administrativa del departamento",
+        "Empollón que viene de acompañante"
+      ]
+    },
+    {
+      "name": "Noche en vela antes del examen",
+      "roles": [
+        "Estudiante con café",
+        "Chica con los apuntes",
+        "El que abre el libro por primera vez",
+        "Compañero de piso",
+        "Estudiante dormido sobre el libro",
+        "El que ve la clase grabada",
+        "El que llama al que más sabe",
+        "El que plancha una camisa"
+      ]
+    },
+    {
+      "name": "Graduación",
+      "roles": [
+        "Graduado con toga",
+        "Rector",
+        "Decano",
+        "Padre con flores",
+        "Fotógrafo",
+        "Graduado con matrícula de honor",
+        "Compañero de promoción",
+        "Músico de la tuna"
+      ]
+    },
+    {
+      "name": "Secretaría del departamento",
+      "roles": [
+        "Director del departamento",
+        "Técnico de laboratorio",
+        "Doctorando",
+        "Profesor titular",
+        "Administrativa",
+        "Estudiante con un trabajo",
+        "Profesor",
+        "Coordinador de estudios"
+      ]
+    },
+    {
+      "name": "Clase de las ocho de la mañana",
+      "roles": [
+        "Profesor",
+        "El que llega tarde",
+        "Chica con un café",
+        "Estudiante dormido",
+        "Delegado",
+        "Estudiante con portátil",
+        "El que termina el desayuno",
+        "Encargado de borrar la pizarra"
+      ]
+    },
+    {
+      "name": "Cocina de la residencia",
+      "roles": [
+        "Estudiante con pasta",
+        "Chica con un hervidor",
+        "Vecino que pide sal",
+        "Responsable de planta en inspección",
+        "El que olvidó la olla",
+        "Estudiante de intercambio con un plato de su país",
+        "Encargado de la limpieza",
+        "El que friega los platos"
+      ]
+    },
+    {
+      "name": "Copistería",
+      "roles": [
+        "Dependiente de la copistería",
+        "Estudiante con un trabajo",
+        "Estudiante con una hoja atascada",
+        "Profesor con fotocopias",
+        "Chica con un pendrive",
+        "Estudiante sin cambio",
+        "Novato con el horario",
+        "Doctorando con su tesis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "id": "travel",
+  "title": "Viajes",
+  "locations": [
+    {
+      "name": "Aeropuerto",
+      "roles": [
+        "Pasajero con una maleta",
+        "Agente de facturación",
+        "Agente de seguridad",
+        "Piloto",
+        "Barista",
+        "Dependiente del duty free",
+        "Turista con un mapa",
+        "Limpiador"
+      ]
+    },
+    {
+      "name": "Avión",
+      "roles": [
+        "Auxiliar de vuelo",
+        "Pasajero de ventanilla",
+        "Piloto",
+        "Niño con una tableta",
+        "Empresario con portátil",
+        "Abuela con una manta",
+        "Turista con auriculares",
+        "Auxiliar con el carrito"
+      ]
+    },
+    {
+      "name": "Tren",
+      "roles": [
+        "Revisor",
+        "Pasajero de la litera de arriba",
+        "Niño junto a la ventanilla",
+        "Encargado del carrito de snacks",
+        "Mochilero",
+        "Viajero de negocios",
+        "Estudiante con un libro",
+        "Vecino de compartimento"
+      ]
+    },
+    {
+      "name": "Crucero",
+      "roles": [
+        "Capitán",
+        "Camarero de la piscina",
+        "Turista con un helado",
+        "Animador",
+        "Marinero de cubierta",
+        "Pasajero en una hamaca",
+        "Músico",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Hotel",
+      "roles": [
+        "Recepcionista",
+        "Botones",
+        "Turista con una maleta",
+        "Camarera de piso",
+        "Conserje",
+        "Barista del vestíbulo",
+        "Huésped de negocios",
+        "Portero"
+      ]
+    },
+    {
+      "name": "Playa",
+      "roles": [
+        "Socorrista",
+        "Turista sobre una toalla",
+        "Heladero",
+        "Niño con un cubo",
+        "Surfista",
+        "Masajista",
+        "Fotógrafo",
+        "Abuela bajo la sombrilla"
+      ]
+    },
+    {
+      "name": "Estación de esquí",
+      "roles": [
+        "Monitor",
+        "Esquiador en el telesilla",
+        "Snowboarder",
+        "Patrullero de pistas",
+        "Vendedor de chocolate caliente",
+        "Turista de la tienda de alquiler",
+        "Niño en un trineo",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Museo",
+      "roles": [
+        "Guía turístico",
+        "Vigilante de sala",
+        "Turista con audioguía",
+        "Escolar de excursión",
+        "Artista con un cuaderno",
+        "Taquillero",
+        "Restaurador",
+        "Guardia de seguridad"
+      ]
+    },
+    {
+      "name": "Zoo",
+      "roles": [
+        "Cuidador",
+        "Niño junto al recinto",
+        "Vendedor de algodón de azúcar",
+        "Turista con una cámara",
+        "Veterinario",
+        "Guía turístico",
+        "Taquillero",
+        "Limpiador"
+      ]
+    },
+    {
+      "name": "Parque de atracciones",
+      "roles": [
+        "Operador del tiovivo",
+        "Niño con un globo",
+        "Vendedor de perritos calientes",
+        "Turista en la cola",
+        "Mascota disfrazada",
+        "Taquillero",
+        "Fotógrafo",
+        "Limpiador"
+      ]
+    },
+    {
+      "name": "Camping",
+      "roles": [
+        "Campista junto al fuego",
+        "Pescador",
+        "Niño con una linterna",
+        "Guía",
+        "Turista con una guitarra",
+        "Cocinero del hornillo",
+        "Vecino de tienda",
+        "Recolector de leña"
+      ]
+    },
+    {
+      "name": "Parque safari",
+      "roles": [
+        "Guía guarda",
+        "Turista con prismáticos",
+        "Conductor del todoterreno",
+        "Fotógrafo de naturaleza",
+        "Niño en la ventanilla",
+        "Naturalista",
+        "Turista con sombrero",
+        "Veterinario"
+      ]
+    },
+    {
+      "name": "Autobús turístico",
+      "roles": [
+        "Guía con micrófono",
+        "Conductor",
+        "Turista junto a la ventanilla",
+        "Pasajero dormido",
+        "Niño con un helado",
+        "Fotógrafo",
+        "Turista con un mapa",
+        "El que llega tarde"
+      ]
+    },
+    {
+      "name": "Estación de tren",
+      "roles": [
+        "Taquillero",
+        "Pasajero con una maleta",
+        "Mozo de equipajes",
+        "Abuela en un banco",
+        "Policía",
+        "Vendedor del quiosco",
+        "Turista con el horario",
+        "Persona con un cartel con un nombre"
+      ]
+    },
+    {
+      "name": "Parque acuático",
+      "roles": [
+        "Socorrista",
+        "Niño en el tobogán",
+        "Turista en un flotador",
+        "Monitor",
+        "Vendedor de bebidas",
+        "Masajista",
+        "Taquillero",
+        "Limpiador"
+      ]
+    },
+    {
+      "name": "Balneario",
+      "roles": [
+        "Masajista",
+        "Huésped en albornoz",
+        "Recepcionista",
+        "Esteticista",
+        "Encargado de la sauna",
+        "Turista en una hamaca",
+        "Limpiador",
+        "Barista de infusiones"
+      ]
+    },
+    {
+      "name": "Isla tropical",
+      "roles": [
+        "Guía",
+        "Turista con gafas de buceo",
+        "Instructor de buceo",
+        "Pescador",
+        "Vendedor de cocos",
+        "Fotógrafo",
+        "Niño en la arena",
+        "Surfista"
+      ]
+    },
+    {
+      "name": "Teleférico",
+      "roles": [
+        "Operador de la estación",
+        "Turista en la cabina",
+        "Fotógrafo",
+        "Niño junto a la ventana",
+        "Rescatador",
+        "Guía",
+        "Esquiador",
+        "Turista con prismáticos"
+      ]
+    },
+    {
+      "name": "Visita guiada por la ciudad",
+      "roles": [
+        "Guía",
+        "Músico callejero",
+        "Turista con un mapa",
+        "Vendedor de recuerdos",
+        "Retratista",
+        "Turista con un palo selfi",
+        "Cochero",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Mercado de recuerdos",
+      "roles": [
+        "Vendedor de imanes",
+        "Artesano",
+        "Turista con bolsas",
+        "Pregonero",
+        "Catador de especias",
+        "Artista",
+        "Cajero",
+        "Músico"
+      ]
+    },
+    {
+      "name": "Acuario",
+      "roles": [
+        "Cuidador",
+        "Niño junto al tanque",
+        "Buceador dentro del tanque",
+        "Guía turístico",
+        "Vendedor de recuerdos",
+        "Fotógrafo",
+        "Taquillero",
+        "Biólogo marino"
+      ]
+    }
+  ]
+}

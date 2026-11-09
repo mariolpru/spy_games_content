@@ -1,0 +1,188 @@
+{
+  "id": "entertainment",
+  "title": "Ocio",
+  "locations": [
+    {
+      "name": "Discoteca",
+      "roles": [
+        "DJ",
+        "Camarero",
+        "Bailarín",
+        "Portero",
+        "Invitado VIP",
+        "Relaciones públicas",
+        "Camarera",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Teatro",
+      "roles": [
+        "Actor",
+        "Acomodador",
+        "Espectador de primera fila",
+        "Apuntador",
+        "Maquillador",
+        "Director de orquesta",
+        "Encargado del guardarropa",
+        "Técnico de luces"
+      ]
+    },
+    {
+      "name": "Concierto",
+      "roles": [
+        "Músico",
+        "Fan de primera fila",
+        "Técnico de sonido",
+        "Seguridad del escenario",
+        "Vendedor de camisetas",
+        "Cámara",
+        "Espectador con entrada",
+        "Corista"
+      ]
+    },
+    {
+      "name": "Circo",
+      "roles": [
+        "Payaso",
+        "Domador",
+        "Acróbata",
+        "Padre con un niño",
+        "Acomodador",
+        "Mago",
+        "Vendedor de algodón de azúcar",
+        "Malabarista"
+      ]
+    },
+    {
+      "name": "Club de monólogos",
+      "roles": [
+        "Humorista",
+        "Presentador",
+        "Espectador en una mesa",
+        "Azafata de sala",
+        "Camarero",
+        "Técnico de sonido",
+        "Encargado",
+        "Invitado de primera fila"
+      ]
+    },
+    {
+      "name": "Bolera",
+      "roles": [
+        "Jugador",
+        "Encargado del alquiler de zapatos",
+        "Cajero",
+        "Grupo de amigos",
+        "Recepcionista",
+        "Niño en la pista",
+        "Camarero",
+        "Limpiador"
+      ]
+    },
+    {
+      "name": "Karaoke",
+      "roles": [
+        "Invitado cantando",
+        "Presentador",
+        "Cajero",
+        "Camarero",
+        "Técnico de sonido",
+        "Grupo en el sofá",
+        "Recepcionista",
+        "Invitado tímido"
+      ]
+    },
+    {
+      "name": "Teatro de la ópera",
+      "roles": [
+        "Cantante de ópera",
+        "Director de orquesta",
+        "Invitado en el palco",
+        "Acomodador",
+        "Encargado del guardarropa",
+        "Músico de la orquesta",
+        "Maquillador",
+        "Jefe de acomodadores"
+      ]
+    },
+    {
+      "name": "Café",
+      "roles": [
+        "Barista",
+        "Camarero",
+        "Pastelero",
+        "Cliente habitual",
+        "Ayudante de camarero",
+        "Cajero",
+        "Cliente con portátil",
+        "Encargado"
+      ]
+    },
+    {
+      "name": "Sala de escape",
+      "roles": [
+        "Actor animador",
+        "Jugador",
+        "Operador",
+        "Recepcionista",
+        "Equipo de amigos",
+        "Game master",
+        "Vigilante en la sala de control",
+        "Novato"
+      ]
+    },
+    {
+      "name": "Festival de música",
+      "roles": [
+        "Músico en el escenario",
+        "Espectador con una manta",
+        "Vendedor de comida callejera",
+        "Voluntario",
+        "Técnico de sonido",
+        "Guardia de seguridad",
+        "Fiestero con una bandera",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Fiesta de baile",
+      "roles": [
+        "DJ",
+        "Invitado bailando",
+        "Camarero",
+        "Operador de luces",
+        "Portero",
+        "Relaciones públicas",
+        "Grupo de amigos",
+        "Invitado en la pista"
+      ]
+    },
+    {
+      "name": "Cine",
+      "roles": [
+        "Espectador con palomitas",
+        "Acomodador",
+        "Cajero",
+        "Proyeccionista",
+        "Pareja en una cita",
+        "Vendedor del puesto de dulces",
+        "Limpiador",
+        "Espectador que llega tarde"
+      ]
+    },
+    {
+      "name": "Espectáculo sobre hielo",
+      "roles": [
+        "Patinador artístico",
+        "Espectador",
+        "Presentador",
+        "Técnico de luces",
+        "Diseñador de vestuario",
+        "Acomodador",
+        "Técnico de sonido",
+        "Niño entre el público"
+      ]
+    }
+  ]
+}

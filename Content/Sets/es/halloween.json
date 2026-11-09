@@ -1,0 +1,266 @@
+{
+  "id": "halloween",
+  "title": "Halloween",
+  "locations": [
+    {
+      "name": "Casa del terror",
+      "roles": [
+        "Actor de fantasma",
+        "Taquillero",
+        "Visitante",
+        "Maquillador",
+        "Guardia de seguridad",
+        "Adolescente retado",
+        "Técnico de efectos especiales",
+        "Madre llevando a un niño de la mano"
+      ]
+    },
+    {
+      "name": "Campo de calabazas",
+      "roles": [
+        "Granjero",
+        "Niño con un carrito",
+        "Madre con una cámara",
+        "Vendedor de chocolate caliente",
+        "Conductor del tractor",
+        "Animador disfrazado de espantapájaros",
+        "Bloguero",
+        "Comprador buscando la calabaza más grande"
+      ]
+    },
+    {
+      "name": "Cementerio antiguo",
+      "roles": [
+        "Sepulturero",
+        "Guía de la visita nocturna",
+        "Cazafantasmas",
+        "Turista con una linterna",
+        "Historiador",
+        "Jardinero",
+        "Adolescente retado",
+        "Actor disfrazado de fantasma"
+      ]
+    },
+    {
+      "name": "Castillo de Drácula",
+      "roles": [
+        "El conde Drácula",
+        "Mayordomo",
+        "Invitado a la cena",
+        "Doncella",
+        "Cochero",
+        "Cazador de vampiros",
+        "Viajero perdido",
+        "Cronista del castillo"
+      ]
+    },
+    {
+      "name": "Laboratorio del científico loco",
+      "roles": [
+        "Científico loco",
+        "Ayudante",
+        "Monstruo en la mesa",
+        "Electricista",
+        "Limpiador",
+        "Inspector",
+        "Reportero",
+        "Voluntario para el experimento"
+      ]
+    },
+    {
+      "name": "Tienda de disfraces",
+      "roles": [
+        "Dependiente",
+        "Comprador",
+        "Niño en el probador",
+        "Maquillador",
+        "Cajero",
+        "Madre con tres niños",
+        "Adolescente",
+        "Mozo de almacén"
+      ]
+    },
+    {
+      "name": "Calle de truco o trato",
+      "roles": [
+        "Niño disfrazado de fantasma",
+        "Niña disfrazada de bruja",
+        "Padre con una linterna",
+        "Vecina con un cuenco de caramelos",
+        "Adolescente con una funda de almohada",
+        "Abuela en la puerta",
+        "Hermano mayor de acompañante",
+        "Vecino con la casa decorada"
+      ]
+    },
+    {
+      "name": "Exposición de la tumba egipcia",
+      "roles": [
+        "Arqueólogo",
+        "Actor disfrazado de momia",
+        "Guía del museo",
+        "Turista",
+        "Guardia de seguridad",
+        "Restaurador",
+        "Escolar de excursión",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Mansión abandonada",
+      "roles": [
+        "Agente inmobiliario",
+        "Cazafantasmas",
+        "Bloguero",
+        "Electricista",
+        "Vigilante",
+        "Adolescente retado",
+        "Actor de fantasma",
+        "Vecina con una tarta"
+      ]
+    },
+    {
+      "name": "Tienda de caramelos",
+      "roles": [
+        "Confitero",
+        "Niño con una hucha",
+        "Tendero",
+        "Catador",
+        "Repartidor",
+        "Madre con una lista",
+        "Dentista comprando caramelos",
+        "Escaparatista"
+      ]
+    },
+    {
+      "name": "Sala de la adivina",
+      "roles": [
+        "Adivina",
+        "Cliente",
+        "Escéptico",
+        "Aprendiz",
+        "Fotógrafo",
+        "Vecina cotilla",
+        "Desmontador de trucos",
+        "Joven médium"
+      ]
+    },
+    {
+      "name": "Noche de cine de terror",
+      "roles": [
+        "Espectador bajo una manta",
+        "Acomodador",
+        "Vendedor de palomitas",
+        "Proyeccionista",
+        "Pareja en una cita",
+        "Espectador dormido",
+        "Crítico de cine",
+        "Adolescente con el teléfono"
+      ]
+    },
+    {
+      "name": "Museo de cera",
+      "roles": [
+        "Vigilante nocturno",
+        "Actor que posa como figura de cera",
+        "Escultor",
+        "Turista",
+        "Niño",
+        "Restaurador",
+        "Guía turístico",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Paseo embrujado en carro de heno",
+      "roles": [
+        "Conductor del tractor",
+        "Pasajero",
+        "Actor de espantapájaros",
+        "Recogedor de entradas",
+        "Niño agarrado a una manta",
+        "Adolescente gritando por diversión",
+        "Dueño de la granja",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Fiesta de Halloween",
+      "roles": [
+        "Anfitrión",
+        "Invitado disfrazado de esqueleto",
+        "Invitada disfrazada de calabaza",
+        "DJ",
+        "Niño con un cubo de caramelos",
+        "Invitado pescando manzanas",
+        "Fotógrafo",
+        "Vecino quejándose del ruido"
+      ]
+    },
+    {
+      "name": "Casa de la bruja",
+      "roles": [
+        "Bruja",
+        "Aprendiz de bruja",
+        "Niño perdido",
+        "Repartidor",
+        "Vecina con una tarta",
+        "Recolector de hierbas",
+        "Invitado a tomar té",
+        "Reparador de escobas"
+      ]
+    },
+    {
+      "name": "Casita de jengibre",
+      "roles": [
+        "Bruja",
+        "Hansel",
+        "Gretel",
+        "Senderista perdido",
+        "Leñador",
+        "Repartidor de caramelos",
+        "Niño mordisqueando la pared",
+        "Pastelero de jengibre"
+      ]
+    },
+    {
+      "name": "Barco fantasma",
+      "roles": [
+        "Capitán fantasma",
+        "Grumete",
+        "Contramaestre",
+        "Cazador de tesoros",
+        "Pescador perdido",
+        "Navegante con un mapa",
+        "Cocinero del barco",
+        "Cautivo en la bodega"
+      ]
+    },
+    {
+      "name": "Parque de atracciones abandonado",
+      "roles": [
+        "Vigilante",
+        "Bloguero",
+        "Adolescente retado",
+        "Mecánico de la noria",
+        "Antiguo taquillero",
+        "Fotógrafo",
+        "Turista perdido",
+        "Actor de payaso"
+      ]
+    },
+    {
+      "name": "Desván de una casa vieja",
+      "roles": [
+        "Abuela con un baúl",
+        "Nieto con una linterna",
+        "Electricista",
+        "Anticuario",
+        "Madre con cajas",
+        "Niña con el vestido de la abuela",
+        "Abuelo con un álbum de fotos",
+        "Techador"
+      ]
+    }
+  ]
+}

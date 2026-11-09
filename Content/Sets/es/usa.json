@@ -1,0 +1,253 @@
+{
+  "id": "usa",
+  "title": "Estados Unidos",
+  "locations": [
+    {
+      "name": "Estatua de la Libertad",
+      "roles": [
+        "Turista",
+        "Guía turístico",
+        "Capitán del ferri",
+        "Fotógrafo",
+        "Vendedor de recuerdos",
+        "Guarda del parque",
+        "Escolar",
+        "Guardia de seguridad"
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "roles": [
+        "Actor",
+        "Director",
+        "Turista",
+        "Paparazzi",
+        "Guía del autobús turístico",
+        "Vendedor de mapas de estrellas",
+        "Especialista de acción",
+        "Guionista"
+      ]
+    },
+    {
+      "name": "Gran Cañón",
+      "roles": [
+        "Turista",
+        "Guarda del parque",
+        "Guía",
+        "Fotógrafo",
+        "Geólogo",
+        "Piloto de helicóptero",
+        "Ciclista",
+        "Escolar"
+      ]
+    },
+    {
+      "name": "Times Square",
+      "roles": [
+        "Turista",
+        "Artista callejero",
+        "Vendedor de perritos calientes",
+        "Taxista del taxi amarillo",
+        "Fotógrafo",
+        "Policía",
+        "Promotor",
+        "Músico"
+      ]
+    },
+    {
+      "name": "Diner de carretera",
+      "roles": [
+        "Camarera",
+        "Cocinero de la plancha",
+        "Camionero",
+        "Cajero",
+        "Cliente de la barra",
+        "Adolescente",
+        "Policía",
+        "Viajero"
+      ]
+    },
+    {
+      "name": "Instituto americano",
+      "roles": [
+        "Alumno de último curso",
+        "Profesor",
+        "Animadora",
+        "Entrenador",
+        "Director",
+        "Conserje",
+        "Jugador de fútbol americano",
+        "Bibliotecaria"
+      ]
+    },
+    {
+      "name": "Base espacial de Cabo Cañaveral",
+      "roles": [
+        "Ingeniero",
+        "Astronauta",
+        "Controlador de vuelo",
+        "Periodista",
+        "Técnico",
+        "Director de lanzamiento",
+        "Turista",
+        "Guardia de seguridad"
+      ]
+    },
+    {
+      "name": "Granja del campo",
+      "roles": [
+        "Granjero",
+        "Vaquero",
+        "Conductor del tractor",
+        "Ordeñadora",
+        "Turista",
+        "Mozo de cuadra",
+        "Vendedor de la feria",
+        "Niño"
+      ]
+    },
+    {
+      "name": "Estadio de béisbol",
+      "roles": [
+        "Bateador",
+        "Aficionado",
+        "Comentarista",
+        "Vendedor de perritos calientes",
+        "Árbitro",
+        "Entrenador",
+        "Mascota",
+        "Acomodador"
+      ]
+    },
+    {
+      "name": "Playa de Malibú",
+      "roles": [
+        "Surfista",
+        "Socorrista",
+        "Turista",
+        "Vendedor",
+        "Fotógrafo",
+        "Skater",
+        "Bañista tomando el sol",
+        "Monitor de surf"
+      ]
+    },
+    {
+      "name": "Metro de Nueva York",
+      "roles": [
+        "Pasajero",
+        "Músico callejero",
+        "Turista",
+        "Policía",
+        "Maquinista",
+        "Empresario",
+        "Estudiante",
+        "Bailarín de break"
+      ]
+    },
+    {
+      "name": "Rodeo",
+      "roles": [
+        "Jinete de caballo salvaje",
+        "Espectador",
+        "Payaso de rodeo",
+        "Locutor",
+        "Comisario",
+        "Vendedor",
+        "Ranchero",
+        "Veterinario"
+      ]
+    },
+    {
+      "name": "Comisaría",
+      "roles": [
+        "Agente",
+        "Inspector",
+        "Administrativo",
+        "Abogado defensor",
+        "Visitante",
+        "Sargento",
+        "Policía novato",
+        "Recepcionista"
+      ]
+    },
+    {
+      "name": "Gasolinera de la Ruta 66",
+      "roles": [
+        "Empleado del surtidor",
+        "Viajero de carretera",
+        "Motero",
+        "Mecánico",
+        "Cajero",
+        "Camionero",
+        "Dueño de un coche clásico",
+        "Turista"
+      ]
+    },
+    {
+      "name": "Oficina de Silicon Valley",
+      "roles": [
+        "Ingeniero de software",
+        "Director ejecutivo",
+        "Becario",
+        "Jefe de producto",
+        "Reclutador",
+        "Diseñador",
+        "Inversor",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Cena de Acción de Gracias",
+      "roles": [
+        "Abuela",
+        "Tío",
+        "Primo",
+        "Anfitrión",
+        "Niño",
+        "Suegra",
+        "Vecino",
+        "Invitado que llega tarde"
+      ]
+    },
+    {
+      "name": "Wall Street",
+      "roles": [
+        "Operador de bolsa",
+        "Agente",
+        "Analista",
+        "Director ejecutivo",
+        "Becario",
+        "Turista",
+        "Guardia de seguridad",
+        "Periodista"
+      ]
+    },
+    {
+      "name": "Camping del parque nacional",
+      "roles": [
+        "Campista",
+        "Guarda del parque",
+        "Senderista",
+        "Jefe de los scouts",
+        "Dueño de una autocaravana",
+        "Pescador",
+        "Niño",
+        "Vendedor"
+      ]
+    },
+    {
+      "name": "Autocine",
+      "roles": [
+        "Taquillero",
+        "Pareja en una cita",
+        "Vendedor de palomitas",
+        "Proyeccionista",
+        "Adolescente",
+        "Familia",
+        "Camarero del autocine",
+        "Guardia de seguridad"
+      ]
+    }
+  ]
+}

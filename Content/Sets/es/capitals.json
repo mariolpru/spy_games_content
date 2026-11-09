@@ -1,0 +1,305 @@
+{
+  "id": "capitals",
+  "title": "Capitales del mundo",
+  "locations": [
+    {
+      "name": "París",
+      "roles": [
+        "Camarero de café",
+        "Artista callejero",
+        "Turista en la Torre Eiffel",
+        "Panadero de baguettes",
+        "Guía turístico",
+        "Músico del metro",
+        "Modelo de pasarela",
+        "Florista"
+      ]
+    },
+    {
+      "name": "Londres",
+      "roles": [
+        "Guardia del palacio",
+        "Taxista",
+        "Turista en el autobús de dos pisos",
+        "Barista",
+        "Banquero de la City",
+        "Músico callejero",
+        "Guía del Big Ben",
+        "Policía de barrio"
+      ]
+    },
+    {
+      "name": "Tokio",
+      "roles": [
+        "Vendedor de ramen",
+        "Turista en Shibuya",
+        "Oficinista",
+        "Cosplayer",
+        "Guía turístico",
+        "Dependiente de electrónica",
+        "Escolar",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Roma",
+      "roles": [
+        "Guía del Coliseo",
+        "Heladero",
+        "Turista en la fuente",
+        "Camarero de trattoria",
+        "Cura",
+        "Artista callejero",
+        "Taxista",
+        "Monja"
+      ]
+    },
+    {
+      "name": "Nueva York",
+      "roles": [
+        "Taxista del taxi amarillo",
+        "Músico callejero",
+        "Turista en Times Square",
+        "Barista",
+        "Vendedor de perritos calientes",
+        "Agente de bolsa",
+        "Guía turístico",
+        "Grafitero"
+      ]
+    },
+    {
+      "name": "Moscú",
+      "roles": [
+        "Guía de la Plaza Roja",
+        "Turista",
+        "Vendedor de recuerdos",
+        "Músico del paso subterráneo",
+        "Barista",
+        "Guía del metro",
+        "Artista callejero",
+        "Taxista"
+      ]
+    },
+    {
+      "name": "El Cairo",
+      "roles": [
+        "Guía de las pirámides",
+        "Vendedor del bazar",
+        "Camellero",
+        "Turista",
+        "Comerciante de especias",
+        "Barquero del Nilo",
+        "Dueño de la casa de té",
+        "Músico callejero"
+      ]
+    },
+    {
+      "name": "Estambul",
+      "roles": [
+        "Vendedor del Gran Bazar",
+        "Turista en Santa Sofía",
+        "Dueño de la casa de té",
+        "Barquero del Bósforo",
+        "Guía turístico",
+        "Vendedor de alfombras",
+        "Músico callejero",
+        "Panadero de simit"
+      ]
+    },
+    {
+      "name": "Barcelona",
+      "roles": [
+        "Guía de la Sagrada Familia",
+        "Artista callejero",
+        "Turista en La Rambla",
+        "Camarero de tapas",
+        "Vendedor de la Boquería",
+        "Aficionado del fútbol",
+        "Pintor",
+        "Guitarrista"
+      ]
+    },
+    {
+      "name": "Venecia",
+      "roles": [
+        "Gondolero",
+        "Turista en la plaza de San Marcos",
+        "Soplador de vidrio",
+        "Fabricante de máscaras",
+        "Camarero",
+        "Pintor",
+        "Guía turístico",
+        "Barquero de reparto"
+      ]
+    },
+    {
+      "name": "Ámsterdam",
+      "roles": [
+        "Ciclista",
+        "Turista en los canales",
+        "Barista",
+        "Vendedor de tulipanes",
+        "Guía del crucero por el canal",
+        "Músico",
+        "Quesero",
+        "Pintor"
+      ]
+    },
+    {
+      "name": "Berlín",
+      "roles": [
+        "Turista en la Puerta de Brandeburgo",
+        "DJ",
+        "Artista callejero",
+        "Barista",
+        "Guía turístico",
+        "Mensajero en bici",
+        "Vendedor de currywurst",
+        "Músico"
+      ]
+    },
+    {
+      "name": "Praga",
+      "roles": [
+        "Guía del Puente de Carlos",
+        "Panadero",
+        "Turista",
+        "Músico callejero",
+        "Vendedor de trdelník",
+        "Titiritero",
+        "Pintor",
+        "Camarero"
+      ]
+    },
+    {
+      "name": "Dubái",
+      "roles": [
+        "Guía de rascacielos",
+        "Turista",
+        "Vendedor del mercado del oro",
+        "Barista",
+        "Cetrero",
+        "Taxista",
+        "Comprador compulsivo",
+        "Obrero de la construcción"
+      ]
+    },
+    {
+      "name": "Sídney",
+      "roles": [
+        "Surfista",
+        "Turista en la Ópera",
+        "Socorrista de playa",
+        "Guía turístico",
+        "Barista",
+        "Músico callejero",
+        "Vendedor ambulante",
+        "Barquero del puerto"
+      ]
+    },
+    {
+      "name": "Río de Janeiro",
+      "roles": [
+        "Bailarina de samba",
+        "Surfista",
+        "Turista en el Cristo Redentor",
+        "Vendedor de playa",
+        "Músico",
+        "Futbolista de playa",
+        "Guía turístico",
+        "Percusionista de carnaval"
+      ]
+    },
+    {
+      "name": "Bangkok",
+      "roles": [
+        "Vendedor de comida callejera",
+        "Turista",
+        "Conductor de tuk-tuk",
+        "Monje",
+        "Guía turístico",
+        "Barquero del mercado flotante",
+        "Masajista",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Pekín",
+      "roles": [
+        "Guía de la Gran Muralla",
+        "Turista",
+        "Vendedor de empanadillas",
+        "Calígrafo",
+        "Ciclista",
+        "Músico callejero",
+        "Comerciante de té",
+        "Escolar"
+      ]
+    },
+    {
+      "name": "Atenas",
+      "roles": [
+        "Guía de la Acrópolis",
+        "Turista",
+        "Vendedor de recuerdos",
+        "Vendedor de comida callejera",
+        "Pescador",
+        "Músico de buzuki",
+        "Pintor",
+        "Cura"
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "roles": [
+        "Conductor del tranvía",
+        "Turista en el puente",
+        "Trabajador tecnológico",
+        "Barista",
+        "Músico callejero",
+        "Surfista",
+        "Guía turístico",
+        "Vendedor de cangrejo"
+      ]
+    },
+    {
+      "name": "Madrid",
+      "roles": [
+        "Guía del Prado",
+        "Turista en la Puerta del Sol",
+        "Camarero de terraza",
+        "Churrero",
+        "Vendedor del Rastro",
+        "Músico callejero",
+        "Aficionado del fútbol",
+        "Taxista"
+      ]
+    },
+    {
+      "name": "Ciudad de México",
+      "roles": [
+        "Guía del Zócalo",
+        "Turista",
+        "Vendedor de tacos",
+        "Mariachi",
+        "Taxista",
+        "Comerciante del mercado",
+        "Escolar",
+        "Pintor de murales"
+      ]
+    },
+    {
+      "name": "Buenos Aires",
+      "roles": [
+        "Bailarín de tango",
+        "Turista en Caminito",
+        "Camarero de café",
+        "Vendedor de la feria",
+        "Guía turístico",
+        "Hincha de fútbol",
+        "Músico de bandoneón",
+        "Librero de la calle Corrientes"
+      ]
+    }
+  ]
+}

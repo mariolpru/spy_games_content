@@ -1,0 +1,266 @@
+{
+  "id": "sport",
+  "title": "Deporte",
+  "locations": [
+    {
+      "name": "Estadio de fútbol",
+      "roles": [
+        "Delantero",
+        "Portero",
+        "Árbitro",
+        "Aficionado",
+        "Comentarista",
+        "Entrenador",
+        "Vendedor de las gradas",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Gimnasio",
+      "roles": [
+        "Entrenador personal",
+        "Chico con la barra",
+        "Chica en la cinta de correr",
+        "Recepcionista",
+        "Novato",
+        "Monitor",
+        "Limpiador",
+        "Habitual del crossfit"
+      ]
+    },
+    {
+      "name": "Piscina",
+      "roles": [
+        "Nadador",
+        "Entrenador",
+        "Socorrista",
+        "Niño en el bordillo",
+        "Monitor",
+        "Aficionada al aquagym",
+        "Juez de salida",
+        "Limpiador"
+      ]
+    },
+    {
+      "name": "Ring de boxeo",
+      "roles": [
+        "Boxeador",
+        "Entrenador de la esquina",
+        "Árbitro",
+        "Médico junto al ring",
+        "Aficionado",
+        "Comentarista",
+        "Presentador del combate",
+        "Fisioterapeuta"
+      ]
+    },
+    {
+      "name": "Pista de tenis",
+      "roles": [
+        "Tenista",
+        "Juez de silla",
+        "Recogepelotas",
+        "Entrenador",
+        "Espectador",
+        "Comentarista",
+        "Fotógrafo",
+        "Patrocinador en el palco"
+      ]
+    },
+    {
+      "name": "Pista de hielo",
+      "roles": [
+        "Patinador artístico",
+        "Jugador de hockey",
+        "Entrenador",
+        "Conductor de la máquina de hielo",
+        "Niño junto a la valla",
+        "Encargado del alquiler de patines",
+        "Espectador",
+        "Juez"
+      ]
+    },
+    {
+      "name": "Rocódromo",
+      "roles": [
+        "Escalador",
+        "Monitor",
+        "Asegurador",
+        "Novato",
+        "Recepcionista",
+        "Niño en el muro",
+        "Fotógrafo",
+        "Entrenador"
+      ]
+    },
+    {
+      "name": "Maratón",
+      "roles": [
+        "Corredor",
+        "Voluntario del avituallamiento",
+        "Espectador",
+        "Juez de meta",
+        "Fotógrafo",
+        "Médico",
+        "Comentarista",
+        "Liebre"
+      ]
+    },
+    {
+      "name": "Club de golf",
+      "roles": [
+        "Golfista",
+        "Caddie",
+        "Monitor",
+        "Recepcionista",
+        "Espectador",
+        "Invitado en la casa club",
+        "Encargado del campo",
+        "Árbitro"
+      ]
+    },
+    {
+      "name": "Velódromo",
+      "roles": [
+        "Ciclista de pista",
+        "Mecánico",
+        "Entrenador",
+        "Juez",
+        "Espectador",
+        "Comentarista",
+        "Médico del equipo",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Estación de esquí",
+      "roles": [
+        "Esquiador",
+        "Snowboarder",
+        "Monitor",
+        "Patrulla de rescate",
+        "Operador del telesilla",
+        "Juez de pista",
+        "Niño en la pista de debutantes",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Dojo de artes marciales",
+      "roles": [
+        "Karateka",
+        "Sensei",
+        "Alumno",
+        "Juez",
+        "Padre en el banco",
+        "Campeón del dojo",
+        "Novato",
+        "Entrenador ayudante"
+      ]
+    },
+    {
+      "name": "Circuito de carreras",
+      "roles": [
+        "Piloto",
+        "Mecánico",
+        "Miembro del equipo de boxes",
+        "Comisario deportivo",
+        "Comentarista",
+        "Espectador",
+        "Comisario de pista",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Skatepark",
+      "roles": [
+        "Skater",
+        "Rider de BMX",
+        "Novato",
+        "Espectador",
+        "Fotógrafo",
+        "Vendedor de agua",
+        "Niño con un patinete",
+        "Entrenador"
+      ]
+    },
+    {
+      "name": "Campo de tiro",
+      "roles": [
+        "Tirador",
+        "Monitor",
+        "Jefe de línea",
+        "Espectador",
+        "Novato",
+        "Cajero",
+        "Armero",
+        "Entrenador"
+      ]
+    },
+    {
+      "name": "Hipódromo",
+      "roles": [
+        "Jockey",
+        "Mozo de cuadra",
+        "Preparador",
+        "Espectador",
+        "Taquillero",
+        "Veterinario",
+        "Dueño del caballo",
+        "Comentarista"
+      ]
+    },
+    {
+      "name": "Vóley playa",
+      "roles": [
+        "Jugador de vóley",
+        "Árbitro",
+        "Espectador",
+        "Entrenador",
+        "Fotógrafo",
+        "Vendedor de bebidas",
+        "Niño con una pelota",
+        "Comentarista"
+      ]
+    },
+    {
+      "name": "Parque de camas elásticas",
+      "roles": [
+        "Saltador",
+        "Monitor",
+        "Niño",
+        "Recepcionista",
+        "Vigilante de seguridad",
+        "Padre en el banco",
+        "Limpiador",
+        "Entrenador"
+      ]
+    },
+    {
+      "name": "Academia deportiva",
+      "roles": [
+        "Joven deportista",
+        "Entrenador",
+        "Padre en la grada",
+        "Encargado de las instalaciones",
+        "Enfermera",
+        "Director",
+        "Alumno veterano",
+        "Limpiador"
+      ]
+    },
+    {
+      "name": "Base de esquí de fondo",
+      "roles": [
+        "Esquiador",
+        "Entrenador",
+        "Encargado del alquiler",
+        "Guarda del circuito",
+        "Niño con esquís",
+        "Aficionado",
+        "Juez",
+        "Fotógrafo"
+      ]
+    }
+  ]
+}

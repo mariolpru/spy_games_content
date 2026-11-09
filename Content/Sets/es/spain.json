@@ -1,0 +1,266 @@
+{
+  "id": "spain",
+  "title": "España de cada día",
+  "locations": [
+    {
+      "name": "Bar de barrio",
+      "roles": [
+        "Camarero",
+        "Cliente de la barra",
+        "Cocinera de la cocina",
+        "Jubilado con el periódico",
+        "Repartidor",
+        "Vecino que viene a desayunar",
+        "Dueño del bar",
+        "Niño con un bocadillo"
+      ]
+    },
+    {
+      "name": "Mercado de abastos",
+      "roles": [
+        "Pescadera",
+        "Carnicero",
+        "Frutero",
+        "Cliente con carro",
+        "Charcutera",
+        "Mozo de descarga",
+        "Jubilada haciendo la compra",
+        "Dueño del puesto de quesos"
+      ]
+    },
+    {
+      "name": "Playa en agosto",
+      "roles": [
+        "Socorrista",
+        "Vendedor de helados",
+        "Familia con sombrilla",
+        "Niño con cubo y pala",
+        "Abuelo a la sombra",
+        "Vendedor ambulante",
+        "Adolescente con palas de playa",
+        "Vigilante de la bandera"
+      ]
+    },
+    {
+      "name": "Piscina municipal",
+      "roles": [
+        "Socorrista",
+        "Niño en el trampolín",
+        "Monitor de natación",
+        "Jubilado haciendo largos",
+        "Taquillero",
+        "Madre con flotadores",
+        "Limpiador",
+        "Chico con la merienda"
+      ]
+    },
+    {
+      "name": "Feria del pueblo",
+      "roles": [
+        "Churrero",
+        "Feriante de la noria",
+        "Niño con algodón de azúcar",
+        "Músico de la orquesta",
+        "Vecina con mantón",
+        "Abuela sentada",
+        "Vendedor del puesto de turrón",
+        "Adolescente en los coches de choque"
+      ]
+    },
+    {
+      "name": "Terraza en verano",
+      "roles": [
+        "Camarero",
+        "Vecino que saluda a todos",
+        "Pareja cenando",
+        "Niño con la bici",
+        "Músico ambulante",
+        "Dueño del bar",
+        "Cliente con el abanico",
+        "Camarero recogiendo mesas"
+      ]
+    },
+    {
+      "name": "Ferretería del barrio",
+      "roles": [
+        "Ferretero",
+        "Cliente con una pieza rota",
+        "Vecino buscando tornillos",
+        "Dependiente",
+        "Dueño",
+        "Repartidor",
+        "Aprendiz",
+        "Clienta que pregunta por todo"
+      ]
+    },
+    {
+      "name": "Metro en hora punta",
+      "roles": [
+        "Pasajero de pie",
+        "Músico del vagón",
+        "Revisor",
+        "Turista con un mapa",
+        "Estudiante con auriculares",
+        "Madre con carrito",
+        "Trabajador con el café",
+        "Vigilante de seguridad"
+      ]
+    },
+    {
+      "name": "Clase de pádel",
+      "roles": [
+        "Monitor",
+        "Jugador principiante",
+        "Pareja de dobles",
+        "Recogepelotas",
+        "Recepcionista del club",
+        "Espectador tras el cristal",
+        "Jugador habitual",
+        "El que llega tarde"
+      ]
+    },
+    {
+      "name": "Procesión de Semana Santa",
+      "roles": [
+        "Costalero",
+        "Nazareno",
+        "Músico de la banda",
+        "Vecina en el balcón",
+        "Monaguillo",
+        "Policía local cortando la calle",
+        "Turista con cámara",
+        "Mayordomo de la cofradía"
+      ]
+    },
+    {
+      "name": "Fiestas del pueblo",
+      "roles": [
+        "Alcalde",
+        "Vecino de la peña",
+        "Niño con globos",
+        "Músico de la charanga",
+        "Vendedor de helados",
+        "Abuela en la puerta de casa",
+        "Bombero voluntario",
+        "El que lee el pregón"
+      ]
+    },
+    {
+      "name": "Rastro del domingo",
+      "roles": [
+        "Vendedor de antigüedades",
+        "Comprador regateando",
+        "Turista",
+        "Músico callejero",
+        "Vendedor de discos",
+        "Vendedor de ropa de segunda mano",
+        "Niño con una gorra nueva",
+        "Policía local"
+      ]
+    },
+    {
+      "name": "Camino de Santiago",
+      "roles": [
+        "Peregrino con mochila",
+        "Hospitalero del albergue",
+        "Peregrino en bici",
+        "Vecino del pueblo",
+        "El que sella las credenciales",
+        "Peregrino con ampollas",
+        "Grupo de amigos",
+        "Guía del grupo"
+      ]
+    },
+    {
+      "name": "Finca de olivos",
+      "roles": [
+        "Agricultor",
+        "Recolector de aceituna",
+        "Tractorista",
+        "Dueño de la finca",
+        "Vareador",
+        "Cocinera de la cuadrilla",
+        "Técnico de la almazara",
+        "Niño ayudando"
+      ]
+    },
+    {
+      "name": "Casa de la abuela el domingo",
+      "roles": [
+        "Abuela en la cocina",
+        "Nieto con hambre",
+        "Tío contando batallitas",
+        "Madre poniendo la mesa",
+        "Primo pequeño",
+        "Abuelo en el sillón",
+        "Vecina que entra sin llamar",
+        "Hermana mayor fregando"
+      ]
+    },
+    {
+      "name": "Centro de salud",
+      "roles": [
+        "Médico de familia",
+        "Paciente con cita",
+        "Enfermera",
+        "Administrativa del mostrador",
+        "Jubilado esperando turno",
+        "Madre con un bebé",
+        "Celador",
+        "Estudiante de medicina en prácticas"
+      ]
+    },
+    {
+      "name": "Verbena de San Juan",
+      "roles": [
+        "Grupo alrededor de la hoguera",
+        "Vendedor de bebidas",
+        "Músico",
+        "Niño saltando olas",
+        "Policía local",
+        "Vecino con la guitarra",
+        "Fotógrafo",
+        "Limpiador de la playa"
+      ]
+    },
+    {
+      "name": "Partido de fútbol del barrio",
+      "roles": [
+        "Jugador del equipo local",
+        "Portero",
+        "Árbitro",
+        "Aficionado con bufanda",
+        "Entrenador",
+        "Padre en la banda",
+        "Vendedor de pipas",
+        "Utillero"
+      ]
+    },
+    {
+      "name": "Panadería del barrio",
+      "roles": [
+        "Panadera",
+        "Cliente con la barra de pan",
+        "Repartidor",
+        "Jubilado que viene cada mañana",
+        "Niño con la merienda",
+        "Dueño",
+        "Aprendiz del obrador",
+        "Vecina que pide fiado"
+      ]
+    },
+    {
+      "name": "Autobús de línea al pueblo",
+      "roles": [
+        "Conductor",
+        "Pasajero con bolsas de la compra",
+        "Estudiante que vuelve el finde",
+        "Abuela que va al médico",
+        "Turista perdido",
+        "Niño mareado",
+        "Encargado del equipaje",
+        "Vecino que saluda a todos"
+      ]
+    }
+  ]
+}

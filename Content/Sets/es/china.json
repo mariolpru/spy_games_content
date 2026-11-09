@@ -1,0 +1,149 @@
+{
+  "id": "china",
+  "title": "China",
+  "locations": [
+    {
+      "name": "Gran Muralla China",
+      "roles": [
+        "Turista",
+        "Guía turístico",
+        "Vendedor de recuerdos",
+        "Fotógrafo",
+        "Vigilante",
+        "Porteador",
+        "Escolar",
+        "Ciclista"
+      ]
+    },
+    {
+      "name": "Ciudad Prohibida",
+      "roles": [
+        "Guía turístico",
+        "Turista",
+        "Vigilante",
+        "Historiador",
+        "Fotógrafo",
+        "Taquillero",
+        "Restaurador",
+        "Escolar de excursión"
+      ]
+    },
+    {
+      "name": "Plantación de té",
+      "roles": [
+        "Recolector de té",
+        "Agricultor",
+        "Catador",
+        "Turista",
+        "Guía turístico",
+        "Vendedor",
+        "Maestro del té",
+        "Empaquetador"
+      ]
+    },
+    {
+      "name": "Santuario de pandas",
+      "roles": [
+        "Cuidador",
+        "Turista",
+        "Veterinario",
+        "Voluntario",
+        "Fotógrafo",
+        "Guía turístico",
+        "Biólogo",
+        "Niño"
+      ]
+    },
+    {
+      "name": "Mercado de comida callejera",
+      "roles": [
+        "Cocinero del wok",
+        "Vendedor de empanadillas",
+        "Cliente",
+        "Turista",
+        "Catador",
+        "Pregonero",
+        "Cajero",
+        "Repartidor"
+      ]
+    },
+    {
+      "name": "Rascacielos de Hong Kong",
+      "roles": [
+        "Empresario",
+        "Turista",
+        "Guía turístico",
+        "Barista",
+        "Vendedor ambulante",
+        "Taxista",
+        "Mensajero",
+        "Fotógrafo"
+      ]
+    },
+    {
+      "name": "Casa de té",
+      "roles": [
+        "Maestro del té",
+        "Invitado",
+        "Camarero",
+        "Músico",
+        "Turista",
+        "Calígrafo",
+        "Dueño",
+        "Aprendiz"
+      ]
+    },
+    {
+      "name": "Monasterio de Shaolin",
+      "roles": [
+        "Monje luchador",
+        "Estudiante",
+        "Maestro de kung-fu",
+        "Turista",
+        "Guía turístico",
+        "Espectador",
+        "Novicio",
+        "Mentor"
+      ]
+    },
+    {
+      "name": "Tren de alta velocidad",
+      "roles": [
+        "Revisor",
+        "Pasajero",
+        "Turista",
+        "Maquinista",
+        "Vendedor",
+        "Empresario",
+        "Limpiador",
+        "Auxiliar de a bordo"
+      ]
+    },
+    {
+      "name": "Jardín de Suzhou",
+      "roles": [
+        "Jardinero",
+        "Turista",
+        "Guía turístico",
+        "Pintor",
+        "Fotógrafo",
+        "Vigilante",
+        "Poeta",
+        "Escolar"
+      ]
+    },
+    {
+      "name": "Restaurante de pato laqueado",
+      "roles": [
+        "Cocinero",
+        "Camarero",
+        "Comensal",
+        "Anfitriona",
+        "Turista",
+        "Cajero",
+        "Trinchador de pato",
+        "Cliente habitual"
+      ]
+    }
+  ]
+}

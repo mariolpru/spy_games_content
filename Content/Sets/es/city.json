@@ -1,0 +1,266 @@
+{
+  "id": "city",
+  "title": "Ciudad",
+  "locations": [
+    {
+      "name": "Restaurante",
+      "roles": [
+        "Camarero",
+        "Cocinero",
+        "Maître",
+        "Comensal en una cita",
+        "Ayudante de camarero",
+        "Friegaplatos",
+        "Repartidor a domicilio",
+        "Músico en directo"
+      ]
+    },
+    {
+      "name": "Banco",
+      "roles": [
+        "Cajero",
+        "Guardia de seguridad",
+        "Cliente en la cola",
+        "Asesor de préstamos",
+        "Director de la oficina",
+        "Transportista de fondos",
+        "Limpiador",
+        "Cliente del cajero automático"
+      ]
+    },
+    {
+      "name": "Supermercado",
+      "roles": [
+        "Cajero",
+        "Cliente con carro",
+        "Reponedor",
+        "Guardia de seguridad",
+        "Mozo de almacén",
+        "Madre con un niño",
+        "Promotora de degustaciones",
+        "Limpiador"
+      ]
+    },
+    {
+      "name": "Colegio",
+      "roles": [
+        "Profesor",
+        "Alumno",
+        "Director",
+        "Limpiadora",
+        "Conserje",
+        "Jefe de estudios",
+        "Niño en la pizarra",
+        "Padre de un alumno"
+      ]
+    },
+    {
+      "name": "Hospital",
+      "roles": [
+        "Médico",
+        "Enfermera",
+        "Paciente",
+        "Cirujano",
+        "Celador",
+        "Recepcionista",
+        "Visita",
+        "Limpiadora"
+      ]
+    },
+    {
+      "name": "Peluquería",
+      "roles": [
+        "Peluquero",
+        "Cliente en el sillón",
+        "Manicurista",
+        "Recepcionista",
+        "Colorista",
+        "Niño cortándose el pelo",
+        "Limpiador",
+        "Especialista en cejas"
+      ]
+    },
+    {
+      "name": "Cafetería",
+      "roles": [
+        "Barista",
+        "Cliente con portátil",
+        "Camarero",
+        "Estudiante con apuntes",
+        "Encargado",
+        "Ayudante de camarero",
+        "Pastelero",
+        "Cliente habitual"
+      ]
+    },
+    {
+      "name": "Biblioteca",
+      "roles": [
+        "Bibliotecario",
+        "Estudiante",
+        "Lector",
+        "Escolar",
+        "Jubilado con el periódico",
+        "Limpiador",
+        "Archivero",
+        "Visitante en un ordenador"
+      ]
+    },
+    {
+      "name": "Librería",
+      "roles": [
+        "Librero",
+        "Comprador",
+        "Cajero",
+        "Lector hojeando un libro",
+        "Repartidor",
+        "Encargado de la tienda",
+        "Niño en la sección infantil",
+        "Limpiador"
+      ]
+    },
+    {
+      "name": "Oficina de correos",
+      "roles": [
+        "Empleado de ventanilla",
+        "Cliente con un paquete",
+        "Cartero",
+        "Jubilado en la cola",
+        "Mensajero",
+        "Clasificador",
+        "Guardia de seguridad",
+        "Limpiadora"
+      ]
+    },
+    {
+      "name": "Farmacia",
+      "roles": [
+        "Farmacéutico",
+        "Cliente con una receta",
+        "Auxiliar de farmacia",
+        "Repartidor",
+        "Madre con un niño",
+        "Jubilado",
+        "Cajero",
+        "Visitador médico"
+      ]
+    },
+    {
+      "name": "Comisaría",
+      "roles": [
+        "Policía",
+        "Agente de guardia",
+        "Inspector",
+        "Visitante que pone una denuncia",
+        "Abogado",
+        "Administrativo",
+        "Policía novato",
+        "Escolta de detenidos"
+      ]
+    },
+    {
+      "name": "Centro comercial",
+      "roles": [
+        "Dependiente",
+        "Comprador con bolsas",
+        "Guardia de seguridad",
+        "Limpiador",
+        "Adolescente en la zona de comidas",
+        "Promotor",
+        "Encargado de los probadores",
+        "Madre con un carrito"
+      ]
+    },
+    {
+      "name": "Gasolinera",
+      "roles": [
+        "Empleado del surtidor",
+        "Cajero",
+        "Conductor",
+        "Camionero",
+        "Dependiente de la tienda",
+        "Limpiador",
+        "Lavacristales",
+        "Cliente con un café"
+      ]
+    },
+    {
+      "name": "Juzgado",
+      "roles": [
+        "Juez",
+        "Abogado defensor",
+        "Fiscal",
+        "Secretario judicial",
+        "Testigo",
+        "Miembro del jurado",
+        "Alguacil",
+        "Visitante"
+      ]
+    },
+    {
+      "name": "Clínica dental",
+      "roles": [
+        "Dentista",
+        "Paciente en el sillón",
+        "Auxiliar dental",
+        "Recepcionista",
+        "Niño con su madre",
+        "Higienista",
+        "Paciente en la sala de espera",
+        "Ortodoncista"
+      ]
+    },
+    {
+      "name": "Oficina",
+      "roles": [
+        "Diseñador",
+        "Programador",
+        "Contable",
+        "Mensajero",
+        "Limpiadora",
+        "Empleado al teléfono",
+        "Becario",
+        "Jefe"
+      ]
+    },
+    {
+      "name": "Parque de bomberos",
+      "roles": [
+        "Bombero",
+        "Operador de emergencias",
+        "Jefe de dotación",
+        "Conductor del camión",
+        "Aspirante",
+        "Mecánico",
+        "Oficial de guardia",
+        "Instructor"
+      ]
+    },
+    {
+      "name": "Metro",
+      "roles": [
+        "Maquinista",
+        "Pasajero",
+        "Revisor",
+        "Músico callejero",
+        "Encargado de la escalera mecánica",
+        "Policía",
+        "Turista con un mapa",
+        "Pasajero con una maleta"
+      ]
+    },
+    {
+      "name": "Floristería",
+      "roles": [
+        "Florista",
+        "Comprador",
+        "Repartidor",
+        "Decorador de eventos",
+        "Cajero",
+        "Hombre eligiendo un ramo",
+        "Comprador mayorista",
+        "Limpiador"
+      ]
+    }
+  ]
+}
