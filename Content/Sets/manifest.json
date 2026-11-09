@@ -966,6 +966,126 @@
       "lang": "ja",
       "file": "ja/usa.json",
       "version": 1
+    },
+    {
+      "id": "capitals",
+      "lang": "el",
+      "file": "el/capitals.json",
+      "version": 1
+    },
+    {
+      "id": "china",
+      "lang": "el",
+      "file": "el/china.json",
+      "version": 1
+    },
+    {
+      "id": "city",
+      "lang": "el",
+      "file": "el/city.json",
+      "version": 1
+    },
+    {
+      "id": "entertainment",
+      "lang": "el",
+      "file": "el/entertainment.json",
+      "version": 1
+    },
+    {
+      "id": "fantasy",
+      "lang": "el",
+      "file": "el/fantasy.json",
+      "version": 1
+    },
+    {
+      "id": "france",
+      "lang": "el",
+      "file": "el/france.json",
+      "version": 1
+    },
+    {
+      "id": "germany",
+      "lang": "el",
+      "file": "el/germany.json",
+      "version": 1
+    },
+    {
+      "id": "greece",
+      "lang": "el",
+      "file": "el/greece.json",
+      "version": 1
+    },
+    {
+      "id": "greek-islands",
+      "lang": "el",
+      "file": "el/greek-islands.json",
+      "version": 1
+    },
+    {
+      "id": "halloween",
+      "lang": "el",
+      "file": "el/halloween.json",
+      "version": 1
+    },
+    {
+      "id": "italy",
+      "lang": "el",
+      "file": "el/italy.json",
+      "version": 1
+    },
+    {
+      "id": "japan",
+      "lang": "el",
+      "file": "el/japan.json",
+      "version": 1
+    },
+    {
+      "id": "leisure",
+      "lang": "el",
+      "file": "el/leisure.json",
+      "version": 1
+    },
+    {
+      "id": "school",
+      "lang": "el",
+      "file": "el/school.json",
+      "version": 1
+    },
+    {
+      "id": "school-year",
+      "lang": "el",
+      "file": "el/school-year.json",
+      "version": 1
+    },
+    {
+      "id": "space",
+      "lang": "el",
+      "file": "el/space.json",
+      "version": 1
+    },
+    {
+      "id": "sport",
+      "lang": "el",
+      "file": "el/sport.json",
+      "version": 1
+    },
+    {
+      "id": "travel",
+      "lang": "el",
+      "file": "el/travel.json",
+      "version": 1
+    },
+    {
+      "id": "university",
+      "lang": "el",
+      "file": "el/university.json",
+      "version": 1
+    },
+    {
+      "id": "usa",
+      "lang": "el",
+      "file": "el/usa.json",
+      "version": 1
     }
   ]
 }
