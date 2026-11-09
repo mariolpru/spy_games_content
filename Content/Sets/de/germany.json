@@ -1,0 +1,266 @@
+{
+  "id": "germany",
+  "title": "Deutschland von innen",
+  "locations": [
+    {
+      "name": "Bäckerei am Morgen",
+      "roles": [
+        "Bäckerin",
+        "Kunde mit Brötchentüte",
+        "Verkäuferin hinter der Theke",
+        "Rentner mit Zeitung",
+        "Lieferant",
+        "Lehrling im Backraum",
+        "Kind mit Schokobrötchen",
+        "Stammkunde"
+      ]
+    },
+    {
+      "name": "Schrebergarten",
+      "roles": [
+        "Kleingärtner",
+        "Vereinsvorsitzender",
+        "Nachbar über den Zaun",
+        "Kind mit Gießkanne",
+        "Rentnerin mit Rosen",
+        "Gast beim Grillen",
+        "Pächter mit Rasenmäher",
+        "Hobby-Imker"
+      ]
+    },
+    {
+      "name": "Weihnachtsmarkt",
+      "roles": [
+        "Kinderpunsch-Verkäufer",
+        "Besucherin mit Lebkuchenherz",
+        "Holzschnitzer",
+        "Kind am Karussell",
+        "Bratwurst-Verkäufer",
+        "Chorsängerin auf der Bühne",
+        "Standbetreiberin",
+        "Weihnachtsmann"
+      ]
+    },
+    {
+      "name": "Autowerkstatt",
+      "roles": [
+        "Kfz-Mechaniker",
+        "Kunde mit kaputtem Auto",
+        "Meister",
+        "Azubi",
+        "Ersatzteil-Lieferant",
+        "Kundin im Wartebereich",
+        "Lackierer",
+        "Werkstattchefin"
+      ]
+    },
+    {
+      "name": "Bürgeramt",
+      "roles": [
+        "Sachbearbeiterin",
+        "Bürger mit Termin",
+        "Wartender ohne Termin",
+        "Nutzer des Fotoautomaten",
+        "Mutter mit Kind",
+        "Sicherheitsdienst",
+        "Praktikant",
+        "Rentner mit Aktenordner"
+      ]
+    },
+    {
+      "name": "Fußballstadion am Samstag",
+      "roles": [
+        "Fan mit Schal",
+        "Ordner",
+        "Bratwurst-Verkäufer",
+        "Trainer",
+        "Stadionsprecher",
+        "Kind auf Papas Schultern",
+        "Trommler in der Fankurve",
+        "Platzwart"
+      ]
+    },
+    {
+      "name": "Freibad im Sommer",
+      "roles": [
+        "Bademeister",
+        "Kind am Sprungturm",
+        "Sonnenbadende",
+        "Pommes-Verkäufer",
+        "Schwimmlehrerin",
+        "Rentner beim Bahnenschwimmen",
+        "Kassiererin",
+        "Hausmeister"
+      ]
+    },
+    {
+      "name": "Regionalzug am Freitag",
+      "roles": [
+        "Schaffner",
+        "Pendler mit Laptop",
+        "Student mit Rucksack",
+        "Familie mit Fahrrädern",
+        "Fahrgast ohne Sitzplatz",
+        "Zugbegleiterin",
+        "Kind am Fenster",
+        "Reisender mit Koffer"
+      ]
+    },
+    {
+      "name": "Kiosk an der Ecke",
+      "roles": [
+        "Kioskbesitzer",
+        "Kunde nach Feierabend",
+        "Jugendlicher mit Chips",
+        "Zeitungsleser",
+        "Lieferant",
+        "Nachbarin",
+        "Kind mit Kaugummi",
+        "Stammkunde"
+      ]
+    },
+    {
+      "name": "Baumarkt am Samstag",
+      "roles": [
+        "Verkäufer in der Holzabteilung",
+        "Heimwerker mit Zettel",
+        "Paar vor dem Fliesenregal",
+        "Kassiererin",
+        "Mitarbeiter mit Gabelstapler",
+        "Kind im Einkaufswagen",
+        "Schlüsseldienst-Mitarbeiter",
+        "Verkäuferin in der Gartenabteilung"
+      ]
+    },
+    {
+      "name": "Wanderung im Mittelgebirge",
+      "roles": [
+        "Wanderer mit Stöcken",
+        "Hüttenwirtin",
+        "Familie mit Rucksack",
+        "Mountainbiker",
+        "Förster",
+        "Kind mit Wanderstock",
+        "Hundebesitzer",
+        "Wanderer mit Karte"
+      ]
+    },
+    {
+      "name": "Volksfest in der Kleinstadt",
+      "roles": [
+        "Schausteller",
+        "Kind am Autoscooter",
+        "Musiker der Blaskapelle",
+        "Zuckerwatte-Verkäuferin",
+        "Feuerwehrmann am Stand",
+        "Bürgermeister",
+        "Jugendliche mit Plüschtier",
+        "Sanitäter"
+      ]
+    },
+    {
+      "name": "Sonntagsfrühstück bei Oma",
+      "roles": [
+        "Oma am Herd",
+        "Enkel mit Hunger",
+        "Onkel mit alten Geschichten",
+        "Mutter deckt den Tisch",
+        "Opa im Sessel",
+        "Nachbarin ohne Klingeln",
+        "Kleiner Cousin",
+        "Schwester beim Abwasch"
+      ]
+    },
+    {
+      "name": "Hausarztpraxis",
+      "roles": [
+        "Hausarzt",
+        "Patient mit Termin",
+        "Arzthelferin am Empfang",
+        "Rentner im Wartezimmer",
+        "Mutter mit Baby",
+        "Pfleger",
+        "Medizinstudentin im Praktikum",
+        "Patient mit Überweisung"
+      ]
+    },
+    {
+      "name": "Karneval im Rheinland",
+      "roles": [
+        "Jeck im Kostüm",
+        "Wagenbauer",
+        "Kind mit Kamelle-Tüte",
+        "Musiker im Zug",
+        "Ordner",
+        "Funkenmariechen",
+        "Zuschauerin am Straßenrand",
+        "Reinigungskraft danach"
+      ]
+    },
+    {
+      "name": "Autobahnraststätte",
+      "roles": [
+        "Lkw-Fahrer",
+        "Familie auf Urlaubsfahrt",
+        "Kassiererin",
+        "Koch an der Theke",
+        "Tankwart",
+        "Kind am Spielplatz",
+        "Reisender mit Hund",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Flohmarkt am Sonntag",
+      "roles": [
+        "Standbetreiber",
+        "Schnäppchenjägerin",
+        "Antiquitätenhändler",
+        "Kind mit Spielzeugkiste",
+        "Musiker",
+        "Käufer beim Feilschen",
+        "Rentnerin mit Porzellan",
+        "Bratwurst-Verkäuferin"
+      ]
+    },
+    {
+      "name": "Kita am Morgen",
+      "roles": [
+        "Erzieherin",
+        "Kind mit Brotdose",
+        "Vater beim Abgeben",
+        "Praktikantin",
+        "Kind in der Bauecke",
+        "Kita-Leiterin",
+        "Hausmeister",
+        "Kind mit Kuscheltier"
+      ]
+    },
+    {
+      "name": "Kegelabend im Vereinsheim",
+      "roles": [
+        "Kegler",
+        "Vereinswirt",
+        "Schriftführer",
+        "Neuling",
+        "Zuschauer",
+        "Kellnerin",
+        "Vereinsvorsitzende",
+        "Stammgast"
+      ]
+    },
+    {
+      "name": "Winterdienst am frühen Morgen",
+      "roles": [
+        "Fahrer des Räumfahrzeugs",
+        "Nachbar mit Schneeschaufel",
+        "Hausmeister",
+        "Kind mit Schlitten",
+        "Briefträger",
+        "Mitarbeiter vom Streudienst",
+        "Rentnerin am Fenster",
+        "Jogger"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "id": "austria-switzerland",
+  "title": "Österreich und Schweiz",
+  "locations": [
+    {
+      "name": "Wiener Kaffeehaus",
+      "roles": [
+        "Ober im Frack",
+        "Stammgast mit Zeitung",
+        "Konditorin",
+        "Tourist",
+        "Student mit Buch",
+        "Pianist",
+        "Kassiererin",
+        "Gast mit Melange"
+      ]
+    },
+    {
+      "name": "Bergbahn in den Alpen",
+      "roles": [
+        "Bahnwart",
+        "Wanderer mit Stöcken",
+        "Kind am Fenster",
+        "Schaffnerin",
+        "Tourist mit Fernglas",
+        "Mountainbiker",
+        "Hüttenwirt auf dem Weg",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Almhütte",
+      "roles": [
+        "Hüttenwirtin",
+        "Senner",
+        "Wandergruppe",
+        "Kind mit Kakao",
+        "Bergsteiger",
+        "Köchin",
+        "Hüttenhelfer",
+        "Bergretter"
+      ]
+    },
+    {
+      "name": "Käserei im Emmental",
+      "roles": [
+        "Käser",
+        "Lehrling",
+        "Besucherin bei der Führung",
+        "Milchbauer",
+        "Verkäuferin im Laden",
+        "Verkoster",
+        "Lieferant",
+        "Lebensmittelkontrolleurin"
+      ]
+    },
+    {
+      "name": "Skipiste in Tirol",
+      "roles": [
+        "Skilehrerin",
+        "Anfänger im Pflug",
+        "Pistenretter",
+        "Liftwart",
+        "Kind im Zauberteppich",
+        "Snowboarder",
+        "Pistenraupenfahrer",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Christkindlmarkt in Salzburg",
+      "roles": [
+        "Standbetreiberin",
+        "Kind mit Lebkuchen",
+        "Bläser vom Turm",
+        "Tourist",
+        "Krippenschnitzer",
+        "Punschverkäufer für Kinder",
+        "Stadtführerin",
+        "Straßenkehrer"
+      ]
+    },
+    {
+      "name": "Schweizer Uhrmacherwerkstatt",
+      "roles": [
+        "Uhrmacher",
+        "Lehrling",
+        "Kundin mit Erbstück",
+        "Graveur",
+        "Verkäuferin",
+        "Tourist",
+        "Sammler",
+        "Werkstattleiterin"
+      ]
+    },
+    {
+      "name": "Bodensee im Sommer",
+      "roles": [
+        "Segler",
+        "Badegast",
+        "Fährkapitän",
+        "Eisverkäuferin",
+        "Radfahrer auf dem Uferweg",
+        "Fischer",
+        "Kind mit Luftmatratze",
+        "Rettungsschwimmer"
+      ]
+    },
+    {
+      "name": "Wiener Staatsoper",
+      "roles": [
+        "Opernsängerin",
+        "Dirigent",
+        "Gast im Stehparterre",
+        "Platzanweiser",
+        "Garderobenfrau",
+        "Orchestermusiker",
+        "Tourist mit Karte",
+        "Bühnentechniker"
+      ]
+    },
+    {
+      "name": "Fasnacht in Basel",
+      "roles": [
+        "Maskierter Trommler",
+        "Pfeifer",
+        "Kind mit Konfetti",
+        "Zuschauerin am Rand",
+        "Laternenträger",
+        "Ordner",
+        "Fotograf",
+        "Reinigungskraft danach"
+      ]
+    },
+    {
+      "name": "Bank in Zürich",
+      "roles": [
+        "Kundenberaterin",
+        "Kunde mit Termin",
+        "Wachmann",
+        "Kassierer",
+        "Praktikant",
+        "Filialleiterin",
+        "Reinigungskraft",
+        "Tourist beim Geldwechseln"
+      ]
+    },
+    {
+      "name": "Wiener Würstelstand",
+      "roles": [
+        "Standbetreiber",
+        "Gast nach der Oper",
+        "Taxifahrer",
+        "Stammkunde",
+        "Tourist",
+        "Jugendliche",
+        "Lieferant",
+        "Nachtschwärmer"
+      ]
+    },
+    {
+      "name": "Wiener Naschmarkt",
+      "roles": [
+        "Standbetreiberin",
+        "Gemüsehändler",
+        "Tourist",
+        "Kundin mit Korb",
+        "Käseverkäufer",
+        "Marktschreier",
+        "Barista",
+        "Kind mit Obst"
+      ]
+    },
+    {
+      "name": "Matterhorn-Basislager",
+      "roles": [
+        "Bergführer",
+        "Alpinistin",
+        "Hüttenwart",
+        "Bergretter",
+        "Fotograf",
+        "Tourist mit Fernglas",
+        "Meteorologe",
+        "Träger"
+      ]
+    },
+    {
+      "name": "Salzbergwerk",
+      "roles": [
+        "Bergführerin",
+        "Besucher auf der Rutsche",
+        "Grubenarbeiter",
+        "Kind mit Helm",
+        "Techniker",
+        "Kassierer",
+        "Historikerin",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Schweizer Postauto",
+      "roles": [
+        "Fahrer",
+        "Fahrgast mit Einkaufstasche",
+        "Schulkind",
+        "Tourist mit Wanderkarte",
+        "Bäuerin",
+        "Rentner",
+        "Postbote",
+        "Kind am Fenster"
+      ]
+    },
+    {
+      "name": "Wiener Prater",
+      "roles": [
+        "Riesenrad-Operator",
+        "Kind mit Zuckerwatte",
+        "Schausteller",
+        "Tourist",
+        "Fotografin",
+        "Jugendliche in der Achterbahn",
+        "Kassierer",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Berner Altstadt",
+      "roles": [
+        "Stadtführerin",
+        "Tourist",
+        "Uhrmacher",
+        "Marktverkäuferin",
+        "Barista",
+        "Straßenmusiker",
+        "Radfahrer",
+        "Bärenpark-Pflegerin"
+      ]
+    },
+    {
+      "name": "Alpabzug",
+      "roles": [
+        "Senner im Festtagsgewand",
+        "Kuhhirte",
+        "Zuschauer am Straßenrand",
+        "Kind mit Glocke",
+        "Bäuerin",
+        "Blasmusiker",
+        "Fotograf",
+        "Käsehändler"
+      ]
+    },
+    {
+      "name": "Thermalbad in Tirol",
+      "roles": [
+        "Bademeisterin",
+        "Gast im Dampfbad",
+        "Masseur",
+        "Empfangskraft",
+        "Kind im Kinderbecken",
+        "Saunaaufguss-Meister",
+        "Reinigungskraft",
+        "Urlauber auf der Liege"
+      ]
+    }
+  ]
+}

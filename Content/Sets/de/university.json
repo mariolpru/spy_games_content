@@ -1,0 +1,227 @@
+{
+  "id": "university",
+  "title": "Universität",
+  "locations": [
+    {
+      "name": "Vorlesung",
+      "roles": [
+        "Professor",
+        "Studentin in der ersten Reihe",
+        "Schlafender Student hinten",
+        "Fachschaftsvertreter mit Liste",
+        "Mitschreiberin",
+        "Zuspätkommer",
+        "Student mit Laptop",
+        "Gasthörerin"
+      ]
+    },
+    {
+      "name": "Wohnheimzimmer",
+      "roles": [
+        "Hausverwalter",
+        "Erstsemester mit Koffer",
+        "Mitbewohnerin",
+        "Student mit Gitarre",
+        "Empfangskraft",
+        "Student mit Kochtopf",
+        "Austauschstudentin",
+        "Der, der ein Bügeleisen sucht"
+      ]
+    },
+    {
+      "name": "Mensa",
+      "roles": [
+        "Kassiererin",
+        "Student mit Tablett",
+        "Professorin",
+        "Koch",
+        "Student zählt sein Kleingeld",
+        "Studentin mit Salat",
+        "Reinigungskraft",
+        "Der, der sich vordrängelt"
+      ]
+    },
+    {
+      "name": "Klausur",
+      "roles": [
+        "Professorin",
+        "Student zieht eine Aufgabe",
+        "Streber",
+        "Studentin mit Spickzettel",
+        "Der, der vor der Tür noch lernt",
+        "Hilfskraft",
+        "Fachschaftsvertreterin",
+        "Student mit der Notenliste"
+      ]
+    },
+    {
+      "name": "Verteidigung der Bachelorarbeit",
+      "roles": [
+        "Kandidatin",
+        "Betreuer der Arbeit",
+        "Vorsitzender der Kommission",
+        "Zweitgutachterin",
+        "Protokollführer",
+        "Kommilitone im Publikum",
+        "Sekretärin",
+        "Elternteil in der letzten Reihe"
+      ]
+    },
+    {
+      "name": "Unibibliothek",
+      "roles": [
+        "Bibliothekar",
+        "Studentin mit Bücherstapel",
+        "Der, der vor der Prüfung büffelt",
+        "Doktorand",
+        "Student schläft am Tisch",
+        "Leserin mit Kopfhörern",
+        "Wachmann",
+        "Der, der eine Steckdose sucht"
+      ]
+    },
+    {
+      "name": "Forschungslabor",
+      "roles": [
+        "Laborantin",
+        "Doktorand",
+        "Studentin mit Reagenzglas",
+        "Professor",
+        "Student im Kittel",
+        "Der, der das Gerät kaputtgemacht hat",
+        "Gerätetechniker",
+        "Praktikantin"
+      ]
+    },
+    {
+      "name": "Studierendensekretariat",
+      "roles": [
+        "Bewerberin",
+        "Sachbearbeiterin",
+        "Elternteil der Bewerberin",
+        "Studentischer Helfer",
+        "Leiter der Zulassungsstelle",
+        "Bewerber mit Bestnote",
+        "Bewerberin mit Dokumentenmappe",
+        "Wachmann"
+      ]
+    },
+    {
+      "name": "Dekanat",
+      "roles": [
+        "Dekan",
+        "Sekretärin des Dekans",
+        "Student braucht eine Bescheinigung",
+        "Student mit nicht bestandenen Prüfungen",
+        "Studienkoordinatorin",
+        "Studentin mit einem Antrag",
+        "Prodekan",
+        "Student nach dem Urlaubssemester"
+      ]
+    },
+    {
+      "name": "Campus-Talentshow",
+      "roles": [
+        "Moderatorin",
+        "Sänger",
+        "Tänzerin",
+        "Tontechniker",
+        "Jurymitglied",
+        "Student vergisst den Text",
+        "Fotograf",
+        "Fan von der Fakultät"
+      ]
+    },
+    {
+      "name": "Nachprüfung",
+      "roles": [
+        "Professor",
+        "Student ist durchgefallen",
+        "Der, der zum dritten Mal antritt",
+        "Fachschaftsvertreter",
+        "Hilfskraft",
+        "Student wartet vor der Tür",
+        "Sekretärin des Instituts",
+        "Streberin als Begleitung"
+      ]
+    },
+    {
+      "name": "Nacht vor der Prüfung",
+      "roles": [
+        "Student mit Kaffee",
+        "Studentin mit Mitschriften",
+        "Der, der das Buch zum ersten Mal aufschlägt",
+        "Mitbewohner",
+        "Student schläft auf dem Lehrbuch",
+        "Der, der die Aufzeichnung schaut",
+        "Der, der den Klassenbesten anruft",
+        "Der, der ein Hemd bügelt"
+      ]
+    },
+    {
+      "name": "Absolventenfeier",
+      "roles": [
+        "Absolventin im Talar",
+        "Rektor",
+        "Dekanin",
+        "Elternteil mit Blumen",
+        "Fotograf",
+        "Absolvent mit Auszeichnung",
+        "Kommilitonin",
+        "Musiker der Uni-Band"
+      ]
+    },
+    {
+      "name": "Institutssekretariat",
+      "roles": [
+        "Institutsleiter",
+        "Laborant",
+        "Doktorandin",
+        "Privatdozent",
+        "Sekretärin",
+        "Student mit Hausarbeit",
+        "Professorin",
+        "Studiengangskoordinator"
+      ]
+    },
+    {
+      "name": "Acht-Uhr-Vorlesung",
+      "roles": [
+        "Professorin",
+        "Zuspätkommer",
+        "Studentin mit Kaffee",
+        "Schlafender Student",
+        "Fachschaftsvertreterin",
+        "Student mit Laptop",
+        "Der, der sein Frühstück aufisst",
+        "Der, der die Tafel wischt"
+      ]
+    },
+    {
+      "name": "Wohnheimküche",
+      "roles": [
+        "Student mit Nudeln",
+        "Studentin mit Wasserkocher",
+        "Nachbar leiht sich Salz",
+        "Hausverwalterin bei der Kontrolle",
+        "Der, der den Topf vergessen hat",
+        "Austauschstudent mit einem Gericht von zu Hause",
+        "Küchendienst",
+        "Der, der abspült"
+      ]
+    },
+    {
+      "name": "Copyshop",
+      "roles": [
+        "Mitarbeiterin im Copyshop",
+        "Student mit Hausarbeit",
+        "Student mit Papierstau",
+        "Professor mit Handouts",
+        "Studentin mit USB-Stick",
+        "Student ohne Kleingeld",
+        "Erstsemester mit Stundenplan",
+        "Doktorand mit seiner Dissertation"
+      ]
+    }
+  ]
+}

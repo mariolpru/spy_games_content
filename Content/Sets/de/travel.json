@@ -1,0 +1,279 @@
+{
+  "id": "travel",
+  "title": "Reisen",
+  "locations": [
+    {
+      "name": "Flughafen",
+      "roles": [
+        "Passagier mit Koffer",
+        "Mitarbeiterin am Check-in",
+        "Sicherheitskontrolleur",
+        "Pilot",
+        "Barista",
+        "Duty-free-Verkäuferin",
+        "Tourist mit Stadtplan",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Flugzeug",
+      "roles": [
+        "Flugbegleiterin",
+        "Passagier am Fenster",
+        "Pilot",
+        "Kind mit Tablet",
+        "Geschäftsmann mit Laptop",
+        "Oma mit Decke",
+        "Tourist mit Kopfhörern",
+        "Flugbegleiter mit Wagen"
+      ]
+    },
+    {
+      "name": "Zug",
+      "roles": [
+        "Schaffner",
+        "Fahrgast im Oberbett",
+        "Kind am Fenster",
+        "Mitarbeiter mit Snackwagen",
+        "Rucksacktourist",
+        "Geschäftsreisende",
+        "Student mit Buch",
+        "Abteilnachbar"
+      ]
+    },
+    {
+      "name": "Kreuzfahrtschiff",
+      "roles": [
+        "Kapitän",
+        "Kellner am Pool",
+        "Tourist mit Eis",
+        "Animateurin",
+        "Decksmatrose",
+        "Passagier auf der Liege",
+        "Musiker",
+        "Fotografin"
+      ]
+    },
+    {
+      "name": "Hotel",
+      "roles": [
+        "Empfangskraft",
+        "Page",
+        "Tourist mit Koffer",
+        "Zimmermädchen",
+        "Concierge",
+        "Barista in der Lobby",
+        "Geschäftsgast",
+        "Türsteher"
+      ]
+    },
+    {
+      "name": "Strand",
+      "roles": [
+        "Rettungsschwimmer",
+        "Touristin auf dem Handtuch",
+        "Eisverkäufer",
+        "Kind mit Eimer",
+        "Surfer",
+        "Masseurin",
+        "Fotograf",
+        "Oma unterm Sonnenschirm"
+      ]
+    },
+    {
+      "name": "Skiurlaub",
+      "roles": [
+        "Skilehrerin",
+        "Skifahrer im Lift",
+        "Snowboarderin",
+        "Pistenretter",
+        "Verkäufer von heißem Kakao",
+        "Tourist aus dem Verleih",
+        "Kind mit Schlitten",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Museum",
+      "roles": [
+        "Museumsführerin",
+        "Saalaufsicht",
+        "Tourist mit Audioguide",
+        "Schulkind auf Klassenfahrt",
+        "Künstler mit Skizzenbuch",
+        "Kassiererin",
+        "Restaurator",
+        "Wachmann"
+      ]
+    },
+    {
+      "name": "Zoo",
+      "roles": [
+        "Tierpfleger",
+        "Kind am Gehege",
+        "Zuckerwatte-Verkäuferin",
+        "Tourist mit Kamera",
+        "Tierärztin",
+        "Führer",
+        "Kassierer",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Freizeitpark",
+      "roles": [
+        "Karussell-Operator",
+        "Kind mit Luftballon",
+        "Bratwurst-Verkäufer",
+        "Tourist in der Schlange",
+        "Maskottchen im Kostüm",
+        "Kassiererin",
+        "Fotograf",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Campingplatz",
+      "roles": [
+        "Camper am Feuer",
+        "Angler",
+        "Kind mit Taschenlampe",
+        "Führerin",
+        "Tourist mit Gitarre",
+        "Koch am Gaskocher",
+        "Zeltnachbar",
+        "Holzsammler"
+      ]
+    },
+    {
+      "name": "Safaripark",
+      "roles": [
+        "Ranger als Führer",
+        "Touristin mit Fernglas",
+        "Jeepfahrer",
+        "Naturfotograf",
+        "Kind am Jeepfenster",
+        "Naturforscherin",
+        "Tourist mit Sonnenhut",
+        "Tierarzt"
+      ]
+    },
+    {
+      "name": "Reisebus",
+      "roles": [
+        "Reiseleiterin mit Mikrofon",
+        "Fahrer",
+        "Tourist am Fenster",
+        "Schlafender Fahrgast",
+        "Kind mit Eis",
+        "Fotograf",
+        "Touristin mit Karte",
+        "Zuspätkommer"
+      ]
+    },
+    {
+      "name": "Bahnhof",
+      "roles": [
+        "Schalterangestellte",
+        "Reisender mit Koffer",
+        "Gepäckträger",
+        "Oma auf der Bank",
+        "Polizist",
+        "Kioskverkäufer",
+        "Tourist mit Fahrplan",
+        "Abholer mit Namensschild"
+      ]
+    },
+    {
+      "name": "Erlebnisbad",
+      "roles": [
+        "Bademeister",
+        "Kind auf der Rutsche",
+        "Tourist auf dem Reifen",
+        "Schwimmtrainerin",
+        "Getränkeverkäufer",
+        "Masseur",
+        "Kassiererin",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Wellnesshotel",
+      "roles": [
+        "Masseurin",
+        "Gast im Bademantel",
+        "Empfangskraft",
+        "Kosmetikerin",
+        "Saunaaufsicht",
+        "Tourist auf der Liege",
+        "Reinigungskraft",
+        "Barista für Kräutertee"
+      ]
+    },
+    {
+      "name": "Tropeninsel",
+      "roles": [
+        "Führer",
+        "Tourist mit Schnorchelmaske",
+        "Tauchlehrerin",
+        "Fischer",
+        "Kokosnussverkäufer",
+        "Fotograf",
+        "Kind im Sand",
+        "Surferin"
+      ]
+    },
+    {
+      "name": "Seilbahn",
+      "roles": [
+        "Stationsoperator",
+        "Tourist in der Kabine",
+        "Fotografin",
+        "Kind am Fenster",
+        "Bergretter",
+        "Führer",
+        "Skifahrerin",
+        "Tourist mit Fernglas"
+      ]
+    },
+    {
+      "name": "Stadtführung",
+      "roles": [
+        "Stadtführerin",
+        "Straßenmusiker",
+        "Tourist mit Karte",
+        "Souvenirverkäufer",
+        "Porträtzeichner",
+        "Touristin mit Selfiestick",
+        "Kutscher",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Souvenirmarkt",
+      "roles": [
+        "Magnetverkäufer",
+        "Kunsthandwerkerin",
+        "Tourist mit Tüten",
+        "Marktschreier",
+        "Gewürz-Verkoster",
+        "Künstlerin",
+        "Kassierer",
+        "Musiker"
+      ]
+    },
+    {
+      "name": "Aquarium",
+      "roles": [
+        "Tierpflegerin",
+        "Kind am Becken",
+        "Taucher im Becken",
+        "Führer",
+        "Souvenirverkäuferin",
+        "Fotograf",
+        "Kassierer",
+        "Meeresbiologin"
+      ]
+    }
+  ]
+}

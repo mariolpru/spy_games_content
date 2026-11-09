@@ -1,0 +1,227 @@
+{
+  "id": "school-year",
+  "title": "Schuljahr",
+  "locations": [
+    {
+      "name": "Einschulung",
+      "roles": [
+        "Erstklässler mit Schultüte",
+        "Älterer Schüler als Pate",
+        "Schulleiter hält eine Rede",
+        "Elternteil mit Kamera",
+        "Lehrerin mit Klassenschild",
+        "Moderatorin",
+        "Kind mit Blumen",
+        "Hausmeister am Tor"
+      ]
+    },
+    {
+      "name": "Elternabend",
+      "roles": [
+        "Klassenlehrer",
+        "Mutter aus dem Elternbeirat",
+        "Vater zum ersten Mal da",
+        "Kassenwart der Klasse",
+        "Elternteil kommt zu spät",
+        "Oma statt der Eltern",
+        "Konrektorin",
+        "Mutter mit vielen Fragen"
+      ]
+    },
+    {
+      "name": "Projektwoche Naturwissenschaften",
+      "roles": [
+        "Kind mit Vulkanmodell",
+        "Jurymitglied",
+        "Lehrer mit Aufsicht",
+        "Vorjahressieger",
+        "Vater hat das Modell gebaut",
+        "Streberin der Klasse",
+        "Kind mit zerbrochenem Modell",
+        "Kind erklärt der Jury"
+      ]
+    },
+    {
+      "name": "Weihnachtsfeier",
+      "roles": [
+        "Kind als Hirte",
+        "Mädchen singt ein Weihnachtslied",
+        "Lehrerin am Klavier",
+        "Vater filmt mit dem Handy",
+        "Moderator",
+        "Kind trägt ein Gedicht vor",
+        "Kind als Schneeflocke",
+        "Kind als Weihnachtsmann"
+      ]
+    },
+    {
+      "name": "Ausflug ins Museum",
+      "roles": [
+        "Museumsführerin",
+        "Klassenlehrer",
+        "Kind bleibt zurück",
+        "Schüler am Handy",
+        "Begleitender Elternteil",
+        "Saalaufsicht",
+        "Streber mit Notizbuch",
+        "Kind fasst die Vitrine an"
+      ]
+    },
+    {
+      "name": "Klassenfahrt",
+      "roles": [
+        "Klassenlehrerin",
+        "Kind mit Gitarre",
+        "Kind macht das Lagerfeuer an",
+        "Begleitender Vater",
+        "Mädchen mit schwerem Rucksack",
+        "Kind im Küchendienst",
+        "Kind hat einen Schuh verloren",
+        "Betreuer"
+      ]
+    },
+    {
+      "name": "Zeugnisausgabe",
+      "roles": [
+        "Klassenlehrer",
+        "Schüler mit gutem Zeugnis",
+        "Schülerin mit schlechtem Zeugnis",
+        "Konrektorin",
+        "Elternteil wartet draußen",
+        "Streber",
+        "Schüler vergleicht Noten",
+        "Hausmeister"
+      ]
+    },
+    {
+      "name": "Abiball",
+      "roles": [
+        "Abiturientin im Kleid",
+        "Abiturient im geliehenen Anzug",
+        "DJ",
+        "Begleitender Lehrer",
+        "Fotograf",
+        "Schüler kam allein",
+        "Kellner",
+        "Jahrgangssprecher"
+      ]
+    },
+    {
+      "name": "Faschingsfeier",
+      "roles": [
+        "Kind als Superheld",
+        "Mädchen als Hexe",
+        "Verkleideter Lehrer",
+        "DJ",
+        "Vater mit Konfetti",
+        "Kind ohne Kostüm",
+        "Fotografin",
+        "Jurymitglied beim Kostümwettbewerb"
+      ]
+    },
+    {
+      "name": "Schulgarten",
+      "roles": [
+        "Hausmeister",
+        "Kind mit Rechen",
+        "Kind versteckt sich hinterm Baum",
+        "Klassenlehrer",
+        "Schulleiterin mit Spaten",
+        "Mädchen mit Laubsack",
+        "Gärtner",
+        "Kind mit Schubkarre"
+      ]
+    },
+    {
+      "name": "Schulbasar",
+      "roles": [
+        "Kind hinter dem Tisch",
+        "Elternteil beim Einkaufen",
+        "Mutter mit selbstgebackenem Kuchen",
+        "Mädchen mit Bastelarbeiten",
+        "Kassierer",
+        "Lehrerin als Organisatorin",
+        "Fünftklässler mit Münzen",
+        "Schulleiter"
+      ]
+    },
+    {
+      "name": "Feueralarm-Übung",
+      "roles": [
+        "Feuerwehrmann",
+        "Schulleiter mit Megafon",
+        "Klassenlehrerin mit Liste",
+        "Kind ohne Jacke",
+        "Kind hat den Ranzen vergessen",
+        "Hausmeister",
+        "Schulkrankenschwester",
+        "Kind hat den Alarm überhört"
+      ]
+    },
+    {
+      "name": "Klassenfoto-Tag",
+      "roles": [
+        "Fotograf",
+        "Kind in der ersten Reihe",
+        "Mädchen mit neuer Frisur",
+        "Klassenlehrer",
+        "Kind hat geblinzelt",
+        "Zuspätkommer",
+        "Kind schneidet Grimassen",
+        "Assistentin des Fotografen"
+      ]
+    },
+    {
+      "name": "Abiturprüfung",
+      "roles": [
+        "Abiturient",
+        "Aufsichtslehrerin",
+        "Prüfungsverantwortlicher",
+        "Schüler mit Taschenrechner",
+        "Schüler hat den Ausweis vergessen",
+        "Hausmeister an der Tür",
+        "Elternteil wartet draußen",
+        "Streberin"
+      ]
+    },
+    {
+      "name": "Bundesjugendspiele",
+      "roles": [
+        "Sportlehrer",
+        "Läuferin",
+        "Kampfrichter",
+        "Fan mit bemaltem Gesicht",
+        "Trainer",
+        "Schulmaskottchen",
+        "Verkäufer von Brötchen",
+        "Siegerin des Laufs"
+      ]
+    },
+    {
+      "name": "Schultheater",
+      "roles": [
+        "Theaterlehrerin",
+        "Hauptdarsteller",
+        "Souffleur",
+        "Kind als Baum",
+        "Lichttechniker",
+        "Kostümbildnerin",
+        "Elternteil im Publikum",
+        "Darsteller vergisst seinen Text"
+      ]
+    },
+    {
+      "name": "Vorlesewettbewerb",
+      "roles": [
+        "Vorlesender Schüler",
+        "Jurymitglied",
+        "Deutschlehrerin",
+        "Eingeladener Autor",
+        "Bibliothekarin",
+        "Kind mit selbstgebasteltem Lesezeichen",
+        "Moderator",
+        "Elternteil im Publikum"
+      ]
+    }
+  ]
+}

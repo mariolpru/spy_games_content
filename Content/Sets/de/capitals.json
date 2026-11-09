@@ -1,0 +1,292 @@
+{
+  "id": "capitals",
+  "title": "Hauptstädte der Welt",
+  "locations": [
+    {
+      "name": "Paris",
+      "roles": [
+        "Kellner im Café",
+        "Straßenkünstler",
+        "Tourist am Eiffelturm",
+        "Baguette-Bäcker",
+        "Stadtführer",
+        "Musiker in der Metro",
+        "Model auf dem Laufsteg",
+        "Floristin"
+      ]
+    },
+    {
+      "name": "London",
+      "roles": [
+        "Palastwache",
+        "Taxifahrer",
+        "Tourist im Doppeldeckerbus",
+        "Barista",
+        "Banker aus der City",
+        "Straßenmusiker",
+        "Stadtführerin am Big Ben",
+        "Polizist auf Streife"
+      ]
+    },
+    {
+      "name": "Tokio",
+      "roles": [
+        "Ramen-Verkäufer",
+        "Tourist in Shibuya",
+        "Angestellter",
+        "Cosplayerin",
+        "Stadtführer",
+        "Verkäufer im Elektronikladen",
+        "Schulkind",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Rom",
+      "roles": [
+        "Führer im Kolosseum",
+        "Eisverkäufer",
+        "Tourist am Brunnen",
+        "Kellner in der Trattoria",
+        "Priester",
+        "Straßenkünstler",
+        "Taxifahrer",
+        "Nonne"
+      ]
+    },
+    {
+      "name": "New York",
+      "roles": [
+        "Fahrer des gelben Taxis",
+        "Straßenmusiker",
+        "Tourist am Times Square",
+        "Barista",
+        "Hotdog-Verkäufer",
+        "Börsenmakler",
+        "Stadtführer",
+        "Graffitikünstler"
+      ]
+    },
+    {
+      "name": "Moskau",
+      "roles": [
+        "Führerin am Roten Platz",
+        "Tourist",
+        "Souvenirverkäufer",
+        "Musiker in der Unterführung",
+        "Barista",
+        "Metro-Guide",
+        "Straßenkünstler",
+        "Taxifahrer"
+      ]
+    },
+    {
+      "name": "Kairo",
+      "roles": [
+        "Führer an den Pyramiden",
+        "Händler im Basar",
+        "Kameltreiber",
+        "Tourist",
+        "Gewürzhändler",
+        "Bootsmann auf dem Nil",
+        "Besitzer des Teehauses",
+        "Straßenmusiker"
+      ]
+    },
+    {
+      "name": "Istanbul",
+      "roles": [
+        "Händler im Großen Basar",
+        "Tourist an der Hagia Sophia",
+        "Besitzer des Teehauses",
+        "Bootsmann am Bosporus",
+        "Stadtführer",
+        "Teppichhändler",
+        "Straßenmusiker",
+        "Simit-Bäcker"
+      ]
+    },
+    {
+      "name": "Barcelona",
+      "roles": [
+        "Führerin an der Sagrada Família",
+        "Straßenkünstler",
+        "Tourist auf der Rambla",
+        "Kellner in der Tapas-Bar",
+        "Marktverkäufer",
+        "Fußballfan",
+        "Maler",
+        "Gitarrist"
+      ]
+    },
+    {
+      "name": "Venedig",
+      "roles": [
+        "Gondoliere",
+        "Tourist auf dem Markusplatz",
+        "Glasbläser",
+        "Maskenmacher",
+        "Kellner",
+        "Maler",
+        "Stadtführerin",
+        "Bootsmann mit Lieferung"
+      ]
+    },
+    {
+      "name": "Amsterdam",
+      "roles": [
+        "Radfahrer",
+        "Tourist an den Grachten",
+        "Barista",
+        "Tulpenverkäufer",
+        "Führerin der Grachtenfahrt",
+        "Musiker",
+        "Käser",
+        "Maler"
+      ]
+    },
+    {
+      "name": "Berlin",
+      "roles": [
+        "Tourist am Brandenburger Tor",
+        "DJ",
+        "Straßenkünstler",
+        "Barista",
+        "Stadtführer",
+        "Fahrradkurier",
+        "Currywurst-Verkäufer",
+        "Musikerin"
+      ]
+    },
+    {
+      "name": "Prag",
+      "roles": [
+        "Führer auf der Karlsbrücke",
+        "Bäcker",
+        "Tourist",
+        "Straßenmusiker",
+        "Trdelník-Verkäuferin",
+        "Puppenspieler",
+        "Maler",
+        "Kellner"
+      ]
+    },
+    {
+      "name": "Dubai",
+      "roles": [
+        "Führer durch die Wolkenkratzer",
+        "Tourist",
+        "Händler im Goldsouk",
+        "Barista",
+        "Falkner",
+        "Taxifahrer",
+        "Shopping-Süchtiger",
+        "Bauarbeiter"
+      ]
+    },
+    {
+      "name": "Sydney",
+      "roles": [
+        "Surfer",
+        "Tourist an der Oper",
+        "Rettungsschwimmer",
+        "Stadtführer",
+        "Barista",
+        "Straßenmusiker",
+        "Strandverkäufer",
+        "Hafenbootsmann"
+      ]
+    },
+    {
+      "name": "Rio de Janeiro",
+      "roles": [
+        "Sambatänzerin",
+        "Surfer",
+        "Tourist an der Christusstatue",
+        "Strandverkäufer",
+        "Musiker",
+        "Strandfußballer",
+        "Stadtführer",
+        "Karnevalstrommler"
+      ]
+    },
+    {
+      "name": "Bangkok",
+      "roles": [
+        "Garküchen-Verkäufer",
+        "Tourist",
+        "Tuk-Tuk-Fahrer",
+        "Mönch",
+        "Stadtführer",
+        "Bootsmann am schwimmenden Markt",
+        "Masseurin",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Peking",
+      "roles": [
+        "Führer an der Großen Mauer",
+        "Tourist",
+        "Teigtaschen-Verkäufer",
+        "Kalligraf",
+        "Radfahrer",
+        "Straßenmusiker",
+        "Teehändler",
+        "Schulkind"
+      ]
+    },
+    {
+      "name": "Athen",
+      "roles": [
+        "Führerin auf der Akropolis",
+        "Tourist",
+        "Souvenirverkäufer",
+        "Imbissverkäufer",
+        "Fischer",
+        "Bouzouki-Spieler",
+        "Maler",
+        "Priester"
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "roles": [
+        "Fahrer der Cable Car",
+        "Tourist an der Brücke",
+        "IT-Angestellter",
+        "Barista",
+        "Straßenmusiker",
+        "Surfer",
+        "Stadtführer",
+        "Krabbenverkäufer"
+      ]
+    },
+    {
+      "name": "Wien",
+      "roles": [
+        "Fiakerfahrer",
+        "Tourist an der Hofburg",
+        "Kellner im Kaffeehaus",
+        "Opernbesucherin",
+        "Stadtführer",
+        "Sachertorten-Konditor",
+        "Straßenmusiker",
+        "Walzertänzerin"
+      ]
+    },
+    {
+      "name": "Bern",
+      "roles": [
+        "Stadtführerin an der Zytglogge",
+        "Tourist",
+        "Uhrmacher",
+        "Käser",
+        "Barista",
+        "Marktverkäufer",
+        "Bärenpark-Pflegerin",
+        "Radfahrer"
+      ]
+    }
+  ]
+}

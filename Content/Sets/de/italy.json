@@ -1,0 +1,123 @@
+{
+  "id": "italy",
+  "title": "Italien",
+  "locations": [
+    {
+      "name": "Kolosseum",
+      "roles": [
+        "Stadtführer",
+        "Tourist",
+        "Schauspieler als Gladiator",
+        "Fotograf",
+        "Souvenirverkäufer",
+        "Archäologin",
+        "Aufseher",
+        "Schulkind"
+      ]
+    },
+    {
+      "name": "Pizzeria",
+      "roles": [
+        "Pizzabäcker",
+        "Kellner",
+        "Gast",
+        "Tourist",
+        "Koch",
+        "Kassiererin",
+        "Lieferfahrer",
+        "Stammgast"
+      ]
+    },
+    {
+      "name": "Kanal in Venedig",
+      "roles": [
+        "Gondoliere",
+        "Tourist",
+        "Glasbläser",
+        "Maskenmacherin",
+        "Kellner",
+        "Fotograf",
+        "Bootsmann mit Lieferung",
+        "Maler"
+      ]
+    },
+    {
+      "name": "Schiefer Turm von Pisa",
+      "roles": [
+        "Tourist",
+        "Stadtführerin",
+        "Fotograf",
+        "Souvenirverkäufer",
+        "Aufseher",
+        "Schulkind",
+        "Verliebtes Paar",
+        "Kassierer"
+      ]
+    },
+    {
+      "name": "Vatikan",
+      "roles": [
+        "Priester",
+        "Tourist",
+        "Führer",
+        "Schweizergardist",
+        "Pilgerin",
+        "Fotograf",
+        "Nonne",
+        "Aufseher"
+      ]
+    },
+    {
+      "name": "Modenschau in Mailand",
+      "roles": [
+        "Model",
+        "Designerin",
+        "Fotograf",
+        "Stylist",
+        "Journalistin",
+        "Gast in der ersten Reihe",
+        "Maskenbildner",
+        "Security"
+      ]
+    },
+    {
+      "name": "Eisdiele",
+      "roles": [
+        "Eismacher",
+        "Kundin",
+        "Kind",
+        "Tourist",
+        "Kassierer",
+        "Verkäuferin",
+        "Stammgast",
+        "Lieferant"
+      ]
+    },
+    {
+      "name": "Comer See",
+      "roles": [
+        "Tourist",
+        "Bootsmann",
+        "Kellner der Villa",
+        "Gärtner",
+        "Fotografin",
+        "Yachtbesitzer",
+        "Urlauberin",
+        "Stadtführer"
+      ]
+    },
+    {
+      "name": "Karneval in Venedig",
+      "roles": [
+        "Maskierter Gast",
+        "Tourist",
+        "Musiker",
+        "Tänzerin",
+        "Kostümverkäufer",
+        "Fotograf",
+        "Stelzenläufer",
+        "Zuschauerin"
+      ]
+    }
+  ]
+}

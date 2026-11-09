@@ -1,0 +1,266 @@
+{
+  "id": "halloween",
+  "title": "Halloween",
+  "locations": [
+    {
+      "name": "Geisterbahn",
+      "roles": [
+        "Schauspieler als Geist",
+        "Kassiererin",
+        "Besucher",
+        "Maskenbildnerin",
+        "Security",
+        "Jugendlicher auf Mutprobe",
+        "Effekttechniker",
+        "Mutter an der Hand eines Kindes"
+      ]
+    },
+    {
+      "name": "Kürbisfeld",
+      "roles": [
+        "Bauer",
+        "Kind mit Bollerwagen",
+        "Mutter mit Kamera",
+        "Verkäufer von heißem Kakao",
+        "Traktorfahrer",
+        "Animateur als Vogelscheuche",
+        "Bloggerin",
+        "Käufer auf der Suche nach dem größten Kürbis"
+      ]
+    },
+    {
+      "name": "Alter Friedhof",
+      "roles": [
+        "Friedhofswärter",
+        "Führerin der Nachttour",
+        "Geisterjäger",
+        "Tourist mit Taschenlampe",
+        "Historikerin",
+        "Gärtner",
+        "Jugendlicher auf Mutprobe",
+        "Schauspieler im Geisterkostüm"
+      ]
+    },
+    {
+      "name": "Draculas Schloss",
+      "roles": [
+        "Graf Dracula",
+        "Butler",
+        "Gast zum Abendessen",
+        "Kammerzofe",
+        "Kutscher",
+        "Vampirjägerin",
+        "Verirrter Reisender",
+        "Burgchronist"
+      ]
+    },
+    {
+      "name": "Labor des verrückten Wissenschaftlers",
+      "roles": [
+        "Verrückter Wissenschaftler",
+        "Assistentin",
+        "Monster auf dem Tisch",
+        "Elektriker",
+        "Reinigungskraft",
+        "Inspektor",
+        "Reporterin",
+        "Freiwilliger Proband"
+      ]
+    },
+    {
+      "name": "Kostümladen",
+      "roles": [
+        "Verkäuferin",
+        "Kunde",
+        "Kind in der Umkleide",
+        "Maskenbildner",
+        "Kassierer",
+        "Mutter mit drei Kindern",
+        "Jugendliche",
+        "Lagerarbeiter"
+      ]
+    },
+    {
+      "name": "Straße an Halloween",
+      "roles": [
+        "Kind als Geist verkleidet",
+        "Mädchen als Hexe verkleidet",
+        "Vater mit Taschenlampe",
+        "Nachbarin mit Süßigkeitenschale",
+        "Jugendlicher mit Kissenbezug",
+        "Oma an der Tür",
+        "Großer Bruder als Begleitung",
+        "Nachbar mit Deko am Haus"
+      ]
+    },
+    {
+      "name": "Ägyptische Grabkammer im Museum",
+      "roles": [
+        "Archäologin",
+        "Schauspieler im Mumienkostüm",
+        "Museumsführer",
+        "Tourist",
+        "Wachmann",
+        "Restauratorin",
+        "Schulkind auf Klassenfahrt",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Verlassene Villa",
+      "roles": [
+        "Immobilienmaklerin",
+        "Geisterjäger",
+        "Blogger",
+        "Elektriker",
+        "Hausmeister",
+        "Jugendlicher auf Mutprobe",
+        "Schauspieler als Geist",
+        "Nachbarin mit Kuchen"
+      ]
+    },
+    {
+      "name": "Süßwarenladen",
+      "roles": [
+        "Konditor",
+        "Kind mit Sparschwein",
+        "Ladenbesitzerin",
+        "Verkosterin",
+        "Lieferant",
+        "Mutter mit Einkaufszettel",
+        "Zahnarzt beim Süßigkeitenkauf",
+        "Schaufensterdekorateur"
+      ]
+    },
+    {
+      "name": "Stube der Wahrsagerin",
+      "roles": [
+        "Wahrsagerin",
+        "Kundin",
+        "Skeptiker",
+        "Lehrling",
+        "Fotograf",
+        "Neugierige Nachbarin",
+        "Entlarver von Tricks",
+        "Junges Medium"
+      ]
+    },
+    {
+      "name": "Horrorfilm-Abend",
+      "roles": [
+        "Zuschauer unter der Decke",
+        "Platzanweiser",
+        "Popcorn-Verkäuferin",
+        "Vorführer",
+        "Paar beim Date",
+        "Eingeschlafener Zuschauer",
+        "Filmkritiker",
+        "Jugendliche am Handy"
+      ]
+    },
+    {
+      "name": "Wachsfigurenkabinett",
+      "roles": [
+        "Nachtwächter",
+        "Schauspieler als Wachsfigur",
+        "Bildhauerin",
+        "Tourist",
+        "Kind",
+        "Restaurator",
+        "Führerin",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Spukfahrt auf dem Heuwagen",
+      "roles": [
+        "Traktorfahrer",
+        "Mitfahrerin",
+        "Schauspieler als Vogelscheuche",
+        "Kartenabreißer",
+        "Kind mit Decke",
+        "Jugendliche beim Kreischen",
+        "Hofbesitzer",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Halloween-Party",
+      "roles": [
+        "Gastgeber",
+        "Gast als Skelett",
+        "Gast als Kürbis",
+        "DJ",
+        "Kind mit Süßigkeiteneimer",
+        "Gast beim Apfeltauchen",
+        "Fotografin",
+        "Nachbar beschwert sich über den Lärm"
+      ]
+    },
+    {
+      "name": "Hexenhaus",
+      "roles": [
+        "Hexe",
+        "Hexenlehrling",
+        "Verirrtes Kind",
+        "Lieferant",
+        "Nachbarin mit Kuchen",
+        "Kräutersammler",
+        "Gast zum Tee",
+        "Besenreparateur"
+      ]
+    },
+    {
+      "name": "Lebkuchenhaus",
+      "roles": [
+        "Hexe",
+        "Hänsel",
+        "Gretel",
+        "Verirrter Wanderer",
+        "Holzfäller",
+        "Süßigkeitenlieferant",
+        "Kind knabbert an der Wand",
+        "Lebkuchenbäckerin"
+      ]
+    },
+    {
+      "name": "Geisterschiff",
+      "roles": [
+        "Geisterkapitän",
+        "Schiffsjunge",
+        "Bootsmann",
+        "Schatzsucherin",
+        "Verirrter Fischer",
+        "Navigator mit Karte",
+        "Schiffskoch",
+        "Gefangener im Laderaum"
+      ]
+    },
+    {
+      "name": "Verlassener Freizeitpark",
+      "roles": [
+        "Wachmann",
+        "Blogger",
+        "Jugendlicher auf Mutprobe",
+        "Mechaniker des Riesenrads",
+        "Ehemalige Kassiererin",
+        "Fotograf",
+        "Verirrter Tourist",
+        "Schauspieler als Clown"
+      ]
+    },
+    {
+      "name": "Dachboden im alten Haus",
+      "roles": [
+        "Oma mit einer Truhe",
+        "Enkel mit Taschenlampe",
+        "Elektriker",
+        "Antiquitätenhändler",
+        "Mutter mit Kartons",
+        "Mädchen in Omas Kleid",
+        "Opa mit Fotoalbum",
+        "Dachdecker"
+      ]
+    }
+  ]
+}

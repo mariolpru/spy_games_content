@@ -1,0 +1,175 @@
+{
+  "id": "space",
+  "title": "Weltraum",
+  "locations": [
+    {
+      "name": "Raumstation",
+      "roles": [
+        "Kommandant",
+        "Bordingenieurin",
+        "Wissenschaftler",
+        "Funkoffizier",
+        "Bordärztin",
+        "Techniker",
+        "Pilot",
+        "Astronaut im Außeneinsatz"
+      ]
+    },
+    {
+      "name": "Reaktorraum",
+      "roles": [
+        "Nuklearingenieur",
+        "Techniker",
+        "Reaktoroperator",
+        "Strahlenkontrolleurin",
+        "Mechaniker",
+        "Auszubildender",
+        "Chefingenieurin",
+        "Reparaturtrupp"
+      ]
+    },
+    {
+      "name": "Missionskontrolle",
+      "roles": [
+        "Flugdirektor",
+        "Funkoperatorin",
+        "Bahnanalyst",
+        "Systemingenieurin",
+        "Datenanalyst",
+        "Diensthabender",
+        "Praktikantin",
+        "Flugarzt"
+      ]
+    },
+    {
+      "name": "Wohnmodul",
+      "roles": [
+        "Astronautin in der Freischicht",
+        "Koch",
+        "Psychologe",
+        "Ingenieurin",
+        "Wissenschaftler",
+        "Diensthabende",
+        "Crewmitglied auf dem Laufband",
+        "Funkoffizier"
+      ]
+    },
+    {
+      "name": "Forschungslabor",
+      "roles": [
+        "Wissenschaftlerin",
+        "Laborant",
+        "Chemikerin",
+        "Biologe",
+        "Praktikant",
+        "Laborleiterin",
+        "Gerätetechniker",
+        "Forschungsassistentin"
+      ]
+    },
+    {
+      "name": "Weltraumaufzug",
+      "roles": [
+        "Operator",
+        "Passagierin",
+        "Ingenieur",
+        "Technikerin",
+        "Verkehrslotse",
+        "Frachtverantwortlicher",
+        "Sicherheitsmann",
+        "Auszubildende"
+      ]
+    },
+    {
+      "name": "Raumhafen",
+      "roles": [
+        "Starttechnikerin",
+        "Pilot",
+        "Techniker",
+        "Startleitstand",
+        "Treibstofftechniker",
+        "Journalistin",
+        "Startdirektor",
+        "Sicherheitsmann"
+      ]
+    },
+    {
+      "name": "Observatorium",
+      "roles": [
+        "Astronomin",
+        "Teleskopoperator",
+        "Forscher",
+        "Technikerin",
+        "Praktikant",
+        "Vortragende",
+        "Datenanalyst",
+        "Nachtschicht-Diensthabender"
+      ]
+    },
+    {
+      "name": "Marskolonie",
+      "roles": [
+        "Kolonistin",
+        "Kuppelingenieur",
+        "Geologe",
+        "Ärztin",
+        "Hydrokultur-Bauer",
+        "Basiskommandant",
+        "Technikerin",
+        "Erkunder"
+      ]
+    },
+    {
+      "name": "Frachtraum",
+      "roles": [
+        "Frachtverantwortliche",
+        "Logistikoffizier",
+        "Ingenieur",
+        "Staplerfahrer",
+        "Technikerin",
+        "Auszubildender",
+        "Lagerleiter",
+        "Strahlenkontrolleur"
+      ]
+    },
+    {
+      "name": "Quarantänestation",
+      "roles": [
+        "Arzt",
+        "Isolierter Patient",
+        "Biologin",
+        "Pfleger",
+        "Sicherheitsmann",
+        "Systemtechniker",
+        "Psychologin",
+        "Laborantin"
+      ]
+    },
+    {
+      "name": "Erkundungsschiff",
+      "roles": [
+        "Pilotin",
+        "Navigator",
+        "Funkoffizierin",
+        "Ingenieur",
+        "Wissenschaftler",
+        "Geschützführer",
+        "Kapitänin",
+        "Auszubildender"
+      ]
+    },
+    {
+      "name": "Kommandobrücke",
+      "roles": [
+        "Kommandantin",
+        "Waffenoperator",
+        "Funkoffizier",
+        "Taktikoffizierin",
+        "Ingenieur",
+        "Diensthabender",
+        "Auszubildende",
+        "Sensoroperator"
+      ]
+    }
+  ]
+}

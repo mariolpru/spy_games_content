@@ -1,0 +1,266 @@
+{
+  "id": "fantasy",
+  "title": "Fantasy",
+  "locations": [
+    {
+      "name": "Gasthaus",
+      "roles": [
+        "Wirt",
+        "Koch",
+        "Magd",
+        "Reisender",
+        "Barde",
+        "Stallbursche",
+        "Händler",
+        "Wache"
+      ]
+    },
+    {
+      "name": "Thronsaal",
+      "roles": [
+        "König",
+        "Königin",
+        "Berater des Königs",
+        "Wache",
+        "Hofnarr",
+        "Herold",
+        "Hofdame",
+        "Gesandter"
+      ]
+    },
+    {
+      "name": "Magiermarkt",
+      "roles": [
+        "Trankbrauerin",
+        "Kundin",
+        "Artefakthändler",
+        "Alchemist",
+        "Lehrling",
+        "Wache",
+        "Marktschreier",
+        "Wahrsagerin"
+      ]
+    },
+    {
+      "name": "Schmiede",
+      "roles": [
+        "Schmied",
+        "Lehrling",
+        "Krieger auf Schwertsuche",
+        "Kohlenlieferant",
+        "Händler",
+        "Knappe",
+        "Schmiedejunge",
+        "Kunde für eine Rüstung"
+      ]
+    },
+    {
+      "name": "Burg",
+      "roles": [
+        "Ritter",
+        "Wache",
+        "Burgherr",
+        "Kammerzofe",
+        "Stallbursche",
+        "Koch",
+        "Spielmann",
+        "Burgvogt"
+      ]
+    },
+    {
+      "name": "Verlies",
+      "roles": [
+        "Kerkermeister",
+        "Wache",
+        "Gefangener",
+        "Henker",
+        "Verhörer",
+        "Posten",
+        "Schreiber",
+        "Rattenfänger"
+      ]
+    },
+    {
+      "name": "Hafen",
+      "roles": [
+        "Kapitän",
+        "Matrose",
+        "Händler",
+        "Fischer",
+        "Hafenarbeiter",
+        "Hafenwache",
+        "Bootsmann",
+        "Lotse"
+      ]
+    },
+    {
+      "name": "Räuberlager",
+      "roles": [
+        "Räuberhauptmann",
+        "Räuber",
+        "Bogenschütze",
+        "Koch am Lagerfeuer",
+        "Späher",
+        "Gefangene",
+        "Lagerschmied",
+        "Bote"
+      ]
+    },
+    {
+      "name": "Magierturm",
+      "roles": [
+        "Magier",
+        "Zauberlehrling",
+        "Alchemistin",
+        "Hüter der Schriftrollen",
+        "Trankbrauer",
+        "Diener",
+        "Besuchende Magierin",
+        "Sternengucker"
+      ]
+    },
+    {
+      "name": "Dorf",
+      "roles": [
+        "Bauer",
+        "Dorfältester",
+        "Schmied",
+        "Kräuterfrau",
+        "Hirte",
+        "Müller",
+        "Wirtin",
+        "Kind"
+      ]
+    },
+    {
+      "name": "Elfenwald",
+      "roles": [
+        "Elfische Bogenschützin",
+        "Druide",
+        "Waldläufer",
+        "Heilerin",
+        "Hüter des Hains",
+        "Barde",
+        "Reisender",
+        "Kräutersammler"
+      ]
+    },
+    {
+      "name": "Zwergenmine",
+      "roles": [
+        "Zwergischer Bergmann",
+        "Schmied",
+        "Steiger",
+        "Erzträger",
+        "Zwergischer Vermesser",
+        "Köhler",
+        "Späher",
+        "Lehrling"
+      ]
+    },
+    {
+      "name": "Tempel",
+      "roles": [
+        "Priester",
+        "Pilgerin",
+        "Novize",
+        "Orakel",
+        "Altarhüter",
+        "Chorsänger",
+        "Tempelwache",
+        "Heiler"
+      ]
+    },
+    {
+      "name": "Arena",
+      "roles": [
+        "Gladiator",
+        "Zeremonienmeister",
+        "Zuschauerin",
+        "Feldscher",
+        "Wache",
+        "Verkäufer auf der Tribüne",
+        "Herold",
+        "Knappe"
+      ]
+    },
+    {
+      "name": "Drachenhöhle",
+      "roles": [
+        "Ritter auf Drachenjagd",
+        "Waldläufer",
+        "Knappe",
+        "Bogenschütze",
+        "Magier",
+        "Verwundeter Krieger",
+        "Führer",
+        "Chronist"
+      ]
+    },
+    {
+      "name": "Bibliothek der Magier",
+      "roles": [
+        "Archivarin",
+        "Arkanforscher",
+        "Lehrling",
+        "Kopist",
+        "Hüter",
+        "Besucher",
+        "Sternengucker",
+        "Runendeuterin"
+      ]
+    },
+    {
+      "name": "Königliches Festmahl",
+      "roles": [
+        "König",
+        "Spielmann",
+        "Diener",
+        "Geladener Fürst",
+        "Hofnarr",
+        "Wache",
+        "Koch",
+        "Vorkoster"
+      ]
+    },
+    {
+      "name": "Alchemistenlabor",
+      "roles": [
+        "Alchemist",
+        "Lehrling",
+        "Trankbrauerin",
+        "Kräuterkundiger",
+        "Kunde",
+        "Hüter der Zutaten",
+        "Wache",
+        "Neuling"
+      ]
+    },
+    {
+      "name": "Piratenschiff",
+      "roles": [
+        "Piratenkapitän",
+        "Bootsmann",
+        "Schiffsjunge",
+        "Kanonier",
+        "Navigatorin",
+        "Schiffskoch",
+        "Decksmatrose",
+        "Gefangener"
+      ]
+    },
+    {
+      "name": "Hexenhütte",
+      "roles": [
+        "Hexe",
+        "Lehrling",
+        "Trankkäufer",
+        "Kräuterkundige",
+        "Bauer zu Besuch",
+        "Heilerin",
+        "Wahrsagerin",
+        "Kräutersammlerin"
+      ]
+    }
+  ]
+}

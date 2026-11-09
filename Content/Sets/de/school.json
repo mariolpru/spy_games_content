@@ -1,0 +1,279 @@
+{
+  "id": "school",
+  "title": "Schule",
+  "locations": [
+    {
+      "name": "Physikraum",
+      "roles": [
+        "Physiklehrer",
+        "Laborassistentin",
+        "Schüler an der Tafel",
+        "Schülerin mit Federwaage",
+        "Streberin der Klasse",
+        "Ordnungsdienst",
+        "Schüler mit kaputter Glühbirne",
+        "Schüler mit Spickzettel"
+      ]
+    },
+    {
+      "name": "Mensa",
+      "roles": [
+        "Koch",
+        "Essensausgeberin",
+        "Ordnungsdienst",
+        "Kind mit Tablett",
+        "Lehrer mit Aufsicht",
+        "Fünftklässler",
+        "Älterer Schüler drängelt sich vor",
+        "Spüler"
+      ]
+    },
+    {
+      "name": "Sportunterricht",
+      "roles": [
+        "Sportlehrer",
+        "Kind am Kletterseil",
+        "Schülerin mit Attest",
+        "Mannschaftskapitän",
+        "Mädchen mit Reifen",
+        "Schüler ohne Sportzeug",
+        "Zuspätkommer",
+        "Kind mit Ball"
+      ]
+    },
+    {
+      "name": "Rektorat",
+      "roles": [
+        "Schulleiterin",
+        "Sekretärin",
+        "Schüler zum Gespräch bestellt",
+        "Elternteil",
+        "Konrektor",
+        "Klassenlehrerin",
+        "Schulrat",
+        "Schüler bekommt eine Auszeichnung"
+      ]
+    },
+    {
+      "name": "Chemieraum",
+      "roles": [
+        "Chemielehrerin",
+        "Laborassistent",
+        "Schüler am Abzug",
+        "Schülerin mit Schutzbrille",
+        "Streber der Klasse",
+        "Erschrockener Schüler",
+        "Ordnungsdienst",
+        "Schüler mit zerbrochenem Reagenzglas"
+      ]
+    },
+    {
+      "name": "Schulbibliothek",
+      "roles": [
+        "Bibliothekarin",
+        "Schüler holt Lehrbücher",
+        "Leser am Tisch",
+        "Schülerin mit überfälligem Buch",
+        "Fünftklässlerin",
+        "Bücherei-Helfer",
+        "Deutschlehrerin",
+        "Schüler schläft auf dem Buch"
+      ]
+    },
+    {
+      "name": "Lehrerzimmer",
+      "roles": [
+        "Konrektor",
+        "Mathelehrerin",
+        "Sportlehrer",
+        "Klassenlehrerin",
+        "Referendarin",
+        "Schulsozialarbeiter",
+        "Hausmeister",
+        "Schüler zum Gespräch gerufen"
+      ]
+    },
+    {
+      "name": "Umkleide",
+      "roles": [
+        "Schüler",
+        "Schüler ohne Turnschuhe",
+        "Ordnungsdienst",
+        "Lehrer an der Tür",
+        "Zuspätkommerin",
+        "Schüler am Handy",
+        "Besitzer der verlorenen Socke",
+        "Mannschaftskapitänin"
+      ]
+    },
+    {
+      "name": "Aula",
+      "roles": [
+        "Moderatorin",
+        "Auftretender Schüler",
+        "Schulleiter in der ersten Reihe",
+        "Tontechniker",
+        "Chormitglied",
+        "Elternteil mit Kamera",
+        "Schüler vergisst seinen Text",
+        "Hausmeister"
+      ]
+    },
+    {
+      "name": "Sanitätsraum",
+      "roles": [
+        "Schulkrankenschwester",
+        "Kind mit aufgeschürftem Knie",
+        "Simulant",
+        "Fünftklässler bei der Impfung",
+        "Lehrer als Begleitung",
+        "Mädchen mit Kopfschmerzen",
+        "Arzt",
+        "Kind mit Angst vor Spritzen"
+      ]
+    },
+    {
+      "name": "Werkraum",
+      "roles": [
+        "Werklehrer",
+        "Schüler mit Hammer",
+        "Schülerin mit Bauplan",
+        "Schüler mit fertigem Hocker",
+        "Schüler fegt Sägespäne",
+        "Neuling",
+        "Hausmeister",
+        "Schüler mit Splitter im Finger"
+      ]
+    },
+    {
+      "name": "Computerraum",
+      "roles": [
+        "Informatiklehrerin",
+        "Schüler zockt heimlich",
+        "Schülerin mit USB-Stick",
+        "Streber der Klasse",
+        "Systemadministrator",
+        "Mädchen am Drucker",
+        "Schüler hat das Passwort vergessen",
+        "Ordnungsdienst"
+      ]
+    },
+    {
+      "name": "Pausenhof",
+      "roles": [
+        "Aufsicht",
+        "Gärtner",
+        "Kind auf der Bank",
+        "Fünftklässler mit Ranzen",
+        "Elternteil am Tor",
+        "Hausmeister",
+        "Sportlehrer mit Stoppuhr",
+        "Schwänzer"
+      ]
+    },
+    {
+      "name": "Flur in der Pause",
+      "roles": [
+        "Lehrer mit Aufsicht",
+        "Rennendes Kind",
+        "Lehrerin mit Zeigestock",
+        "Älterer Schüler am Fenster",
+        "Fünftklässlerin mit Pausenbrot",
+        "Reinigungskraft mit Wischmopp",
+        "Konrektorin",
+        "Schüler am Handy"
+      ]
+    },
+    {
+      "name": "Schulbus",
+      "roles": [
+        "Busfahrer",
+        "Kind auf der letzten Bank",
+        "Fünftklässler vorne",
+        "Kind verpasst die Haltestelle",
+        "Busbegleiterin",
+        "Kind mit riesigem Modell",
+        "Schlafendes Kind",
+        "Kind hält einen Platz frei"
+      ]
+    },
+    {
+      "name": "Musikraum",
+      "roles": [
+        "Musiklehrerin",
+        "Solistin",
+        "Kind mit Blockflöte",
+        "Chormitglied",
+        "Begleitpianist",
+        "Kind mit Tamburin",
+        "Der, der falsch singt",
+        "Mädchen mit Gitarre"
+      ]
+    },
+    {
+      "name": "Nachmittagsbetreuung",
+      "roles": [
+        "Betreuerin",
+        "Fünftklässler bei den Hausaufgaben",
+        "Kind mit Bauklötzen",
+        "Mutter holt ihr Kind ab",
+        "Kind wartet auf den Vater",
+        "Helfer",
+        "Erzieherin",
+        "Kind isst seinen Snack auf"
+      ]
+    },
+    {
+      "name": "Biologieraum",
+      "roles": [
+        "Biologielehrerin",
+        "Kind am Skelett",
+        "Mädchen mit Mikroskop",
+        "Schüler gießt die Pflanzen",
+        "Schüler mit Herbarium",
+        "Streberin der Klasse",
+        "Kind mit Angst vor Fröschen",
+        "Laborassistent"
+      ]
+    },
+    {
+      "name": "Sportplatz der Schule",
+      "roles": [
+        "Sportlehrer",
+        "Läuferin",
+        "Schiedsrichter",
+        "Fan auf der Tribüne",
+        "Schüler beim Bundesjugendspiele-Lauf",
+        "Schülerin mit Attest",
+        "Trainer",
+        "Sanitäter"
+      ]
+    },
+    {
+      "name": "Nachsitzen",
+      "roles": [
+        "Aufsichtslehrer",
+        "Schüler kam zu spät",
+        "Schüler hat widersprochen",
+        "Schülerin macht Hausaufgaben",
+        "Schlafender Schüler",
+        "Zettel-Weiterreicher",
+        "Guter Schüler aus Versehen hier",
+        "Hausmeister"
+      ]
+    },
+    {
+      "name": "Klasse der Erstklässler",
+      "roles": [
+        "Lehrerin",
+        "Kind mit Fibel",
+        "Kind hat die Federmappe vergessen",
+        "Weinendes Kind",
+        "Mutter vor der Tür",
+        "Mädchen mit Zöpfen",
+        "Kind kaut Kaugummi",
+        "Kind führt die Reihe an"
+      ]
+    }
+  ]
+}
