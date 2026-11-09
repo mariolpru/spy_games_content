@@ -1,0 +1,266 @@
+{
+  "id": "berlin-everyday",
+  "title": "Berlin im Alltag",
+  "locations": [
+    {
+      "name": "Späti an der Ecke",
+      "roles": [
+        "Späti-Besitzer",
+        "Kunde nach Feierabend",
+        "Jugendlicher mit Chips",
+        "Nachbarin",
+        "Lieferant",
+        "Kind mit Kaugummi",
+        "Tourist auf der Suche nach Wasser",
+        "Stammkunde"
+      ]
+    },
+    {
+      "name": "U8 am Abend",
+      "roles": [
+        "Fahrgast ohne Sitzplatz",
+        "Straßenmusiker im Waggon",
+        "Kontrolleurin",
+        "Tourist mit Netzplan",
+        "Student mit Kopfhörern",
+        "Mutter mit Kinderwagen",
+        "Zugfahrer",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Dönerimbiss um drei",
+      "roles": [
+        "Dönerschneider",
+        "Gast in der Schlange",
+        "Taxifahrer",
+        "Nachtschwärmerin",
+        "Kassierer",
+        "Lieferant",
+        "Stammgast",
+        "Jugendlicher mit Freunden"
+      ]
+    },
+    {
+      "name": "Mauerpark-Flohmarkt",
+      "roles": [
+        "Standbetreiberin",
+        "Schnäppchenjäger",
+        "Karaoke-Sängerin in der Arena",
+        "Musiker mit Gitarre",
+        "Tourist mit Kamera",
+        "Kind mit Luftballon",
+        "Antiquitätenhändler",
+        "Bratwurst-Verkäufer"
+      ]
+    },
+    {
+      "name": "Tempelhofer Feld",
+      "roles": [
+        "Kitesurfer auf dem Brett",
+        "Jogger",
+        "Gruppe beim Grillen",
+        "Radfahrerin auf der Startbahn",
+        "Kind mit Drachen",
+        "Hundebesitzer",
+        "Gärtnerin im Gemeinschaftsbeet",
+        "Skater"
+      ]
+    },
+    {
+      "name": "Bürgeramt-Termin",
+      "roles": [
+        "Sachbearbeiterin",
+        "Bürger mit Nummer",
+        "Wartender ohne Termin",
+        "Dolmetscherin",
+        "Sicherheitsdienst",
+        "Mutter mit Kind",
+        "Praktikant",
+        "Rentner mit Mappe"
+      ]
+    },
+    {
+      "name": "Hinterhof-Konzert",
+      "roles": [
+        "Musikerin",
+        "Nachbar am Fenster",
+        "Zuhörer im Hof",
+        "Hutsammler",
+        "Kind auf der Schaukel",
+        "Hausmeister",
+        "Fotograf",
+        "Organisator"
+      ]
+    },
+    {
+      "name": "Wochenmarkt am Ufer",
+      "roles": [
+        "Gemüsehändlerin",
+        "Kundin mit Jutebeutel",
+        "Käseverkäufer",
+        "Blumenhändlerin",
+        "Tourist",
+        "Kind mit Apfel",
+        "Marktschreier",
+        "Straßenmusiker"
+      ]
+    },
+    {
+      "name": "Schlange vor dem Club",
+      "roles": [
+        "Türsteher",
+        "Wartende in der Schlange",
+        "Tourist",
+        "Stammgast",
+        "Garderobenfrau",
+        "Fotografin",
+        "Freundesgruppe",
+        "Taxifahrer"
+      ]
+    },
+    {
+      "name": "Kiezbäckerei am Sonntag",
+      "roles": [
+        "Bäckerin",
+        "Kunde mit Brötchentüte",
+        "Kind mit Berliner",
+        "Rentner mit Zeitung",
+        "Verkäuferin",
+        "Lieferant",
+        "Stammgast",
+        "Lehrling"
+      ]
+    },
+    {
+      "name": "Badeschiff an der Spree",
+      "roles": [
+        "Bademeister",
+        "Gast auf der Liege",
+        "DJ",
+        "Schwimmerin",
+        "Kassiererin",
+        "Tourist",
+        "Kind am Beckenrand",
+        "Barista"
+      ]
+    },
+    {
+      "name": "S-Bahn-Ersatzverkehr",
+      "roles": [
+        "Busfahrer",
+        "Genervter Pendler",
+        "Servicemitarbeiterin mit Weste",
+        "Tourist mit Koffer",
+        "Student",
+        "Rentnerin",
+        "Kind mit Schulranzen",
+        "Kontrolleur"
+      ]
+    },
+    {
+      "name": "Volkspark im Sommer",
+      "roles": [
+        "Grillmeister",
+        "Slackliner",
+        "Familie auf der Decke",
+        "Eisverkäufer",
+        "Jogger",
+        "Hundebesitzerin",
+        "Kind mit Seifenblasen",
+        "Parkreiniger"
+      ]
+    },
+    {
+      "name": "Wohnungsbesichtigung",
+      "roles": [
+        "Maklerin",
+        "Bewerber mit Mappe",
+        "Interessentin",
+        "Vormieter",
+        "Hausverwalter",
+        "Nachbar im Treppenhaus",
+        "Fotograf fürs Exposé",
+        "Paar auf Wohnungssuche"
+      ]
+    },
+    {
+      "name": "Fahrradwerkstatt im Kiez",
+      "roles": [
+        "Schrauberin",
+        "Kunde mit Platten",
+        "Lehrling",
+        "Radkurier",
+        "Nachbar mit altem Rad",
+        "Kassierer",
+        "Werkstattleiter",
+        "Kind mit Laufrad"
+      ]
+    },
+    {
+      "name": "Sonntagsbrunch im Café",
+      "roles": [
+        "Kellnerin",
+        "Gast am langen Tisch",
+        "Barista",
+        "Koch",
+        "Tourist",
+        "Kind mit Pfannkuchen",
+        "Hundebesitzer vor der Tür",
+        "Betreiberin"
+      ]
+    },
+    {
+      "name": "Museumsinsel",
+      "roles": [
+        "Museumsführerin",
+        "Tourist mit Audioguide",
+        "Saalaufsicht",
+        "Schulklasse-Lehrer",
+        "Restauratorin",
+        "Kassierer",
+        "Straßenmusiker davor",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Freiluftkino",
+      "roles": [
+        "Kassierer",
+        "Zuschauerin mit Decke",
+        "Vorführer",
+        "Popcorn-Verkäufer",
+        "Paar beim Date",
+        "Kind auf Papas Schoß",
+        "Techniker",
+        "Zuspätkommer"
+      ]
+    },
+    {
+      "name": "Kleingartenkolonie am Stadtrand",
+      "roles": [
+        "Laubenpieper",
+        "Vereinsvorsitzende",
+        "Nachbar mit Heckenschere",
+        "Kind mit Gießkanne",
+        "Gast beim Kaffee",
+        "Rentner mit Tomaten",
+        "Hobby-Imkerin",
+        "Pächter mit Rasenmäher"
+      ]
+    },
+    {
+      "name": "Silvester am Brandenburger Tor",
+      "roles": [
+        "Besucher mit Wunderkerze",
+        "Ordner",
+        "Sanitäterin",
+        "Imbissverkäufer",
+        "Tourist",
+        "Kind auf Schultern",
+        "Moderator auf der Bühne",
+        "Reinigungskraft danach"
+      ]
+    }
+  ]
+}

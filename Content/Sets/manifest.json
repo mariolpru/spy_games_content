@@ -366,6 +366,126 @@
       "lang": "es",
       "file": "es/usa.json",
       "version": 1
+    },
+    {
+      "id": "capitals",
+      "lang": "de",
+      "file": "de/capitals.json",
+      "version": 1
+    },
+    {
+      "id": "china",
+      "lang": "de",
+      "file": "de/china.json",
+      "version": 1
+    },
+    {
+      "id": "city",
+      "lang": "de",
+      "file": "de/city.json",
+      "version": 1
+    },
+    {
+      "id": "entertainment",
+      "lang": "de",
+      "file": "de/entertainment.json",
+      "version": 1
+    },
+    {
+      "id": "fantasy",
+      "lang": "de",
+      "file": "de/fantasy.json",
+      "version": 1
+    },
+    {
+      "id": "france",
+      "lang": "de",
+      "file": "de/france.json",
+      "version": 1
+    },
+    {
+      "id": "germany",
+      "lang": "de",
+      "file": "de/germany.json",
+      "version": 1
+    },
+    {
+      "id": "halloween",
+      "lang": "de",
+      "file": "de/halloween.json",
+      "version": 1
+    },
+    {
+      "id": "italy",
+      "lang": "de",
+      "file": "de/italy.json",
+      "version": 1
+    },
+    {
+      "id": "japan",
+      "lang": "de",
+      "file": "de/japan.json",
+      "version": 1
+    },
+    {
+      "id": "austria-switzerland",
+      "lang": "de",
+      "file": "de/austria-switzerland.json",
+      "version": 1
+    },
+    {
+      "id": "berlin-everyday",
+      "lang": "de",
+      "file": "de/berlin-everyday.json",
+      "version": 1
+    },
+    {
+      "id": "leisure",
+      "lang": "de",
+      "file": "de/leisure.json",
+      "version": 1
+    },
+    {
+      "id": "school-year",
+      "lang": "de",
+      "file": "de/school-year.json",
+      "version": 1
+    },
+    {
+      "id": "school",
+      "lang": "de",
+      "file": "de/school.json",
+      "version": 1
+    },
+    {
+      "id": "space",
+      "lang": "de",
+      "file": "de/space.json",
+      "version": 1
+    },
+    {
+      "id": "sport",
+      "lang": "de",
+      "file": "de/sport.json",
+      "version": 1
+    },
+    {
+      "id": "travel",
+      "lang": "de",
+      "file": "de/travel.json",
+      "version": 1
+    },
+    {
+      "id": "university",
+      "lang": "de",
+      "file": "de/university.json",
+      "version": 1
+    },
+    {
+      "id": "usa",
+      "lang": "de",
+      "file": "de/usa.json",
+      "version": 1
     }
   ]
 }

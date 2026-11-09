@@ -1,0 +1,253 @@
+{
+  "id": "usa",
+  "title": "USA",
+  "locations": [
+    {
+      "name": "Freiheitsstatue",
+      "roles": [
+        "Tourist",
+        "Stadtführerin",
+        "Fährkapitän",
+        "Fotograf",
+        "Souvenirverkäufer",
+        "Park Ranger",
+        "Schulkind",
+        "Wachmann"
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "roles": [
+        "Schauspieler",
+        "Regisseurin",
+        "Tourist",
+        "Paparazzo",
+        "Führer im Tourbus",
+        "Verkäufer von Starkarten",
+        "Stuntman",
+        "Drehbuchautorin"
+      ]
+    },
+    {
+      "name": "Grand Canyon",
+      "roles": [
+        "Tourist",
+        "Park Ranger",
+        "Führerin",
+        "Fotograf",
+        "Geologe",
+        "Hubschrauberpilot",
+        "Radfahrerin",
+        "Schulkind"
+      ]
+    },
+    {
+      "name": "Times Square",
+      "roles": [
+        "Tourist",
+        "Straßenkünstler",
+        "Hotdog-Verkäufer",
+        "Fahrer des gelben Taxis",
+        "Fotografin",
+        "Polizist",
+        "Promoter",
+        "Musiker"
+      ]
+    },
+    {
+      "name": "Diner an der Landstraße",
+      "roles": [
+        "Kellnerin",
+        "Koch am Grill",
+        "Lkw-Fahrer",
+        "Kassierer",
+        "Gast an der Theke",
+        "Jugendlicher",
+        "Polizist",
+        "Durchreisender"
+      ]
+    },
+    {
+      "name": "Amerikanische Highschool",
+      "roles": [
+        "Abschlussschüler",
+        "Lehrerin",
+        "Cheerleaderin",
+        "Coach",
+        "Schulleiter",
+        "Hausmeister",
+        "Footballspieler",
+        "Bibliothekarin"
+      ]
+    },
+    {
+      "name": "Weltraumbahnhof Cape Canaveral",
+      "roles": [
+        "Ingenieurin",
+        "Astronaut",
+        "Flugkontrolleur",
+        "Journalistin",
+        "Techniker",
+        "Startdirektor",
+        "Tourist",
+        "Wachmann"
+      ]
+    },
+    {
+      "name": "Farm auf dem Land",
+      "roles": [
+        "Farmer",
+        "Cowboy",
+        "Traktorfahrerin",
+        "Melkerin",
+        "Tourist",
+        "Stallbursche",
+        "Verkäufer auf dem Jahrmarkt",
+        "Kind"
+      ]
+    },
+    {
+      "name": "Baseballstadion",
+      "roles": [
+        "Schlagmann",
+        "Fan",
+        "Kommentator",
+        "Hotdog-Verkäuferin",
+        "Schiedsrichter",
+        "Coach",
+        "Maskottchen",
+        "Platzanweiser"
+      ]
+    },
+    {
+      "name": "Strand von Malibu",
+      "roles": [
+        "Surferin",
+        "Rettungsschwimmer",
+        "Tourist",
+        "Verkäufer",
+        "Fotograf",
+        "Skater",
+        "Sonnenbadende",
+        "Surflehrer"
+      ]
+    },
+    {
+      "name": "New Yorker U-Bahn",
+      "roles": [
+        "Fahrgast",
+        "Straßenmusiker",
+        "Tourist",
+        "Polizistin",
+        "Zugfahrer",
+        "Geschäftsmann",
+        "Studentin",
+        "Breakdancer"
+      ]
+    },
+    {
+      "name": "Rodeo",
+      "roles": [
+        "Reiter auf dem Bullen",
+        "Zuschauer",
+        "Rodeo-Clown",
+        "Ansager",
+        "Kampfrichter",
+        "Verkäuferin",
+        "Rancher",
+        "Tierarzt"
+      ]
+    },
+    {
+      "name": "Polizeirevier",
+      "roles": [
+        "Polizist",
+        "Detective",
+        "Sachbearbeiterin",
+        "Verteidiger",
+        "Besucher",
+        "Sergeant",
+        "Neuling auf Streife",
+        "Empfangskraft"
+      ]
+    },
+    {
+      "name": "Tankstelle an der Route 66",
+      "roles": [
+        "Tankwart",
+        "Roadtrip-Reisende",
+        "Biker",
+        "Mechaniker",
+        "Kassiererin",
+        "Lkw-Fahrer",
+        "Besitzer eines Oldtimers",
+        "Tourist"
+      ]
+    },
+    {
+      "name": "Büro im Silicon Valley",
+      "roles": [
+        "Softwareentwickler",
+        "Geschäftsführerin",
+        "Praktikant",
+        "Produktmanagerin",
+        "Recruiter",
+        "Designer",
+        "Investorin",
+        "Barista"
+      ]
+    },
+    {
+      "name": "Thanksgiving-Essen",
+      "roles": [
+        "Oma",
+        "Onkel",
+        "Cousine",
+        "Gastgeber",
+        "Kind",
+        "Schwiegermutter",
+        "Nachbar",
+        "Gast kommt zu spät"
+      ]
+    },
+    {
+      "name": "Wall Street",
+      "roles": [
+        "Händler",
+        "Broker",
+        "Analystin",
+        "Geschäftsführer",
+        "Praktikantin",
+        "Tourist",
+        "Wachmann",
+        "Journalist"
+      ]
+    },
+    {
+      "name": "Campingplatz im Nationalpark",
+      "roles": [
+        "Camper",
+        "Park Ranger",
+        "Wandererin",
+        "Pfadfinderleiter",
+        "Wohnmobilbesitzer",
+        "Angler",
+        "Kind",
+        "Verkäufer"
+      ]
+    },
+    {
+      "name": "Autokino",
+      "roles": [
+        "Kassiererin",
+        "Paar beim Date",
+        "Popcorn-Verkäufer",
+        "Vorführer",
+        "Jugendlicher",
+        "Familie",
+        "Bedienung am Auto",
+        "Wachmann"
+      ]
+    }
+  ]
+}

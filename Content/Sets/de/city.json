@@ -1,0 +1,266 @@
+{
+  "id": "city",
+  "title": "Stadt",
+  "locations": [
+    {
+      "name": "Restaurant",
+      "roles": [
+        "Kellner",
+        "Koch",
+        "Restaurantleiter",
+        "Paar beim Date",
+        "Gast an der Theke",
+        "Abräumer",
+        "Spüler",
+        "Livemusiker"
+      ]
+    },
+    {
+      "name": "Bank",
+      "roles": [
+        "Schalterangestellte",
+        "Wachmann",
+        "Kunde in der Schlange",
+        "Kreditberater",
+        "Kassierer",
+        "Filialleiterin",
+        "Geldtransporteur",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Supermarkt",
+      "roles": [
+        "Kassiererin",
+        "Kunde mit Einkaufswagen",
+        "Regalauffüller",
+        "Wachmann",
+        "Lagerarbeiter",
+        "Mutter mit Kind",
+        "Probiererin am Stand",
+        "Kunde am Pfandautomat"
+      ]
+    },
+    {
+      "name": "Schule",
+      "roles": [
+        "Lehrerin",
+        "Schüler",
+        "Schulleiter",
+        "Reinigungskraft",
+        "Hausmeister",
+        "Konrektor",
+        "Kind an der Tafel",
+        "Elternteil"
+      ]
+    },
+    {
+      "name": "Krankenhaus",
+      "roles": [
+        "Arzt",
+        "Krankenschwester",
+        "Patient",
+        "Chirurgin",
+        "Pfleger",
+        "Empfangskraft",
+        "Besuch",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Friseursalon",
+      "roles": [
+        "Friseurin",
+        "Kunde im Stuhl",
+        "Nageldesignerin",
+        "Empfangsdame",
+        "Coloristin",
+        "Kind beim Haareschneiden",
+        "Reinigungskraft",
+        "Augenbrauen-Stylistin"
+      ]
+    },
+    {
+      "name": "Café",
+      "roles": [
+        "Barista",
+        "Gast mit Laptop",
+        "Kellnerin",
+        "Studentin mit Lehrbuch",
+        "Betreiber",
+        "Abräumer",
+        "Konditorin",
+        "Stammgast"
+      ]
+    },
+    {
+      "name": "Bibliothek",
+      "roles": [
+        "Bibliothekarin",
+        "Student",
+        "Leser",
+        "Schulkind",
+        "Rentner mit Zeitung",
+        "Reinigungskraft",
+        "Archivar",
+        "Besucher am Computer"
+      ]
+    },
+    {
+      "name": "Buchhandlung",
+      "roles": [
+        "Buchhändlerin",
+        "Kundin",
+        "Kassierer",
+        "Leser beim Blättern",
+        "Lieferant",
+        "Filialleiter",
+        "Kind in der Kinderecke",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Post",
+      "roles": [
+        "Schalterangestellter",
+        "Kundin mit Paket",
+        "Briefträger",
+        "Rentner in der Schlange",
+        "Kurier",
+        "Sortierer",
+        "Wachmann",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Apotheke",
+      "roles": [
+        "Apothekerin",
+        "Kunde mit Rezept",
+        "PTA",
+        "Lieferant",
+        "Mutter mit Kind",
+        "Rentnerin",
+        "Kassierer",
+        "Pharmavertreter"
+      ]
+    },
+    {
+      "name": "Polizeiwache",
+      "roles": [
+        "Polizistin",
+        "Beamter vom Dienst",
+        "Kommissar",
+        "Besucher mit Anzeige",
+        "Anwalt",
+        "Sachbearbeiterin",
+        "Streifenneuling",
+        "Begleitbeamter"
+      ]
+    },
+    {
+      "name": "Einkaufszentrum",
+      "roles": [
+        "Verkäuferin",
+        "Kundin mit Tüten",
+        "Wachmann",
+        "Reinigungskraft",
+        "Jugendlicher am Foodcourt",
+        "Promoter",
+        "Kabinenaufsicht",
+        "Mutter mit Kinderwagen"
+      ]
+    },
+    {
+      "name": "Tankstelle",
+      "roles": [
+        "Tankwart",
+        "Kassiererin",
+        "Autofahrer",
+        "Lkw-Fahrer",
+        "Shop-Verkäufer",
+        "Reinigungskraft",
+        "Scheibenputzer",
+        "Kunde mit Kaffee"
+      ]
+    },
+    {
+      "name": "Gericht",
+      "roles": [
+        "Richterin",
+        "Verteidiger",
+        "Staatsanwältin",
+        "Protokollführer",
+        "Zeuge",
+        "Schöffe",
+        "Gerichtsdiener",
+        "Zuschauer"
+      ]
+    },
+    {
+      "name": "Zahnarztpraxis",
+      "roles": [
+        "Zahnärztin",
+        "Patient im Stuhl",
+        "Zahnarzthelferin",
+        "Empfangsdame",
+        "Kind mit Mutter",
+        "Prophylaxe-Assistentin",
+        "Patient im Wartezimmer",
+        "Kieferorthopäde"
+      ]
+    },
+    {
+      "name": "Büro",
+      "roles": [
+        "Designerin",
+        "Programmierer",
+        "Buchhalterin",
+        "Kurier",
+        "Reinigungskraft",
+        "Mitarbeiter am Telefon",
+        "Praktikant",
+        "Chef"
+      ]
+    },
+    {
+      "name": "Feuerwache",
+      "roles": [
+        "Feuerwehrmann",
+        "Disponentin",
+        "Zugführer",
+        "Fahrer des Löschfahrzeugs",
+        "Anwärter",
+        "Mechaniker",
+        "Wachhabender",
+        "Ausbilder"
+      ]
+    },
+    {
+      "name": "U-Bahn",
+      "roles": [
+        "Fahrerin",
+        "Fahrgast",
+        "Kontrolleur",
+        "Straßenmusiker",
+        "Aufsicht an der Rolltreppe",
+        "Polizist",
+        "Tourist mit Stadtplan",
+        "Fahrgast mit Koffer"
+      ]
+    },
+    {
+      "name": "Blumenladen",
+      "roles": [
+        "Floristin",
+        "Kunde",
+        "Lieferant",
+        "Eventdekorateurin",
+        "Kassiererin",
+        "Mann beim Straußaussuchen",
+        "Großhandelseinkäufer",
+        "Reinigungskraft"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "france",
+  "title": "Frankreich",
+  "locations": [
+    {
+      "name": "Eiffelturm",
+      "roles": [
+        "Tourist",
+        "Stadtführerin",
+        "Souvenirverkäufer",
+        "Fotograf",
+        "Verliebtes Paar",
+        "Straßenkünstler",
+        "Wachmann",
+        "Kellner im Turmrestaurant"
+      ]
+    },
+    {
+      "name": "Louvre",
+      "roles": [
+        "Museumsführerin",
+        "Tourist mit Audioguide",
+        "Saalaufsicht",
+        "Kopistin",
+        "Schulkind auf Klassenfahrt",
+        "Kassierer",
+        "Restaurator",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Côte d’Azur",
+      "roles": [
+        "Strandtourist",
+        "Yachtbesitzer",
+        "Kellner",
+        "Eisverkäufer",
+        "Rettungsschwimmer",
+        "Fotografin",
+        "Millionär im Urlaub",
+        "Musiker"
+      ]
+    },
+    {
+      "name": "Schloss Versailles",
+      "roles": [
+        "Führer",
+        "Tourist",
+        "Gärtner",
+        "Aufseherin",
+        "Schauspieler im Kostüm",
+        "Fotograf",
+        "Kassiererin",
+        "Restauratorin"
+      ]
+    },
+    {
+      "name": "Pariser Café",
+      "roles": [
+        "Kellner",
+        "Dichter mit Notizbuch",
+        "Tourist",
+        "Barista",
+        "Maler",
+        "Verliebtes Paar",
+        "Musikerin",
+        "Stammgast"
+      ]
+    },
+    {
+      "name": "Montmartre",
+      "roles": [
+        "Straßenmaler",
+        "Tourist",
+        "Musiker",
+        "Verkäuferin",
+        "Dichter",
+        "Führer",
+        "Karikaturist",
+        "Kellner"
+      ]
+    },
+    {
+      "name": "Lavendelfelder der Provence",
+      "roles": [
+        "Bauer",
+        "Tourist mit Kamera",
+        "Imker",
+        "Malerin",
+        "Führer",
+        "Lavendelverkäuferin",
+        "Parfümeur",
+        "Radfahrer"
+      ]
+    },
+    {
+      "name": "Loire-Schloss",
+      "roles": [
+        "Führerin",
+        "Tourist",
+        "Aufseher",
+        "Gärtner",
+        "Darsteller in historischem Gewand",
+        "Fotograf",
+        "Kassierer",
+        "Gutsarbeiter"
+      ]
+    },
+    {
+      "name": "Filmfestival in Cannes",
+      "roles": [
+        "Filmstar",
+        "Paparazzo",
+        "Regisseurin",
+        "Fan",
+        "Journalist",
+        "Security",
+        "Stylistin",
+        "Gast mit Einladung"
+      ]
+    },
+    {
+      "name": "Käseladen",
+      "roles": [
+        "Käserin",
+        "Kunde",
+        "Verkoster",
+        "Ladenbesitzer",
+        "Tourist",
+        "Bauer",
+        "Kassiererin",
+        "Feinschmecker"
+      ]
+    },
+    {
+      "name": "Disneyland Paris",
+      "roles": [
+        "Figur im Kostüm",
+        "Kind",
+        "Elternteil",
+        "Fahrgeschäft-Operator",
+        "Verkäufer",
+        "Fotografin",
+        "Tourist",
+        "Kassierer"
+      ]
+    },
+    {
+      "name": "Triumphbogen",
+      "roles": [
+        "Tourist",
+        "Führer",
+        "Fotograf",
+        "Souvenirverkäuferin",
+        "Verkehrspolizist",
+        "Radfahrer",
+        "Brautpaar",
+        "Wachmann"
+      ]
+    },
+    {
+      "name": "Gourmetrestaurant",
+      "roles": [
+        "Küchenchef",
+        "Kellner",
+        "Maître",
+        "Gast beim Date",
+        "Konditor",
+        "Restaurantkritikerin",
+        "Küchenhilfe",
+        "Empfangsdame"
+      ]
+    }
+  ]
+}

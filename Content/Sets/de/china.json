@@ -1,0 +1,149 @@
+{
+  "id": "china",
+  "title": "China",
+  "locations": [
+    {
+      "name": "Chinesische Mauer",
+      "roles": [
+        "Tourist",
+        "Stadtführer",
+        "Souvenirverkäufer",
+        "Fotograf",
+        "Aufseher",
+        "Träger",
+        "Schulkind",
+        "Radfahrer"
+      ]
+    },
+    {
+      "name": "Verbotene Stadt",
+      "roles": [
+        "Führerin",
+        "Tourist",
+        "Aufseher",
+        "Historiker",
+        "Fotograf",
+        "Kassiererin",
+        "Restaurator",
+        "Schulkind auf Klassenfahrt"
+      ]
+    },
+    {
+      "name": "Teeplantage",
+      "roles": [
+        "Teepflückerin",
+        "Bauer",
+        "Verkoster",
+        "Tourist",
+        "Führer",
+        "Verkäufer",
+        "Teemeister",
+        "Packer"
+      ]
+    },
+    {
+      "name": "Panda-Station",
+      "roles": [
+        "Pfleger",
+        "Tourist",
+        "Tierärztin",
+        "Freiwilliger",
+        "Fotograf",
+        "Führer",
+        "Biologe",
+        "Kind"
+      ]
+    },
+    {
+      "name": "Garküchen-Markt",
+      "roles": [
+        "Wok-Koch",
+        "Teigtaschen-Verkäuferin",
+        "Kunde",
+        "Tourist",
+        "Verkoster",
+        "Marktschreier",
+        "Kassierer",
+        "Lieferant"
+      ]
+    },
+    {
+      "name": "Wolkenkratzer in Hongkong",
+      "roles": [
+        "Geschäftsmann",
+        "Tourist",
+        "Stadtführer",
+        "Barista",
+        "Straßenhändler",
+        "Taxifahrer",
+        "Kurier",
+        "Fotografin"
+      ]
+    },
+    {
+      "name": "Teehaus",
+      "roles": [
+        "Teemeister",
+        "Gast",
+        "Kellner",
+        "Musikerin",
+        "Tourist",
+        "Kalligraf",
+        "Besitzer",
+        "Lehrling"
+      ]
+    },
+    {
+      "name": "Shaolin-Kloster",
+      "roles": [
+        "Kampfmönch",
+        "Schüler",
+        "Kung-Fu-Meister",
+        "Tourist",
+        "Führer",
+        "Zuschauer",
+        "Novize",
+        "Mentor"
+      ]
+    },
+    {
+      "name": "Hochgeschwindigkeitszug",
+      "roles": [
+        "Schaffner",
+        "Fahrgast",
+        "Tourist",
+        "Lokführer",
+        "Verkäuferin",
+        "Geschäftsmann",
+        "Reinigungskraft",
+        "Zugbegleiterin"
+      ]
+    },
+    {
+      "name": "Garten in Suzhou",
+      "roles": [
+        "Gärtner",
+        "Tourist",
+        "Führerin",
+        "Maler",
+        "Fotograf",
+        "Aufseher",
+        "Dichter",
+        "Schulkind"
+      ]
+    },
+    {
+      "name": "Pekingenten-Restaurant",
+      "roles": [
+        "Koch",
+        "Kellner",
+        "Gast",
+        "Gastgeberin",
+        "Tourist",
+        "Kassierer",
+        "Ententranchierer",
+        "Stammgast"
+      ]
+    }
+  ]
+}

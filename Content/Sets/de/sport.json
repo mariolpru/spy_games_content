@@ -1,0 +1,266 @@
+{
+  "id": "sport",
+  "title": "Sport",
+  "locations": [
+    {
+      "name": "Fußballstadion",
+      "roles": [
+        "Stürmer",
+        "Torwart",
+        "Schiedsrichter",
+        "Fan",
+        "Kommentator",
+        "Trainer",
+        "Verkäufer auf der Tribüne",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Fitnessstudio",
+      "roles": [
+        "Personal Trainer",
+        "Mann an der Langhantel",
+        "Frau auf dem Laufband",
+        "Empfangskraft",
+        "Neuling",
+        "Kursleiterin",
+        "Reinigungskraft",
+        "Crossfit-Stammgast"
+      ]
+    },
+    {
+      "name": "Schwimmbad",
+      "roles": [
+        "Schwimmer",
+        "Trainerin",
+        "Bademeister",
+        "Kind am Beckenrand",
+        "Schwimmlehrerin",
+        "Aquafitness-Fan",
+        "Startrichter",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Boxring",
+      "roles": [
+        "Boxer",
+        "Trainer in der Ecke",
+        "Ringrichter",
+        "Arzt am Ring",
+        "Fan",
+        "Kommentatorin",
+        "Ringsprecher",
+        "Physiotherapeut"
+      ]
+    },
+    {
+      "name": "Tennisplatz",
+      "roles": [
+        "Tennisspielerin",
+        "Stuhlschiedsrichter",
+        "Balljunge",
+        "Trainer",
+        "Zuschauerin",
+        "Kommentator",
+        "Fotograf",
+        "Sponsor in der Loge"
+      ]
+    },
+    {
+      "name": "Eisbahn",
+      "roles": [
+        "Eiskunstläuferin",
+        "Eishockeyspieler",
+        "Trainer",
+        "Fahrer der Eismaschine",
+        "Kind an der Bande",
+        "Schlittschuhverleiher",
+        "Zuschauerin",
+        "Punktrichter"
+      ]
+    },
+    {
+      "name": "Kletterhalle",
+      "roles": [
+        "Kletterer",
+        "Trainerin",
+        "Sicherungspartner",
+        "Neuling",
+        "Empfangskraft",
+        "Kind an der Wand",
+        "Fotografin",
+        "Routenbauer"
+      ]
+    },
+    {
+      "name": "Marathon",
+      "roles": [
+        "Läuferin",
+        "Helfer an der Wasserstelle",
+        "Zuschauer",
+        "Zielrichterin",
+        "Fotograf",
+        "Sanitäter",
+        "Kommentator",
+        "Tempomacher"
+      ]
+    },
+    {
+      "name": "Golfklub",
+      "roles": [
+        "Golferin",
+        "Caddie",
+        "Trainer",
+        "Empfangskraft",
+        "Zuschauer",
+        "Gast im Klubhaus",
+        "Platzwart",
+        "Schiedsrichterin"
+      ]
+    },
+    {
+      "name": "Radrennbahn",
+      "roles": [
+        "Bahnradfahrer",
+        "Mechanikerin",
+        "Trainer",
+        "Kampfrichter",
+        "Zuschauer",
+        "Kommentatorin",
+        "Teamarzt",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Skigebiet",
+      "roles": [
+        "Skifahrerin",
+        "Snowboarder",
+        "Skilehrer",
+        "Pistenrettung",
+        "Liftwart",
+        "Streckenposten",
+        "Kind im Anfängerhang",
+        "Fotografin"
+      ]
+    },
+    {
+      "name": "Kampfsport-Dojo",
+      "roles": [
+        "Karateka",
+        "Sensei",
+        "Schülerin",
+        "Kampfrichter",
+        "Elternteil auf der Bank",
+        "Dojo-Meister",
+        "Neuling",
+        "Co-Trainerin"
+      ]
+    },
+    {
+      "name": "Rennstrecke",
+      "roles": [
+        "Rennfahrer",
+        "Mechaniker",
+        "Boxencrew-Mitglied",
+        "Sportkommissar",
+        "Kommentator",
+        "Zuschauerin",
+        "Streckenposten",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Skatepark",
+      "roles": [
+        "Skaterin",
+        "BMX-Fahrer",
+        "Neuling",
+        "Zuschauer",
+        "Fotograf",
+        "Getränkeverkäufer",
+        "Kind mit Roller",
+        "Trainerin"
+      ]
+    },
+    {
+      "name": "Schießstand",
+      "roles": [
+        "Schütze",
+        "Ausbilderin",
+        "Standaufsicht",
+        "Zuschauer",
+        "Neuling",
+        "Kassierer",
+        "Büchsenmacher",
+        "Trainer"
+      ]
+    },
+    {
+      "name": "Pferderennbahn",
+      "roles": [
+        "Jockey",
+        "Pferdepflegerin",
+        "Trainer",
+        "Zuschauer",
+        "Kassiererin",
+        "Tierärztin",
+        "Pferdebesitzer",
+        "Kommentator"
+      ]
+    },
+    {
+      "name": "Beachvolleyball",
+      "roles": [
+        "Volleyballspielerin",
+        "Schiedsrichter",
+        "Zuschauer",
+        "Trainerin",
+        "Fotograf",
+        "Getränkeverkäufer",
+        "Kind mit Ball",
+        "Kommentator"
+      ]
+    },
+    {
+      "name": "Trampolinpark",
+      "roles": [
+        "Springerin",
+        "Trainer",
+        "Kind",
+        "Empfangskraft",
+        "Sicherheitsaufsicht",
+        "Elternteil auf der Bank",
+        "Reinigungskraft",
+        "Trainerin für Anfänger"
+      ]
+    },
+    {
+      "name": "Sportinternat",
+      "roles": [
+        "Junger Sportler",
+        "Trainerin",
+        "Elternteil auf der Tribüne",
+        "Hausverwalter",
+        "Krankenschwester",
+        "Direktor",
+        "Älterer Schüler",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Langlaufzentrum",
+      "roles": [
+        "Langläuferin",
+        "Trainer",
+        "Verleihmitarbeiter",
+        "Loipenwart",
+        "Kind auf Skiern",
+        "Fan",
+        "Kampfrichterin",
+        "Fotograf"
+      ]
+    }
+  ]
+}

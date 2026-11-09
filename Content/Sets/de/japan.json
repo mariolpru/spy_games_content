@@ -1,0 +1,188 @@
+{
+  "id": "japan",
+  "title": "Japan",
+  "locations": [
+    {
+      "name": "Fuji",
+      "roles": [
+        "Tourist",
+        "Bergsteiger",
+        "Führerin",
+        "Fotograf",
+        "Pilger",
+        "Verkäufer an der Station",
+        "Wegwart",
+        "Radfahrer"
+      ]
+    },
+    {
+      "name": "Tempel in Kyoto",
+      "roles": [
+        "Mönch",
+        "Tourist",
+        "Führer",
+        "Pilgerin",
+        "Verkäufer von Amuletten",
+        "Fotograf",
+        "Tempelgärtner",
+        "Kalligrafin"
+      ]
+    },
+    {
+      "name": "Shibuya-Kreuzung",
+      "roles": [
+        "Fußgänger",
+        "Tourist",
+        "Verkehrspolizist",
+        "Streamerin mit Kamera",
+        "Geschäftsmann",
+        "Schülerin",
+        "Verkäufer",
+        "Promoter"
+      ]
+    },
+    {
+      "name": "Sushi-Restaurant",
+      "roles": [
+        "Sushi-Meister",
+        "Gast am Tresen",
+        "Kellner",
+        "Tourist",
+        "Koch",
+        "Gastgeberin",
+        "Stammgast",
+        "Küchenlehrling"
+      ]
+    },
+    {
+      "name": "Zen-Steingarten",
+      "roles": [
+        "Mönch",
+        "Tourist",
+        "Gärtner",
+        "Meditierender Gast",
+        "Führerin",
+        "Fotograf",
+        "Maler",
+        "Aufseher"
+      ]
+    },
+    {
+      "name": "Thermalbad",
+      "roles": [
+        "Gast im Handtuch",
+        "Badeaufsicht",
+        "Empfangskraft",
+        "Tourist",
+        "Masseur",
+        "Reinigungskraft",
+        "Gast des Gasthauses",
+        "Älterer Stammgast"
+      ]
+    },
+    {
+      "name": "Teezeremonie",
+      "roles": [
+        "Teemeisterin",
+        "Gast",
+        "Schülerin",
+        "Tourist",
+        "Kalligraf",
+        "Gastgeberin",
+        "Musiker",
+        "Assistent"
+      ]
+    },
+    {
+      "name": "Akihabara",
+      "roles": [
+        "Anime-Fan",
+        "Cosplayerin",
+        "Verkäufer von Figuren",
+        "Tourist",
+        "Gamer",
+        "Promoterin des Maid-Cafés",
+        "Streamer",
+        "Kassierer"
+      ]
+    },
+    {
+      "name": "Kirschblüten-Picknick",
+      "roles": [
+        "Tourist",
+        "Familie beim Picknick",
+        "Fotograf",
+        "Dango-Verkäuferin",
+        "Musiker",
+        "Schulkind",
+        "Malerin",
+        "Paar unter einem Baum"
+      ]
+    },
+    {
+      "name": "Samurai-Burg",
+      "roles": [
+        "Führer",
+        "Tourist",
+        "Schauspieler als Samurai",
+        "Aufseherin",
+        "Darsteller in historischer Rüstung",
+        "Fotograf",
+        "Kassierer",
+        "Historiker"
+      ]
+    },
+    {
+      "name": "Fischmarkt",
+      "roles": [
+        "Fischhändler",
+        "Koch",
+        "Einkäufer",
+        "Auktionator",
+        "Tourist",
+        "Träger",
+        "Sushi-Meister",
+        "Verkosterin"
+      ]
+    },
+    {
+      "name": "Shinkansen",
+      "roles": [
+        "Schaffner",
+        "Geschäftsreisender",
+        "Tourist",
+        "Lokführer",
+        "Bento-Verkäuferin",
+        "Schulkind",
+        "Reinigungskraft",
+        "Zugbegleiter"
+      ]
+    },
+    {
+      "name": "Kabuki-Theater",
+      "roles": [
+        "Schauspieler",
+        "Zuschauerin",
+        "Maskenbildner",
+        "Musiker",
+        "Platzanweiser",
+        "Kostümbildnerin",
+        "Souffleur",
+        "Führer"
+      ]
+    },
+    {
+      "name": "Kapselhotel",
+      "roles": [
+        "Empfangskraft",
+        "Übernachtungsgast",
+        "Geschäftsmann",
+        "Tourist",
+        "Reinigungskraft",
+        "Nachtportier",
+        "Kapselnachbar",
+        "Lieferant"
+      ]
+    }
+  ]
+}

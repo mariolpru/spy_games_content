@@ -1,0 +1,227 @@
+{
+  "id": "leisure",
+  "title": "Freizeit",
+  "locations": [
+    {
+      "name": "Stadtpark",
+      "roles": [
+        "Jogger",
+        "Radfahrerin",
+        "Mutter mit Kinderwagen",
+        "Eisverkäufer",
+        "Straßenmusiker",
+        "Rentner auf der Bank",
+        "Hundebesitzer",
+        "Bootsverleiher am Teich"
+      ]
+    },
+    {
+      "name": "Brettspiel-Café",
+      "roles": [
+        "Gast am Spieltisch",
+        "Gastgeber",
+        "Barista",
+        "Freiberufler mit Laptop",
+        "Freundesgruppe",
+        "Erstbesucherin",
+        "Reinigungskraft",
+        "Spielerklärer"
+      ]
+    },
+    {
+      "name": "Billardsalon",
+      "roles": [
+        "Spieler",
+        "Punktezähler",
+        "Kassiererin",
+        "Zuschauer",
+        "Neuling",
+        "Stammgast",
+        "Kellner",
+        "Betreiber"
+      ]
+    },
+    {
+      "name": "Angelausflug",
+      "roles": [
+        "Angler",
+        "Nachbar am Ufer",
+        "Camper mit Zelt",
+        "Kind mit Rute",
+        "Köderverkäufer",
+        "Bootsmann",
+        "Pilzsammlerin",
+        "Urlauber"
+      ]
+    },
+    {
+      "name": "Sauna",
+      "roles": [
+        "Saunagast",
+        "Aufgussmeister",
+        "Dampf-Liebhaberin",
+        "Gast im Ruheraum",
+        "Empfangskraft",
+        "Freundesgruppe",
+        "Masseur",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Töpferwerkstatt",
+      "roles": [
+        "Töpferin",
+        "Lehrling",
+        "Kursleiter",
+        "Neuling",
+        "Empfangskraft",
+        "Zuschauer im Workshop",
+        "Reinigungskraft",
+        "Glasurmischer"
+      ]
+    },
+    {
+      "name": "Wochenendhaus",
+      "roles": [
+        "Gastgeber am Grill",
+        "Gast",
+        "Kind in der Hängematte",
+        "Gärtnerin",
+        "Nachbar über den Zaun",
+        "Grillmeister",
+        "Poolreiniger",
+        "Urlauberin"
+      ]
+    },
+    {
+      "name": "Picknick",
+      "roles": [
+        "Gruppe auf der Decke",
+        "Grillmeisterin",
+        "Kind mit Ball",
+        "Gitarrist",
+        "Dösender in der Hängematte",
+        "Radfahrer",
+        "Hundebesitzerin",
+        "Eisverkäufer"
+      ]
+    },
+    {
+      "name": "Lesekreis",
+      "roles": [
+        "Gastgeberin",
+        "Mitglied mit Buch",
+        "Neuling",
+        "Barista",
+        "Zuhörer",
+        "Eingeladener Autor",
+        "Organisatorin",
+        "Der, der immer widerspricht"
+      ]
+    },
+    {
+      "name": "Yogastudio",
+      "roles": [
+        "Kursleiterin",
+        "Neuling",
+        "Stammgast",
+        "Empfangskraft",
+        "Gast in der Probestunde",
+        "Meditationsfan",
+        "Reinigungskraft",
+        "Zuspätkommer"
+      ]
+    },
+    {
+      "name": "Botanischer Garten",
+      "roles": [
+        "Gärtner",
+        "Führerin",
+        "Besucher mit Kamera",
+        "Kind",
+        "Botanikerin",
+        "Kassierer",
+        "Künstler mit Staffelei",
+        "Verliebtes Paar"
+      ]
+    },
+    {
+      "name": "Planetarium",
+      "roles": [
+        "Vortragender",
+        "Zuschauerin",
+        "Schulkind auf Klassenfahrt",
+        "Operator der Kuppelprojektion",
+        "Kassiererin",
+        "Astronom als Berater",
+        "Kind mit Elternteil",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Schachklub",
+      "roles": [
+        "Schachspieler",
+        "Trainer",
+        "Anfängerin",
+        "Zuschauer",
+        "Schiedsrichter",
+        "Großmeister",
+        "Kind im Kurs",
+        "Stammgast"
+      ]
+    },
+    {
+      "name": "Malatelier",
+      "roles": [
+        "Malerin",
+        "Kursleiter",
+        "Modell",
+        "Anfänger",
+        "Zuschauerin",
+        "Empfangskraft",
+        "Reinigungskraft",
+        "Aquarell-Liebhaber"
+      ]
+    },
+    {
+      "name": "Kletterparcours",
+      "roles": [
+        "Trainer",
+        "Teilnehmerin am Parcours",
+        "Kind",
+        "Sicherungsmann",
+        "Zuschauender Elternteil",
+        "Neuling",
+        "Fotograf",
+        "Betreiberin"
+      ]
+    },
+    {
+      "name": "Kochkurs",
+      "roles": [
+        "Küchenchef als Gastgeber",
+        "Teilnehmerin",
+        "Assistent",
+        "Verkoster",
+        "Neuling",
+        "Zuschauer",
+        "Organisatorin",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Tanzstudio",
+      "roles": [
+        "Choreografin",
+        "Schüler",
+        "Anfängerin",
+        "Begleitpianist",
+        "Zuschauer",
+        "Empfangskraft",
+        "Tanzpartner",
+        "Zuspätkommerin"
+      ]
+    }
+  ]
+}

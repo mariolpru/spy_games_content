@@ -1,0 +1,188 @@
+{
+  "id": "entertainment",
+  "title": "Unterhaltung",
+  "locations": [
+    {
+      "name": "Club",
+      "roles": [
+        "DJ",
+        "Kellner",
+        "Tänzerin",
+        "Türsteher",
+        "VIP-Gast",
+        "Promoterin",
+        "Kellnerin",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Theater",
+      "roles": [
+        "Schauspieler",
+        "Platzanweiserin",
+        "Zuschauer in der ersten Reihe",
+        "Souffleuse",
+        "Maskenbildner",
+        "Dirigent",
+        "Garderobenfrau",
+        "Lichttechniker"
+      ]
+    },
+    {
+      "name": "Konzert",
+      "roles": [
+        "Musiker",
+        "Fan in der ersten Reihe",
+        "Tontechniker",
+        "Bühnensicherheit",
+        "Merch-Verkäuferin",
+        "Kameramann",
+        "Zuschauer mit Ticket",
+        "Backgroundsängerin"
+      ]
+    },
+    {
+      "name": "Zirkus",
+      "roles": [
+        "Clown",
+        "Dompteur",
+        "Akrobatin",
+        "Elternteil mit Kind",
+        "Platzanweiser",
+        "Zauberer",
+        "Zuckerwatte-Verkäuferin",
+        "Jongleur"
+      ]
+    },
+    {
+      "name": "Comedy-Club",
+      "roles": [
+        "Comedian",
+        "Moderator",
+        "Zuschauerin am Tisch",
+        "Einlasshostess",
+        "Kellner",
+        "Tontechniker",
+        "Betreiber",
+        "Gast in der ersten Reihe"
+      ]
+    },
+    {
+      "name": "Bowlingbahn",
+      "roles": [
+        "Spieler",
+        "Schuhausgabe",
+        "Kassiererin",
+        "Freundesgruppe",
+        "Empfangskraft",
+        "Kind auf der Bahn",
+        "Kellner",
+        "Reinigungskraft"
+      ]
+    },
+    {
+      "name": "Karaoke",
+      "roles": [
+        "Singender Gast",
+        "Moderatorin",
+        "Kassierer",
+        "Kellner",
+        "Tontechniker",
+        "Gruppe auf dem Sofa",
+        "Empfangskraft",
+        "Schüchterner Gast"
+      ]
+    },
+    {
+      "name": "Opernhaus",
+      "roles": [
+        "Opernsängerin",
+        "Dirigent",
+        "Gast in der Loge",
+        "Platzanweiser",
+        "Garderobenfrau",
+        "Orchestermusiker",
+        "Maskenbildnerin",
+        "Chef vom Dienst"
+      ]
+    },
+    {
+      "name": "Kaffeehaus",
+      "roles": [
+        "Barista",
+        "Kellner",
+        "Konditorin",
+        "Stammgast",
+        "Abräumer",
+        "Kassiererin",
+        "Gast mit Laptop",
+        "Betreiberin"
+      ]
+    },
+    {
+      "name": "Escape Room",
+      "roles": [
+        "Schauspieler im Raum",
+        "Spielerin",
+        "Operator",
+        "Empfangskraft",
+        "Freundesgruppe",
+        "Spielleiter",
+        "Beobachter im Leitstand",
+        "Neuling"
+      ]
+    },
+    {
+      "name": "Musikfestival",
+      "roles": [
+        "Musiker auf der Bühne",
+        "Zuschauerin mit Decke",
+        "Imbissverkäufer",
+        "Helferin",
+        "Tontechniker",
+        "Security",
+        "Feiernder mit Fahne",
+        "Fotograf"
+      ]
+    },
+    {
+      "name": "Tanzparty",
+      "roles": [
+        "DJ",
+        "Tanzender Gast",
+        "Kellnerin",
+        "Lichttechniker",
+        "Türsteher",
+        "Promoter",
+        "Freundesgruppe",
+        "Gast auf der Tanzfläche"
+      ]
+    },
+    {
+      "name": "Kino",
+      "roles": [
+        "Zuschauer mit Popcorn",
+        "Platzanweiserin",
+        "Kassierer",
+        "Vorführer",
+        "Paar beim Date",
+        "Verkäuferin am Kiosk",
+        "Reinigungskraft",
+        "Zuspätkommer"
+      ]
+    },
+    {
+      "name": "Eisshow",
+      "roles": [
+        "Eiskunstläuferin",
+        "Zuschauer",
+        "Moderator",
+        "Lichttechniker",
+        "Kostümbildnerin",
+        "Platzanweiser",
+        "Tontechniker",
+        "Kind im Publikum"
+      ]
+    }
+  ]
+}
