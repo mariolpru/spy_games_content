@@ -1,0 +1,431 @@
+{
+  "id": "christmas",
+  "title": "Christmas",
+  "locations": [
+    {
+      "name": "Santa's workshop",
+      "roles": [
+        "Santa Claus",
+        "Mrs. Claus",
+        "Head elf",
+        "Carpenter elf",
+        "Painter elf",
+        "Wrapping elf",
+        "Mechanic elf",
+        "Storekeeper",
+        "Cook",
+        "Sled driver",
+        "Reindeer",
+        "Mail carrier"
+      ]
+    },
+    {
+      "name": "Santa's mailroom",
+      "roles": [
+        "Letter sorter",
+        "Shift manager",
+        "Courier",
+        "Translator",
+        "Elf secretary",
+        "Santa Claus",
+        "Van driver",
+        "Child",
+        "Mom",
+        "Journalist",
+        "Volunteer",
+        "Security guard"
+      ]
+    },
+    {
+      "name": "North Pole",
+      "roles": [
+        "Polar explorer",
+        "Scientist",
+        "Meteorologist",
+        "Helicopter pilot",
+        "Photographer",
+        "Tourist",
+        "Cook",
+        "Radio operator",
+        "Dog handler",
+        "Polar bear",
+        "Santa Claus",
+        "Journalist"
+      ]
+    },
+    {
+      "name": "Christmas market",
+      "roles": [
+        "Gingerbread seller",
+        "Toy seller",
+        "Candle maker",
+        "Organ grinder",
+        "Street musician",
+        "Tourist",
+        "Family",
+        "Entertainer",
+        "Security guard",
+        "Photographer",
+        "Elderly couple",
+        "Chestnut seller"
+      ]
+    },
+    {
+      "name": "Tree lot",
+      "roles": [
+        "Tree seller",
+        "Loader",
+        "Truck driver",
+        "Forester",
+        "Cashier",
+        "Night watchman",
+        "Family",
+        "Dad",
+        "Retiree",
+        "Student",
+        "Interior designer",
+        "Blogger"
+      ]
+    },
+    {
+      "name": "Ice rink",
+      "roles": [
+        "Instructor",
+        "Hockey player",
+        "Figure skater",
+        "Zamboni driver",
+        "Skate rental",
+        "DJ",
+        "Security guard",
+        "Couple in love",
+        "Child",
+        "Mom",
+        "Cocoa seller",
+        "Medic"
+      ]
+    },
+    {
+      "name": "Ice slide",
+      "roles": [
+        "Toddler",
+        "Dad",
+        "Grandma",
+        "Teenager",
+        "Lifeguard",
+        "Sled rental",
+        "Janitor",
+        "Photographer",
+        "Dog",
+        "Mom",
+        "Schoolkid",
+        "Blogger"
+      ]
+    },
+    {
+      "name": "Ski resort",
+      "roles": [
+        "Ski instructor",
+        "Ski patrol",
+        "Lift operator",
+        "Snowcat driver",
+        "Snowboarder",
+        "Skier",
+        "Tourist",
+        "Child",
+        "Rental clerk",
+        "Cook",
+        "Receptionist",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Ice hotel",
+      "roles": [
+        "Receptionist",
+        "Ice sculptor",
+        "Housekeeper",
+        "Guide",
+        "Cook",
+        "Security guard",
+        "Newlyweds",
+        "Tourist",
+        "Photographer",
+        "Blogger",
+        "Family",
+        "Snowmobile driver"
+      ]
+    },
+    {
+      "name": "Pastry shop",
+      "roles": [
+        "Dessert chef",
+        "Baker",
+        "Shop assistant",
+        "Cashier",
+        "Courier",
+        "Cleaner",
+        "Customer",
+        "Child",
+        "Grandma",
+        "Student",
+        "Food photographer",
+        "Sweet tooth"
+      ]
+    },
+    {
+      "name": "Cooking class",
+      "roles": [
+        "Chef",
+        "Assistant cook",
+        "Host",
+        "Dishwasher",
+        "Photographer",
+        "Child",
+        "Mom",
+        "Dad",
+        "Best friends",
+        "Blogger",
+        "Retiree",
+        "Couple in love"
+      ]
+    },
+    {
+      "name": "Restaurant",
+      "roles": [
+        "Waiter",
+        "Chef",
+        "Host",
+        "Pianist",
+        "Coat check",
+        "Dishwasher",
+        "Family",
+        "Grandma",
+        "Couple in love",
+        "Businessman",
+        "Child",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Living room",
+      "roles": [
+        "Dad",
+        "Mom",
+        "Grandma",
+        "Grandpa",
+        "Child",
+        "Teenager",
+        "Aunt",
+        "Cat",
+        "Dog",
+        "Guest",
+        "Santa Claus",
+        "Chimney sweep"
+      ]
+    },
+    {
+      "name": "Toy store",
+      "roles": [
+        "Salesperson",
+        "Cashier",
+        "Consultant",
+        "Security guard",
+        "Stock clerk",
+        "Dad",
+        "Grandma",
+        "Child",
+        "Twins",
+        "Courier",
+        "Entertainer",
+        "Manager"
+      ]
+    },
+    {
+      "name": "Toy factory",
+      "roles": [
+        "Worker",
+        "Engineer",
+        "Shift supervisor",
+        "Designer",
+        "Packer",
+        "Painter",
+        "Forklift driver",
+        "Storekeeper",
+        "Tour guide",
+        "Schoolkid",
+        "Director",
+        "Cleaner"
+      ]
+    },
+    {
+      "name": "Glassblowing studio",
+      "roles": [
+        "Engraver",
+        "Painter",
+        "Apprentice",
+        "Master craftsman",
+        "Shop assistant",
+        "Tour guide",
+        "Tourist",
+        "Child",
+        "Collector",
+        "Photographer",
+        "Retiree",
+        "Courier"
+      ]
+    },
+    {
+      "name": "Toy museum",
+      "roles": [
+        "Tour guide",
+        "Attendant",
+        "Cashier",
+        "Restorer",
+        "Director",
+        "Security guard",
+        "Schoolkid",
+        "Teacher",
+        "Collector",
+        "Tourist",
+        "Grandma",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Shopping mall",
+      "roles": [
+        "Security guard",
+        "Cleaner",
+        "Salesperson",
+        "Entertainer",
+        "Santa Claus",
+        "Elf photographer",
+        "Courier",
+        "Shopper",
+        "Teenager",
+        "Family",
+        "Retiree",
+        "Manager"
+      ]
+    },
+    {
+      "name": "Supermarket",
+      "roles": [
+        "Cashier",
+        "Security guard",
+        "Stock clerk",
+        "Merchandiser",
+        "Baker",
+        "Manager",
+        "Shopper",
+        "Dad",
+        "Child",
+        "Retiree",
+        "Student",
+        "Courier"
+      ]
+    },
+    {
+      "name": "Airport",
+      "roles": [
+        "Pilot",
+        "Flight attendant",
+        "Air traffic controller",
+        "Border officer",
+        "Porter",
+        "Taxi driver",
+        "Student",
+        "Family",
+        "Businessman",
+        "Tourist",
+        "Grandma",
+        "Security screener"
+      ]
+    },
+    {
+      "name": "Airplane",
+      "roles": [
+        "Captain",
+        "First officer",
+        "Flight attendant",
+        "Purser",
+        "Passenger",
+        "Child",
+        "Young mom",
+        "Businessman",
+        "Tourist",
+        "Student",
+        "Athlete",
+        "Retiree"
+      ]
+    },
+    {
+      "name": "Hotel",
+      "roles": [
+        "Concierge",
+        "Receptionist",
+        "Housekeeper",
+        "Cook",
+        "Doorman",
+        "Bellhop",
+        "Tourist",
+        "Family",
+        "Businessman",
+        "Newlyweds",
+        "Musician",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Theater",
+      "roles": [
+        "Ballerina",
+        "Conductor",
+        "Coat check",
+        "Usher",
+        "Costume designer",
+        "Lighting tech",
+        "Actor",
+        "Little girl",
+        "Grandma",
+        "Dad",
+        "Critic",
+        "Schoolkid"
+      ]
+    },
+    {
+      "name": "Circus",
+      "roles": [
+        "Clown",
+        "Acrobat",
+        "Animal trainer",
+        "Juggler",
+        "Magician",
+        "Ringmaster",
+        "Ticket taker",
+        "Candy seller",
+        "Child",
+        "Dad",
+        "Grandma",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Cathedral",
+      "roles": [
+        "Priest",
+        "Choir singer",
+        "Organist",
+        "Bell ringer",
+        "Verger",
+        "Tour guide",
+        "Tourist",
+        "Family",
+        "Grandma",
+        "Child",
+        "Photographer",
+        "Restorer"
+      ]
+    }
+  ]
+}
