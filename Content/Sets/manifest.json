@@ -14,6 +14,12 @@
       "version": 1
     },
     {
+      "id": "christmas",
+      "lang": "en",
+      "file": "en/christmas.json",
+      "version": 1
+    },
+    {
       "id": "city",
       "lang": "en",
       "file": "en/city.json",
@@ -65,6 +71,12 @@
       "id": "leisure",
       "lang": "en",
       "file": "en/leisure.json",
+      "version": 1
+    },
+    {
+      "id": "new-year",
+      "lang": "en",
+      "file": "en/new-year.json",
       "version": 1
     },
     {
@@ -134,6 +146,12 @@
       "version": 1
     },
     {
+      "id": "christmas",
+      "lang": "ru",
+      "file": "ru/christmas.json",
+      "version": 1
+    },
+    {
       "id": "city",
       "lang": "ru",
       "file": "ru/city.json",
@@ -197,6 +215,12 @@
       "id": "na-rayone",
       "lang": "ru",
       "file": "ru/na-rayone.json",
+      "version": 1
+    },
+    {
+      "id": "new-year",
+      "lang": "ru",
+      "file": "ru/new-year.json",
       "version": 1
     },
     {

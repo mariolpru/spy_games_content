@@ -1,0 +1,414 @@
+{
+  "id": "new-year",
+  "title": "New Year",
+  "locations": [
+    {
+      "name": "Tree lot",
+      "roles": [
+        "Tree seller",
+        "Loader",
+        "Driver",
+        "Night watchman",
+        "Cashier",
+        "Forester",
+        "Family",
+        "Dad",
+        "Grandma",
+        "Student",
+        "Child",
+        "Retiree"
+      ]
+    },
+    {
+      "name": "Rooftop",
+      "roles": [
+        "Host",
+        "Guest",
+        "Neighbor",
+        "Building manager",
+        "Teenager",
+        "Dad",
+        "Mom",
+        "Grandma",
+        "Photographer",
+        "Musician",
+        "Couple in love",
+        "Security guard"
+      ]
+    },
+    {
+      "name": "Office party",
+      "roles": [
+        "Host",
+        "DJ",
+        "Boss",
+        "Accountant",
+        "Programmer",
+        "Office manager",
+        "HR manager",
+        "Waiter",
+        "Security guard",
+        "Photographer",
+        "Courier",
+        "Sales manager"
+      ]
+    },
+    {
+      "name": "Masquerade ball",
+      "roles": [
+        "Master of ceremonies",
+        "Musician",
+        "Conductor",
+        "Waiter",
+        "Photographer",
+        "Coat check",
+        "Princess",
+        "Pirate",
+        "Musketeer",
+        "Queen",
+        "Stargazer",
+        "Choreographer"
+      ]
+    },
+    {
+      "name": "Sydney Harbour",
+      "roles": [
+        "Ferry captain",
+        "Lifeguard",
+        "Police officer",
+        "Tourist",
+        "Photographer",
+        "Pyrotechnician",
+        "Street vendor",
+        "TV reporter",
+        "Backpacker",
+        "Family",
+        "Kayaker",
+        "Park ranger"
+      ]
+    },
+    {
+      "name": "Big Ben",
+      "roles": [
+        "Police officer",
+        "Tourist",
+        "Tour guide",
+        "TV camera operator",
+        "Souvenir seller",
+        "Couple in love",
+        "Student",
+        "Family",
+        "Street sweeper",
+        "Photographer",
+        "Retiree",
+        "Blogger"
+      ]
+    },
+    {
+      "name": "Concert hall",
+      "roles": [
+        "Conductor",
+        "Violinist",
+        "Pianist",
+        "Usher",
+        "Coat check",
+        "Sound engineer",
+        "Soloist",
+        "Critic",
+        "Grandma",
+        "Schoolkid",
+        "Photographer",
+        "Security guard"
+      ]
+    },
+    {
+      "name": "Living room",
+      "roles": [
+        "Dad",
+        "Mom",
+        "Grandma",
+        "Grandpa",
+        "Aunt",
+        "Uncle",
+        "Child",
+        "Teenager",
+        "Cat",
+        "Dog",
+        "Neighbor",
+        "Guest"
+      ]
+    },
+    {
+      "name": "Balcony",
+      "roles": [
+        "Dad",
+        "Mom",
+        "Son",
+        "Daughter",
+        "Grandpa",
+        "Grandma",
+        "Teenager",
+        "Upstairs neighbor",
+        "Downstairs neighbor",
+        "Cat",
+        "Photographer",
+        "Guest"
+      ]
+    },
+    {
+      "name": "Courtyard",
+      "roles": [
+        "Building manager",
+        "Dad",
+        "Mom",
+        "Child",
+        "Teenager",
+        "Neighbor",
+        "Retiree",
+        "Dog walker",
+        "Taxi driver",
+        "Courier",
+        "Police officer",
+        "Santa Claus"
+      ]
+    },
+    {
+      "name": "Market",
+      "roles": [
+        "Fruit seller",
+        "Fishmonger",
+        "Butcher",
+        "Loader",
+        "Night watchman",
+        "Baker",
+        "Shopper",
+        "Grandma",
+        "Cook",
+        "Student",
+        "Retiree",
+        "Mom"
+      ]
+    },
+    {
+      "name": "Beauty salon",
+      "roles": [
+        "Hairdresser",
+        "Manicurist",
+        "Makeup artist",
+        "Receptionist",
+        "Cleaner",
+        "Stylist",
+        "Client",
+        "Bride",
+        "Mom",
+        "Teenager",
+        "Grandma",
+        "Courier"
+      ]
+    },
+    {
+      "name": "Fireworks store",
+      "roles": [
+        "Salesperson",
+        "Pyrotechnician",
+        "Cashier",
+        "Security guard",
+        "Loader",
+        "Dad",
+        "Teenager",
+        "Grandpa",
+        "Student",
+        "Owner",
+        "Courier",
+        "Firefighter"
+      ]
+    },
+    {
+      "name": "Souvenir shop",
+      "roles": [
+        "Salesperson",
+        "Craftsman",
+        "Painter",
+        "Cashier",
+        "Tourist",
+        "Shopper",
+        "Child",
+        "Grandma",
+        "Student",
+        "Collector",
+        "Courier",
+        "Photographer"
+      ]
+    },
+    {
+      "name": "Chocolate factory",
+      "roles": [
+        "Chocolatier",
+        "Food technologist",
+        "Baker",
+        "Packer",
+        "Shift supervisor",
+        "Storekeeper",
+        "Driver",
+        "Cleaner",
+        "Taster",
+        "Apprentice",
+        "Director",
+        "Courier"
+      ]
+    },
+    {
+      "name": "Toy factory",
+      "roles": [
+        "Worker",
+        "Glassblower",
+        "Painter",
+        "Engineer",
+        "Shift supervisor",
+        "Packer",
+        "Storekeeper",
+        "Forklift driver",
+        "Tour guide",
+        "Schoolkid",
+        "Director",
+        "Cleaner"
+      ]
+    },
+    {
+      "name": "Winter camp",
+      "roles": [
+        "Camp counselor",
+        "Director",
+        "Cook",
+        "Nurse",
+        "PE teacher",
+        "Night watchman",
+        "Schoolboy",
+        "Schoolgirl",
+        "Entertainer",
+        "Santa Claus",
+        "Instructor",
+        "Parent"
+      ]
+    },
+    {
+      "name": "Snowy forest",
+      "roles": [
+        "Forester",
+        "Skier",
+        "Hiker",
+        "Photographer",
+        "Birdwatcher",
+        "Family",
+        "Child",
+        "Dog",
+        "Squirrel",
+        "Santa Claus",
+        "Snowmobile driver",
+        "Retiree"
+      ]
+    },
+    {
+      "name": "Ice rink",
+      "roles": [
+        "Instructor",
+        "Hockey player",
+        "Figure skater",
+        "Zamboni driver",
+        "Skate rental",
+        "DJ",
+        "Security guard",
+        "Couple in love",
+        "Schoolkid",
+        "Grandma",
+        "Cocoa seller",
+        "Medic"
+      ]
+    },
+    {
+      "name": "Ice sculpture park",
+      "roles": [
+        "Ice sculptor",
+        "Security guard",
+        "Entertainer",
+        "Santa Claus",
+        "Cocoa seller",
+        "Photographer",
+        "Child",
+        "Mom",
+        "Teenager",
+        "Tourist",
+        "Janitor",
+        "Electrician"
+      ]
+    },
+    {
+      "name": "Sledding hill",
+      "roles": [
+        "Toddler",
+        "Dad",
+        "Mom",
+        "Grandma",
+        "Teenager",
+        "Schoolkid",
+        "Lifeguard",
+        "Sled rental",
+        "Janitor",
+        "Dog",
+        "Photographer",
+        "Blogger"
+      ]
+    },
+    {
+      "name": "Ski lodge",
+      "roles": [
+        "Instructor",
+        "Rental clerk",
+        "Coach",
+        "Ski technician",
+        "Athlete",
+        "Skier",
+        "Schoolkid",
+        "Retiree",
+        "Family",
+        "Cook",
+        "Night watchman",
+        "Medic"
+      ]
+    },
+    {
+      "name": "TV studio",
+      "roles": [
+        "Host",
+        "Pop star",
+        "Camera operator",
+        "Director",
+        "Makeup artist",
+        "Sound engineer",
+        "Costume designer",
+        "Audience member",
+        "Dancer",
+        "Producer",
+        "Lighting tech",
+        "Floor manager"
+      ]
+    },
+    {
+      "name": "Times Square",
+      "roles": [
+        "Police officer",
+        "Tourist",
+        "Host",
+        "TV camera operator",
+        "Street vendor",
+        "Couple in love",
+        "Student",
+        "Musician",
+        "Photographer",
+        "Blogger",
+        "Street sweeper",
+        "Family"
+      ]
+    }
+  ]
+}
