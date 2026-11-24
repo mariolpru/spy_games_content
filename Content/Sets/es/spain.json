@@ -3,15 +3,15 @@
   "title": "España de cada día",
   "locations": [
     {
-      "name": "Bar de barrio",
+      "name": "Cafetería de barrio",
       "roles": [
         "Camarero",
-        "Cliente de la barra",
+        "Cliente del mostrador",
         "Cocinera de la cocina",
         "Jubilado con el periódico",
         "Repartidor",
         "Vecino que viene a desayunar",
-        "Dueño del bar",
+        "Dueño de la cafetería",
         "Niño con un bocadillo"
       ]
     },
@@ -75,7 +75,7 @@
         "Pareja cenando",
         "Niño con la bici",
         "Músico ambulante",
-        "Dueño del bar",
+        "Dueño del local",
         "Cliente con el abanico",
         "Camarero recogiendo mesas"
       ]
