@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "sets": [
     {
       "id": "capitals",
@@ -47,7 +47,7 @@
       "id": "germany",
       "lang": "en",
       "file": "en/germany.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "halloween",
@@ -137,7 +137,7 @@
       "id": "capitals",
       "lang": "ru",
       "file": "ru/capitals.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "china",
@@ -161,7 +161,7 @@
       "id": "entertainment",
       "lang": "ru",
       "file": "ru/entertainment.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "fantasy",
@@ -179,7 +179,7 @@
       "id": "germany",
       "lang": "ru",
       "file": "ru/germany.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "halloween",
@@ -215,7 +215,7 @@
       "id": "na-rayone",
       "lang": "ru",
       "file": "ru/na-rayone.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "new-year",
@@ -245,7 +245,7 @@
       "id": "sport",
       "lang": "ru",
       "file": "ru/sport.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "travel",
@@ -311,7 +311,7 @@
       "id": "germany",
       "lang": "es",
       "file": "es/germany.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "halloween",
@@ -365,7 +365,7 @@
       "id": "spain",
       "lang": "es",
       "file": "es/spain.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "sport",
@@ -395,7 +395,7 @@
       "id": "capitals",
       "lang": "de",
       "file": "de/capitals.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "china",
@@ -551,7 +551,7 @@
       "id": "germany",
       "lang": "fr",
       "file": "fr/germany.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "halloween",
@@ -575,7 +575,7 @@
       "id": "belgium-switzerland-quebec",
       "lang": "fr",
       "file": "fr/belgium-switzerland-quebec.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "leisure",
@@ -587,7 +587,7 @@
       "id": "paris-everyday",
       "lang": "fr",
       "file": "fr/paris-everyday.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "school-year",
@@ -647,7 +647,7 @@
       "id": "city",
       "lang": "it",
       "file": "it/city.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "entertainment",
@@ -671,7 +671,7 @@
       "id": "germany",
       "lang": "it",
       "file": "it/germany.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "halloween",
@@ -683,7 +683,7 @@
       "id": "italy",
       "lang": "it",
       "file": "it/italy.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "japan",
@@ -707,7 +707,7 @@
       "id": "milano-everyday",
       "lang": "it",
       "file": "it/milano-everyday.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "school-year",
@@ -803,7 +803,7 @@
       "id": "germany",
       "lang": "pt-BR",
       "file": "pt-BR/germany.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "halloween",
@@ -911,7 +911,7 @@
       "id": "germany",
       "lang": "ja",
       "file": "ja/germany.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "halloween",
@@ -1031,7 +1031,7 @@
       "id": "germany",
       "lang": "el",
       "file": "el/germany.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "greece",
